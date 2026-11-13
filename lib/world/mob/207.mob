@@ -1,0 +1,403 @@
+#20700
+flies swarm fly~
+a swarm of plague flies~
+A swarm of fat grey flies boils toward you.
+~
+Each fly is the size of a thumb, and each carries the greyblight.
+~
+dfg 0 -800 E
+66 4 2 16d10+423 7d6+12
+978 52282
+8 8 0
+BareHandAttack: 1
+E
+#20701
+walker plague~
+a plague walker~
+A plague walker in grey rags rings a small bell, singing.
+~
+A citizen of Vel'Morrow, changed. It sings the Choir's note and it wants you
+to sing too.
+~
+dfg 0 -900 E
+67 4 2 16d10+431 7d6+12
+1002 53878
+8 8 0
+BareHandAttack: 0
+E
+#20702
+cart corpse~
+a corpse-cart~
+A corpse-cart drawn by grey men creaks toward the pit.
+~
+The cart and the men who pull it have grown together into one thing.
+~
+dfg 0 -900 E
+68 3 2 17d10+1221 7d13+23
+1368 166474
+8 8 0
+BareHandAttack: 6
+E
+#20703
+mass pit dead~
+the heaving pit mass~
+The grey mass of the dead in the plague pit heaves and reaches for you with a hundred arms.
+~
+Thousands of the dead of Vel'Morrow, run together into one breathing thing.
+~
+dbf 0 -1000 E
+72 2 1 18d10+4564 8d18+38
+2810 622090
+8 8 0
+BareHandAttack: 8
+E
+#20704
+doctor plague physician~
+a plague doctor~
+A plague doctor in a beaked mask raises a syringe of grey fluid.
+~
+Still trying to cure the sick. The cure is the disease now, and he does not
+know it.
+~
+dfg 0 -800 E
+68 3 2 17d10+1221 7d13+23
+1368 166474
+8 8 1
+BareHandAttack: 0
+E
+#20705
+sleeper grey~
+a grey sleeper~
+A grey sleeper sits up in its bed and opens black eyes.
+~
+Half changed, waking hungry.
+~
+dfg 0 -800 E
+66 4 2 16d10+423 7d6+12
+978 52282
+8 8 0
+BareHandAttack: 8
+E
+#20706
+merchant grey~
+a grey merchant~
+A grey merchant holds out a jar of whispering grain.
+~
+He sells what the Choir wants spread. His prices are very reasonable.
+~
+dfg 0 -800 E
+67 4 2 16d10+431 7d6+12
+1002 53878
+8 8 0
+BareHandAttack: 0
+E
+#20707
+tailor flesh~
+the Flesh Tailor~
+The Flesh Tailor looks up from her work, needle in hand, and smiles.
+~
+Vel'Morrow's finest seamstress once. Now she stitches soldiers for the West
+from the dead of the city, and she takes great pride in her work.
+~
+dbfl 0 -1000 E
+73 2 1 18d10+4626 8d19+39
+2873 639490
+8 8 2
+BareHandAttack: 0
+E
+#20708
+soldier stitched~
+a stitched soldier~
+A soldier stitched together from many bodies lurches off the table.
+~
+Four arms, two heads, and the strength of several men.
+~
+dfg 0 -1000 E
+69 3 2 17d10+1239 7d13+24
+1400 171406
+8 8 0
+BareHandAttack: 0
+E
+#20709
+zealot choir~
+a Choir zealot~
+A Choir zealot in grey robes swings a censer of grey smoke.
+~
+The Choir's soldiers, who carry the note east with fire and blade.
+~
+dfg 0 -1000 E
+68 3 2 17d10+1221 7d13+23
+1368 166474
+8 8 0
+BareHandAttack: 0
+E
+#20710
+faithful choir~
+one of the Choir faithful~
+One of the Choir faithful turns from the altar, mouth still open in the note.
+~
+They have been singing for a year without stopping.
+~
+dfg 0 -900 E
+66 4 2 16d10+423 7d6+12
+978 52282
+8 8 0
+BareHandAttack: 0
+E
+#20711
+bishop plague~
+the Plague Bishop~
+The Plague Bishop rises from his stone throne, raising a spiral staff.
+~
+The founder of the Grey Choir, first to welcome the greyblight and the voice
+behind it. Every preacher in Midgaard's camps was ordained by his hand.
+~
+dbfl 0 -1000 E
+73 2 1 18d10+4626 8d19+39
+2873 639490
+8 8 1
+BareHandAttack: 0
+E
+#20712
+moth grey~
+a grey moth~
+A moth the size of a man unfolds wet grey wings.
+~
+What the cocooned become. Its wings shed a dust that greys the flesh.
+~
+dfg 0 -800 E
+68 3 2 17d10+433 7d6+12
+1026 55498
+8 8 0
+BareHandAttack: 8
+E
+#20713
+rats swarm rat~
+a swarm of plague rats~
+A river of grey rats pours along the ledge toward you.
+~
+The carriers of the plague, numberless and bold.
+~
+dfg 0 -600 E
+67 4 2 16d10+431 7d6+12
+1002 53878
+8 8 0
+BareHandAttack: 4
+E
+#20714
+lord rat~
+the rat lord~
+A hairless rat the size of a bull rises from its nest.
+~
+Kin to the Rat King beneath Midgaard's granary, and far older. The plague
+spreads from its bite.
+~
+dbfl 0 -900 E
+72 2 1 18d10+4564 8d18+38
+2810 622090
+8 8 0
+BareHandAttack: 4
+E
+#20715
+noble blighted lord lady~
+a blighted noble~
+A blighted noble in rotting silks looks down its nose at you.
+~
+Proud in life, prouder in death, and hungrier.
+~
+dfg 0 -1000 E
+68 3 2 17d10+433 7d6+12
+1026 55498
+8 8 0
+BareHandAttack: 0
+E
+#20716
+hound grey~
+a noble's grey hound~
+A hunting hound with grey sores on its hide snarls by the table.
+~
+The lord's favourite, still loyal.
+~
+dfg 0 -800 E
+69 3 2 17d10+1239 7d13+24
+1400 171406
+8 8 0
+BareHandAttack: 4
+E
+#20717
+knight plague~
+a plague knight~
+A swollen grey knight stands guard, flies crawling from its visor.
+~
+The duchess's household knights, sworn to her in life and bound to her in
+death.
+~
+dfg 0 -1000 E
+70 3 2 17d10+1257 8d11+24
+1433 176410
+8 8 1
+BareHandAttack: 0
+E
+#20718
+mass maggot maggots~
+a heaving mass of maggots~
+The carpet of maggots rises into a heaving mound and rolls toward you.
+~
+Millions of maggots moving as one.
+~
+dbf 0 -800 E
+69 3 2 17d10+1239 7d13+24
+1400 171406
+8 8 0
+BareHandAttack: 4
+E
+#20719
+courtier grey~
+a grey courtier~
+A grey courtier sways in an endless dance.
+~
+The court still dances for its duchess, as it danced on the night the plague
+came.
+~
+dfg 0 -1000 E
+68 3 2 17d10+433 7d6+12
+1026 55498
+8 8 0
+BareHandAttack: 0
+E
+#20720
+mother flies duchess~
+the Mother of Flies~
+The Mother of Flies heaves her vast bulk forward on the throne, and the air turns black with flies.
+~
+Once the duchess of Vel'Morrow, the most beautiful woman in the west. She
+opened her city to Nu'Groth in exchange for eternal life, and she has it: a
+bloated, buzzing, endless life as the heart of the plague.
+~
+dbfl 0 -1000 E
+75 2 1 18d10+10701 8d28+57
+7001 2025010
+8 8 2
+BareHandAttack: 0
+E
+#20721
+weaver grey woman~
+a grey weaver~
+A grey weaver rises from her loom, a shuttle sharp as a knife in her hand.
+~
+She weaves shrouds from her own hair, and she would like to measure you for
+one.
+~
+dfg 0 -800 E
+67 4 2 16d10+431 7d6+12
+1002 53878
+8 8 2
+BareHandAttack: 14
+E
+#20722
+child grey orphan~
+a grey orphan~
+A grey orphan smiles at you and reaches out its small hands.
+~
+A plague child, small and silent, with grey teeth and very strong hands.
+~
+dfg 0 -900 E
+66 4 2 16d10+423 7d6+12
+978 52282
+8 8 0
+BareHandAttack: 4
+E
+#20723
+matron mera~
+Matron Mera~
+Matron Mera rises from her rocking chair, tall and grey, her children gathering at her skirts.
+~
+The matron who would not leave her children when the plague came, and who
+loves them still, and who will not let anyone take them away.
+~
+dbfl 0 -1000 E
+73 2 1 18d10+4626 8d19+39
+2873 639490
+8 8 2
+BareHandAttack: 0
+E
+#20724
+flower corpse bloom~
+a corpse bloom~
+A great pale flower turns its face toward you, roots heaving out of the earth.
+~
+A flower that grows from the dead and wants to grow from you.
+~
+dbf 0 -800 E
+69 3 2 17d10+1239 7d13+24
+1400 171406
+8 8 0
+BareHandAttack: 2
+E
+#20725
+ringer bell hunched~
+the bell-ringer~
+The hunched bell-ringer looks up from his rope, deaf and grinning.
+~
+He rang the bell for every death until there was no one left to hear it. He
+rings it now for you.
+~
+dbfl 0 -800 E
+68 3 2 17d10+1221 7d13+23
+1368 166474
+8 8 0
+BareHandAttack: 0
+E
+#20726
+flock carrion birds~
+a carrion flock~
+A flock of carrion birds bursts out of the cracked bell, shrieking.
+~
+Fat black birds, fed on a city.
+~
+dfg 0 -500 E
+67 4 2 16d10+431 7d6+12
+1002 53878
+8 8 0
+BareHandAttack: 11
+E
+#20727
+keeper ossuary beaked masked~
+the ossuary keeper~
+A figure in a beaked plague mask turns from its stacks of skulls.
+~
+The last plague doctor of Vel'Morrow, sorting the dead forever.
+~
+dbfl 0 -900 E
+69 3 2 17d10+1239 7d13+24
+1400 171406
+8 8 0
+BareHandAttack: 0
+E
+#20728
+drowned bloated corpse~
+a bloated drowned~
+A swollen corpse rolls over in the water and grabs at you.
+~
+One of the first dead of the plague, swollen with grey water.
+~
+dfg 0 -800 E
+68 3 2 17d10+1221 7d13+23
+1368 166474
+8 8 0
+BareHandAttack: 6
+E
+#20729
+patient quarantine~
+a quarantined patient~
+A patient in a grey sheet sits up in bed and swings its legs to the floor.
+~
+Sealed in to die. Did not.
+~
+dfg 0 -700 E
+66 4 2 16d10+423 7d6+12
+978 52282
+8 8 0
+BareHandAttack: 8
+E
+$

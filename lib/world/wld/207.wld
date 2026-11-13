@@ -1,0 +1,466 @@
+#20700
+The East Gate of Vel'Morrow~
+   The army road ends at a gate in black walls forty feet high. The gate
+stands open, its doors torn from their hinges. A cloud of flies hangs over
+the city so thick that the light comes through it brown. The smell is beyond
+description. Grey banners hang from every tower.
+~
+207 0 1
+D1
+~
+~
+0 -1 20618
+D3
+~
+~
+0 -1 20701
+S
+#20701
+The Avenue of Lamps~
+   A broad avenue once lit by a thousand lamps runs into the heart of the
+city. The lamp posts are hung with bodies now, wrapped in grey cocoons that
+twitch. Grey figures walk the avenue in slow processions, ringing small
+bells, singing the Choir's long falling note.
+~
+207 0 1
+D0
+~
+~
+0 -1 20706
+D1
+~
+~
+0 -1 20700
+D2
+~
+~
+0 -1 20702
+D3
+~
+~
+0 -1 20704
+S
+#20702
+The Plague Pits~
+   Great pits were dug in the city park when the plague began, to hold the
+dead. The pits are full, and the dead in them are not still; they writhe
+together into a single grey mass that heaves and breathes. Corpse-carts
+still arrive to tip more into it.
+~
+207 0 1
+D0
+~
+~
+0 -1 20701
+D3
+~
+~
+0 -1 20703
+S
+#20703
+The Hospital of Saint Orla~
+   The city's great hospital, where the physicians fought the greyblight
+until they caught it themselves. Wards of grey sleepers fill every hall, and
+the physicians still walk among them in their beaked masks, administering
+cures that are now the disease itself.
+~
+207 d 0
+D1
+~
+~
+0 -1 20702
+D2
+~
+~
+0 -1 20726
+D5
+~
+~
+0 -1 20710
+S
+#20704
+The Rot Market~
+   The great market square is still busy. Grey merchants sell grey goods to
+grey customers: rotting meat, bolts of cloth woven from hair, jars of
+whispering grain. Coins change hands that are only discs of bone. Nobody
+speaks. The bells ring.
+~
+207 0 1
+D0
+~
+~
+0 -1 20705
+D1
+~
+~
+0 -1 20701
+D2
+~
+~
+0 -1 20719
+D3
+~
+~
+0 -1 20712
+S
+#20705
+The Flesh Tailor's Workshop~
+   A tannery turned to a darker trade. Hides hang drying on racks, and they
+are not animal hides. Tables hold half-finished works: soldiers stitched
+from many bodies, a horse with too many legs. The tailor works at the
+largest table, humming, needle flashing.
+~
+207 d 0
+D2
+~
+~
+0 -1 20704
+S
+#20706
+The Cathedral Steps~
+   Wide steps climb to the great cathedral of Vel'Morrow, its spires lost in
+the cloud of flies. The saints on its facade have been chiselled away and
+replaced with spirals. The Choir's note pours from the open doors, ten
+thousand voices, loud enough to shake the stones.
+~
+207 0 1
+D0
+~
+~
+0 -1 20707
+D2
+~
+~
+0 -1 20701
+D3
+~
+~
+0 -1 20722
+S
+#20707
+The Nave of the Grey Choir~
+   The cathedral's nave is packed with the faithful, standing shoulder to
+shoulder, mouths open in the endless note. They face the altar, where a
+great spiral of grey stone has replaced the old god. The Grey Choir was born
+here, and from here it sends its preachers east.
+~
+207 d 0
+D0
+~
+~
+0 -1 20708
+D2
+~
+~
+0 -1 20706
+D5
+~
+~
+0 -1 20709
+S
+#20708
+The Chancel~
+   Behind the altar, the Plague Bishop holds court on a throne of grey
+stone. He was the city's bishop when the greyblight came, and he was the
+first to welcome it. He conducts the Choir with a staff topped with a
+spiral, and the note bends to his will.
+~
+207 d 0
+D2
+~
+~
+0 -1 20707
+S
+#20709
+The Cathedral Crypt~
+   The crypt beneath the cathedral is full of grey cocoons hanging from the
+vaults like fruit. Inside each one something is changing. The cocoons split
+as you watch, and pale wet things climb out and unfold wings like a moth's.
+~
+207 ad 0
+D0
+~
+~
+0 -1 20724
+D4
+~
+~
+0 -1 20707
+S
+#20710
+The Eastern Sewers~
+   A brick sewer runs beneath the city, its channel thick with grey sludge.
+Rats swarm along the ledges in rivers. The plague came up from here first,
+the physicians thought; it came from the grain stores, carried by the rats.
+~
+207 ad 0
+D3
+~
+~
+0 -1 20711
+D4
+~
+~
+0 -1 20703
+S
+#20711
+The Sewer Junction~
+   Several tunnels meet in a vaulted chamber where the sludge pools deep. A
+nest of rats as big as dogs has been built here from rags and bones, and in
+its heart sits a rat the size of a bull, its fur fallen out, its skin a mass
+of grey sores.
+~
+207 ad 0
+D1
+~
+~
+0 -1 20710
+D2
+~
+~
+0 -1 20725
+D4
+~
+~
+0 -1 20715
+S
+#20712
+The Street of Lords~
+   Grand houses line the street, their windows boarded from the inside. The
+nobility of Vel'Morrow locked themselves in when the plague came, and
+waited. Their doors stand open now, and they walk the street in rotting
+silks, still proud, still cruel.
+~
+207 0 1
+D0
+~
+~
+0 -1 20713
+D1
+~
+~
+0 -1 20704
+D3
+~
+~
+0 -1 20714
+S
+#20713
+A Lord's Manor~
+   A great house of marble and gilt, its rooms still furnished, its tables
+still laid for a feast that rotted a year ago. The lord of the house sits at
+the head of the table with his family, all of them grey, all of them eating
+something that is still moving.
+~
+207 d 0
+D2
+~
+~
+0 -1 20712
+S
+#20714
+The Palace Gate~
+   The ducal palace rises behind a wall of white marble gone yellow and
+stained. Its gate is guarded by the duchess's household knights, grey and
+swollen in their armour, flies crawling in and out of their visors. Through
+the bars you can see the palace, buzzing like a hive.
+~
+207 0 1
+D0
+~
+~
+0 -1 20721
+D1
+~
+~
+0 -1 20712
+D2
+~
+~
+0 -1 20718
+D3
+~
+~
+0 -1 20716
+S
+#20715
+The Palace Cellars~
+   Wine cellars beneath the palace, their racks smashed. The floor is a
+carpet of maggots. A stair leads up into the palace kitchens, and from above
+comes a buzzing so loud and deep it vibrates in your chest.
+~
+207 ad 0
+D4
+~
+~
+0 -1 20716
+D5
+~
+~
+0 -1 20711
+S
+#20716
+The Great Hall of the Palace~
+   A vast hall of marble columns, every surface crawling with flies. The
+court of Vel'Morrow stands frozen in a grey dance, swaying to music that is
+only the buzzing. Doors of gilded bronze at the end of the hall stand open
+on the throne room.
+~
+207 d 0
+D1
+~
+~
+0 -1 20714
+D3
+~
+~
+0 -1 20717
+D5
+~
+~
+0 -1 20715
+S
+#20717
+The Throne Room of the Mother of Flies~
+   The duchess of Vel'Morrow sits on her throne, and she has grown. She
+fills the dais, a vast bloated grey mass in the rags of a gown, her crown
+sunk into her swollen head, and from a thousand openings in her body pour
+the flies that blot out the sun. She is the plague's heart.
+~
+207 d 0
+D1
+~
+~
+0 -1 20716
+S
+#20718
+The West Gate~
+   The city's western gate opens onto a land of low grey hills. The road
+beyond is lined with graves, endless rows of them, and every grave is open.
+The wind from the west carries the sound of a vast army marching, very far
+away, and the clatter of bone.
+~
+207 0 1
+D0
+~
+~
+0 -1 20714
+D3
+West of the city, the road runs on between endless open graves.
+~
+~
+0 -1 20800
+S
+#20719
+Weavers' Row~
+   A narrow street of weavers' shops south of the market. The looms are
+still working: grey-skinned women sit at them weaving shrouds from thread
+spun out of their own hair, and the finished shrouds are stacked to the
+ceilings, waiting for a city's worth of dead.
+~
+207 0 1
+D0
+~
+~
+0 -1 20704
+D2
+~
+~
+0 -1 20720
+S
+#20720
+The Orphanage of Saint Mera~
+   A long dormitory of tiny beds, each with a doll on its pillow. The
+children of Vel'Morrow were brought here when their parents died, and the
+plague followed them. They are still here. They play in the corners, grey
+and quiet, and when they see you they smile, all together, and get up.
+~
+207 0 0
+D0
+~
+~
+0 -1 20719
+S
+#20721
+The King's Plague Garden~
+   The palace garden has run wild. The roses are grey and swollen, and great
+pale flowers the size of shields have opened among the hedges, each with a
+body tangled in its roots. The air is thick with spores that sting your
+eyes.
+~
+207 0 2
+D2
+~
+~
+0 -1 20714
+S
+#20722
+The Cathedral Bell Tower~
+   A cold stone stair winds up inside the cathedral's bell tower. Its walls
+are scratched with tally marks, one for every death the bell was rung for,
+until the ringer ran out of wall. Something hunched sits on the stair above,
+holding a rope.
+~
+207 0 0
+D1
+~
+~
+0 -1 20706
+D4
+~
+~
+0 -1 20723
+S
+#20723
+The Belfry~
+   The great bell of Vel'Morrow hangs cracked in its frame, and carrion
+birds have nested in it by the hundred. From here you can see the whole
+plague city spread beneath a yellow haze, and beyond its western wall, the
+white hills of bone.
+~
+207 0 0
+D5
+~
+~
+0 -1 20722
+S
+#20724
+The Plague Ossuary~
+   North of the crypt the dead were stacked when the graves were full:
+skulls in rows along the walls, long bones bundled like firewood, the whole
+city's dead sorted by size. A figure in a beaked mask moves among them,
+still sorting.
+~
+207 a 0
+D2
+~
+~
+0 -1 20709
+S
+#20725
+The Plague Cistern~
+   The sewer opens into the city's old cistern, where the plague first came
+into the water. The bodies thrown in at the start of the sickness float here
+still, swollen to three times their size, and they bump gently against you
+as you wade.
+~
+207 0 6
+D0
+~
+~
+0 -1 20711
+S
+#20726
+The Quarantine Ward~
+   A locked ward behind the hospital where the last of the sick were shut in
+and forgotten. The door was nailed shut from the outside. The patients are
+still in their beds, wrapped in grey sheets, and they sit up together when
+the door opens.
+~
+207 0 0
+D0
+~
+~
+0 -1 20703
+S
+$

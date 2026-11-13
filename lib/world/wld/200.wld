@@ -1,0 +1,576 @@
+#20000
+The West Road Beyond the Gate~
+   The road leaves the shadow of the west gate and runs out across a plain
+of ash. Burned fields stretch to the horizon on both sides, the stubble
+black and brittle. A wooden sign hangs from a post, its paint blistered:
+MIDGAARD. TURN BACK.
+~
+200 0 2
+D1
+~
+~
+0 -1 3052
+D3
+~
+~
+0 -1 20001
+S
+#20001
+The West Road, Ash Plain~
+   Ash drifts across the road like grey snow, piling against the stones of
+an old field wall. Every step raises a cloud of it. The wind carries a smell
+of burned grain and older, worse things, and somewhere a dog is howling.
+~
+200 0 2
+D0
+~
+~
+0 -1 20005
+D1
+~
+~
+0 -1 20000
+D2
+~
+~
+0 -1 20014
+D3
+~
+~
+0 -1 20002
+S
+#20002
+The Foot of the First Watchtower~
+   A square stone tower stands beside the road, ringed by a ditch and a
+palisade of stakes. Midgaard's grey banner hangs from its top. Soldiers on
+the parapet watch every shadow on the plain, and the gate in the palisade
+opens only for the living.
+~
+200 c 2
+D1
+~
+~
+0 -1 20001
+D3
+~
+~
+0 -1 20010
+D4
+~
+~
+0 -1 20003
+S
+#20003
+The First Watchtower, Guardroom~
+   A low guardroom with arrow slits facing west, warm from a brazier.
+Weapons hang ready on the walls. Off-duty soldiers sleep in their armour on
+straw pallets, and a surgeon has set up a table in the corner for the
+wounded who make it back from the plain.
+~
+200 cde 0
+D4
+~
+~
+0 -1 20004
+D5
+~
+~
+0 -1 20002
+S
+#20004
+The First Watchtower, Parapet~
+   The wind tears at you on the tower top. From here you can see the other
+two towers marching west along the road, the black ruins of Ashford to the
+south, and beyond everything a dark line of forest on the western horizon.
+Signal fires stand ready in iron baskets.
+~
+200 ce 0
+D5
+~
+~
+0 -1 20003
+E
+forest horizon line~
+The Hollow Wood. The watchmen say it has gone quiet. Nothing has come out of
+it for weeks, and that frightens them more than raiders do.
+~
+S
+#20005
+Burned Fields North of the Road~
+   Charred stubble crunches underfoot. A plough lies abandoned in a furrow,
+its handles burned away. Here and there a figure stands motionless in the
+middle of a field, facing west, and does not turn when you call to it.
+~
+200 0 2
+D0
+~
+~
+0 -1 20006
+D2
+~
+~
+0 -1 20001
+D3
+~
+~
+0 -1 20008
+S
+#20006
+A Burned Farmstead~
+   The walls of a farmhouse stand roofless around a yard of ash. The well
+has been choked with rubble. On the door, still hanging by one hinge,
+someone has carved the grey spiral of the Choir, and under it, in a child's
+hand, the word SORRY.
+~
+200 0 2
+D2
+~
+~
+0 -1 20005
+D3
+~
+~
+0 -1 20007
+S
+#20007
+The Collapsed Barn~
+   Fallen beams lie criss-crossed over the remains of the animals that were
+shut in when the barn burned. The smell has never quite gone. Something has
+been digging under the beams, and the digging is recent.
+~
+200 0 2
+D1
+~
+~
+0 -1 20006
+S
+#20008
+The Field of Scarecrows~
+   The raiders have planted the dead of the farms on poles across this
+field, facing east toward Midgaard, as a message. Crows have taken their
+eyes. The poles creak in the wind, and one of the dead is still moving.
+~
+200 0 2
+D1
+~
+~
+0 -1 20005
+D3
+~
+~
+0 -1 20009
+S
+#20009
+The Hanging Oak~
+   A huge oak, the only tree for leagues that did not burn, stands alone on
+a rise. Its branches are heavy with hanged men and women, villagers who
+refused to join the raiders. The rope burns on the bark are deep. The grass
+beneath it has turned grey.
+~
+200 0 2
+D1
+~
+~
+0 -1 20008
+D2
+~
+~
+0 -1 20011
+E
+oak tree hanged~
+Dozens of bodies. The newest wear Midgaard grey: a patrol that never came
+back.
+~
+S
+#20010
+The West Road, Between the Towers~
+   The road runs straight between the first and second towers. Patrols ride
+it twice a day, and the verges are littered with what they leave behind:
+broken arrows, a dead horse, a soldier's boot with the foot still in it.
+~
+200 0 2
+D1
+~
+~
+0 -1 20002
+D2
+~
+~
+0 -1 20015
+D3
+~
+~
+0 -1 20011
+S
+#20011
+The West Road, The Dead Patrol~
+   A patrol died here. Their bodies have been arranged around the road in a
+circle, kneeling, facing west, their hands bound behind them. Their horses
+lie where they fell. Ash has been rubbed into their eyes.
+~
+200 0 2
+D0
+~
+~
+0 -1 20009
+D1
+~
+~
+0 -1 20010
+D3
+~
+~
+0 -1 20012
+S
+#20012
+The Foot of the Second Watchtower~
+   The second tower is battered. Its palisade has been burned and rebuilt,
+and scorch marks climb its walls. The soldiers here are fewer and grimmer
+than at the first tower, and the ditch around it is full of raider bodies.
+~
+200 c 2
+D1
+~
+~
+0 -1 20011
+D3
+~
+~
+0 -1 20026
+D4
+~
+~
+0 -1 20013
+S
+#20013
+The Second Watchtower, Barracks~
+   Bunks line the walls of a crowded room smelling of sweat and smoke. A
+quartermaster hands out arrows and hard bread from a locked chest. On the
+wall someone has kept a tally of raids, in groups of five scratched into the
+plaster. There are a great many groups of five.
+~
+200 cde 0
+D5
+~
+~
+0 -1 20012
+S
+#20014
+The South Ditch~
+   A drainage ditch runs south from the road, choked with ash and worse.
+Soldiers threw the dead of the first raids in here when there was no time to
+bury them. The ditch is not as full as it was, and there are tracks leading
+out of it.
+~
+200 0 2
+D0
+~
+~
+0 -1 20001
+D2
+~
+~
+0 -1 20016
+S
+#20015
+The Lane to Ashford~
+   A lane runs south between burned hedges toward the black shell of a
+village. Wagon tracks in the ash lead into it, recent ones, heavy with loot.
+Smoke still rises from one of the chimneys, and it is not from a hearth.
+~
+200 0 2
+D0
+~
+~
+0 -1 20010
+D2
+~
+~
+0 -1 20017
+S
+#20016
+The East End of Ashford~
+   The first houses of Ashford are blackened shells. A child's cart lies
+overturned in the street, and a dog's skeleton is still chained to a
+doorpost. The raiders' painted sign hangs over the road: a grey hand, open,
+palm out.
+~
+200 0 1
+D0
+~
+~
+0 -1 20014
+D2
+~
+~
+0 -1 20018
+D3
+~
+~
+0 -1 20017
+S
+#20017
+Ashford Square~
+   The village square is a ring of burned houses around a cracked fountain.
+The raiders have made it their camp: tents of stolen cloth, a cookfire,
+piles of loot. The villagers who were not hanged or hollowed are kept in a
+pen of hurdles at the east end of the village.
+~
+200 0 1
+D0
+~
+~
+0 -1 20015
+D1
+~
+~
+0 -1 20016
+D2
+~
+~
+0 -1 20021
+D3
+~
+~
+0 -1 20019
+S
+#20018
+The Prisoners' Pen~
+   A pen of wattle hurdles holds a dozen villagers, filthy and silent. The
+raiders feed them ash and water. Every day one of them is taken to the
+chapel and comes back hollowed. The ones left beg you, in whispers, to kill
+them before it is their turn.
+~
+200 0 1
+D0
+~
+~
+0 -1 20016
+S
+#20019
+The Chapel of Ashford~
+   The village chapel has been turned into something else. The pews are
+gone, the altar painted grey, and a spiral of ash covers the floor. At its
+centre is a chair with straps on the arms. This is where the raiders' shaman
+empties people out.
+~
+200 d 0
+D1
+~
+~
+0 -1 20017
+D3
+~
+~
+0 -1 20020
+S
+#20020
+The Sacristy~
+   A small dark room behind the altar. Jars line the shelves, filled with a
+grey dust that stirs when you come near. A book lies open on a table,
+written in a language that hurts to look at. The shaman's bedroll lies in
+the corner beside a pile of children's shoes.
+~
+200 ad 0
+D1
+~
+~
+0 -1 20019
+S
+#20021
+The Burned Mill~
+   The Ashford mill burned with the miller's family inside, and its great
+wheel stands still in a stream gone grey with ash. The raiders use the
+ground floor as a storehouse. Stairs climb to where the warlord has made his
+quarters.
+~
+200 d 0
+D0
+~
+~
+0 -1 20017
+D3
+~
+~
+0 -1 20023
+D4
+~
+~
+0 -1 20022
+S
+#20022
+The Warlord's Loft~
+   Furs and stolen tapestries cover the floor of the mill loft. A rack holds
+weapons taken from dead soldiers. A crude map of the Marches is pinned to
+the wall, the watchtowers circled in charcoal and marked for burning.
+~
+200 d 0
+D5
+~
+~
+0 -1 20021
+E
+map charcoal towers~
+The three towers, each circled. Beside the second: SOON. Beside Midgaard:
+AFTER.
+~
+S
+#20023
+The Grey Millstream~
+   A stream that once turned the mill wheel runs thick and grey with ash.
+Bodies have caught against the sluice gate. Downstream the water vanishes
+into a culvert under the road, and something large has been dragged through
+it recently.
+~
+200 0 6
+D1
+~
+~
+0 -1 20021
+D3
+~
+~
+0 -1 20024
+S
+#20024
+The Culvert Beneath the Road~
+   A stone tunnel carries the stream under the road. You wade through cold
+grey water in the dark. Bones crunch underfoot. Halfway through, a side
+passage has been dug into the earth, and it smells of a carrion den.
+~
+200 ad 0
+D0
+~
+~
+0 -1 20025
+D1
+~
+~
+0 -1 20023
+D4
+Iron rungs set in the stone climb up to the bridge.
+~
+~
+0 -1 20026
+S
+#20025
+The Carrion Den~
+   A cave dug into the earth under the road, carpeted with bones and rotting
+hides. The raiders' hounds breed here, gorging on the dead of the Marches.
+They have grown huge on it, and the largest of them watches you from the
+back of the den with eyes like coals.
+~
+200 ad 0
+D2
+~
+~
+0 -1 20024
+S
+#20026
+The West Road, Burned Crossing~
+   The road crosses the grey stream on a bridge of scorched timber. Below
+it, the culvert mouth gapes in the bank. Ahead, the third and last
+watchtower stands on a mound, and beyond it the land darkens toward the
+forest.
+~
+200 0 2
+D1
+~
+~
+0 -1 20012
+D3
+~
+~
+0 -1 20027
+D5
+~
+~
+0 -1 20024
+S
+#20027
+The Foot of the Last Watchtower~
+   The last tower stands on a mound, the westernmost post of the Burned
+Marches. Half its palisade is gone. The garrison here is the smallest and
+the most scarred, and they have stopped counting the raids. Beyond the
+mound, the road runs on into the dark of the Hollow Wood.
+~
+200 c 4
+D1
+~
+~
+0 -1 20026
+D2
+~
+~
+0 -1 20030
+D3
+~
+~
+0 -1 20029
+D4
+~
+~
+0 -1 20028
+S
+#20028
+The Last Watchtower, Command Room~
+   A cramped room at the top of the tower, maps on every wall. The commander
+of the Marches sleeps here in a chair, when she sleeps at all. A shrine to
+the fallen stands in the corner, its candles guttering, a pile of identity
+tags at its foot.
+~
+200 cde 0
+D5
+~
+~
+0 -1 20027
+S
+#20029
+Where the Marches Meet the Wood~
+   Burned stubble gives way to the first trees of the Hollow Wood. They are
+black and leafless at the edge, scorched by the fires, but further in they
+are untouched and very still. No birds sing. The road runs on between them
+into the gloom.
+~
+200 0 3
+D1
+~
+~
+0 -1 20027
+D3
+The road runs on west under the eaves of the Hollow Wood.
+~
+~
+0 -1 20100
+S
+#20030
+The Reaver's Trail~
+   A trail of ash and blood leads south from the tower mound across the
+burned fields, toward a ring of standing stones on a low hill. Hollowed men
+stand along it like sentries, all facing the same way. The raiders say the
+Reaver waits at the stones.
+~
+200 0 2
+D0
+~
+~
+0 -1 20027
+D2
+~
+~
+0 -1 20031
+S
+#20031
+The Ring of Stones~
+   A ring of ancient standing stones crowns the hill, each stone smeared
+with grey ash in the shape of a spiral. A bonfire of bones burns at the
+centre. The Reaver of Ashford stands beside it, the first of the West's
+champions to come within sight of Midgaard's walls.
+~
+200 0 4
+D0
+~
+~
+0 -1 20030
+S
+$

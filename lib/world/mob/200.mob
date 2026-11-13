@@ -1,0 +1,282 @@
+#20000
+crow blight~
+a blight crow~
+A blight crow with grey, featherless patches watches you hungrily.
+~
+A crow as big as a hawk, its beak stained black. The dead of the Marches
+have fed it well, and it has grown bold.
+~
+dfg 0 -400 E
+30 13 7 7d10+222 4d5+5
+277 10810
+8 8 0
+BareHandAttack: 4
+E
+#20001
+watchman soldier~
+a tower watchman~
+A tower watchman stands at the palisade, crossbow ready.
+~
+Hollow-cheeked and steady-eyed, he has seen everything the Marches can show
+and stayed at his post anyway.
+~
+dbm 0 600 E
+34 12 6 8d10+675 4d11+11
+451 41626
+8 8 1
+BareHandAttack: 0
+E
+#20002
+surgeon~
+the tower surgeon~
+A surgeon stitches a soldier's arm by the light of the brazier.
+~
+She came west with the first garrison and refused every order to go back.
+~
+db 0 800 E
+32 12 6 8d10+38 1d2+0
+266 2467
+8 8 2
+BareHandAttack: 0
+E
+#20003
+captain tower~
+the tower captain~
+The tower captain watches the west from the parapet.
+~
+A big grey-bearded man with a voice like gravel. He has held this tower for
+a year with half the men he was promised.
+~
+db 0 700 E
+38 11 6 9d10+2532 4d19+19
+1011 173290
+8 8 1
+BareHandAttack: 0
+E
+#20004
+quartermaster~
+the quartermaster~
+The quartermaster counts arrows into a chest.
+~
+A sour old soldier with one eye, guarding the last of the tower's supplies
+like a dragon.
+~
+db 0 400 E
+33 12 6 8d10+658 4d11+11
+430 39214
+8 8 1
+BareHandAttack: 0
+E
+#20005
+commander marches~
+the Commander of the Marches~
+The Commander of the Marches looks up from her maps with red-rimmed eyes.
+~
+She commands three towers, a hundred soldiers and a country of ash. She has
+written to Midgaard for more men eleven times. She has stopped writing.
+~
+db 0 800 E
+38 11 6 9d10+2532 4d19+19
+1011 173290
+8 8 2
+BareHandAttack: 0
+E
+#20006
+hollowed villager~
+a hollowed villager~
+A hollowed villager stands motionless, facing west.
+~
+There is no one behind the eyes. The darkness took whatever was inside and
+left the body walking, and it walks toward whatever the darkness wants.
+~
+dfg 0 -700 E
+30 13 7 7d10+222 4d5+5
+277 10810
+8 8 0
+BareHandAttack: 8
+E
+#20007
+hollowed militia soldier~
+a hollowed militiaman~
+A hollowed militiaman shambles along, a rusted spear in his hand.
+~
+He still wears the tabard of a village watch. He still carries his spear. He
+still knows how to use it, and nothing else.
+~
+dfg 0 -700 E
+32 12 6 8d10+230 4d5+5
+307 12298
+8 8 0
+BareHandAttack: 0
+E
+#20008
+hound carrion~
+a carrion hound~
+A carrion hound with a bloated belly snarls over a corpse.
+~
+The raiders' hounds have gorged on the dead of the Marches and grown big as
+ponies, mangy and yellow-eyed.
+~
+dfg 0 -500 E
+31 13 7 7d10+229 4d5+5
+291 11542
+8 8 0
+BareHandAttack: 4
+E
+#20009
+ghoul ash~
+an ash ghoul~
+An ash ghoul crawls out of the grey drifts.
+~
+A corpse dusted grey with ash, too long dead to walk upright. It moves on
+all fours, quick and hungry.
+~
+dfg 0 -800 E
+33 12 6 8d10+237 4d5+6
+322 13078
+8 8 0
+BareHandAttack: 8
+E
+#20010
+wraith hanged~
+a hanged wraith~
+A wraith with a noose around its neck drifts down from the oak.
+~
+The spirits of the hanged have run together under the oak into something
+cold and furious, its face many faces.
+~
+dbf 0 -900 E
+35 12 6 8d10+693 4d11+12
+472 44110
+8 8 0
+BareHandAttack: 8
+E
+#20011
+raider grey~
+a grey-handed raider~
+A raider with a grey hand painted on his chest sharpens an axe.
+~
+Once a farmer or a herdsman from the far west, now a servant of the
+darkness. He fights with a zealot's joy and dies smiling.
+~
+dfg 0 -800 E
+34 12 6 8d10+244 4d6+6
+338 13882
+8 8 1
+BareHandAttack: 0
+E
+#20012
+outrider raider~
+a raider outrider~
+A raider outrider in a wolf-skin cloak watches you over a drawn bow.
+~
+The raiders' scouts ride ahead of every attack, and they leave no witnesses.
+~
+dflg 0 -800 E
+35 12 6 8d10+693 4d11+12
+472 44110
+8 8 2
+BareHandAttack: 0
+E
+#20013
+captive villager prisoner~
+a captive villager~
+A captive villager huddles in the pen, eyes on the chapel.
+~
+Starved and filthy. Tomorrow, or the day after, it will be her turn in the
+chair.
+~
+db 0 500 E
+30 13 7 7d10+40 1d2+0
+240 2170
+8 8 0
+BareHandAttack: 0
+E
+#20014
+jailer raider~
+the raider jailer~
+A fat raider jailer leans on the pen, a whip in his belt.
+~
+He chooses who goes to the chapel each day. He takes bribes, and then he
+chooses them anyway.
+~
+dbf 0 -800 E
+35 12 6 8d10+693 4d11+12
+472 44110
+8 8 1
+BareHandAttack: 0
+E
+#20015
+shaman raider~
+a raider shaman~
+A raider shaman with ash-grey skin chants over a strapped chair.
+~
+His eyes are black from lid to lid. He hollows people with Nu'Groth's words
+and a grey dust breathed into their mouths.
+~
+dfg 0 -1000 E
+35 12 6 8d10+693 4d11+12
+472 44110
+8 8 1
+BareHandAttack: 0
+E
+#20016
+warlord raider~
+the raider warlord~
+The raider warlord rises from his furs, reaching for a great axe.
+~
+A giant of a man with a grey hand tattooed across his whole face. He has
+burned eleven villages and he means to burn the twelfth inside Midgaard's
+walls.
+~
+dbfl 0 -900 E
+38 11 6 9d10+2532 4d19+19
+1011 173290
+8 8 1
+BareHandAttack: 0
+E
+#20017
+drowned hollow corpse~
+a drowned hollow~
+A bloated grey corpse lurches up out of the stream.
+~
+Thrown in the millstream with the other dead. The darkness walked it out
+again.
+~
+dfg 0 -700 E
+32 12 6 8d10+230 4d5+5
+307 12298
+8 8 0
+BareHandAttack: 8
+E
+#20018
+alpha hound carrion~
+the carrion alpha~
+An enormous carrion hound rises from a heap of bones, eyes glowing like coals.
+~
+The sire of the pack, big as a bull, its hide scarred and patched with grey.
+It has eaten a hundred dead and wants a living meal.
+~
+dbfl 0 -700 E
+37 11 6 9d10+2470 4d18+19
+968 164290
+8 8 0
+BareHandAttack: 4
+E
+#20019
+reaver ashford~
+the Reaver of Ashford~
+The Reaver of Ashford turns from the bone fire, a great black blade in his hands.
+~
+Once the lord of Ashford, he opened his gates to the darkness to save his
+people and was rewarded by being made its herald. Grey fire burns in his
+empty helm, and he has sworn to hang every soldier of the towers from the
+oak.
+~
+dbfl 0 -1000 E
+40 10 5 10d10+5845 5d22+28
+2560 576010
+8 8 1
+BareHandAttack: 0
+E
+$

@@ -1,0 +1,184 @@
+#20900
+crossbow grey~
+a grey iron crossbow~
+A heavy grey iron crossbow lies here.~
+~
+5 0 8193
+0 3 6 11
+8 1585 158
+#20901
+barb wyvern dagger~
+a wyvern-barb dagger~
+A dagger made from a wyvern's barb lies here.~
+~
+5 0 8193
+0 3 7 11
+8 1728 172
+A
+18 4
+A
+19 3
+#20902
+bracers iron scale~
+iron-scale vambraces~
+A pair of vambraces of iron-plated scales lies here.~
+~
+9 0 257
+9 0 0 0
+10 1728 172
+A
+13 40
+A
+1 1
+#20903
+axe dwarf grey~
+a grey dwarven axe~
+A grey iron dwarven axe lies here.~
+~
+5 0 8193
+0 3 6 3
+8 1656 165
+#20904
+mail dwarf grey~
+grey dwarven mail~
+A coat of grey dwarven mail lies here, whispering.~
+~
+9 0 9
+17 0 0 0
+10 1656 165
+#20905
+hammer thane~
+a thane's warhammer~
+A rune-carved warhammer lies here.~
+~
+5 0 8193
+0 3 7 7
+8 1728 172
+A
+19 3
+#20906
+helm horned~
+a horned dwarven helm~
+A horned dwarven helm lies here.~
+~
+9 0 17
+10 0 0 0
+10 1728 172
+A
+13 30
+#20907
+hammer smith~
+a dwarven smith's hammer~
+A dwarven smith's hammer lies here.~
+~
+5 0 8193
+0 3 6 7
+8 1620 162
+#20908
+crown durhold~
+the crown of Durhold~
+A heavy crown of red gold, untouched by grey, lies here.~
+~
+9 0 17
+10 0 0 0
+10 1765 176
+A
+13 50
+A
+5 2
+A
+24 -3
+#20909
+heart forge~
+the heart of the forge~
+A lump of grey iron, still glowing, beats slowly here.~
+~
+11 0 16385
+0 0 0 0
+2 1802 180
+A
+1 3
+A
+19 3
+A
+13 40
+#20910
+hammer kingsforge~
+the hammer of the Forge-King~
+A great forge hammer, still warm, lies here.~
+~
+5 0 8193
+0 4 6 7
+8 1802 180
+A
+18 4
+A
+19 6
+#20911
+amulet sky storm~
+an amulet of the old sky~
+An amulet that crackles with lightning lies here.~
+~
+11 0 5
+0 0 0 0
+2 1728 172
+A
+4 2
+A
+24 -3
+#20912
+shield grey iron tower~
+a grey iron tower shield~
+A tall shield of grey iron lies here.~
+~
+9 0 513
+14 0 0 0
+10 1728 172
+A
+13 30
+#20913
+crystal living grey~
+a shard of living crystal~
+A shard of grey crystal lies here, slowly growing.~
+~
+11 0 16385
+0 0 0 0
+2 1692 169
+A
+12 40
+#20914
+ring heartstone~
+a ring of heartstone~
+A warm stone ring lies here, faintly beating.~
+~
+11 0 3
+0 0 0 0
+2 1765 176
+A
+1 2
+A
+13 25
+#20915
+whip slaver~
+a slaver's whip~
+A long slaver's whip lies here.~
+~
+5 0 8193
+0 3 6 2
+8 1656 165
+A
+18 2
+#20916
+anvil grey black great~
+the anvil of grey iron~
+A vast anvil of black stone stands here, ringing faintly.~
+~
+12 0 0
+0 0 0 0
+5000 11 1
+E
+anvil~
+The first grey iron was beaten on this anvil, and Nu'Groth's voice was
+hammered into it. If you put your ear to the stone, you can hear it still.
+~
+$

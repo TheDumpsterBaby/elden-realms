@@ -1,0 +1,178 @@
+#5000
+ledger chained book~
+a chained ledger~
+A heavy ledger is chained to the clerk's desk.~
+~
+12 0 0
+0 0 0 0
+2 11 1
+E
+ledger chained book~
+Columns of figures. Grain received, grain sent west. Each week the second
+column is larger than the first.
+~
+#5001
+strongbox box iron~
+an iron strongbox~
+An iron strongbox sits on a crate, its lid ajar.~
+~
+15 0 0
+50 0 -1 0
+5 11 1
+#5002
+pork salt slab~
+a slab of salt pork~
+A slab of salt pork stamped with Midgaard's seal lies here.~
+~
+19 0 1
+16 0 0 0
+2 20 2
+#5003
+sack grain~
+a sack of the fort's grain~
+A sack of grain stamped with Midgaard's seal lies here.~
+~
+12 0 1
+0 0 0 0
+20 30 3
+#5004
+key iron cache~
+a heavy iron key~
+A heavy iron key lies here.~
+~
+18 0 1
+0 0 0 0
+1 11 1
+#5005
+ration bread road~
+a road ration~
+A wrapped road ration has been left here.~
+~
+19 0 1
+10 0 0 0
+1 8 1
+#5006
+lantern caravan~
+a caravan lantern~
+A battered caravan lantern lies here.~
+~
+1 0 16385
+0 0 48 0
+3 78 7
+#5007
+spear militia~
+a militia spear~
+A plain militia spear lies here.~
+~
+5 0 8193
+0 1 7 11
+8 109 10
+#5008
+shield militia grey~
+a grey militia shield~
+A round grey shield bearing Midgaard's tower lies here.~
+~
+9 0 513
+5 0 0 0
+10 109 10
+#5009
+sword notched~
+a notched sword~
+A notched army sword lies here.~
+~
+5 0 8193
+0 1 7 3
+8 98 9
+#5010
+mail chain shirt~
+a chain shirt with the sigil cut away~
+A chain shirt lies here, a hole cut where its sigil was.~
+~
+9 0 9
+7 0 0 0
+10 133 13
+#5011
+helm helmet officer~
+an officer's helm~
+An officer's plumed helm lies here.~
+~
+9 0 17
+4 0 0 0
+10 146 14
+A
+18 1
+#5012
+sabre saber captain~
+a captain's sabre~
+A fine captain's sabre lies here.~
+~
+5 0 8193
+0 1 8 3
+8 159 15
+A
+18 1
+A
+19 1
+#5013
+shortsword sword short~
+a bandit shortsword~
+A short, wicked blade lies here.~
+~
+5 0 8193
+0 1 7 3
+8 109 10
+#5014
+dagger long cutthroat~
+a cutthroat's long dagger~
+A long, thin dagger lies here.~
+~
+5 0 8193
+0 1 8 11
+8 146 14
+A
+2 1
+#5015
+broadsword sword lord~
+the Bandit Lord's broadsword~
+A broadsword with a jewelled hilt lies here.~
+~
+5 0 8193
+0 1 9 3
+8 186 18
+A
+18 2
+A
+19 2
+#5016
+ring signet brass~
+a brass signet ring~
+A heavy brass signet ring lies here.~
+~
+11 0 3
+0 0 0 0
+2 172 17
+A
+1 1
+A
+13 10
+#5017
+pelt wolf~
+a grey wolf pelt~
+A grey wolf pelt lies here.~
+~
+9 0 1025
+3 0 0 0
+10 88 8
+#5018
+cloak dire wolf fur~
+a cloak of dire wolf fur~
+A huge cloak of dark wolf fur lies here.~
+~
+9 0 1025
+4 0 0 0
+10 146 14
+A
+5 1
+A
+14 15
+$

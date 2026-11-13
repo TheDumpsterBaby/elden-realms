@@ -1,0 +1,153 @@
+#5100
+goblin slave~
+the goblin slave~
+A goblin slave lies here asleep on the straw.
+~
+A thin goblin taken in a raid on the Supply Road, with a drow brand on its
+shoulder. It begs for mercy the moment it sees you.
+~
+bh 0 350 S
+18 16 8 1d11+34 1d5+0
+0 5198
+4 4 1
+#5101
+drow commoner~
+the drow commoner~
+A drow commoner walks here on guard duty, watching everything.
+~
+A lean drow in a dark cloak, one of the exiles' common folk. He is not the
+type to give directions, but he will remember your face and describe it
+later to someone who matters.
+~
+fglm dk -1000 S
+21 15 8 1d10+213 13d1+6
+320 16983
+8 8 1
+#5102
+drow warrior noble~
+the drow warrior~
+A drow warrior stands here guarding his house.
+~
+A noble warrior of one of the four houses, his mail blackened so it will not
+catch the light. He has been east many times, and every time came back with
+a trophy.
+~
+bflm dk -1000 S
+22 15 8 1d5+244 14d1+8
+351 22639
+8 8 1
+#5103
+drow mage noble~
+the drow mage~
+A drow mage is here protecting his house.
+~
+A drow mage with ink on his fingers and violet light in his eyes, who spends
+his nights watching the wall of Midgaard in a scrying basin. He prepares to
+cast a spell... at you.
+~
+abflm dk -1000 S
+23 15 8 1d12+259 8d2+3
+381 23708
+8 8 1
+#5104
+drow priestess~
+the drow priestess~
+A drow priestess is here shouting orders.
+~
+A priestess of the Spider Queen in a grey veil, who prays now to two masters
+and does not seem troubled by it. You would not want to get on her bad side.
+~
+abflm dk -1000 S
+23 15 8 1d11+256 14d1+5
+380 23334
+8 8 2
+#5105
+drow master spymaster~
+the drow master~
+A drow master stares at you angrily.
+~
+A master of the city's agents, who decides who goes east in disguise and who
+never comes back. He is always ready for a fight, and never fights fair.
+~
+bflm dk -1000 S
+25 14 7 1d12+283 18d1+5
+438 29424
+8 8 1
+#5106
+drow weaponsmaster master~
+the weaponsmaster~
+A drow weaponsmaster is here, shadow boxing.
+~
+The weaponsmaster of the city, who teaches the knives that go east how to
+kill a sentry without a sound. He clearly knows his way around a fight.
+~
+bflm dkp -1000 S
+25 14 7 1d25+432 12d2+4
+501 49268
+8 8 1
+#5107
+drow matron mother~
+the Matron Mother~
+The Matron Mother of the house is standing here.
+~
+The ruler of one of the lesser houses, who signed the pact because the First
+House did, and who hopes to be repaid when the wall falls. She looks truly
+annoyed that you have found your way here.
+~
+abfl dhkp -1000 S
+26 14 7 1d50+479 15d2+4
+553 64720
+8 8 2
+#5108
+drow matron mother first~
+the Matron Mother~
+The Matron Mother of the First House is waiting for you.
+~
+The eldest of the exiles, who led her people up out of the deep places and
+then, starving and hated, knelt before the grey door in the west and made
+the pact. Her eyes have gone grey at the edges. She looks ready to rip your
+head off.
+~
+abfl dhkp -1000 S
+26 14 7 5d10+361 12d2+21
+503 47314
+8 8 2
+#5109
+drider~
+the drider~
+The drider looks at you viciously while it draws its sword.
+~
+Half drow and half spider, a punishment of the old faith for drow who failed
+it. Now the exiles use them as sentries and send them up at night to take
+wagons off the road.
+~
+fgno dkp -1000 S
+20 15 8 1d6+350 2d6+5
+342 25000
+8 8 0
+#5110
+drider gate~
+the drider~
+The drider looks at you viciously while it draws its sword.
+~
+A huge drider set to guard the gate of the First House, its spider body
+scarred from the deep wars. It stands absolutely still until it moves.
+~
+bfgno dhkp -1000 S
+21 15 8 1d6+458 3d9+7
+0 25512
+8 8 0
+#5111
+yochlol envoy grey~
+the grey envoy~
+A grey envoy forms out of a swirling mist...
+~
+A thing of grey mist and too many limbs, sent out of the west to seal the
+pact and stay behind to watch it kept. It has the shape of a handmaiden of
+the Spider Queen, worn like a borrowed coat. It is not in a good mood.
+~
+beflnoqr dfhkp -1000 S
+25 14 7 25d2+480 15d2+20
+532 59042
+8 8 2
+$

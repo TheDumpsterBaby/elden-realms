@@ -1,0 +1,172 @@
+#20400
+well~
+the monastery well~
+A stone well stands in the courtyard.~
+~
+23 0 0
+100 100 0 0
+2 11 1
+#20401
+pick robber~
+a grave robber's pick~
+A heavy pick lies here.~
+~
+5 0 8193
+0 2 7 11
+8 836 83
+#20402
+circlet spiral gold~
+a gold spiral circlet~
+A circlet of gold spirals lies here.~
+~
+9 0 17
+8 0 0 0
+10 919 91
+A
+3 1
+A
+4 1
+A
+12 40
+#20403
+torc queen gold~
+a queen's gold torc~
+A heavy gold torc lies here.~
+~
+11 0 5
+0 0 0 0
+2 919 91
+A
+6 2
+A
+24 -3
+#20404
+claw ghoul~
+a ghoul patriarch's claw~
+A huge grey claw lies here.~
+~
+5 0 8193
+0 2 8 8
+8 919 91
+A
+19 3
+#20405
+staff vigil~
+a vigil staff~
+An iron-shod staff lies here.~
+~
+5 i 8193
+0 2 7 5
+8 891 89
+#20406
+candle flame white~
+a candle lit from the flame~
+A white candle burns here without melting.~
+~
+1 a 16385
+0 0 -1 0
+2 919 91
+A
+24 -2
+#20407
+bread barley~
+a loaf of barley bread~
+A loaf of barley bread lies here.~
+~
+19 0 1
+12 0 0 0
+1 10 1
+#20408
+scroll rite~
+a scroll of burial rites~
+A scroll of burial rites lies here.~
+~
+16 0 1
+0 0 0 0
+1 11 1
+E
+scroll rite~
+Rites to keep the dead asleep, copied in haste. The last line: NONE OF THIS
+WORKS ANY MORE.
+~
+#20409
+mace abbess~
+the Abbess's mace~
+A plain steel mace lies here.~
+~
+5 i 8193
+0 2 8 5
+8 947 94
+A
+18 3
+A
+19 2
+#20410
+spear bronze~
+a bronze spear~
+An ancient bronze spear lies here.~
+~
+5 0 8193
+0 2 8 11
+8 919 91
+#20411
+bracer giant bronze~
+a giant's bronze bracer~
+An enormous bronze bracer lies here.~
+~
+9 0 4097
+3 0 0 0
+10 947 94
+A
+1 2
+A
+13 20
+#20412
+axe bronze~
+a bronze huscarl axe~
+A bronze axe lies here.~
+~
+5 0 8193
+0 2 8 3
+8 919 91
+A
+19 1
+#20413
+crown barrow gold~
+the Barrow King's crown~
+A crown of gold spirals, cold as ice, lies here.~
+~
+9 0 17
+8 0 0 0
+10 976 97
+A
+13 45
+A
+4 2
+A
+24 -3
+#20414
+blade bronze king~
+the Barrow King's blade~
+A long bronze sword patterned with spirals lies here.~
+~
+5 0 8193
+0 3 5 3
+8 976 97
+A
+18 4
+A
+19 4
+#20415
+torc king~
+the king's torc~
+A massive gold torc lies here.~
+~
+11 0 5
+0 0 0 0
+2 947 94
+A
+5 2
+A
+1 1
+$

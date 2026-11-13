@@ -1,0 +1,352 @@
+#20800
+soldier bone skeleton~
+a bone soldier~
+A skeleton in rusting armour raises its sword in silence.
+~
+One of tens of thousands, from a kingdom no one remembers.
+~
+dfg 0 -1000 E
+72 2 1 18d10+455 8d6+13
+1124 62218
+8 8 0
+BareHandAttack: 0
+E
+#20801
+crawler grave~
+a grave crawler~
+A legless corpse drags itself out of a grave on its hands.
+~
+Not every corpse rises whole. These come anyway.
+~
+dfg 0 -900 E
+71 3 2 17d10+454 8d6+13
+1099 60502
+8 8 0
+BareHandAttack: 8
+E
+#20802
+knight dread~
+a dread knight~
+A dread knight on a skeletal horse lowers a black lance.
+~
+A great knight of some fallen realm, risen to command the West's cavalry.
+~
+dfg 0 -1000 E
+74 2 1 18d10+1321 8d12+25
+1566 197146
+8 8 1
+BareHandAttack: 0
+E
+#20803
+king risen forgotten~
+a forgotten king~
+A risen king with a sun on his shield rises from his sarcophagus.
+~
+He ruled a kingdom of white cities and blue rivers that the West swallowed a
+thousand years ago. Now he waits to lead his people east, against people
+like him.
+~
+dbfl 0 -1000 E
+78 1 1 19d10+4927 8d20+42
+3195 730090
+8 8 1
+BareHandAttack: 0
+E
+#20804
+servant charnel~
+a charnel servant~
+A grey servant strips a body on a stone table.
+~
+Hollowed, patient, tireless. It sorts the dead, and you are not yet dead.
+~
+dfg 0 -900 E
+71 3 2 17d10+454 8d6+13
+1099 60502
+8 8 0
+BareHandAttack: 0
+E
+#20805
+hound bone~
+a bone hound~
+A hound of fused bones gnaws on scraps beneath the tables.
+~
+Built from the bones of a dozen wolves.
+~
+dfg 0 -900 E
+73 2 1 18d10+1303 8d12+25
+1532 191854
+8 8 0
+BareHandAttack: 4
+E
+#20806
+overseer mill~
+the mill overseer~
+A tall grey figure drives the slaves at the mill wheel.
+~
+It has ground ten thousand dead to powder.
+~
+dbf 0 -1000 E
+74 2 1 18d10+1321 8d12+25
+1566 197146
+8 8 0
+BareHandAttack: 0
+E
+#20807
+slave hollowed~
+a hollowed slave~
+A hollowed slave walks the mill wheel, empty-eyed.
+~
+It will walk until it falls, and then it will be ground too.
+~
+dfg 0 -600 E
+70 3 2 17d10+447 8d6+13
+1074 58810
+8 8 0
+BareHandAttack: 0
+E
+#20808
+horror bone~
+a bone horror~
+A shape of mismatched bones assembles itself and lurches toward you.
+~
+Too many limbs, too many skulls, no plan at all.
+~
+dfg 0 -1000 E
+74 2 1 18d10+1321 8d12+25
+1566 197146
+8 8 0
+BareHandAttack: 6
+E
+#20809
+captain bone~
+a bone captain~
+A skeletal captain in a plumed helm surveys the ranks.
+~
+It commands a thousand dead, and they move when it moves.
+~
+dfg 0 -1000 E
+75 2 1 18d10+1338 8d12+26
+1600 202510
+8 8 0
+BareHandAttack: 0
+E
+#20810
+titan grave~
+the grave titan~
+A titan of giant bones, taller than a tower, turns its house-sized skull toward you.
+~
+Built to break city walls. When it is finished, it will walk east.
+~
+dbfl 0 -1000 E
+78 1 1 19d10+4927 8d20+42
+3195 730090
+8 8 0
+BareHandAttack: 6
+E
+#20811
+weaver bone~
+a bone-weaver~
+A bone-weaver shapes a bone in its long grey fingers.
+~
+They can make anything from the dead. They would like to make something from
+you.
+~
+dfg 0 -1000 E
+73 2 1 18d10+1303 8d12+25
+1532 191854
+8 8 0
+BareHandAttack: 0
+E
+#20812
+matron weaver~
+the Matron of the Weavers~
+The Matron of the Weavers turns from a half-built dragon of bones.
+~
+The greatest of the bone-weavers, who built the bone engines of the Field of
+Broken Banners and the titan in the hollow. The dragon is her masterpiece.
+~
+dbfl 0 -1000 E
+78 1 1 19d10+4927 8d20+42
+3195 730090
+8 8 2
+BareHandAttack: 0
+E
+#20813
+priest bone~
+a skeletal priest~
+A skeletal priest kneels before the grey flame, chanting.
+~
+They pray to Nu'Groth for more dead to raise.
+~
+dfg 0 -1000 E
+74 2 1 18d10+1321 8d12+25
+1566 197146
+8 8 0
+BareHandAttack: 0
+E
+#20814
+dead ancient~
+one of the ancient dead~
+A brown, withered corpse older than any kingdom rises, whispering.
+~
+Dead since before the first city was built. It has forgotten everything
+except hunger.
+~
+dfg 0 -1000 E
+73 2 1 18d10+462 8d6+13
+1149 63958
+8 8 0
+BareHandAttack: 8
+E
+#20815
+champion grave~
+a grave champion~
+A risen champion in ancient armour bars the sanctum door.
+~
+The greatest warriors of a dozen fallen realms, chosen for the Gravelord's
+guard.
+~
+dfg 0 -1000 E
+75 2 1 18d10+1338 8d12+26
+1600 202510
+8 8 0
+BareHandAttack: 0
+E
+#20816
+gravelord lord grave~
+the Gravelord~
+The Gravelord rises from his throne of skulls, and every bone in the necropolis turns toward him.
+~
+The first mortal to kneel to Nu'Groth, rewarded with an eternity as lord of
+its dead. He has raised every army that has ever marched east, and he is
+raising the one that will take Midgaard.
+~
+dbfl 0 -1000 E
+80 0 0 20d10+11390 9d26+61
+7763 2304010
+8 8 1
+BareHandAttack: 0
+E
+#20817
+vulture bone bald~
+a bone vulture~
+A bald vulture as big as a man drops from the cliff, wings spread.
+~
+It has eaten nothing but the dead for a hundred years, and it is tired of
+waiting for you to die.
+~
+dfg 0 -500 E
+72 2 1 18d10+455 8d6+13
+1124 62218
+8 8 0
+BareHandAttack: 11
+E
+#20818
+gatherer tooth~
+the tooth-gatherer~
+The tooth-gatherer looks up from its work, its own mouth empty and grinning.
+~
+It collects the teeth of the dead and sets them in the walls. It would like
+yours.
+~
+dbfl 0 -900 E
+73 2 1 18d10+1303 8d12+25
+1532 191854
+8 8 0
+BareHandAttack: 0
+E
+#20819
+giant grave~
+a grave giant~
+A giant skeleton heaves itself up out of its burst mound.
+~
+A giant who died for the east, now marching for the West.
+~
+dfg 0 -900 E
+74 2 1 18d10+1321 8d12+25
+1566 197146
+8 8 0
+BareHandAttack: 6
+E
+#20820
+ghast catacomb~
+a catacomb ghast~
+A ghast drops out of a niche, jaws wide, reeking.
+~
+A grey, long-limbed eater of the dead, and of the living when it can get
+them.
+~
+dfg 0 -1000 E
+74 2 1 18d10+1321 8d12+25
+1566 197146
+8 8 0
+BareHandAttack: 8
+E
+#20821
+king forgotten oldest~
+the Forgotten King~
+The Forgotten King rises from his throne, dust pouring from his robes.
+~
+The first king the West ever took. Nobody remembers his name, not even him.
+~
+dbfl 0 -1000 E
+78 1 1 19d10+4927 8d20+42
+3195 730090
+8 8 0
+BareHandAttack: 0
+E
+#20822
+sentinel skull skeleton~
+a skull sentinel~
+A skeletal sentinel steps out of its niche, spear levelled.
+~
+A soldier of bone, set to guard the tower for ever.
+~
+dbf 0 -900 E
+74 2 1 18d10+1321 8d12+25
+1566 197146
+8 8 0
+BareHandAttack: 11
+E
+#20823
+necromancer bone~
+the bone necromancer~
+The bone necromancer turns from the parapet, her face a skull with living eyes.
+~
+The Gravelord's general, who raises the bone armies and sends them east. She
+was a priestess of Midgaard once.
+~
+dbfl 0 -1000 E
+78 1 1 19d10+4927 8d20+42
+3195 730090
+8 8 2
+BareHandAttack: 0
+E
+#20824
+guardian tomb~
+the tomb guardian~
+A tall armoured skeleton bars the way to the treasure.
+~
+The risen king's bodyguard, buried alive with him so that he would guard the
+treasure for ever. He has.
+~
+dbf 0 -900 E
+75 2 1 18d10+1338 8d12+26
+1600 202510
+8 8 0
+BareHandAttack: 0
+E
+#20825
+spider bone silk~
+a bone-silk spider~
+A white spider the size of a dog drops on a thread of bone-silk.
+~
+It spins silk from ground bone, and wraps the living in it.
+~
+dfg 0 -700 E
+73 2 1 18d10+462 8d6+13
+1149 63958
+8 8 0
+BareHandAttack: 4
+E
+$

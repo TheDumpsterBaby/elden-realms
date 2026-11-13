@@ -1,0 +1,129 @@
+#5200
+beholder eye dome~
+the Eye in the Dome~
+A vast floating eye turns slowly beneath the dome to fix its gaze on you.
+~
+A great round body that is mostly eye, crowned with writhing stalks that
+each end in a smaller one. It came into Thalos with the darkness generations
+ago and never left; the people of New Thalos still name it in their prayers,
+as a thing to be spared from.
+~
+abflnoq dhkp -870 S
+18 16 8 1d14+352 2d12+6
+299 53860
+8 8 0
+#5201
+lamia beast~
+the lamia~
+A lamia stands here with her head tilted, waiting for her next meal.
+~
+The upper body of a woman and the lower body of a great four-legged beast.
+Her face is painted as for a festival of Thalos that has not been held in
+generations, and she murmurs to herself in its old tongue as she looks you
+over.
+~
+acgj 0 -1000 S
+14 17 9 1d10+133 2d5+1
+161 14292
+8 8 2
+#5202
+mimic chest~
+the mimic~
+A strong chest lies in one corner of the room.
+~
+A wooden chest bound with iron straps and fastened with a heavy padlock. The
+wood is warm to the touch, and very faintly it rises and falls.
+~
+bqr 0 10 S
+14 17 9 1d20+151 2d7+0
+0 19486
+8 8 0
+#5203
+mimic boulder skeleton skeletons~
+the mimic~
+Two skeletons lie crushed under a large boulder.
+~
+A great boulder of a stone found nowhere near Thalos, and two clean
+skeletons pinned beneath it. There is not a scrap of cloth on the bones. The
+boulder has been licked clean too.
+~
+bqr 0 -10 S
+15 17 9 3d15+157 2d5+2
+0 22959
+8 8 0
+#5204
+mimic floor~
+the mimic~
+The stone floor of this house has been ripped apart.
+~
+The flagstones are heaved up in a ragged ring, as if something had burst out
+from beneath them. Or as if something were waiting, open-mouthed, for you to
+step in.
+~
+bqr 0 -140 S
+14 17 9 2d6+128 2d6+0
+0 16008
+8 8 0
+#5205
+mimic pottery shards~
+the mimic~
+Some broken shards of pottery lie strewn about the floor.
+~
+Shards of a great painted jar from before the fall. If you look long enough,
+the pieces seem to have shifted a little since you came in.
+~
+bqr 0 200 S
+14 17 9 1d8+117 2d5+2
+0 14407
+8 8 0
+#5206
+mimic planks wooden~
+the mimic~
+A few wooden planks lie stacked on a low shelf.
+~
+A neat stack of planks, free of dust in a room thick with it. In a city
+where nothing has been tidied for generations, that ought to worry you.
+~
+bqr 0 0 S
+14 17 9 1d12+128 2d5+2
+0 15949
+8 8 0
+#5207 
+lizard horned~
+the horned lizard~
+A small horned lizard flicks his tongue and slithers away.
+~
+A little grey desert lizard, one of the few living things in Thalos that
+nothing else seems to bother. It eats the flies off the produce cart.
+~
+h 0 300 S
+12 17 9 1d14+57 2d4+0
+0 7725
+8 8 0
+#5208
+golem stone warden~
+the stone warden~
+A stone warden stands at the parapet, faithfully keeping watch to the west.
+~
+A giant of carved stone, set on the towers by the mages of Thalos to guard
+the western road. It did not stop the darkness, and nobody ever told it the
+city had fallen. It is still on watch.
+~
+bilnopqr dfk 800 S
+18 16 8 6d6+391 4d7+2
+317 63422
+8 8 0
+#5209
+lamia beast starving~
+the starving lamia~
+A starving lamia stands here, her ribs showing, waiting for her next meal.
+~
+A lamia gone thin and wild with hunger, her long hair matted and her
+festival paint cracked and flaking. She no longer bothers to speak, but her
+lips keep moving.
+~
+abfg f -500 S
+14 17 9 1d12+157 2d5+2
+167 16938
+8 8 2
+$

@@ -1,0 +1,50 @@
+#62
+Claude~
+The Ironworks~
+6200 6299 15 2
+M 0 6200 1 6200	ore_carter
+M 0 6201 2 6201	gate_guard
+E 1 6201 100 16	fresh_spear
+E 1 6202 40 6	iron_cap
+M 0 6202 3 6202	conscript_labourer
+M 0 6203 1 6202	yard_overseer
+E 1 6203 100 16	overseer_cudgel
+M 0 6204 3 6203	smith
+E 1 6204 100 16	smith_hammer
+M 0 6202 2 6204	conscript_labourer
+M 0 6205 1 6204	whip_overseer
+E 1 6205 100 16	barbed_whip
+O 0 6200 1 6205	quench_trough
+M 0 6206 1 6205	apprentice
+M 0 6207 1 6206	armourer
+M 0 6208 1 6206	armoury_clerk
+M 0 6209 1 6207	master_weaponsmith
+E 1 6206 100 16	named_blade
+M 0 6210 1 6208	chief_overseer
+E 1 6203 100 16	overseer_cudgel
+E 1 6207 100 5	quilted_coat
+G 1 6208 100	chain_key
+M 0 6211 2 6210	slag_scavenger
+E 1 6209 70 16	slag_pick
+M 0 6212 2 6210	cinder_beetle
+M 0 6202 2 6211	conscript_labourer
+M 0 6213 1 6212	conscript_ringleader
+E 1 6210 100 16	sharpened_bar
+M 0 6202 2 6213	conscript_labourer
+M 0 6214 1 6214	mine_guard
+E 1 6201 100 16	fresh_spear
+M 0 6215 2 6215	miner
+E 1 6209 100 16	slag_pick
+M 0 6212 2 6216	cinder_beetle
+M 0 6215 2 6217	miner
+E 1 6209 100 16	slag_pick
+M 0 6216 1 6217	ash_wraith
+M 0 6216 2 6218	ash_wraith
+D 0 6218 5 1
+M 0 6217 1 6219	molten_hulk
+G 1 6211 100	heartstone
+G 1 6212 100	molten_maul
+M 0 6212 2 6219	cinder_beetle
+D 0 6219 4 1
+S
+$

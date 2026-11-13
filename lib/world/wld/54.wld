@@ -1,0 +1,5245 @@
+#5400
+The Entrance To The Exile's Rest~
+   The narrow foyer of the Exile's Rest, the oldest inn of New Thalos. A
+lamp burns in a niche by the door, as one burns by every door in the city,
+and the boards are worn grey by boots. An iron stair spirals up to the
+reception. From the south comes the noise of the common room, and the door
+west opens onto Sultan's Walk.
+~
+54 d 0
+D2
+The common room is loud and crowded.
+~
+~
+0 -1 5402
+D3
+Carts and porters pass along Sultan's Walk.
+~
+~
+0 -1 5420
+D4
+The iron stair spirals up to the reception.
+~
+~
+0 -1 5401
+S
+#5401
+The Reception Area~
+   A quiet room above the common hall, with a heavy desk, two worn sofas and
+a rack of keys. Every bed in the house is let twice over, to recruits on
+their way to the Supply Road and to merchants who can pay for a door that
+locks. A slate behind the desk lists the names of guests who did not come
+back for their things. The stair spirals down.
+~
+54 deh 0
+D5
+The stair spirals down to the foyer.
+~
+~
+0 -1 5400
+E
+slate names~
+Names chalked in a careful hand, each with a date. Some have been there so
+long the chalk has gone into the wood.
+~
+S
+#5402
+The Exile's Rest~
+   The common room of the Exile's Rest. A great round bar fills the east
+end, and behind it an old mage pours a row of cups at once without touching
+the jug. On a low stage a singer gives the old songs of Thalos, the ones
+about the white towers and the night they went dark, and the whole room
+sings the refrains. Booths along the walls are packed with tired people. The
+only way out is north.
+~
+54 d 0
+D0
+The foyer of the inn lies north.
+~
+~
+0 -1 5400
+E
+bar~
+The bar turns, very slowly, on no wheel you can see. The old mage keeps it
+turning out of habit, the regulars say, so he has something to think about
+other than his family.
+~
+S
+#5403
+The Medina~
+   The Medina is the widest road in New Thalos, and still it is too narrow.
+Families who arrived with nothing camp along its edges under scraps of
+canvas, and water-carriers shove through the crowd. A Flame-warden goes by
+with a taper, lighting the street lamps early. The Common Square opens south
+and the Medina runs on north.
+~
+54 0 1
+D0
+The Medina runs north toward the market.
+~
+~
+0 -1 5404
+D2
+The Common Square opens to the south.
+~
+~
+0 -1 5410
+S
+#5404
+The Medina~
+   The northern stretch of the Medina, between the market and the commons.
+Beggars sit against every wall, some of them old soldiers with no hands to
+hold out, and children work the crowd for dropped coin. A board nailed to a
+post lists the names of the newly arrived. The Market Square spreads out
+north and the Medina continues south.
+~
+54 0 1
+D0
+The crowded Market Square lies north.
+~
+~
+0 -1 5405
+D2
+The Medina runs south to the commons.
+~
+~
+0 -1 5403
+E
+board names post~
+Names of families come in from the villages. Beside some of them, in another
+hand: "looking for" and another name.
+~
+S
+#5405
+Southern Market Square~
+   The southern edge of the great Market Square, and the press of people
+here is a weight on the chest. Stalls sell rope, lamp oil, salt, second-hand
+boots taken off the dead. Hawkers cry prices that rise every week. The
+square continues north, east and west, and the Medina leads off south.
+~
+54 0 1
+D0
+~
+~
+0 -1 5406
+D1
+~
+~
+0 -1 5407
+D2
+~
+~
+0 -1 5404
+D3
+~
+~
+0 -1 5408
+S
+#5406
+The Center Of Market Square~
+   The heart of the Market Square, where the city's news is cried and its
+levies are read out. A tall statue of a man with a lamp stands in the middle
+on a worn plinth, and people touch its foot as they pass. The square spreads
+out in every direction.
+~
+54 0 1
+D0
+~
+~
+0 -1 5415
+D1
+~
+~
+0 -1 5417
+D2
+~
+~
+0 -1 5405
+D3
+~
+~
+0 -1 5409
+E
+statue~
+The statue shows the Sultan who led the people out of Old Thalos, a sword in
+one hand and a lamp in the other, looking back over his shoulder. The foot
+of the statue is polished bright by a hundred years of hands.
+~
+E
+plinth~
+Cut into the plinth: "WE CAME OUT OF THE DARK. WE DO NOT GO BACK."
+~
+S
+#5407
+Southeastern Market Square~
+   This corner of the market belongs to soldiers and those who want to be
+soldiers. Recruits from the levy compare blades they cannot afford, and
+hard-faced veterans home from the wall stand about not talking. The
+armourer's shop is east and the weaponsmith's south; the square continues
+north and west.
+~
+54 0 1
+D0
+~
+~
+0 -1 5417
+D1
+~
+~
+0 -1 5529
+D2
+~
+~
+0 -1 5536
+D3
+~
+~
+0 -1 5405
+S
+#5408
+Southwestern Market Square~
+   A quieter corner of the market, where the shopkeepers call softly to
+passers-by and nobody has much to spend. The smell of hard bread drifts from
+the bread stand to the south, and the general store opens to the west. The
+square spreads out north and east.
+~
+54 0 1
+D0
+~
+~
+0 -1 5409
+D1
+~
+~
+0 -1 5405
+D2
+A small bread stand lies south.
+~
+~
+0 -1 5535
+D3
+The general store is west.
+~
+~
+0 -1 5528
+S
+#5409
+Western Market Square~
+   The western side of the square is the townsfolk's end, where the old
+families of New Thalos buy what little the war leaves them. A crier calls
+the names of the men chosen for this season's levy, and women stand very
+still listening. West Main Street heads west toward the gate; the square
+fills the other directions.
+~
+54 0 1
+D0
+~
+~
+0 -1 5414
+D1
+~
+~
+0 -1 5406
+D2
+~
+~
+0 -1 5408
+D3
+~
+~
+0 -1 5426
+S
+#5410
+The Common Square~
+   Once a grassy field, the Common Square is trodden to bare earth by the
+refugees who sleep here when the city has no other room for them. Smoke from
+cook-fires hangs low. The river can be heard to the south, beyond the bridge
+and the South Gate. Isvar Drive runs east and west along the water, and the
+Medina leads north.
+~
+54 0 1
+D0
+The Medina leads north toward the market.
+~
+~
+0 -1 5403
+D1
+~
+~
+0 -1 5437
+D2
+The Southern Bridge crosses the Isvar.
+~
+~
+0 -1 5412
+D3
+~
+~
+0 -1 5436
+S
+#5411
+Outside The Southern Gate Of New Thalos~
+   The road from the south ends here at the city's southern gate, between
+two squat towers hung with the banner of Thalos: a tower and a rising sun.
+Carts queue on the verge to be searched before they may enter, and the
+guards on the wall watch the hills, not the carts. To the south the Supply
+Road winds away through the hills; the gate leads north into the city.
+~
+54 c 1
+D0
+~
+gate~
+1 5401 5413
+D2
+South of the gate, the Supply Road winds through the hills.
+~
+~
+0 -1 5026
+S
+#5412
+The Southern Bridge~
+   A stone bridge over the River Isvar, its parapet carved with the names of
+the families who built it. The water below runs fast and brown. A ladder
+goes down from the bridge to the river for those who fish or wash. The South
+Gate lies south and the Common Square north.
+~
+54 c 1
+D0
+~
+~
+0 -1 5410
+D2
+~
+~
+0 -1 5413
+D5
+~
+~
+0 -1 5485
+E
+names parapet~
+Hundreds of family names, cut small. Many are the names of streets in Old
+Thalos, carried here like everything else.
+~
+S
+#5413
+Inside The South Gate Of New Thalos~
+   Two stone towers frame the South Gate, an iron gate hung on heavy hinges
+and stamped with the tower and rising sun of Thalos. The builders of the new
+city spent on its walls what they did not have to spend on anything else,
+and it shows. A guard keeps a tally of every wagon that goes out toward the
+front. The bridge is north and the gate opens south.
+~
+54 0 1
+D0
+~
+~
+0 -1 5412
+D2
+~
+gate~
+1 5401 5411
+S
+#5414
+Northwestern Market Square~
+   This corner of the market is cleaner than the rest, swept by the bank's
+own porters. North is the shop of Ahkeem the tailor, whose cloth the city is
+known for, and west the doors of the Bank of New Thalos, where the war tithe
+is counted. The square continues east and south.
+~
+54 0 1
+D0
+~
+~
+0 -1 5514
+D1
+~
+~
+0 -1 5415
+D2
+~
+~
+0 -1 5409
+D3
+~
+~
+0 -1 5521
+S
+#5415
+Northern Market Square~
+   One of the busiest stretches of the city. Palace servants push through to
+the stalls, and tithe-wagons bound for the warehouses rumble across the
+stones. To the north Sultan's Walk runs toward the Palace and the inn; the
+market spreads east, west and south.
+~
+54 0 1
+D0
+~
+~
+0 -1 5418
+D1
+~
+~
+0 -1 5416
+D2
+~
+~
+0 -1 5406
+D3
+~
+~
+0 -1 5414
+S
+#5416
+Northeastern Market Square~
+   Noise and blood. The butchery to the east slaughters what the hill farms
+send in, and the gutters here run red into the drains. Flies are everywhere.
+Beside it, Vera's vegetable stall to the north is quiet by comparison. The
+market continues south and west.
+~
+54 0 1
+D0
+~
+~
+0 -1 5515
+D1
+~
+~
+0 -1 5522
+D2
+~
+~
+0 -1 5417
+D3
+~
+~
+0 -1 5415
+S
+#5417
+Eastern Market Square~
+   The eastern side of the market, where the square meets East Main Street.
+Every bargain made in New Thalos is made somewhere within a shout of here,
+and the tithe-collector's clerks take their share of each one. East Main
+leads east toward the gate; the market spreads north, south and west.
+~
+54 0 1
+D0
+~
+~
+0 -1 5416
+D1
+~
+~
+0 -1 5427
+D2
+~
+~
+0 -1 5407
+D3
+~
+~
+0 -1 5406
+S
+#5418
+Sultan's Walk~
+   A cobbled road leading north from the market. It is kept clear by the
+Sultan's guards, who move beggars on with the butts of their spears. North
+lies the way past the Palace and the Exile's Rest; south is the Market
+Square.
+~
+54 0 1
+D0
+~
+~
+0 -1 5419
+D2
+~
+~
+0 -1 5415
+S
+#5419
+Sultan's Walk~
+   The road runs between the high wall of the Palace and the side of the
+Exile's Rest. Through a small window in the inn's wall comes singing, always
+the same few songs of the old city. The Walk continues north and south.
+~
+54 0 1
+D0
+~
+~
+0 -1 5420
+D2
+~
+~
+0 -1 5418
+E
+window~
+A small thick-glassed window. Inside, a crowded room sings with its eyes
+closed.
+~
+S
+#5420
+Sultan's Walk~
+   The cobbles here are worn smooth by carts and boots. West, the Palace
+gate stands open under guard, and now and then a horn sounds within to
+announce some lord or petitioner. East is the door of the Exile's Rest, with
+its lamp burning in the niche. The Walk runs north and south.
+~
+54 0 1
+D0
+~
+~
+0 -1 5421
+D1
+~
+~
+0 -1 5400
+D2
+~
+~
+0 -1 5419
+D3
+~
+~
+0 -1 5558
+S
+#5421
+Sultan's Walk~
+   The northern end of Sultan's Walk, hemmed in by the Palace wall and the
+back of the inn. Ahead the towers of the North Gate rise, and their guard is
+heavy: the mountains lie that way, and things have come down out of them
+before. The Walk runs south toward the market.
+~
+54 0 1
+D0
+~
+~
+0 -1 5422
+D2
+~
+~
+0 -1 5420
+S
+#5422
+Inside The Northern Gate Of New Thalos~
+   Two stone towers flank the North Gate, its iron leaves stamped with the
+tower and rising sun of Thalos and barred more often than not. Guards on the
+wall look north toward the mountains and do not look down. Sultan's Walk
+runs south, the Casbah follows the wall east and west, and the gate opens
+north into the wild.
+~
+54 0 1
+D0
+~
+gate~
+1 5401 5567
+D1
+~
+~
+0 -1 5449
+D2
+~
+~
+0 -1 5421
+D3
+~
+~
+0 -1 5448
+S
+#5423
+Inside The West Gate Of New Thalos~
+   Two towers set in the wall loom over the West Gate. This is the gate the
+levies march out of, toward the Supply Road and Midgaard, and the stones in
+front of it are scratched with the names and marks of men who left. The
+Warriors' Guild lies south, Main Street heads east, and the gate opens west.
+~
+54 c 1
+D1
+~
+~
+0 -1 5424
+D2
+~
+~
+0 -1 5526
+D3
+~
+gate~
+1 5401 5569
+E
+names marks stones~
+Names, initials, a crude lamp, a crude tower. Some were scratched with a
+knife-point in a hurry. Few were ever scratched out again.
+~
+S
+#5424
+West Main Street~
+   West Main Street, the road of the levies. To the north the broad steps of
+Temple Square climb toward the Temple of the Last Flame, and south the
+hammering of the repair shop never quite stops. Main Street runs east and
+west.
+~
+54 0 1
+D0
+~
+~
+0 -1 5520
+D1
+~
+~
+0 -1 5425
+D2
+~
+~
+0 -1 5527
+D3
+~
+~
+0 -1 5423
+S
+#5425
+West Main Street~
+   A foreman bawls at two labourers who are mending a hole in the road with
+rubble from a fallen house. Narrow alleys run north and south behind the
+shops of the market. Main Street continues east and west.
+~
+54 0 1
+D0
+~
+~
+0 -1 5471
+D1
+~
+~
+0 -1 5426
+D2
+~
+~
+0 -1 5472
+D3
+~
+~
+0 -1 5424
+S
+#5426
+West Main Street~
+   The street runs between the back walls of the bank and the general store.
+To the west a work crew curses over the road; to the east the market roars.
+A poster is pasted to the wall of the store, half torn away and pasted over
+again.
+~
+54 0 1
+D1
+~
+~
+0 -1 5409
+D3
+~
+~
+0 -1 5425
+E
+poster~
+The poster shows a heavy man in red robes holding up a lamp. Beneath it:
+"THE WALL IS FED BY YOUR TITHE. THE SULTAN THANKS YOU."
+~
+S
+#5427
+East Main Street~
+   East Main, where the smell of the butchery meets the clang of the
+armourer's hammers. Tithe-wagons wait here in a line for the road east. The
+Market Square lies to the west and a junction to the east.
+~
+54 0 1
+D1
+~
+~
+0 -1 5428
+D3
+~
+~
+0 -1 5417
+S
+#5428
+East Main Street~
+   A junction on East Main. To the north Guildsman's Row begins, to the
+south a dark alley opens between the shops, and the street continues east
+and west. A sign hangs across the junction on a wire.
+~
+54 0 1
+D0
+~
+~
+0 -1 5464
+D1
+~
+~
+0 -1 5429
+D2
+~
+~
+0 -1 5465
+D3
+~
+~
+0 -1 5427
+E
+sign~
+The sign reads: "NO LOITERING. NO BEGGING. NO LIGHTS TO BE PUT OUT AFTER
+DARK. (By order of the Sultan of New Thalos.)"
+~
+S
+#5429
+East Main Street~
+   The Mercenaries' Guild stands on the south side of the street, and the
+men who lounge outside it watch everyone go by with an eye for what they are
+worth. Opposite, to the north, the apothecary's door stands open, breathing
+out smoke and incense. Main Street continues east and west.
+~
+54 0 1
+D0
+~
+~
+0 -1 5523
+D1
+~
+~
+0 -1 5430
+D2
+~
+~
+0 -1 5530
+D3
+~
+~
+0 -1 5428
+S
+#5430
+East Main Street~
+   The eastern end of Main Street. Braheem's magic shop leans over the road
+to the north, its windows crowded with scrolls. The East Gate lies a short
+way east, and Main Street runs back west toward the market.
+~
+54 0 1
+D0
+~
+~
+0 -1 5524
+D1
+~
+~
+0 -1 5431
+D3
+~
+~
+0 -1 5429
+S
+#5431
+Inside the Eastern Gate of New Thalos~
+   The East Gate is the quietest of the four, hung between two towers built
+into the wall, and stamped with the tower and rising sun of Thalos like the
+rest. North of it stands the entrance to the Mages' Tower. Main Street heads
+west toward the market and the gate opens east.
+~
+54 c 1
+D0
+~
+~
+0 -1 5525
+D1
+~
+gate~
+1 5401 5568
+D3
+~
+~
+0 -1 5430
+S
+#5432
+Cassandra's Catch Of The Day~
+   The fish market. The smell is a wall. Eels writhe in barrels, river carp
+lie in rows on wet slate, and a heap of salt fish waits to be packed in
+casks for the soldiers on the wall. The fishwife watches you with a sailor's
+patience. The door leads south to Isvar Drive.
+~
+54 cd 0
+D2
+~
+~
+0 -1 5441
+S
+#5433
+West Isvar Drive~
+   The warehouse quarter at the western end of Isvar Drive. Porters carry
+sacks of grain and bolts of cloth from the river boats into the warehouses,
+to be packed and sent to the front. A clerk counts every sack. A warehouse
+door opens north and the road leads east.
+~
+54 0 1
+D0
+~
+~
+0 -1 5540
+D1
+~
+~
+0 -1 5434
+S
+#5434
+West Isvar Drive~
+   Dockworkers shoulder past with crates, in too much of a hurry to say
+sorry. The doors of the export warehouse stand open to the north, and the
+River Isvar slides by to the south. Isvar Drive continues east and west.
+~
+54 0 1
+D0
+~
+~
+0 -1 5541
+D1
+~
+~
+0 -1 5435
+D3
+~
+~
+0 -1 5433
+S
+#5435
+West Isvar Drive~
+   The cobbles are wet and slick, running down toward the boat ramp to the
+south, and someone has bolted an iron rail along the wall for those who
+slip. The shipwright's yard is north. Isvar Drive continues east and west.
+~
+54 0 1
+D0
+~
+~
+0 -1 5542
+D1
+~
+~
+0 -1 5436
+D2
+~
+~
+0 -1 5443
+D3
+~
+~
+0 -1 5434
+S
+#5436
+West Isvar Drive~
+   A cold wind comes off the river here and carries the shouting of the
+warehouse foremen from the west. On the far bank there is nothing but reeds.
+The Common Square opens to the east and Isvar Drive runs west.
+~
+54 0 1
+D1
+~
+~
+0 -1 5410
+D3
+~
+~
+0 -1 5435
+S
+#5437
+East Isvar Drive~
+   Hammering and the hiss of hot iron come from the forge to the north,
+where the farrier shoes the horses that pull the tithe-wagons. A thin boy
+watches you from a doorway and runs off. The Common Square lies west and
+Isvar Drive continues east.
+~
+54 0 1
+D0
+~
+~
+0 -1 5544
+D1
+~
+~
+0 -1 5439
+D3
+~
+~
+0 -1 5410
+S
+#5438
+East Isvar Drive~
+   A plain stretch of Isvar Drive between the hay loft of the stables to the
+north and the river to the south. Straw blows along the gutters. The road
+runs east and west.
+~
+54 0 1
+D1
+~
+~
+0 -1 5440
+D3
+~
+~
+0 -1 5439
+S
+#5439
+East Isvar Drive~
+   Wisps of hay on the cobbles mark the Royal Stables, north. The Sultan's
+horses are kept there, and the couriers' mounts that carry word to and from
+Midgaard. Isvar Drive continues east and west.
+~
+54 0 1
+D0
+~
+~
+0 -1 5545
+D1
+~
+~
+0 -1 5438
+D3
+~
+~
+0 -1 5437
+S
+#5440
+East Isvar Drive~
+   A back alley opens north between the buildings, and even at noon it is
+black as a well. Drunken voices come out of it, and sometimes a cat
+screaming, and once in a while nothing at all, which is worse. Isvar Drive
+runs east and west.
+~
+54 0 1
+D0
+The alley is black, and no light seems to go into it.
+~
+~
+0 -1 5468
+D1
+~
+~
+0 -1 5441
+D3
+~
+~
+0 -1 5438
+S
+#5441
+East Isvar Drive~
+   The smell announces the fish market, to the north, long before its door.
+Fishwives call the day's catch over the noise of the gulls. The river runs
+alongside to the south, and Isvar Drive continues east and west.
+~
+54 0 1
+D0
+~
+~
+0 -1 5432
+D1
+~
+~
+0 -1 5442
+D3
+~
+~
+0 -1 5440
+S
+#5442
+East Isvar Drive~
+   The eastern end of Isvar Drive. Gulls and crows squabble over heaps of
+refuse, and a stink rolls down from the dump to the north. The river is
+clean enough here; the smell is all the city's. A sign hangs over the dump
+gate. The road leads back west.
+~
+54 0 1
+D0
+~
+~
+0 -1 5547
+D3
+~
+~
+0 -1 5441
+E
+sign~
+Painted over an older sign: "THE DUMP OF NEW THALOS. Enter at your own risk.
+Burn nothing. Bury nothing. -- the Flame-wardens"
+~
+S
+#5443
+The Boat Ramp~
+   A sloping slab of stone leads down into the River Isvar. Barges are
+moored along it, low in the water with grain from upriver, and their masters
+are off drinking in the wharf taverns. The water laps at the foot of the
+ramp to the south, and Isvar Drive is north.
+~
+54 c 1
+D0
+~
+~
+0 -1 5435
+D2
+~
+~
+0 -1 5486
+S
+#5444
+West Casbah~
+   The western end of the Casbah, where the avenue under the wall stops. The
+gate of the city jail stands to the south, and the narrow windows above it
+are barred. A stair spirals up into the northwest tower. The Casbah leads
+back east.
+~
+54 0 1
+D1
+~
+~
+0 -1 5445
+D2
+~
+gate~
+2 5493 5553
+D4
+~
+~
+0 -1 5559
+S
+#5445
+West Casbah~
+   Guards are thick on this end of the Casbah. North, the city wall rises
+sheer; south, white steps climb between pillars to City Hall, where the
+ration rolls and levy lists are kept and where queues form before dawn. The
+Casbah runs east and west.
+~
+54 0 1
+D1
+~
+~
+0 -1 5446
+D2
+~
+~
+0 -1 5554
+D3
+~
+~
+0 -1 5444
+S
+#5446
+The Casbah~
+   Here the Palace wall bends away to the south, and a dark alley runs down
+beside it. West are the steps of City Hall. The Casbah runs on east under
+the city wall.
+~
+54 0 1
+D1
+~
+~
+0 -1 5447
+D2
+~
+~
+0 -1 5458
+D3
+~
+~
+0 -1 5445
+S
+#5447
+The Casbah~
+   Sentries walk the top of the wall overhead, their lanterns swinging. To
+the south the Palace wall stands blank and high, with no windows on this
+side. The Casbah runs east and west.
+~
+54 0 1
+D1
+~
+~
+0 -1 5448
+D3
+~
+~
+0 -1 5446
+S
+#5448
+The Casbah~
+   Cobbles run along the foot of the north wall. Someone has chalked a lamp
+on the stones at head height, and under it a row of tally marks, one for
+each night the wall has held. The North Gate is east and the Casbah runs
+west.
+~
+54 0 1
+D1
+~
+~
+0 -1 5422
+D3
+~
+~
+0 -1 5447
+E
+lamp tally marks chalk~
+A chalked lamp and hundreds of tally marks in rows. The newest are fresh.
+Nobody admits to making them.
+~
+S
+#5449
+The Casbah~
+   The Casbah is busy here: messenger boys run between City Hall and the
+gate, and old scholars shuffle toward the library at the far end. The towers
+of the North Gate stand just west, and the avenue continues east.
+~
+54 0 1
+D1
+~
+~
+0 -1 5450
+D3
+~
+~
+0 -1 5422
+S
+#5450
+The Casbah~
+   The city wall towers over the road, and the sound of a whetstone on steel
+comes down from a big sentry who sits on the parapet staring north. East is
+the crossing with Guildsman's Row; the North Gate is a short walk west.
+~
+54 0 1
+D1
+~
+~
+0 -1 5451
+D3
+~
+~
+0 -1 5449
+S
+#5451
+The Casbah~
+   The crossing of the Casbah and Guildsman's Row, and the noise of the
+guilds rolls up from the south: hammers, saws, the stink of the tanners'
+vats, smoke from the bowyers' fires. The Casbah continues east and west and
+the Row leads south.
+~
+54 0 1
+D1
+~
+~
+0 -1 5452
+D2
+~
+~
+0 -1 5460
+D3
+~
+~
+0 -1 5450
+S
+#5452
+The Casbah~
+   The avenue runs between the city wall and the back of the Masons' Guild.
+Nurses walk children here, where the wall is close and thick and the guards
+are near. It is the safest street in the city, people say. The Casbah runs
+east and west.
+~
+54 0 1
+D1
+~
+~
+0 -1 5453
+D3
+~
+~
+0 -1 5451
+S
+#5453
+The Casbah~
+   Toward the northeast corner of the city the crowds thin. Old men on
+sticks and young clerks with ink on their fingers are nearly the only ones
+who come this way, toward the library. The Casbah runs east and west.
+~
+54 0 1
+D1
+~
+~
+0 -1 5454
+D3
+~
+~
+0 -1 5452
+S
+#5454
+The Casbah~
+   The Casbah ends at the northeast corner of the wall and turns south into
+Lantern Row. A spiral stair climbs into the northeast tower, where a lamp
+has burned every night since the wall was raised. The avenue leads back
+west.
+~
+54 0 1
+D2
+~
+~
+0 -1 5455
+D3
+~
+~
+0 -1 5453
+D4
+~
+~
+0 -1 5562
+S
+#5455
+Lantern Row~
+   A short street, newer than the rest, where every house hangs a lantern
+over its door. The library is entered through a door to the west, and an old
+man plays chess on a bench outside it. The Casbah lies north and the Row
+goes on south to the dance hall.
+~
+54 0 1
+D0
+~
+~
+0 -1 5454
+D2
+~
+~
+0 -1 5456
+D3
+~
+~
+0 -1 5551
+S
+#5456
+Lantern Row~
+   Lantern Row ends at the doors of the dance hall, west, where the city
+dances on feast nights as though it had nothing to remember. On other nights
+the hall is used for the funerals of soldiers sent home. The Row runs back
+north.
+~
+54 0 1
+D0
+~
+~
+0 -1 5455
+D3
+~
+~
+0 -1 5552
+S
+#5457
+Underground~
+   A cramped tunnel of old brick beneath the city, older than New Thalos
+itself, its builders unknown. Water drips. It runs north and south.
+~
+54 ad 1
+D0
+~
+~
+0 -1 5478
+D2
+~
+~
+0 -1 5480
+S
+#5458
+Alley~
+   A dark alley squeezed between the Palace wall and the side of City Hall.
+Rats and spiders, rubbish, a smell of damp. Nobody comes here who has
+anywhere else to be. The Casbah is north and the alley runs south.
+~
+54 0 1
+D0
+~
+~
+0 -1 5446
+D2
+~
+~
+0 -1 5459
+S
+#5459
+Alley~
+   The alley ends against a blank wall. Set into the cobbles is an iron
+manhole cover, scratched bright around its rim as if it is often lifted. The
+only other way is back north.
+~
+54 a 1
+D0
+~
+~
+0 -1 5458
+D5
+An iron manhole covers an opening in the road.
+~
+manhole hole man~
+1 -1 5475
+S
+#5460
+Guildsman's Row~
+   Guildsman's Row is nearly as loud as the market. Every guild of the
+city's working folk has its hall along it, and whatever the front needs is
+made here. On this stretch the bowyers and fletchers are west and the masons
+east. The Row runs south and the Casbah lies north.
+~
+54 0 1
+D0
+~
+~
+0 -1 5451
+D1
+~
+~
+0 -1 5556
+D2
+~
+~
+0 -1 5461
+D3
+~
+~
+0 -1 5555
+S
+#5461
+Guildsman's Row~
+   Bolts of grey cloth are carried out of the Weavers' Guild, west, faster
+than they can be woven; the Craftsmen's Guild opposite, east, rattles with
+saws. The Row continues north and south.
+~
+54 0 1
+D0
+~
+~
+0 -1 5460
+D1
+~
+~
+0 -1 5507
+D2
+~
+~
+0 -1 5462
+D3
+~
+~
+0 -1 5506
+S
+#5462
+Guildsman's Row~
+   The Tanners' Guild opens to the west, its vats making the air sting. To
+the east a carved marble door leads into the Hall of the Saints, and people
+take off their caps as they pass it. The Row runs north and south.
+~
+54 0 1
+D0
+~
+~
+0 -1 5461
+D1
+~
+~
+0 -1 5511
+D2
+~
+~
+0 -1 5463
+D3
+~
+~
+0 -1 5564
+S
+#5463
+Guildsman's Row~
+   When the guilds were built there was a little ground left over, and on it
+the city raised the Hall of the Saints to those who brought it out of Old
+Thalos. Its door is east. The Row runs north and south.
+~
+54 0 1
+D0
+~
+~
+0 -1 5462
+D1
+~
+~
+0 -1 5516
+D2
+~
+~
+0 -1 5464
+S
+#5464
+Guildsman's Row~
+   The southern end of the Row is cramped and worn down by apprentices
+running goods from the guilds to the market shops. The guildhalls lie north
+and East Main Street south.
+~
+54 0 1
+D0
+~
+~
+0 -1 5463
+D2
+~
+~
+0 -1 5428
+S
+#5465
+Alley~
+   The alley off East Main is utterly dark. Lamps carried into it go dim and
+blue and show nothing, and the city's people walk around it rather than
+through. East Main Street is north; the alley goes on south.
+~
+54 ac 1
+D0
+~
+~
+0 -1 5428
+D2
+~
+~
+0 -1 5466
+S
+#5466
+Alley~
+   Darkness presses in, thick enough that the walls can only be found by
+touch. Somewhere close a leather-worker's door stands to the west, and the
+alley goes on north and east.
+~
+54 a 1
+D0
+~
+~
+0 -1 5465
+D1
+~
+~
+0 -1 5467
+D3
+~
+~
+0 -1 5537
+S
+#5467
+Alley~
+   In the black of the alley a door leaks a little dirty light and the noise
+of drinking: the Smuggler's Inn, east. The alley turns west and south.
+~
+54 a 1
+D1
+~
+~
+0 -1 5538
+D2
+~
+~
+0 -1 5468
+D3
+~
+~
+0 -1 5466
+S
+#5468
+Alley~
+   The darkness thins a little toward the south, where the alley comes out
+on Isvar Drive. Something small skitters away underfoot. The alley leads
+north into the black.
+~
+54 ac 1
+D0
+~
+~
+0 -1 5467
+D2
+~
+~
+0 -1 5440
+S
+#5469
+Alley~
+   A tight corner of the alley behind the temple, its walls rising north and
+west. The dirt is churned with footprints, far more than such a place should
+see, and most of them lead east. The alley runs east and south.
+~
+54 a 1
+D1
+~
+~
+0 -1 5470
+D2
+~
+~
+0 -1 5471
+E
+footprint footprints prints~
+Many feet, bare and booted, all going east toward the dead end and none
+coming back the way they went.
+~
+S
+#5470
+Alley~
+   The alley dead-ends here. The ground is worn smooth, and set in it is a
+small iron manhole. The alley leads back west.
+~
+54 a 1
+D3
+~
+~
+0 -1 5469
+D5
+A small iron manhole is set in the ground.
+~
+manhole man hole~
+1 -1 5478
+S
+#5471
+Alley~
+   A narrow alley between the temple and the bank. The road crew's shouting
+comes from the south. The ground is broken, and a pothole in the middle of
+it holds black water. The alley runs north and south.
+~
+54 ac 1
+D0
+~
+~
+0 -1 5469
+D2
+~
+~
+0 -1 5425
+E
+pothole~
+Black water and rubble. A copper or two might have been lost in it once.
+They are gone now.
+~
+S
+#5472
+Alley~
+   A cramped alley between the repair shop and the general store, full of
+dust and rat droppings. West Main Street is north and the alley leads south.
+~
+54 ac 1
+D0
+~
+~
+0 -1 5425
+D2
+~
+~
+0 -1 5473
+S
+#5473
+Alley~
+   A corner of the alley behind the warehouses and the Warriors' Guild.
+There are scrapes on the cobbles leading west, as if something heavy is
+often dragged that way. The alley runs north and east.
+~
+54 a 1
+D0
+~
+~
+0 -1 5472
+D1
+~
+~
+0 -1 5474
+E
+scrapes scrapings~
+Long scrapes on the stones that run up to the guild wall to the west and
+stop dead.
+~
+S
+#5474
+Alley~
+   The alley ends here, and so do the footprints in the dust. A round iron
+plate is set into the ground. The alley leads back west.
+~
+54 a 1
+D3
+~
+~
+0 -1 5473
+D5
+A round iron manhole is set into the ground.
+~
+manhole man hole~
+1 -1 5481
+S
+#5475
+Underground~
+   A small passage beneath the city, low enough to stoop in. A thin grey
+glint of daylight shows around the manhole overhead. The passage runs south.
+~
+54 ad 1
+D2
+~
+~
+0 -1 5476
+D4
+~
+man hole manhole~
+1 -1 5459
+S
+#5476
+Underground~
+   The tunnel walls sweat in the dark and the floor is slick with grey mud.
+Faint scratches on the brick might be words. The passage runs north and
+south.
+~
+54 ad 1
+D0
+~
+~
+0 -1 5475
+D2
+~
+~
+0 -1 5477
+S
+#5477
+Underground~
+   The tunnel branches here into three: north, east and west. Someone has
+marked each way with a smear of soot shaped like a little flame.
+~
+54 ad 1
+D0
+~
+~
+0 -1 5476
+D1
+~
+~
+0 -1 5478
+D3
+~
+~
+0 -1 5479
+S
+#5478
+Underground~
+   The tunnel bends here, south and west. A small glint of light shows
+around the manhole above, and a heap of old rags in the corner looks as
+though someone has been sleeping on it.
+~
+54 ad 1
+D2
+~
+~
+0 -1 5457
+D3
+~
+~
+0 -1 5477
+D4
+~
+manhole man hole~
+1 -1 5470
+S
+#5479
+Underground~
+   The passage stops at a wall of dressed stone, finer than the brick of the
+tunnel. From beyond it, very faintly, comes chanting. The dust on the floor
+before the wall has been swept clean, though no door can be seen. The way
+back is east.
+~
+54 ad 1
+D1
+~
+~
+0 -1 5477
+S
+#5480
+Underground~
+   The tunnel narrows until it brushes both shoulders. Somewhere water runs
+in a pipe, and the brick is furred with pale mould. The passage runs north
+and south.
+~
+54 ad 1
+D0
+~
+~
+0 -1 5457
+D2
+~
+~
+0 -1 5481
+S
+#5481
+Underground~
+   The passage turns here, north and east. Through the manhole overhead come
+muffled sounds of the city: wheels, voices, a dog, a bell. Down here they
+sound very far away.
+~
+54 ad 1
+D0
+~
+~
+0 -1 5480
+D1
+~
+~
+0 -1 5482
+D4
+~
+manhole man hole~
+1 -1 5474
+S
+#5482
+Underground~
+   A long brick tunnel running east and west, its roof sagging in places and
+shored with timber. It would be easy to lose the way down here.
+~
+54 ad 1
+D1
+~
+~
+0 -1 5492
+D3
+~
+~
+0 -1 5481
+S
+#5483
+River Isvar~
+   The river runs up against an iron grating set in the eastern wall. High
+above, guards look down to see whether you mean to leave the city by water;
+only they can raise it. The reek of the dump drifts down from the north
+bank. The river flows west back into the city.
+~
+54 0 7
+D1
+~
+~
+0 -1 5624
+D3
+~
+grating~
+1 -1 5484
+S
+#5484
+River Isvar~
+   The slow current carries everything east. Up on Isvar Drive people walk
+along the bank and do not look at the water. West is the southern bridge;
+east is the iron grating that shuts the river off from the country.
+~
+54 0 7
+D1
+~
+grating~
+1 -1 5483
+D3
+~
+~
+0 -1 5485
+S
+#5485
+River Isvar~
+   The river passes under the southern bridge, and every splash echoes off
+the stone. A ladder bolted to the pier climbs up to the bridge. The water
+runs on east and west.
+~
+54 0 7
+D1
+~
+~
+0 -1 5484
+D3
+~
+~
+0 -1 5486
+D4
+~
+~
+0 -1 5412
+S
+#5486
+River Isvar~
+   The busiest stretch of the river, crowded with moored barges from the
+boat ramp to the north. Ropes cross the water at head height. East, the
+southern bridge spans the river; it runs on west.
+~
+54 0 7
+D0
+~
+~
+0 -1 5443
+D1
+~
+~
+0 -1 5485
+D3
+~
+~
+0 -1 5487
+S
+#5487
+River Isvar~
+   The river comes into the city here, through a huge iron grating in the
+western wall. Guards watch from the wall above and open it only on an order.
+Weed and worse hang from its bars. The river flows east.
+~
+54 0 7
+D1
+~
+~
+0 -1 5486
+D3
+~
+grating~
+1 -1 5623
+S
+#5488
+A Dark Passage~
+   A small hand-dug passage that ends in a wall of earth to the west. The
+wall looks wrong somehow, too smooth, but nothing can be found in it. The
+only way on is east.
+~
+54 ad 1
+D1
+~
+~
+0 -1 5489
+S
+#5489
+A Dark Passage~
+   The passage runs east and west. The north wall has the same wrong
+smoothness, though searching it finds nothing, and through it, faintly, come
+voices.
+~
+54 ad 1
+D1
+~
+~
+0 -1 5490
+D3
+~
+~
+0 -1 5488
+S
+#5490
+A Dark Passage~
+   A great boulder half blocks the passage, and the tunnel squeezes past it
+to the east and west. Something round has been bored into its face.
+~
+54 ad 1
+D1
+~
+~
+0 -1 5491
+D3
+~
+~
+0 -1 5489
+E
+boulder~
+A huge boulder, older than the tunnel. In its centre someone has carved a
+perfectly round hole.
+~
+S
+#5491
+A Dark Passage~
+   The passage ends. In a niche a small fire burns that gives heat but does
+not move or flicker. A short ladder lies half buried in the dirt, and above
+it a square of boards is set into the roof. The way back is west.
+~
+54 ad 1
+D3
+~
+~
+0 -1 5490
+D4
+~
+secret~
+1 -1 5570
+E
+fire~
+The flames are frozen in place. They still give off heat, but they do not
+burn. Beside the niche is a small hole about the size of a piece of
+charcoal.
+~
+E
+ladder boards roof~
+A short ladder that reaches the boards in the roof. They look as though they
+could be pushed up.
+~
+S
+#5492
+Underground~
+   The tunnel runs on east and west. The bricks here are blackened, as
+though a fire once burned along the whole passage.
+~
+54 ad 1
+D1
+~
+~
+0 -1 5493
+D3
+~
+~
+0 -1 5482
+S
+#5493
+Underground~
+   East and west the tunnel goes on. A rotted lantern hangs on a nail,
+empty, and below it someone has scratched a lamp into the brick.
+~
+54 ad 1
+D1
+~
+~
+0 -1 5500
+D3
+~
+~
+0 -1 5492
+S
+#5500
+Underground~
+   The brick gives way to raw earth held up with planks. This part was dug
+later, and in a hurry. The passage runs east and west.
+~
+54 ad 0
+D1
+~
+~
+0 -1 5501
+D3
+~
+~
+0 -1 5493
+S
+#5501
+Underground~
+   A tunnel of packed earth and old planking. Roots hang from the roof, so
+this must run beneath the wall itself. It goes east and west.
+~
+54 ad 0
+D1
+~
+~
+0 -1 5502
+D3
+~
+~
+0 -1 5500
+S
+#5502
+Underground~
+   The earthen tunnel runs east and west, and the air smells of the open
+country. Tool marks show in the walls, shovels and picks, by many hands.
+~
+54 ad 0
+D1
+~
+~
+0 -1 5488
+D3
+~
+~
+0 -1 5501
+S
+#5503
+Clerics' Sanctum~
+   A silent room at the foot of the stair below the clerics' bar, lit by a
+single lamp lit from the Last Flame itself. The master of the clerics waits
+here to teach those who are ready. No one speaks above a whisper. The stair
+leads back up.
+~
+54 deh 0
+D1
+The floor at the foot of the eastern wall has faint scratches in it.
+~
+secret door~
+1 -1 5479
+D4
+~
+~
+0 -1 5519
+S
+#5504
+The Chamber Of The High Priest~
+   The plain cell of the High Warden of the Flame, the holiest man in the
+city and the Sultan's counsellor in all matters of faith. A cot, a prayer
+stool, a lamp. He is known for his temper, and he does not like to be
+interrupted at prayer. The only exit is south.
+~
+54 d 0
+D2
+~
+~
+0 -1 5508
+S
+#5505
+By The Altar~
+   The northern end of the temple. On an altar of black onyx burns the altar
+fire, kindled from the Last Flame in the Sultan's shrine and never once let
+go out. Two wardens tend it at all hours. Behind the altar rises a tall
+statue of the first Flame-keeper, who carried the fire out on the Night of
+Leaving. The nave lies south.
+~
+54 deg 0
+D2
+~
+~
+0 -1 5509
+E
+statue keeper~
+The first Flame-keeper is carved as a thin, ragged woman shielding a small
+flame with her hands, looking back over her shoulder at something behind
+her.
+~
+E
+fire flame altar~
+A small, steady, very bright flame in a bowl on black onyx. The wardens
+never let anyone else closer than arm's length.
+~
+S
+#5506
+The Weavers' Guild~
+   Bales of raw wool and flax from the hill farms are stacked to the roof,
+and rows of looms clatter without rest. Most of the cloth is grey: cloaks
+and blankets for the soldiers on the wall. A boy comes in, takes an armful
+of it, and goes out. The Row is east.
+~
+54 d 0
+D1
+~
+~
+0 -1 5461
+S
+#5507
+The Craftsmans' Guild~
+   A crowded workshop where carpenters, wheelwrights and coopers work elbow
+to elbow, building carts, barrels and spear-shafts for the front. Everyone
+is behind and everyone is shouting. The Row is west.
+~
+54 d 0
+D3
+~
+~
+0 -1 5461
+S
+#5508
+Inside The Temple~
+   A side aisle of the temple, plainer than the nave but kept spotless. To
+the north is the High Warden's door, with a notice on it in large letters.
+The entrance to the clerics' guild is south and the nave lies east.
+~
+54 dg 0
+D0
+~
+~
+0 -1 5504
+D1
+~
+~
+0 -1 5509
+D2
+~
+~
+0 -1 5512
+E
+notice door~
+In large letters: "AT PRAYER. DO NOT DISTURB."
+~
+S
+#5509
+Inside The Temple~
+   The nave of the Temple of the Last Flame. Marble pillars rise to a dark
+roof, and between them carvings show the flight from Old Thalos: the towers
+burning, the long road, the saints with their lamp. Rows of benches face the
+altar. Hundreds of small lamps burn along the walls, one for every family in
+the city, a black flame painted on those whose people are dead. The altar is
+north, the donation room east, a side aisle west and the gates south.
+~
+54 dgh 0
+D0
+~
+~
+0 -1 5505
+D1
+~
+~
+0 -1 5510
+D2
+~
+~
+0 -1 5513
+D3
+~
+~
+0 -1 5508
+E
+carvings pillars~
+The carvings are worn smooth where people have touched them. In the last
+panel a great darkness stands behind the city, with no face.
+~
+E
+lamps~
+Each small lamp has a family's name scratched on its base. A few have gone
+cold, and nobody has taken them down.
+~
+S
+#5510
+The Donation Room~
+   A bare side room built in the hungry years, when the city first filled
+with refugees. Whatever is given here goes to those who arrive with nothing,
+and a warden's curse goes with anyone who takes more than they need. The
+nave lies west.
+~
+54 cd 0
+D3
+~
+~
+0 -1 5509
+S
+#5511
+The Museum Of The Greater Gods~
+   The northern half of the Hall of the Saints, where four tall statues
+stand in the lamplight. The people of New Thalos raised them to the saints
+who led them out of the dark, and to the dark itself, so that none of it
+would be forgotten. The hall continues south and the Row is west.
+~
+54 cd 0
+D2
+~
+~
+0 -1 5516
+D3
+~
+~
+0 -1 5462
+S
+#5512
+The Entrance To The Guild of Clerics~
+   The guild hall of the temple's clerics, low and plain. Shaven-headed
+novices in grey robes talk quietly in pairs before they are sent out to the
+commons or to the front. The temple proper is north and the clerics' bar
+south.
+~
+54 deh 0
+D0
+~
+~
+0 -1 5508
+D2
+~
+~
+0 -1 5519
+S
+#5513
+The Temple Gates~
+   Two wrought iron gates stand open before the Temple of the Last Flame.
+They were made to be shut, and the wardens drill at shutting them: the city
+has seen what happens to a temple that is taken. The nave is north, and the
+steps lead down south to Temple Square.
+~
+54 0 1
+D0
+~
+~
+0 -1 5509
+D2
+~
+~
+0 -1 5520
+D5
+~
+~
+0 -1 5520
+S
+#5514
+Ahkeem's Stuff~
+   A tailor's shop thick with incense smoke, its walls hung with bolts of
+patterned cloth such as the old city used to weave, before. Ahkeem keeps the
+old patterns alive, and charges for it. The door is south.
+~
+54 d 0
+D2
+~
+~
+0 -1 5414
+S
+#5515
+Vera's Veggies~
+   A busy stall of onions, beans, turnips and roots from the hill farms,
+never enough of any of them. Customers haggle over every bunch. Vera herself
+is the kind of woman who looks at you as if you have not been eating
+properly. The market is south.
+~
+54 d 0
+D2
+~
+~
+0 -1 5416
+S
+#5516
+The Museum Of The Greater Gods~
+   The southern half of the Hall of the Saints. Four more statues stand
+here, and the floor before them is scattered with dry flowers and small clay
+lamps left by the faithful. The hall continues north and the Row is west.
+~
+54 cd 0
+D0
+~
+~
+0 -1 5511
+D3
+~
+~
+0 -1 5463
+S
+#5517
+The Base Of The Tower~
+   A cold room whose only feature is an old wooden stair spiralling up the
+wall. Up there, they say, the master of the war-magi will teach those worth
+teaching. The courtyard is east.
+~
+54 de 0
+D1
+~
+~
+0 -1 5518
+D2
+There are small scratches on the floor near the base of the southern wall.
+~
+door secret~
+1 -1 5524
+D4
+~
+~
+0 -1 5548
+S
+#5518
+The Mages' Courtyard~
+   A small tiled courtyard with a dry fountain in the middle and four iron
+benches where young magi sit and argue over the West. A two-storey tower
+stands to the west, where the master works. The entrance hall is south.
+~
+54 e 1
+D2
+~
+~
+0 -1 5525
+D3
+~
+~
+0 -1 5517
+S
+#5519
+Nectar Of The Gods~
+   The clerics' bar is warmer and softer than anything else in the temple,
+the one comfort the order allows itself after nights with the dying.
+Cushions, low tables, weak wine. In the corner a stair goes down to the
+meditation chambers. The guild entrance is north.
+~
+54 deh 0
+D0
+~
+~
+0 -1 5512
+D5
+~
+~
+0 -1 5503
+S
+#5520
+Temple Square~
+   A wide paved square before the temple steps, where preachers stand on
+boxes and the faithful gather. Each evening the wardens bring fire from the
+altar down these steps to light the city's street lamps. The steps climb
+north to the temple gates and West Main Street is south.
+~
+54 cg 1
+D0
+~
+~
+0 -1 5513
+D2
+~
+~
+0 -1 5424
+D4
+~
+~
+0 -1 5513
+S
+#5521
+The Bank~
+   A tall hall of black marble and faded red hangings, the one grand room
+left in the city outside the Palace. Dwarven masons cut its trim long ago.
+Clerks count the war tithe at long tables behind a rail, and guards watch
+the clerks. The market is east.
+~
+54 de 0
+D1
+~
+~
+0 -1 5414
+S
+#5522
+The Butchery~
+   The butchery stinks of blood. Carcasses hang on hooks over catch-pans,
+and the pans drain into a vat set in the floor. Most of the meat is salted
+and packed in barrels for the wall. The market is west.
+~
+54 d 0
+D3
+~
+~
+0 -1 5416
+E
+vat~
+A deep stone vat, dark and wet. Something down there moves the surface, now
+and then. Probably rats.
+~
+S
+#5523
+The Witch's Brew~
+   The apothecary is lit by hundreds of candles on crowded shelves, and a
+low mist of herb-smoke curls about the floor. Jars of salve and bottles of
+draughts line the walls, most of them meant for wounds. A cluttered table
+stands against the far wall. The door is south.
+~
+54 d 0
+D2
+~
+~
+0 -1 5429
+S
+#5524
+Braheem's Magic Shop~
+   A cramped shop of bookshelves and heaps of scrolls. Its owner hunches
+over his latest work, muttering. A small sign hangs on the wall. The street
+is south.
+~
+54 d 0
+D2
+~
+~
+0 -1 5430
+E
+sign~
+The sign reads: "BRAHEEM'S. LIST - see my creations. VALUE - learn their
+worth. SELL - rid yourself of magic you dare not keep. BUY - rid yourself of
+coin. Nothing taken from the west will be bought."
+~
+S
+#5525
+The Entrance To The Mages' Tower~
+   A small, poorly lit hall whose only purpose is to hold the sorcerer who
+guards it. The war-magi of the city train beyond, before the High Tower
+sends them west. The courtyard lies north and the gate street south.
+~
+54 deh 0
+D0
+~
+~
+0 -1 5518
+D2
+~
+~
+0 -1 5431
+S
+#5526
+The Entrance To The Guild of Warriors~
+   A cramped guardroom at the door of the Warriors' Guild, where levy
+recruits give their names before they are drilled. It keeps the unwanted
+out. The West Gate is north and the guild's tavern south.
+~
+54 deh 0
+D0
+~
+~
+0 -1 5423
+D2
+~
+~
+0 -1 5533
+S
+#5527
+The Repair Shop~
+   A workshop heaped with dented helms and split shields sent back from the
+wall. One man used to mend it all single-handed; now the work has grown past
+him. A sign stands on the counter. West Main Street is north.
+~
+54 cd 0
+D0
+~
+~
+0 -1 5424
+E
+sign~
+The sign reads: "Closed. Too much to mend."
+~
+S
+#5528
+The General Store~
+   The general store sells what a soldier or a refugee needs to stay alive:
+lamp oil, candles, rope, sacks, waterskins. Everything is dear and nothing
+is new. The market is east.
+~
+54 d 0
+D1
+~
+~
+0 -1 5408
+S
+#5529
+Abdul's Armour~
+   The armoury rings with hammering. Boys run with buckets of water and
+coal, and dwarves at the back beat out plates faster than the eye can
+follow. The walls show Abdul's best work, made for officers who can pay. A
+note is pinned to the wall. The market is west.
+~
+54 d 0
+D3
+~
+~
+0 -1 5407
+E
+note~
+The note reads: "LIST: what is for sale. VALUE: what I will give. SELL: sell
+to Abdul. BUY: Abdul's favourite word. Armour for the wall goes first."
+~
+S
+#5530
+The Mercenaries' Guild~
+   The Mercenaries' Guild is despised by the city and used by it all the
+same. Those who will not or cannot fight their own battles come here, and
+those who would rather be paid than levied wait to be hired. For a fee, a
+sword can be bought. East Main Street is north.
+~
+54 d 0
+D0
+~
+~
+0 -1 5429
+D1
+There are small scratches in the floor beside the eastern wall.
+~
+door secret~
+1 -1 5532
+S
+#5531
+The Mercenaries Guild~
+   A windowless back room where the hired swords wait until someone pays for
+them. Bedrolls, dice, the smell of oil and old sweat.
+~
+54 dj 0
+S
+#5532
+Entrance To The Thieves' Guild~
+   A small dark room lit by one torch in a bracket. There is a bench and a
+book lying on it. The cut-throat who guards the door against outsiders
+stands up as you come in. A passage leads south.
+~
+54 adeh 0
+D2
+~
+~
+0 -1 5539
+D3
+~
+door secret~
+1 -1 5530
+E
+book~
+A ledger of debts owed, in a cipher. Some entries are written in another
+hand, and marked with a small black eye.
+~
+S
+#5533
+The Whet Stone~
+   The tavern of the Warriors' Guild, full of big men with big swords and
+big cups, many of them back from the wall and not right. The tables are
+gouged from old brawls. It is a good place to keep quiet. The practice yard
+is east and the guild entrance north.
+~
+54 deh 0
+D0
+~
+~
+0 -1 5526
+D1
+~
+~
+0 -1 5534
+S
+#5534
+The Tournament And Practice Yard~
+   A yard of trampled grass full of straw dummies and sweating recruits,
+drilled hard and sent to the Supply Road in batches. The master, in black
+robes among the iron, watches from the edge. The tavern is west.
+~
+54 deh 0
+D1
+The grass near the base of the eastern wall is slightly torn.
+~
+secret door~
+1 -1 5473
+D3
+~
+~
+0 -1 5533
+S
+#5535
+The Bread Stand~
+   A small stand under a patched awning, with a few trays of dark ration
+bread and hard biscuit. The baker has chalked up a list, and the prices on
+it have been rubbed out and raised more than once. The market is north.
+~
+54 d 0
+D0
+~
+~
+0 -1 5408
+E
+list~
+Bread, biscuit, oatcake. The prices have been changed four times.
+~
+S
+#5536
+Igor's Implements Of Destruction~
+   Swords, axes and spears hang on pegs around the walls, and a dwarf with a
+hunched back works at a bench in the back of the shop. He makes the rarer
+blades, the ones that cost a year of pay. A note is pinned up near the door.
+The market is north.
+~
+54 d 0
+D0
+~
+~
+0 -1 5407
+E
+note~
+The note simply reads: "READ THE NOTE IN THE ARMOURY. -- Igor."
+~
+S
+#5537
+Ye Old Leather Shoppe~
+   A leatherworker's shop off the black alley, lit by a single lamp. Racks
+of belts, straps and jerkins crowd the walls, and women sit on cushions
+stitching harness for the army's horses. The alley is east.
+~
+54 d 0
+D1
+~
+~
+0 -1 5466
+S
+#5538
+Smuggler's Inn~
+   A filthy drinking den that has not been cleaned in years. Card tables
+line the walls, everyone stops talking when the door opens, and the bar is
+pitted with knife holes. What comes in here comes in without paying the
+tithe. The bartender waits. The alley is west.
+~
+54 d 0
+D3
+~
+~
+0 -1 5467
+S
+#5539
+The Filthy Unicorn~
+   A cold draught moves through the room though there is no window. Hooded
+figures talk in low voices in the corners, and steel flashes now and then.
+It would be wise to check your purse. A narrow stair leads down; the door to
+the north leads out.
+~
+54 deh 0
+D0
+~
+~
+0 -1 5532
+D5
+~
+~
+0 -1 5546
+S
+#5540
+The Warehouse~
+   The export hall of the warehouses, stacked with sealed crates and sacks
+stencilled with the tower and sun of Thalos. Grain, cloth, salt fish,
+arrows: everything here goes to the front. The other hall is east and Isvar
+Drive south.
+~
+54 d 0
+D1
+~
+~
+0 -1 5541
+D2
+~
+~
+0 -1 5433
+S
+#5541
+The Warehouse~
+   Clerks walk among the stacks counting and writing. This hall stores the
+raw stuff brought in from upriver and the hill farms before it goes out to
+the guilds. The export hall is west and Isvar Drive south.
+~
+54 d 0
+D2
+~
+~
+0 -1 5434
+D3
+~
+~
+0 -1 5540
+S
+#5542
+The Shipwright~
+   The floor creaks, soaked by years of river water. An old man with a curly
+grey beard stands behind a small counter, and behind him hang model barges
+and a great dried river fish. A drafting room opens east and Isvar Drive is
+south.
+~
+54 d 0
+D1
+~
+~
+0 -1 5543
+D2
+~
+~
+0 -1 5435
+S
+#5543
+The Drafting Room~
+   Sketches of hulls cover every wall, pinned over one another: barges, flat
+river boats, one tall ship that was never built. The shipwright draws each
+boat here before a single plank is cut. The shop is west.
+~
+54 d 0
+D3
+~
+~
+0 -1 5542
+S
+#5544
+The Forge~
+   The farrier's forge, hot as an oven. Horseshoes, bits and wagon fittings
+hang from the walls. The tithe-wagons go west on iron from this anvil, and
+the smith never seems to stop. Isvar Drive is south.
+~
+54 d 0
+D2
+~
+~
+0 -1 5437
+S
+#5545
+The Royal Stables~
+   The Sultan's stables. A few fine horses remain from the herds that came
+out of Old Thalos; the rest of the stalls hold couriers' mounts and wagon
+horses. A boy comes by with a shovel. The hay loft is east and Isvar Drive
+south.
+~
+54 d 1
+D1
+~
+~
+0 -1 5549
+D2
+~
+~
+0 -1 5439
+S
+#5546
+The Secret Yard~
+   A hidden yard known to few in New Thalos, walled in and roofed with
+sacking. Here thieves are taught to pick locks, cut purses and vanish. A
+narrow stair climbs back up to the Unicorn.
+~
+54 deh 0
+D2
+There are small scratches in the wall to the south.
+~
+secret door~
+1 -1 5489
+D4
+~
+~
+0 -1 5539
+S
+#5547
+The Dump~
+   The city's refuse heap, steaming in the cold. Wind off the mountains
+blows most of the smell over the wall and out across the hills. The wardens
+forbid anything to be buried here. Isvar Drive lies south.
+~
+54 0 1
+D2
+~
+~
+0 -1 5442
+S
+#5548
+The Mage's Laboratory~
+   The top of an old stone tower, crowded with potions, scrolls and wands in
+no order at all. The master of the war-magi sits hunched over a little table
+with two flasks bubbling before him, and looks up with a broad smile. A
+stair leads down.
+~
+54 deh 0
+D5
+~
+~
+0 -1 5517
+S
+#5549
+The Hay Loft~
+   A cramped loft over the stables, stacked with hay for the horses. The
+stable boy sleeps up here in a nest of straw, with a lamp he is not allowed
+to light. The stables are west.
+~
+54 d 0
+D3
+~
+~
+0 -1 5545
+S
+#5550
+The Grand Entrance~
+   The entrance hall of the palace was built to dazzle, and once it did. The
+tapestries are threadbare now, the candelabras are iron where the silver was
+sold, and the long carpet has been worn to the boards down its middle by
+petitioners. Guard houses open north and south. The halls of the palace
+begin to the west, and the gate lies east.
+~
+54 d 0
+D0
+~
+~
+0 -1 5560
+D1
+~
+gate~
+2 5400 5558
+D2
+~
+~
+0 -1 5557
+D3
+~
+~
+0 -1 5605
+S
+#5551
+The Library~
+   The city library holds everything the survivors carried out of Old
+Thalos: rolls of charred parchment, books swollen with old water, deeds to
+houses that no longer stand. A committee of scholars has worked for
+generations to copy what can be read. The shelves sag, and the air smells of
+glue and mould. Lantern Row is east.
+~
+54 df 0
+D1
+~
+~
+0 -1 5455
+E
+shelves books rolls parchment~
+Most of the books are burned at the edges. One shelf is kept apart and
+labelled in red: "From the Temple. Do not open."
+~
+S
+#5552
+The Hall Of Remembrance~
+   Once a dance hall, this long room is where the city keeps the Night of
+Leaving, when the survivors fled Old Thalos. The feast is over; sweepers are
+clearing away cold food and the stubs of a thousand candles, one for every
+family lost. A banner still hangs on the wall. Lantern Row is east.
+~
+54 d 0
+D1
+~
+~
+0 -1 5456
+E
+banner~
+The faded banner reads: WE CAME OUT OF THE DARK. WE REMEMBER. Underneath, in
+smaller letters, someone has added: "And it remembers us."
+~
+S
+#5553
+The Jail~
+   A bare stone cell with straw on the floor and a bucket in the corner. The
+walls are scratched with names, tally marks and prayers. In New Thalos
+debtors, deserters and those who talk too loudly about the west all end up
+here sooner or later. A barred gate leads north.
+~
+54 defhj 0
+D0
+~
+gate~
+2 5493 5444
+E
+walls names marks prayers scratches~
+Among the tally marks someone has scratched, over and over: "I only said
+what I saw on the road."
+~
+S
+#5554
+City Hall~
+   The tithe hall of New Thalos. Clerks at long tables reckon the city's
+quotas for the front: so many sacks of grain, so many bolts of cloth, so
+many sons of fighting age. The Sultan's word is law, but it is the mayor and
+his ledgers that decide who goes west. West Casbah lies north.
+~
+54 d 0
+D0
+~
+~
+0 -1 5445
+E
+ledgers ledger tables~
+Column after column of names, each with a district and an age. A few are
+marked with a small black flame: those who did not come back.
+~
+S
+#5555
+The Bowyers' And Fletchers' Guild~
+   Pegs on every wall hold bows in all stages of making, and bundles of
+shafts are stacked to the ceiling, every one of them promised to the wall.
+Boys sit in a corner fletching arrows by the thousand, their fingers sticky
+with glue. Elven craftsmen test each finished bow and send back the poor
+ones without a word. Guildsman's Row is east.
+~
+54 d 0
+D1
+~
+~
+0 -1 5460
+S
+#5556
+The Masons' Guild~
+   Dwarven masons built most of New Thalos, and they are building still:
+walls first, always walls. Hammers ring in a blur as they dress blocks for
+the city's ramparts and lintels for the shrines. The guildmaster keeps a
+stone from Old Thalos on his bench and will not let anyone touch it.
+Guildsman's Row lies west.
+~
+54 d 0
+D3
+~
+~
+0 -1 5460
+E
+stone bench~
+A blackened block of carved stone, part of a face. The dwarves say it came
+from the gate of the old city.
+~
+S
+#5557
+The Southern Guard House~
+   The southern of the two guard houses of the palace. It is bare and
+spartan: a bench, a brazier, a rack of spears and a duty roster nailed to
+the wall. The guards here are older men, kept back from the front to watch
+the Sultan's door. The grand entrance is north.
+~
+54 d 0
+D0
+~
+~
+0 -1 5550
+E
+roster duty~
+The roster lists the watches of the palace guard. Several names have been
+crossed out and "sent west" written beside them.
+~
+S
+#5558
+The Palace Gate~
+   A tall gate of gilded iron, carried piece by piece out of Old Thalos and
+set up here by the survivors. The gilt is flaking and the bars are scarred,
+but it is still the finest thing in the city. Beyond it rise the palace
+towers, and petitioners queue along the wall all day. The gate opens west
+into the palace, and Sultan's Walk lies east.
+~
+54 0 1
+D1
+~
+~
+0 -1 5420
+D3
+~
+gate~
+2 5400 5550
+E
+gate bars gilt~
+Among the scrolls of iron you can make out the old crest of Thalos: a tower
+and a rising sun. Someone has scratched a black flame over the sun.
+~
+S
+#5559
+The Northwest Tower~
+   You stand on the northwestern of the four towers guarding the city. West,
+the mountains stand between New Thalos and Midgaard, and the River Isvar
+comes down out of them. Somewhere beyond, far past the fort, lie the ruins
+of the old city and worse things. South lie the crowded roofs of the city
+and the desert. A stair leads down.
+~
+54 d 0
+D5
+~
+~
+0 -1 5444
+S
+#5560
+The Northern Guard House~
+   The northern guard house is clean and cold. Off-duty guards sit at a
+table playing at cards for copper, their armour hung on pegs within reach.
+They play in silence, and look up every time the door goes. The only way out
+is south, into the grand entrance.
+~
+54 d 0
+D2
+~
+~
+0 -1 5550
+S
+#5561
+The Kitchen~
+   The palace kitchen is the warmest room in the city. A great copper pot
+simmers over the fire on the south wall, but it holds thin soup: the best of
+the palace stores goes to the front. The chef chops roots at the table while
+servants hurry about. A small door leads north into the hall, and the dining
+hall is west.
+~
+54 d 0
+D0
+~
+door~
+1 -1 5563
+D3
+~
+~
+0 -1 5571
+S
+#5562
+The Northeast Tower~
+   The northeastern tower looks out over the plains toward the dark line of
+the northern forest. Caravans crawl along the roads below, bound west with
+the tithe. South, beyond the city, the desert shimmers. A stair leads down
+into the city.
+~
+54 d 0
+D5
+~
+~
+0 -1 5454
+S
+#5563
+The Servants' Passage~
+   The eastern end of the southern hallway, plain and narrow, where servants
+pass to and from the kitchen. The smell of soup and woodsmoke hangs here. A
+small door leads south to the kitchen, and the hall runs west.
+~
+54 d 0
+D2
+~
+door small~
+1 -1 5561
+D3
+~
+~
+0 -1 5572
+S
+#5564
+The Tanners' Guild~
+   The stink of the tanning pits hits you at the door. Hides hang
+everywhere, stretched on frames and dyed in dull greens and browns, to be
+cut into jerkins, straps and scabbards for the wall. The tanners work with
+their heads down. Someone has scrawled a message on the wall. Guildsman's
+Row is east.
+~
+54 d 0
+D1
+~
+~
+0 -1 5462
+E
+message~
+The message reads: "Forty hides a day for the front. I have not seen my own
+hands clean in a year."
+~
+S
+#5565
+The East End Of The North Hall~
+   The eastern end of the northern hallway. The floor here is clean, and
+candles burn in niches along the walls. A simple wooden door leads north,
+with a brass plaque above it, and the hall runs west.
+~
+54 d 0
+D0
+~
+door~
+1 -1 5566
+D3
+~
+~
+0 -1 5574
+E
+plaque~
+Engraved on the plaque: "The Shrine of the Last Flame. Carried out of
+Thalos. Never let it go out."
+~
+S
+#5566
+The Shrine Of The Last Flame~
+   A small, still room walled in blue and white tiles saved from the temple
+of Old Thalos. In a bronze bowl on the altar burns the Last Flame, the fire
+the survivors carried out of the dying city, fed day and night for
+generations. The air is heavy and very quiet, as if something is listening.
+The door leads south.
+~
+54 d 0
+D2
+~
+door~
+1 -1 5565
+E
+flame bowl altar fire~
+A small, steady flame in a bowl of bronze. It does not flicker, even when
+the door opens.
+~
+E
+tiles walls~
+Some of the tiles are cracked and blackened. They were prised out of the
+walls of a burning temple.
+~
+S
+#5567
+Outside The Northern Gate Of New Thalos~
+   You stand before the northern gate of New Thalos. Its iron doors are kept
+shut against the night, and a watchman on the wall above looks you over. The
+city lies south through the gate, and open country stretches north toward
+the plains.
+~
+54 c 1
+D0
+~
+~
+0 -1 5681
+D2
+~
+gate~
+1 5401 5422
+S
+#5568
+Outside The Eastern Gate Of New Thalos~
+   The great iron gate of the eastern wall stands to the west. Through here
+come the caravans from the sea and the dock, and the gate guards search
+every one. The road runs east toward the coast, and a narrow strip of ground
+follows the wall south.
+~
+54 0 1
+D1
+~
+~
+0 -1 5690
+D2
+~
+~
+0 -1 5570
+D3
+~
+gate~
+1 5401 5431
+S
+#5569
+Outside The West Gate Of New Thalos~
+   You stand before the west gate, the busiest in the city: through it go
+the grain carts, the cloth wagons and the columns of recruits bound for
+Midgaard and the wall. Mothers wait here for letters. The gate is east, and
+the road climbs west toward the mountains.
+~
+54 0 1
+D1
+~
+gate~
+1 5401 5423
+D3
+~
+~
+0 -1 5618
+S
+#5570
+Outside The Wall~
+   A small clearing in the scrub outside the east wall. The ground is
+trodden flat, far more than a dead end should be, and there are footprints
+that lead nowhere. Smugglers, the watch says. The only plain way out is
+north.
+~
+54 0 2
+D0
+~
+~
+0 -1 5568
+E
+ground footprints prints~
+Boot prints in the dust, many of them, and all of them stop at the same
+patch of bare earth.
+~
+S
+#5571
+The Grand Dining Hall~
+   A long oak table runs the length of the hall, set with plate salvaged
+from the old city. Servants lay it every night, though the Sultan seldom
+eats here any more and most of the chairs stay empty: their owners went
+west. The kitchen is east, and double doors open north into the hall.
+~
+54 d 0
+D0
+~
+doors double~
+1 -1 5572
+D1
+~
+~
+0 -1 5561
+S
+#5572
+A Hall By The Dining Hall~
+   A crossing of the palace hallways. Double doors to the south lead into
+the dining hall, the hall runs east toward the servants' passage and west
+past the guest rooms, and a corridor leads north.
+~
+54 d 0
+D0
+~
+~
+0 -1 5573
+D1
+~
+~
+0 -1 5563
+D2
+~
+doors double~
+1 -1 5571
+D3
+~
+~
+0 -1 5577
+S
+#5573
+A Crossing Of The Halls~
+   You stand at a crossing of the palace hallways, its cedar panels dark
+with age. Corridors lead north, south and east. To the west the hall opens
+into the palace garden, and the smell of damp earth drifts in.
+~
+54 d 0
+D0
+~
+~
+0 -1 5574
+D1
+~
+~
+0 -1 5605
+D2
+~
+~
+0 -1 5572
+D3
+~
+~
+0 -1 5578
+S
+#5574
+A Hall Before An Iron Door~
+   The northern hallway meets a corridor here. Halls run east and west and
+south, but the eye goes to the heavy iron door in the north wall, studded
+and banded, with scratches around the lock. Servants walk quickly past it.
+~
+54 d 0
+D0
+~
+door iron heavy~
+1 -1 5575
+D1
+~
+~
+0 -1 5565
+D2
+~
+~
+0 -1 5573
+D3
+~
+~
+0 -1 5579
+E
+door iron scratches~
+The scratches around the lock are deep, and on the inside of the door, by
+the sound of it, there are more.
+~
+S
+#5575
+The Entrance To The Dungeon~
+   A cold, damp room of rough stone, nothing like the palace above. A steel
+grating in the floor leads down into darkness, and from below come the
+smells of straw, dung and something sour. Something down there moves now and
+then. An iron door leads south back to the hallway.
+~
+54 d 0
+D2
+~
+door iron~
+1 -1 5574
+D5
+~
+grating steel~
+1 -1 5591
+S
+#5576
+A Guest Room~
+   A small guest room for visiting nobles and envoys from the fort. A
+dresser stands against the east wall with a mirror above it, and a bed with
+worn satin sheets lies under the window in the south wall. The door leads
+north into the hallway.
+~
+54 d 0
+D0
+~
+door~
+1 -1 5577
+E
+window~
+Through the window you see the palace grounds between the outer wall and the
+building, and guards walking the wall in pairs.
+~
+E
+mirror~
+In the mirror you see an armoured figure with a weapon in hand, looking
+tired. It takes a moment to know it for your own reflection.
+~
+S
+#5577
+A Hall Of Portraits~
+   The long southern hall continues east and west, with a wooden door in the
+south wall. On the north wall hangs the portrait of a nobleman of Old
+Thalos, painted before the fall. His eyes have been cut out of the canvas.
+~
+54 d 0
+D1
+~
+~
+0 -1 5572
+D2
+~
+door~
+1 -1 5576
+D3
+~
+~
+0 -1 5582
+E
+portrait picture nobleman canvas~
+A proud man in the robes of the old city. Someone has cut out his eyes with
+a knife, long ago. Nobody in the palace will say who he was.
+~
+S
+#5578
+The Sultan's Garden~
+   The Sultan's garden is warm and close, heavy with jasmine and honeysuckle
+grown from cuttings carried out of Old Thalos. It is kept as a memorial, and
+every plant has a small stone beside it bearing a family name. Through the
+palms to the west stands a white gazebo, and the hallway is east. A gilded
+sign stands by the path.
+~
+54 0 2
+D1
+~
+~
+0 -1 5573
+D3
+~
+~
+0 -1 5583
+E
+sign~
+The sign reads: "These flowers grew in the gardens of Thalos. We carried
+them out of the fire. Take only memories. -- The Sultan"
+~
+E
+stones stone names~
+Small stones, hundreds of them, each with a family name cut into it. Some
+are very new.
+~
+S
+#5579
+A Hall Before The Gallery~
+   The northern hallway runs east and west, a narrow red carpet worn thin
+down its middle, with a bench here and there for petitioners kept waiting. A
+door in the north wall bears a plaque.
+~
+54 d 0
+D0
+~
+door~
+1 -1 5580
+D1
+~
+~
+0 -1 5574
+D3
+~
+~
+0 -1 5584
+E
+plaque door~
+The plaque reads: "The Gallery of Thalos. Paintings of the old city, as it
+was." Below, a smaller note: "Touch nothing."
+~
+S
+#5580
+The Gallery Of Thalos~
+   The Sultan's gallery holds paintings of the old city as it was: markets,
+towers, summer gardens, the old army marching out in glory. Sculptures stand
+on pedestals in the corners, and mirrors are set so a viewer can see them
+whole. Your eye is pulled to the great painting that fills the far wall. The
+door leads south.
+~
+54 d 0
+D2
+~
+door~
+1 -1 5579
+E
+painting~
+The great painting on the west wall shows the temple of Old Thalos in the
+last light of evening. Look long enough and the shadows in its doorway seem
+to change.
+~
+E
+sculptures sculpture mirrors~
+Marble figures of kings and priests, their faces worn smooth by the hands of
+the grieving.
+~
+S
+#5581
+A Small Guest Room~
+   Another room for visiting nobles, smaller and colder than the first. A
+dresser and a mirror stand against the east wall, and a narrow bed lies
+along the south wall. Nobody has slept here in a long time. The door leads
+north.
+~
+54 d 0
+D0
+~
+door~
+1 -1 5582
+S
+#5582
+The West End Of The South Hall~
+   The western end of the southern hallway. The hall runs back east, and
+there are doors in the south and west walls. Behind the west door you hear
+soft voices, and once, someone crying.
+~
+54 d 0
+D1
+~
+~
+0 -1 5577
+D2
+~
+door~
+1 -1 5581
+D3
+~
+door~
+2 5401 5587
+S
+#5583
+The Garden Gazebo~
+   A small white gazebo stands among the flowers at the end of the garden.
+Birds nest under its roof and the scent of jasmine is thick here. It is the
+most peaceful place in New Thalos, and the stillness feels almost wrong. The
+garden lies east.
+~
+54 d 0
+D1
+~
+~
+0 -1 5578
+S
+#5584
+The West End Of The North Hall~
+   The western end of the northern hallway. Two doors are set in the walls
+here, one to the north and a larger one to the west, guarded day and night.
+The hall runs back east.
+~
+54 d 0
+D0
+~
+door~
+1 -1 5585
+D1
+~
+~
+0 -1 5579
+D3
+~
+door~
+1 -1 5589
+S
+#5585
+The Guard Room~
+   A bare chamber lined with cots and footlockers, where the palace guard
+sleep. They may not leave the palace grounds without leave, and some have
+not seen their families in years. The only way out is south.
+~
+54 d 0
+D2
+~
+door~
+1 -1 5584
+S
+#5586
+The Barracks Of The Guard~
+   The living quarters of the guards who watch the women's court. Cots and
+footlockers stand in rows, and on the walls hang pictures of famous knights
+of the Sultan's Guard, most of them dead on the march. A passage leads
+north.
+~
+54 d 0
+D0
+~
+~
+0 -1 5587
+E
+pictures picture knights~
+Faded portraits of knights in the old Thalan armour. Black ribbons are tied
+to every frame but one.
+~
+S
+#5587
+The Women's Court~
+   The Sultan's women live here, in a warm room of cushions and silk
+hangings that the war has not reached. Girls lounge about the room, and at
+its western end a young woman sits atop a heap of pillows. It is a gilded
+cage, and they know it. Doors lead east and south, and the hangings on the
+north wall stir in a draught.
+~
+54 d 0
+D0
+~
+door secret~
+1 -1 5588
+D1
+~
+door~
+2 5401 5582
+D2
+~
+~
+0 -1 5586
+E
+hangings north wall~
+The silk hangings on the north wall move gently, though there is no window.
+~
+S
+#5588
+A Small Room~
+   A cramped secret passage that gives the Sultan private access between his
+throne room and the women's court. It is dusty and close, and the walls are
+thin enough to hear through. Doors lead north and south.
+~
+54 d 0
+D0
+~
+door~
+1 -1 5589
+D2
+~
+door secret~
+1 -1 5587
+S
+#5589
+The Throne Room~
+   The throne room of the Sultan of New Thalos. Guards stand at attention
+beside a gilded throne set on a marble dais; it was carried out of Old
+Thalos on the backs of four men. The jewels have been prised out of it to
+pay the tithe. Doors lead east and south, and the throne itself sits against
+the north wall.
+~
+54 d 0
+D0
+~
+throne~
+2 5400 5590
+D1
+~
+door~
+1 -1 5584
+D2
+~
+door~
+1 -1 5588
+E
+throne dais~
+The throne is old and heavy, empty sockets where its jewels once were. It
+sits a little away from the wall, as if it has been moved.
+~
+S
+#5590
+The Treasure Room~
+   The last treasury of Thalos. It is smaller than the stories say, and much
+of it is already gone west in tithe chests. Somewhere a gong has begun to
+sound: the guards know you are here. Grab what you can and make for the door
+to the south.
+~
+54 d 0
+D2
+~
+door~
+2 5400 5589
+S
+#5591
+The Jailer's Room~
+   An old wooden ladder leads down from the steel grating above into this
+small cave of a room. A bench, a guttering candle and a ring of hooks for
+keys are all it holds. The jailer keeps the beast pits, where things caught
+on the roads are caged. A door is set into the east wall.
+~
+54 ad 0
+D1
+~
+door~
+1 -1 5592
+D4
+~
+steel~
+1 -1 5575
+S
+#5592
+The Beast Pits~
+   A rough stone tunnel, its floor slick with straw and filth. Barred cells
+open to the north and south. The tunnel runs east, and a door in the west
+wall leads into a dark passage.
+~
+54 ad 0
+D0
+~
+cell~
+2 5493 5597
+D1
+~
+~
+0 -1 5593
+D2
+~
+cell~
+2 5493 5601
+D3
+~
+door~
+1 -1 5491
+S
+#5593
+The Beast Pits~
+   The tunnel runs east and west between barred cells to the north and
+south. The bars here are bent outward a little, and fresh iron has been
+riveted across them.
+~
+54 ad 0
+D0
+~
+cell~
+2 5493 5598
+D1
+~
+~
+0 -1 5594
+D2
+~
+cell~
+2 5493 5602
+D3
+~
+~
+0 -1 5592
+S
+#5594
+The Beast Pits~
+   The tunnel continues east and west. Cells open north and south, and
+something in one of them growls low and long as you pass. Gnawed bones lie
+in the straw.
+~
+54 ad 0
+D0
+~
+cell~
+2 5493 5599
+D1
+~
+~
+0 -1 5595
+D2
+~
+cell~
+2 5493 5603
+D3
+~
+~
+0 -1 5593
+S
+#5595
+The End Of The Beast Pits~
+   The tunnel ends here, with cells north and south and the way back west. A
+narrow crack runs through the stone of the east wall, and a sour animal
+smell seeps out of it.
+~
+54 ad 0
+D0
+~
+cell~
+2 5493 5600
+D1
+~
+crack~
+2 5400 5596
+D2
+~
+cell~
+2 5493 5604
+D3
+~
+~
+0 -1 5594
+E
+crack wall~
+The crack in the east wall is just wide enough to squeeze through. Grey
+hairs are caught on its edges.
+~
+S
+#5596
+The Secret Cell~
+   More a lair than a cell. Hay is strewn over the floor, covering bones
+that are not all animal. Blood is spattered on the walls and tufts of grey
+hair are matted in one corner. As you turn to go, a pair of small red eyes
+watches you from the dark. The crack leads back west.
+~
+54 adfj 0
+D3
+~
+crack~
+2 5400 5595
+S
+#5597
+A Cell~
+   A cold, cramped cell with one way out. The walls are black with soot and
+the air stinks of goat and brimstone. Something with several heads has paced
+a groove into the floor.
+~
+54 adfj 0
+D2
+~
+cell~
+2 5493 5592
+S
+#5598
+A Cell~
+   A cramped stone cell with a single barred door. Scorch marks branch
+across the walls like lightning, and the straw is burnt in patches.
+~
+54 adfj 0
+D2
+~
+cell~
+2 5493 5593
+S
+#5599
+A Cell~
+   A cold cell, its only exit the barred door. Gnawed bones are heaped in
+the corners, and the walls are scored low down by many claws, as if a pack
+were kept here together.
+~
+54 adfj 0
+D2
+~
+cell~
+2 5493 5594
+S
+#5600
+A Cell~
+   A cramped cell with a single door. Frost furs the walls and the straw is
+frozen stiff, though there is no draught; the cold comes from whatever lives
+here.
+~
+54 adfj 0
+D2
+~
+cell~
+2 5493 5595
+S
+#5601
+A Cell~
+   A small cell with one way out. Grey paper hangs in sheets from the
+ceiling, the remains of a great nest, and a dry buzzing echoes off the
+stone.
+~
+54 adfj 0
+D0
+~
+cell~
+2 5493 5592
+S
+#5602
+A Cell~
+   A cold cell with a single barred door. Bright feathers lie scattered in
+the straw, strangely clean in so foul a place, and the air smells faintly of
+rain.
+~
+54 adfj 0
+D0
+~
+cell~
+2 5493 5593
+S
+#5603
+A Cell~
+   A cramped cell, its one door barred. Tawny hair is caught in the cracks
+of the stone, and deep claw marks run down the back wall.
+~
+54 adfj 0
+D0
+~
+cell~
+2 5493 5594
+S
+#5604
+A Cell~
+   A low, wet cell with one door. Shed scales lie in the muck, and the bars
+of the door are dented from the inside by something heavy with horns.
+~
+54 adfj 0
+D0
+~
+cell~
+2 5493 5595
+S
+#5605
+The Cedar Hall~
+   A long hall panelled in cedar, the one wood that came out of Old Thalos
+unburned. A narrow purple rug runs down its length. The hall leads west into
+the palace and east to the grand entrance.
+~
+54 d 0
+D1
+~
+~
+0 -1 5550
+D3
+~
+~
+0 -1 5573
+S
+#5606
+A Path Through The Mountains~
+   The narrow path turns here between grey shoulders of rock, heading south
+and west. A cairn of stones marks the bend; travellers add one each, for the
+ones who did not come back.
+~
+54 0 5
+D2
+~
+~
+0 -1 5607
+D3
+~
+~
+0 -1 5611
+E
+cairn stones~
+A cairn of small stones, some with names scratched on them.
+~
+S
+#5607
+A Path Through The Mountains~
+   Travel is hard and slow here; you must clamber around great boulders
+strewn across the path. Wagon wheels have left deep ruts where they could
+pass. The path runs north and east.
+~
+54 0 5
+D0
+~
+~
+0 -1 5606
+D1
+~
+~
+0 -1 5608
+S
+#5608
+The Edge Of The Ravine~
+   The ground drops away below you to a rushing river. A rope bridge sways
+in the wind across the gap, its planks patched with wood of many colours.
+The bridge leads east, and the path runs back west.
+~
+54 0 5
+D1
+~
+~
+0 -1 5609
+D3
+~
+~
+0 -1 5607
+S
+#5609
+On A Rope Bridge~
+   The rope bridge shudders under your weight high above the valley. Far
+below, the river is a white thread among the rocks. The bridge runs east and
+west.
+~
+54 0 2
+D1
+~
+~
+0 -1 5627
+D3
+~
+~
+0 -1 5608
+S
+#5610
+The Ledge Around The Valley~
+   A narrow ledge winds around a deep valley in the mountains. It once
+turned north with the shape of the valley, but a rockfall has torn that way
+off the mountainside. A steep trail leads east.
+~
+54 0 5
+D0
+The ledge to the north has fallen away into the valley. There is nothing
+there but air.
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 5611
+S
+#5611
+A Path Through The Mountains~
+   A rock-strewn path deep in the mountains between Midgaard and New Thalos.
+Loose stones turn underfoot at every step. The path leads east and west.
+~
+54 0 5
+D1
+~
+~
+0 -1 5606
+D3
+~
+~
+0 -1 5610
+S
+#5612
+On The Eastern Edge Of The Mountains~
+   You stand on the eastern edge of the mountains. The high peaks lie behind
+you to the west, toward Midgaard and the wall, and the hills fall away to
+the south toward the plains and the city.
+~
+54 0 5
+D2
+~
+~
+0 -1 5613
+D3
+~
+~
+0 -1 5629
+S
+#5613
+In The Foothills~
+   The path winds down the face of the mountain in tight turns, worn deep by
+the boots of recruits going one way and carts of wounded coming back the
+other. It leads north and east.
+~
+54 0 5
+D0
+~
+~
+0 -1 5612
+D1
+~
+~
+0 -1 5614
+S
+#5614
+In The Foothills~
+   The path bends down the slope through stunted pines. A broken cart wheel
+lies abandoned among the stones. The way leads south and west.
+~
+54 0 5
+D2
+~
+~
+0 -1 5615
+D3
+~
+~
+0 -1 5613
+S
+#5615
+A Rocky Trail~
+   The sound of running water reaches you from the south, and through the
+trees you glimpse the river and a landing. The trail continues north up into
+the foothills and east toward the road.
+~
+54 0 5
+D0
+~
+~
+0 -1 5614
+D1
+~
+~
+0 -1 5630
+D2
+~
+~
+0 -1 5645
+S
+#5616
+On A Road~
+   A long road of packed earth, rutted by supply wagons. Milestones mark the
+distance to Midgaard. The road continues east and south.
+~
+54 0 2
+D1
+~
+~
+0 -1 5617
+D2
+~
+~
+0 -1 5633
+S
+#5617
+On A Road~
+   The road runs east and west between fields of thin grain, every sack of
+it already promised to the fort. A gibbet stands empty by the verge.
+~
+54 0 2
+D1
+~
+~
+0 -1 5618
+D3
+~
+~
+0 -1 5616
+S
+#5618
+On A Road~
+   A well kept road leads east to New Thalos and west into the mountains.
+Wide plains stretch away to the north and a dark green forest begins to the
+south. Pilgrims and recruits walk it side by side.
+~
+54 0 2
+D1
+~
+~
+0 -1 5569
+D3
+~
+~
+0 -1 5617
+S
+#5619
+The Headwaters Of The River Of Lost Souls~
+   You are at the headwaters of the darkest river in the land. Black water
+pools in this rocky valley, still and swampy, and nothing grows on its
+banks. The rock walls close in on every side except the bank to the north,
+where a path leaves the water, and to the south, where the river flows away.
+~
+54 0 7
+D0
+A small path leaves the bank to the north. Penitents use it, walking
+barefoot.
+~
+~
+0 -1 1500
+D2
+The swampy water flows slowly south.
+~
+~
+0 -1 5634
+S
+#5620
+River Isvar~
+   The river calms after its fight through the heart of the mountain. The
+rock still rises on both sides, but there are faint traces of green to the
+east. The water flows east, and back west to a split in the river.
+~
+54 0 7
+D1
+~
+~
+0 -1 5621
+D3
+~
+~
+0 -1 5639
+S
+#5621
+River Isvar~
+   The river runs east and west through the hills, cold and fast. A dead
+tree has lodged against a rock midstream, hung with weed.
+~
+54 0 7
+D1
+~
+~
+0 -1 5622
+D3
+~
+~
+0 -1 5620
+S
+#5622
+River Isvar~
+   The river begins its descent out of the mountains here, quickening toward
+the east. It flows back west into the hills.
+~
+54 0 7
+D1
+~
+~
+0 -1 5644
+D3
+~
+~
+0 -1 5621
+S
+#5623
+River Isvar~
+   The river flows east under the wall of the city through an iron grating
+furred with weed. Westward it stretches back toward the mountains.
+~
+54 0 7
+D1
+~
+grating~
+1 -1 5487
+D3
+~
+~
+0 -1 5649
+S
+#5624
+River Isvar~
+   The river flows out of the city down a long winding gully toward the
+Dragon Sea. The desert lies south and grassland north, and a road runs
+beside the river, though the banks are too steep to see far. The water runs
+east, and west back into the city.
+~
+54 0 7
+D1
+~
+~
+0 -1 5625
+D3
+~
+~
+0 -1 5483
+S
+#5625
+River Isvar~
+   The river runs gently through the lowlands, wide and brown. It is hard to
+believe this is the same water that came crashing down the mountains. It
+flows east and west.
+~
+54 0 7
+D1
+~
+~
+0 -1 5626
+D3
+~
+~
+0 -1 5624
+S
+#5626
+River Isvar~
+   Herd animals can be heard in the distance, though none come down to the
+water; the banks are too steep, or they will not drink here. The river runs
+east and west.
+~
+54 0 7
+D1
+~
+~
+0 -1 5684
+D3
+~
+~
+0 -1 5625
+S
+#5627
+The Edge Of The Ravine~
+   You stand at the edge of a long drop. A rope bridge leads west across the
+gap, swaying in the wind, and a path leads off east through the mountains.
+Someone has cut warning notches in the bridge post.
+~
+54 0 5
+D1
+~
+~
+0 -1 5628
+D3
+~
+~
+0 -1 5609
+E
+post notches~
+Three notches: the old sign for "one at a time".
+~
+S
+#5628
+A Path Through The Mountains~
+   The narrow path winds east and west. A buzzard circles overhead, waiting.
+A rough trail drops away south toward the foothills and the old mine
+country; the drovers say nobody goes that way now.
+~
+54 0 5
+D1
+~
+~
+0 -1 5629
+D2
+~
+~
+0 -1 4049
+D3
+~
+~
+0 -1 5627
+S
+#5629
+A Path Through The Mountains~
+   A boulder has rolled down onto the path here, recently, crushing the
+scrub. You squeeze past it. The path runs east and west.
+~
+54 0 5
+D1
+~
+~
+0 -1 5612
+D3
+~
+~
+0 -1 5628
+S
+#5630
+On A Road~
+   The road runs east and west through thin woodland. The trees close in
+overhead, and the carters keep their torches lit even by day.
+~
+54 0 4
+D1
+~
+~
+0 -1 5631
+D3
+~
+~
+0 -1 5615
+S
+#5631
+On A Road~
+   The road runs east and west. A shrine of piled stones stands at the
+roadside, with a small flame burning in a lamp.
+~
+54 0 2
+D1
+~
+~
+0 -1 5632
+D3
+~
+~
+0 -1 5630
+E
+shrine lamp flame~
+A roadside shrine to the Last Flame. Travellers leave a drop of oil for the
+lamp.
+~
+S
+#5632
+On A Road~
+   The road runs east and west. The ditches on either side are full of
+nettles and old, broken barrel-staves.
+~
+54 0 2
+D1
+~
+~
+0 -1 5633
+D3
+~
+~
+0 -1 5631
+S
+#5633
+On A Road~
+   The road bends here toward the river, where a little dock gives on to the
+water to the south. The road continues north and west.
+~
+54 0 2
+D0
+~
+~
+0 -1 5616
+D2
+~
+~
+0 -1 5649
+D3
+~
+~
+0 -1 5632
+S
+#5634
+The River Of Lost Souls~
+   The black river flows south through a valley in the mountains. To the
+west, beyond the rocks, you can see the roofs of a small village with no
+smoke rising from it. The water runs north and south.
+~
+54 0 7
+D0
+~
+~
+0 -1 5619
+D2
+~
+~
+0 -1 5635
+S
+#5635
+The River Of Lost Souls~
+   The river flows through the southern end of a wide valley. The walls
+close in to the south. The water is so dark you cannot see your own hands in
+it.
+~
+54 0 7
+D0
+~
+~
+0 -1 5634
+D2
+~
+~
+0 -1 5636
+S
+#5636
+The River Of Lost Souls~
+   The river speeds up as it pours down a mountain crevice. High above, a
+rope bridge sways across the gap. The water runs north and south.
+~
+54 0 7
+D0
+~
+~
+0 -1 5635
+D2
+~
+~
+0 -1 5637
+S
+#5637
+The River Of Lost Souls~
+   The river rushes through a crack in the side of the mountain toward the
+south. Listen for rapids; there is no room here to turn back. It flows north
+and south.
+~
+54 0 7
+D0
+~
+~
+0 -1 5636
+D2
+~
+~
+0 -1 5638
+S
+#5638
+The River Of Lost Souls~
+   The river calms as the crevasse widens and loosens its grip on the water.
+It flows back north through the crack and on to the south.
+~
+54 0 7
+D0
+~
+~
+0 -1 5637
+D2
+~
+~
+0 -1 5639
+S
+#5639
+A Split In The River~
+   The waters crash onto a great rock and divide: the River of Lost Souls
+runs on north and south, and the Isvar breaks off east. To the west the
+rocks are split and crumbled as if torn apart by some huge force, and there
+is no way through.
+~
+54 0 7
+D0
+~
+~
+0 -1 5638
+D1
+~
+~
+0 -1 5620
+D2
+~
+~
+0 -1 5640
+S
+#5640
+The River Of Lost Souls~
+   The river runs north and south through a valley eroded by water. The rock
+banks are smooth and grey, and nothing grows on them.
+~
+54 0 7
+D0
+~
+~
+0 -1 5639
+D2
+~
+~
+0 -1 5641
+S
+#5641
+The River Of Lost Souls~
+   The river runs north and south. Things drift by in the dark water now and
+then, too sodden to tell what they were.
+~
+54 0 7
+D0
+~
+~
+0 -1 5640
+D2
+~
+~
+0 -1 5642
+S
+#5642
+The River Of Lost Souls~
+   The river runs north and south through the worn valley. The current pulls
+hard here, and the cold of it aches in the bones.
+~
+54 0 7
+D0
+~
+~
+0 -1 5641
+D2
+~
+~
+0 -1 5643
+S
+#5643
+The River Of Lost Souls~
+   The river bends sharply, plunging south into the mountain where you
+cannot follow. On a ledge above you to the west, something moves and is
+still. The only way is back north.
+~
+54 0 7
+D0
+~
+~
+0 -1 5642
+S
+#5644
+River Isvar~
+   The river widens here, free of the rock at last, and flows east toward
+the plains. Behind you to the west it runs back into the hills.
+~
+54 0 7
+D1
+~
+~
+0 -1 5645
+D3
+~
+~
+0 -1 5622
+S
+#5645
+River Isvar~
+   The river runs east and west. There is a landing to the north where boats
+put in, and a trail leads up from it.
+~
+54 0 7
+D0
+~
+~
+0 -1 5615
+D1
+~
+~
+0 -1 5646
+D3
+~
+~
+0 -1 5644
+S
+#5646
+River Isvar~
+   The river meanders through the foothills. The air is drier on this side
+of the mountains, and a little warmer. The water runs east and west.
+~
+54 0 7
+D1
+~
+~
+0 -1 5647
+D3
+~
+~
+0 -1 5645
+S
+#5647
+River Isvar~
+   The river runs east across the plains. Westward rise the snow-capped
+peaks, and to the east you can make out the walls and smoke of New Thalos.
+~
+54 0 7
+D1
+~
+~
+0 -1 5648
+D3
+~
+~
+0 -1 5646
+S
+#5648
+River Isvar~
+   The river runs east and west, slow and brown. Grain barges drift past,
+bound for the city and then for the front.
+~
+54 0 7
+D1
+~
+~
+0 -1 5649
+D3
+~
+~
+0 -1 5647
+S
+#5649
+River Isvar~
+   The river slows as it widens through the lowlands. A small dock gives
+access to the north shore. The water runs east toward the city and west.
+~
+54 0 7
+D0
+~
+~
+0 -1 5633
+D1
+~
+~
+0 -1 5623
+D3
+~
+~
+0 -1 5648
+S
+#5651
+In The Mountains~
+   You pick your way over rocks and stones in the mountains between the
+Isvar and the Dark River. Paths of a sort lead every way, and every rock
+looks like every other.
+~
+54 0 5
+D0
+~
+~
+0 -1 5652
+D1
+~
+~
+0 -1 5656
+D2
+~
+~
+0 -1 5654
+D3
+~
+~
+0 -1 5657
+S
+#5652
+In The Mountains~
+   Grey rock, grey scree, grey sky. You are fairly sure you have passed this
+split boulder before. Or one just like it.
+~
+54 0 5
+D0
+~
+~
+0 -1 5652
+D1
+~
+~
+0 -1 5655
+D2
+~
+~
+0 -1 5652
+D3
+~
+~
+0 -1 5651
+S
+#5653
+In The Mountains~
+   The rocks here crowd close. To the east a great boulder sits wedged in a
+gap, and you can hear running water beyond it. Other ways lead north, south
+and west, all much alike.
+~
+54 0 5
+D0
+~
+~
+0 -1 5654
+D1
+A great boulder blocks the gap. There is a crack around its edge, and the
+sound of water beyond.
+~
+boulder rock crack~
+1 -1 5639
+D2
+~
+~
+0 -1 5656
+D3
+~
+~
+0 -1 5657
+S
+#5654
+In The Mountains~
+   Loose stones slide underfoot. The mountains between the rivers fold in on
+themselves, and the path you came by is already hard to find.
+~
+54 0 5
+D0
+~
+~
+0 -1 5654
+D1
+~
+~
+0 -1 5658
+D2
+~
+~
+0 -1 5657
+D3
+~
+~
+0 -1 5660
+S
+#5655
+In The Mountains~
+   A cold wind whistles through the rocks. A pile of stones has been stacked
+here by someone else who was lost, and it did not help them.
+~
+54 0 5
+D0
+~
+~
+0 -1 5655
+D1
+~
+~
+0 -1 5659
+D2
+~
+~
+0 -1 5658
+D3
+~
+~
+0 -1 5654
+S
+#5656
+In The Mountains~
+   A shallow hollow among the rocks, sheltered from the wind. Old ashes mark
+a cookfire. Ways lead off in all four directions, all of them the same.
+~
+54 0 0
+D0
+~
+~
+0 -1 5653
+D1
+~
+~
+0 -1 5658
+D2
+~
+~
+0 -1 5655
+D3
+~
+~
+0 -1 5651
+S
+#5657
+In The Mountains~
+   You clamber over a ridge of broken stone. Every way out looks like the
+way you came in, and the mountains seem to shift when you are not looking.
+~
+54 0 5
+D0
+~
+~
+0 -1 5654
+D1
+~
+~
+0 -1 5658
+D2
+~
+~
+0 -1 5654
+D3
+~
+~
+0 -1 5654
+S
+#5658
+In The Mountains~
+   A narrow cleft between two slabs of rock. Someone has scratched an arrow
+on the stone, but there are arrows scratched pointing every way.
+~
+54 0 5
+D0
+~
+~
+0 -1 5655
+D1
+~
+~
+0 -1 5657
+D2
+~
+~
+0 -1 5659
+D3
+~
+~
+0 -1 5654
+S
+#5659
+In The Mountains~
+   A bleak saddle of rock between two peaks. Bones of a mule lie bleached
+among the stones. You are lost, and the rocks do not care.
+~
+54 0 5
+D0
+~
+~
+0 -1 5652
+D1
+~
+~
+0 -1 5659
+D2
+~
+~
+0 -1 5654
+D3
+~
+~
+0 -1 5658
+S
+#5660
+The Headwaters Of The Dark River~
+   A spring wells up black from the heart of the mountain and flows west. An
+earthquake has torn this place not long ago: the path east is choked with
+fallen rock, and you must scramble to pass it.
+~
+54 a 7
+D1
+~
+~
+0 -1 5654
+D3
+~
+~
+0 -1 5661
+S
+#5661
+On The Dark River~
+   The river flows west down a large crevasse and back east up into the
+mountains toward its spring. The water has no reflection.
+~
+54 a 7
+D1
+~
+~
+0 -1 5660
+D3
+~
+~
+0 -1 5662
+S
+#5662
+On The Dark River~
+   The walls of the canyon tower overhead, black with wet. The river runs
+east and west between them.
+~
+54 a 7
+D1
+~
+~
+0 -1 5661
+D3
+~
+~
+0 -1 5663
+S
+#5663
+On The Dark River~
+   The rock walls sink slowly to the level of the ground as the river leaves
+the mountains for a stretch of open land. It runs east and west.
+~
+54 a 7
+D1
+~
+~
+0 -1 5662
+D3
+~
+~
+0 -1 5664
+S
+#5664
+On The Dark River~
+   The river bends out of the foothills to the east and turns south toward
+the mountains again. Dead reeds rattle on the banks.
+~
+54 a 7
+D1
+~
+~
+0 -1 5663
+D2
+~
+~
+0 -1 5665
+S
+#5665
+On The Dark River~
+   The river follows a low fold in the foothills, bending and twisting. Tall
+mountains rise to the south and east. The water runs north and south.
+~
+54 a 7
+D0
+~
+~
+0 -1 5664
+D2
+~
+~
+0 -1 5666
+S
+#5666
+On The Dark River~
+   The river makes a wide, sweeping turn here, from the north into the face
+of the mountain to the west.
+~
+54 a 7
+D0
+~
+~
+0 -1 5665
+D3
+~
+~
+0 -1 5667
+S
+#5667
+On The Dark River~
+   The river flows west into a black mouth in the heart of the mountain, and
+east back toward the foothills. The light behind you is very small.
+~
+54 ad 7
+D1
+~
+~
+0 -1 5666
+D3
+~
+~
+0 -1 5668
+S
+#5668
+On The Dark River~
+   You can barely see ahead as the river slides quietly through the
+underground passage. The water turns from the east to the south.
+~
+54 ad 7
+D1
+~
+~
+0 -1 5667
+D2
+~
+~
+0 -1 5669
+S
+#5669
+On The Dark River~
+   The river flows slowly west, deeper into the mountain. There are small
+cracks in the passage wall to the north where you might climb out of the
+water. The way back is east.
+~
+54 ad 7
+D0
+~
+~
+0 -1 5672
+D1
+~
+~
+0 -1 5668
+D3
+~
+~
+0 -1 5670
+S
+#5670
+On The Dark River~
+   The river runs east and west beneath a dark ledge high above the water.
+Your breath sounds very loud in the stone passage.
+~
+54 ad 7
+D1
+~
+~
+0 -1 5669
+D3
+~
+~
+0 -1 5671
+S
+#5671
+On The Dark River~
+   The passage narrows as the river flows south, deeper into the mountain.
+The way back is east.
+~
+54 ad 7
+D1
+~
+~
+0 -1 5670
+D2
+Downstream, the river passes under the arch of an old stone bridge.
+~
+~
+0 -1 5017
+S
+#5672
+On A Small Ledge~
+   You haul yourself out of the water onto a narrow ledge, hoping it leads
+somewhere. It does not; it is wide enough only to rest on. Old scratch marks
+on the wall count days. The only way is south, back into the river.
+~
+54 ad 2
+D2
+~
+~
+0 -1 5669
+S
+#5681
+On The Plains~
+   You stand on open grassland that stretches away in every direction. The
+north gate of New Thalos stands to the south, and far off to the north a
+line of trees darkens the horizon. East and west the grass runs on.
+~
+54 0 2
+D0
+~
+~
+0 -1 5682
+D1
+~
+~
+0 -1 5681
+D2
+~
+~
+0 -1 5567
+D3
+~
+~
+0 -1 5681
+S
+#5682
+On The Plains~
+   An open field of tall grass. The forest to the north is closer now, but
+still a long way off. A trodden dirt path leads south toward the city.
+~
+54 0 2
+D0
+~
+~
+0 -1 5683
+D1
+~
+~
+0 -1 5682
+D2
+~
+~
+0 -1 5681
+D3
+~
+~
+0 -1 5682
+S
+#5683
+The Edge Of The Forest~
+   You stand at the edge of a great forest. The trees run east and west as
+far as the eye can see, and no birds sing in them. Grass spreads out to the
+south.
+~
+54 0 2
+D1
+~
+~
+0 -1 5683
+D2
+~
+~
+0 -1 5682
+D3
+~
+~
+0 -1 5683
+S
+#5684
+River Isvar~
+   The river broadens and its water grows murky. The smell of salt reaches
+you from the east: the Dragon Sea is near. Grassland stretches away to the
+north. The river flows east and west.
+~
+54 0 7
+D1
+~
+~
+0 -1 5685
+D3
+~
+~
+0 -1 5626
+S
+#5685
+The River Delta~
+   Here the river empties into the Dragon Sea, staining the blue water brown
+with sand and silt. East is open sea all the way to the horizon, and the
+river stretches west back toward New Thalos.
+~
+54 0 7
+D1
+~
+~
+0 -1 5686
+D3
+~
+~
+0 -1 5684
+S
+#5686
+The Dragon Sea~
+   Clear blue sea rolls in every direction. The current pulls you round in
+circles; the river mouth is west, and you think you can see a dock off to
+the north.
+~
+54 0 7
+D0
+~
+~
+0 -1 5687
+D1
+~
+~
+0 -1 5686
+D2
+~
+~
+0 -1 5686
+D3
+~
+~
+0 -1 5685
+S
+#5687
+The Dragon Sea~
+   The Dragon Sea rolls in along the shore here, breaking on the beach. To
+the north a wooden dock juts out into the surf. Open water lies east and
+south.
+~
+54 0 7
+D0
+~
+~
+0 -1 5695
+D1
+~
+~
+0 -1 5696
+D2
+~
+~
+0 -1 5686
+S
+#5688
+The Dragon Sea~
+   The sea is grey-green and choppy, with the dock close by to the south.
+Gulls wheel overhead, crying. The water runs on north and east.
+~
+54 0 7
+D0
+~
+~
+0 -1 5688
+D1
+~
+~
+0 -1 5697
+D2
+~
+~
+0 -1 5695
+S
+#5689
+The Dragon Sea~
+   Deep water just east of the dock, which lies to the west. The water here
+is dark, and below you can see the shadow of the pilings going down.
+~
+54 0 7
+D0
+~
+~
+0 -1 5697
+D1
+~
+~
+0 -1 5689
+D2
+~
+~
+0 -1 5696
+D3
+~
+~
+0 -1 5695
+D5
+~
+~
+0 -1 5698
+S
+#5690
+On A Road~
+   New Thalos keeps its roads well, because they carry the city's tithe to
+the front. Road gangs work here in all weathers, and the taxes that pay them
+are the heaviest in the realm. The road runs east to the coast and west to
+the eastern gate.
+~
+54 0 2
+D1
+~
+~
+0 -1 5691
+D3
+~
+~
+0 -1 5568
+S
+#5691
+On A Road~
+   A well used road through open country. To the north a wall of tall pines
+runs for miles beyond the plains; to the south, past the river, lies the
+desert. The road runs east and west.
+~
+54 0 2
+D1
+~
+~
+0 -1 5692
+D3
+~
+~
+0 -1 5690
+S
+#5692
+On A Road~
+   The Dragon Sea can be seen to the east now. From the south come the calls
+of bargemen on the Isvar, bringing goods down to the coast. The road runs
+east and west.
+~
+54 0 2
+D1
+~
+~
+0 -1 5693
+D3
+~
+~
+0 -1 5691
+S
+#5693
+On A Road~
+   This is the main land route to the coast. Merchants bring their goods
+here to be shipped, and the tithe goes west the other way, through New
+Thalos, over the mountains and down to Midgaard. The road runs east and
+west.
+~
+54 0 2
+D1
+~
+~
+0 -1 5694
+D3
+~
+~
+0 -1 5692
+S
+#5694
+Near The Shore~
+   The road ends here, turning into a sandy path down the beach to a dock.
+The coastline runs away north and south. West of here the lowlands roll up
+toward the distant snow-capped mountains.
+~
+54 0 2
+D1
+~
+~
+0 -1 5695
+D3
+~
+~
+0 -1 5693
+S
+#5695
+On A Dock~
+   A plain wooden dock reaches out from the end of the road into the sea. It
+is old but sturdy, its planks stained with tar and fish scales. Crates of
+goods wait under oiled cloth. The sea lies north, east and south, and the
+shore is west.
+~
+54 0 1
+D0
+~
+~
+0 -1 5688
+D1
+~
+~
+0 -1 5689
+D2
+~
+~
+0 -1 5687
+D3
+~
+~
+0 -1 5694
+S
+#5696
+The Dragon Sea~
+   Open sea, the swell long and slow. Far to the west a low line of coast
+shows, and the water carries you on east. A dock lies somewhere to the west,
+beyond the breakers.
+~
+54 0 7
+D0
+~
+~
+0 -1 5689
+D1
+~
+~
+0 -1 5696
+D3
+~
+~
+0 -1 5687
+S
+#5697
+The Dragon Sea~
+   The ocean rolls gently in every direction. On the horizon you can make
+out an island, and to the west the mainland.
+~
+54 0 7
+D0
+~
+~
+0 -1 5697
+D1
+~
+~
+0 -1 5697
+D2
+~
+~
+0 -1 5689
+D3
+~
+~
+0 -1 5688
+S
+#5698
+Under The Dock~
+   You swim beneath the dock among four great wooden pilings, furred with
+weed. The water is murky, but to the west you think you can make out an iron
+grating. The surface is above.
+~
+54 1 7
+D3
+~
+grate~
+1 -1 5699
+D4
+~
+~
+0 -1 5697
+S
+#5699
+The Lair Of The Ixitxachitl~
+   Blood clouds the water as the ixitxachitl finishes its meal. It is a
+great ray, black and barbed, that came in from the deep sea and grew fat on
+drowned dockworkers. It wheels round as you intrude, and attacks! The
+grating lies east.
+~
+54 1 7
+D1
+~
+grate~
+1 -1 5698
+S
+$

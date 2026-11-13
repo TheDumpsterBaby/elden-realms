@@ -1,0 +1,212 @@
+#20500
+cistern~
+the fortress cistern~
+A stone cistern of rainwater stands in the yard.~
+~
+23 0 0
+100 100 0 0
+2 11 1
+#20501
+javelin grey~
+a grey iron javelin~
+A grey iron javelin lies here.~
+~
+5 0 8193
+0 2 8 11
+8 947 94
+#20502
+spear lastlight~
+a Lastlight spear~
+A well-worn spear lies here.~
+~
+5 0 8193
+0 3 5 11
+8 1005 100
+#20503
+shield lastlight lantern~
+a shield painted with a lantern~
+A shield painted with a lantern lies here.~
+~
+9 0 513
+11 0 0 0
+10 1005 100
+#20504
+hammer smith~
+a smith's hammer~
+A heavy hammer lies here.~
+~
+5 0 8193
+0 3 5 7
+8 976 97
+#20505
+longbow bow~
+a yew longbow~
+A yew longbow lies here.~
+~
+5 0 8193
+0 3 5 11
+8 1005 100
+A
+2 1
+#20506
+blade lastlight~
+the blade of the Last Light~
+A long sword whose blade glows faintly lies here.~
+~
+5 a 8193
+0 3 5 3
+8 1094 109
+A
+18 4
+A
+19 4
+#20507
+fish salt~
+a salted fish~
+A salted fish lies here.~
+~
+19 0 1
+14 0 0 0
+1 12 1
+#20508
+kit field~
+a field healing kit~
+A field healing kit lies here.~
+~
+10 0 1
+55 28 -1 -1
+1 1005 100
+#20509
+vial rite~
+a vial of blessed water~
+A vial of blessed water lies here.~
+~
+10 0 1
+55 36 43 -1
+1 1005 100
+#20510
+axe warden~
+the warden's great axe~
+A great axe notched by a hundred fights lies here.~
+~
+5 0 8193
+0 3 6 3
+8 1064 106
+A
+19 4
+#20511
+belt troll hide~
+a belt of troll hide~
+A belt of grey troll hide lies here.~
+~
+9 0 2049
+4 0 0 0
+10 1064 106
+A
+13 40
+A
+5 1
+#20512
+pole ferry~
+a ferryman's pole~
+A long black pole lies here.~
+~
+5 0 8193
+0 3 6 5
+8 1034 103
+#20513
+coin grave~
+a grave coin on a chain~
+A coin black with age, on a chain, lies here.~
+~
+11 0 5
+0 0 0 0
+2 1034 103
+A
+24 -3
+A
+12 40
+#20514
+sword grey iron~
+a grey iron sword~
+A sword of dull grey iron lies here.~
+~
+5 0 8193
+0 3 5 3
+8 1005 100
+#20515
+mail grey iron~
+grey iron mail~
+A coat of grey iron mail lies here.~
+~
+9 0 9
+14 0 0 0
+10 1005 100
+#20516
+censer grey~
+a grey censer~
+A censer leaking grey smoke lies here.~
+~
+11 0 16385
+0 0 0 0
+2 1034 103
+A
+3 1
+A
+12 30
+#20517
+whip grey~
+a whip of grey hide~
+A whip of grey hide lies coiled here.~
+~
+5 0 8193
+0 3 5 2
+8 1034 103
+#20518
+glaive champion~
+a champion's glaive~
+A long glaive of black iron lies here.~
+~
+5 0 8193
+0 3 6 3
+8 1064 106
+A
+18 2
+A
+19 3
+#20519
+hammer bridgebreaker~
+the Bridgebreaker's hammer~
+A hammer the size of a door lies here. You could barely lift it.~
+~
+5 0 8193
+0 3 6 7
+40 1124 112
+A
+19 6
+A
+1 2
+#20520
+plates bolted iron~
+bolted iron plates~
+A set of iron plates with bloody bolt holes lies here.~
+~
+9 0 9
+14 0 0 0
+10 1094 109
+A
+13 50
+#20521
+plans siege~
+the siege plans~
+A roll of siege plans lies here.~
+~
+16 0 1
+0 0 0 0
+1 11 1
+E
+plans siege~
+The assault on Lastlight, in detail. The tower, the rams, the night. At the
+bottom, in a different hand: AND THEN MIDGAARD.
+~
+$

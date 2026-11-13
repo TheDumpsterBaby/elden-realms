@@ -1,0 +1,239 @@
+#5000
+teamster driver~
+a weary teamster~
+A weary teamster checks the harness on his team.
+~
+A broad-shouldered man with mud to the knees and a whip coiled on his belt.
+He looks as though he has not slept properly in a month.
+~
+dg 0 300 E
+12 17 9 3d10+24 1d2+0
+55 355
+8 8 1
+BareHandAttack: 0
+E
+#5001
+crow carrion~
+a carrion crow~
+A carrion crow watches you with one bright eye.
+~
+A big black crow, fat on the road's dead. It hops closer whenever you stop
+moving.
+~
+dg 0 0 E
+12 17 9 3d10+24 1d2+0
+55 355
+8 8 0
+BareHandAttack: 4
+E
+#5002
+guard caravan soldier~
+a caravan guard~
+A caravan guard in Midgaard grey keeps watch over the wagons.
+~
+A hard-faced soldier with a spear and a dented helm. Guarding wagons is
+supposed to be the easy duty. Nobody on this road believes that.
+~
+dmg 0 500 E
+16 16 8 4d10+140 2d6+2
+101 3082
+8 8 1
+BareHandAttack: 0
+E
+#5003
+stablehand boy~
+a stablehand~
+A stablehand forks straw into an empty stall.
+~
+A thin youth with straw in his hair. His older brothers all went west to the
+wall.
+~
+db 0 200 E
+12 17 9 3d10+24 1d2+0
+55 355
+8 8 1
+BareHandAttack: 0
+E
+#5004
+clerk depot~
+the depot clerk~
+The depot clerk scratches figures into a ledger.
+~
+An ink-stained woman with spectacles and no patience. Every sack that goes
+missing is a sack she has to explain.
+~
+db 0 100 E
+13 17 9 3d10+26 1d2+0
+63 415
+8 8 2
+BareHandAttack: 0
+E
+#5005
+master depot~
+the depot master~
+The depot master studies the maps, jaw clenched.
+~
+A one-armed veteran of the wall, sent east when he could no longer hold a
+shield. He runs the depot like a battle, because to him it is one.
+~
+db 0 400 E
+18 16 8 4d10+418 2d12+6
+163 11674
+8 8 1
+BareHandAttack: 0
+E
+#5006
+warden signal~
+the signal warden~
+The signal warden stares west, a torch ready in her hand.
+~
+A grey-haired woman wrapped in a wool cloak, her eyes never leaving the
+western horizon.
+~
+db 0 400 E
+17 16 8 4d10+400 2d12+5
+148 10414
+8 8 2
+BareHandAttack: 0
+E
+#5007
+deserter soldier~
+a deserter~
+A deserter in torn grey glares at you, hand on his blade.
+~
+He once stood on Midgaard's wall. Whatever he saw out there broke him, and
+now he would cut your throat for your boots.
+~
+dfg 0 -300 E
+14 17 9 3d10+132 2d5+2
+81 2362
+8 8 1
+BareHandAttack: 0
+E
+#5008
+sergeant deserter~
+a deserter sergeant~
+A deserter sergeant barks orders at the men around the fire.
+~
+Thick-necked and scarred, he still wears his sergeant's braid. He took his
+squad with him when he ran.
+~
+dflg 0 -400 E
+17 16 8 4d10+400 2d12+5
+148 10414
+8 8 1
+BareHandAttack: 0
+E
+#5009
+captain deserter~
+the deserter captain~
+The deserter captain looks up from his map with cold, intelligent eyes.
+~
+Lean, clean-shaven and calm, he wears a captain's cloak with the sigil cut
+away. He decided the fort was already lost, and that the living should take
+what they can.
+~
+dbl 0 -500 E
+21 15 8 5d10+1513 3d12+10
+391 52930
+8 8 1
+BareHandAttack: 0
+E
+#5010
+bandit robber~
+a road bandit~
+A road bandit grins at you over a drawn knife.
+~
+A ragged cutthroat in mismatched leathers. Business has never been better:
+the fort pays, the road bleeds, and nobody comes looking.
+~
+dfg 0 -500 E
+15 17 9 3d10+139 2d5+2
+91 2710
+8 8 1
+BareHandAttack: 0
+E
+#5011
+lookout bandit~
+a bandit lookout~
+A bandit lookout crouches by the curtain, crossbow across his knees.
+~
+A wiry man with sharp eyes and a sharper knife. He whistles a warning the
+moment he sees you.
+~
+dbf 0 -500 E
+16 16 8 4d10+140 2d6+2
+101 3082
+8 8 1
+BareHandAttack: 0
+E
+#5012
+cutthroat bandit~
+a bandit cutthroat~
+A bandit cutthroat turns a long dagger slowly in his fingers.
+~
+The lord's favourite killers. Quick, quiet and utterly without pity.
+~
+dflg 0 -700 E
+18 16 8 4d10+418 2d12+6
+163 11674
+8 8 1
+BareHandAttack: 0
+E
+#5013
+lord bandit~
+the Bandit Lord~
+The Bandit Lord lounges in his carved chair, a broadsword across his knees.
+~
+Big, handsome and dressed like nobility, he styles himself Lord of the Road.
+Every convoy that reaches the fort does so because he allowed it.
+~
+dbl 0 -800 E
+25 14 7 6d10+3767 3d21+16
+1207 225010
+8 8 1
+BareHandAttack: 0
+E
+#5014
+wolf grey~
+a grey wolf~
+A lean grey wolf circles you, hackles raised.
+~
+Gaunt and bold, with a scar across its muzzle. Hunger has driven the wolves
+out of the hills and onto the road.
+~
+dfg 0 -100 E
+13 17 9 3d10+125 2d4+2
+72 2038
+8 8 0
+BareHandAttack: 4
+E
+#5015
+wolf matriarch dire~
+the dire wolf matriarch~
+An enormous dire wolf rises from the bones, lips peeling back from yellow fangs.
+~
+Twice the size of any wolf in the pack, her fur matted with old blood.
+Something in the West has been feeding her strength.
+~
+dbfl 0 -300 E
+20 15 8 5d10+1451 3d12+9
+362 48010
+8 8 0
+BareHandAttack: 4
+E
+#5016
+keeper shrine old woman~
+the shrine keeper~
+An old woman tends the shrine lamp, murmuring prayers.
+~
+Her hands shake, but the lamp has never gone out. She asks every traveller
+their name, so she can pray for them if they do not come back.
+~
+db 0 900 E
+15 17 9 3d10+30 1d2+0
+79 550
+8 8 2
+BareHandAttack: 0
+E
+$

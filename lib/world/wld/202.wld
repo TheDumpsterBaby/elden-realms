@@ -1,0 +1,494 @@
+#20200
+The Edge of the Fens~
+   The ground turns soft underfoot where the Hollow Wood ends, and the trees
+give way to reeds taller than a man. Mist lies low over brown water. A
+causeway of logs and packed earth leads out into the marsh, and from
+somewhere out in the mist a bell tolls, slow and steady.
+~
+202 0 2
+D1
+~
+~
+0 -1 20124
+D3
+~
+~
+0 -1 20201
+S
+#20201
+The Log Causeway~
+   Logs laid side by side make a road across the marsh, slick with green
+slime. Some have rotted through and you step over the gaps into black water.
+On both sides the reeds hiss, and pale lights drift among them, just out of
+reach.
+~
+202 0 2
+D0
+~
+~
+0 -1 20202
+D1
+~
+~
+0 -1 20200
+D2
+~
+~
+0 -1 20205
+D3
+~
+~
+0 -1 20209
+S
+#20202
+Among the Tall Reeds~
+   You wade off the causeway into reeds that close over your head. The water
+is waist deep and cold, and the mud sucks at your boots. Every direction
+looks the same. A grey light bobs ahead, beckoning, always a few steps
+further.
+~
+202 0 6
+D0
+~
+~
+0 -1 20203
+D2
+~
+~
+0 -1 20201
+D3
+~
+~
+0 -1 20204
+S
+#20203
+The Heron Mere~
+   An open pool of still black water ringed by reeds. Herons stand in the
+shallows, grey and motionless, but they do not fish; they watch you, every
+one, and their eyes are milky white. Beneath the surface something long
+turns over and is gone.
+~
+202 0 6
+D2
+~
+~
+0 -1 20202
+S
+#20204
+The Fen Hag's Hut~
+   A hut of reeds and mud squats on a hummock above the water. Inside,
+bundles of herbs and dead things hang from the roof, and a cauldron bubbles
+with something grey. Little figures made of reeds and hair stand along a
+shelf, each wearing a scrap of clothing from someone who went missing.
+~
+202 d 0
+D1
+~
+~
+0 -1 20202
+E
+figures reeds shelf~
+Dozens of little reed people. One wears a scrap of Stilthold militia blue.
+~
+S
+#20205
+The Drowned Village, East End~
+   Roofs poke out of the water like the backs of whales. This was a village
+of eel-fishers before the marsh rose in a single night and swallowed it. The
+water is clear enough here to see the streets below, and the people still
+walking in them.
+~
+202 0 6
+D0
+~
+~
+0 -1 20201
+D3
+~
+~
+0 -1 20207
+D5
+~
+~
+0 -1 20206
+S
+#20206
+Beneath the Water, a Drowned Street~
+   You sink into the cold water and walk the drowned street. Doors hang
+open. Weed grows from the windows. Drowned villagers go about their old
+tasks in slow motion, mending nets that rot as they mend them, and they turn
+their white faces toward you as you pass.
+~
+202 a 9
+D4
+~
+~
+0 -1 20205
+S
+#20207
+The Drowned Square~
+   The village square lies under a fathom of water, but its chapel spire
+rises above the surface, and someone has tied a rope ladder to it. Grey-
+scaled things nest on the roofs around the square, hissing, and the water
+below them boils with eels.
+~
+202 0 6
+D0
+~
+~
+0 -1 20216
+D1
+~
+~
+0 -1 20205
+D4
+~
+~
+0 -1 20208
+S
+#20208
+Atop the Drowned Spire~
+   You climb the ladder to the little belfry of the drowned chapel. The bell
+is gone. Someone has made a nest up here of sacking and stolen clothes, and
+left a heap of shiny things: buttons, rings, a soldier's badge. The creature
+that made it is coming back. You can hear it climbing.
+~
+202 0 0
+D5
+~
+~
+0 -1 20207
+S
+#20209
+The Causeway, Bones in the Mud~
+   The causeway is lined with stakes, and on each stake is a skull, facing
+outward. The Stilthold militia put them there as a warning to the things in
+the marsh. The things in the marsh have replied by adding skulls of their
+own, in Stilthold blue.
+~
+202 0 2
+D1
+~
+~
+0 -1 20201
+D3
+~
+~
+0 -1 20210
+S
+#20210
+The Gate of Stilthold~
+   A town rises from the marsh on a forest of tarred stilts, its timber
+walls studded with iron spikes. A drawbridge of planks hangs over the
+causeway, let down only for the living. A great bronze bell hangs in a tower
+above the gate, and a guard rings it every hundred heartbeats.
+~
+202 c 1
+D1
+~
+~
+0 -1 20209
+D3
+~
+~
+0 -1 20216
+D4
+~
+~
+0 -1 20211
+S
+#20211
+Stilthold, the Plank Walk~
+   Walkways of planks link the houses of Stilthold high above the water,
+swaying gently on their ropes. Children are tied to their mothers with cords
+so that they cannot fall. Lamps burn in every window, day and night, because
+the grey lights fear true flame.
+~
+202 c 1
+D0
+~
+~
+0 -1 20212
+D2
+~
+~
+0 -1 20214
+D3
+~
+~
+0 -1 20213
+D4
+~
+~
+0 -1 20215
+D5
+~
+~
+0 -1 20210
+S
+#20212
+Stilthold, the Reeve's Hall~
+   A long hall on the highest stilts, where the reeve holds council beneath
+a roof of reed thatch. Maps of the marsh are spread on the table, and every
+drowned village is marked with a black stone. There are more black stones
+than there are villages left.
+~
+202 cde 0
+D2
+~
+~
+0 -1 20211
+S
+#20213
+Stilthold, the Last Lantern Inn~
+   A smoky common room where militia and eel-fishers drink in silence. The
+landlady keeps a lantern burning on every table. Above the bar hangs a
+stuffed fen eel as long as a boat, and beneath it a list of the inn's
+regulars who did not come back from the marsh.
+~
+202 cde 0
+D1
+~
+~
+0 -1 20211
+S
+#20214
+Stilthold, the House of Lamps~
+   A healer's house where leech-bitten and fever-sick lie on cots beneath a
+hundred small oil lamps. The healer here burns the grey from wounds with a
+hot iron; it is the only cure that works. The smell of scorched flesh never
+leaves the room.
+~
+202 cde 0
+D0
+~
+~
+0 -1 20211
+S
+#20215
+Stilthold, the Bell Tower~
+   At the top of the tower the great bronze bell swings and tolls, and the
+ringer counts under his breath. From here the whole marsh is spread out
+below: the drowned villages, the meres, and far to the west the black water
+of the Deep Mere, where the mist never lifts.
+~
+202 ce 0
+D5
+~
+~
+0 -1 20211
+E
+deep mere west mist~
+The Deep Mere. The Stilthold folk say the old Fen-King sleeps beneath it,
+and that he has begun to dream again.
+~
+S
+#20216
+The West Causeway~
+   Beyond Stilthold the causeway runs west in poorer repair, half sunk in
+places. The marsh grows darker and the water blacker. Bloated shapes float
+face down in the channels on either side, and not all of them stay floating
+when you pass.
+~
+202 0 2
+D0
+~
+~
+0 -1 20217
+D1
+~
+~
+0 -1 20210
+D2
+~
+~
+0 -1 20207
+D3
+~
+~
+0 -1 20219
+S
+#20217
+The Bog of the Fallen~
+   A wide bog where a company of Stilthold militia was lost chasing the grey
+lights. Their spears still stand upright in the mud where they sank.
+Sometimes on still nights the spears move, as the men beneath them try to
+climb out.
+~
+202 0 6
+D0
+~
+~
+0 -1 20218
+D2
+~
+~
+0 -1 20216
+S
+#20218
+The Leech Pool~
+   A pool of warm, red-tinged water steaming slightly in the cold air.
+Things ripple beneath the surface, long and fat. On the bank lies the body
+of a deer drained white and dry as paper. The water is the colour it is
+because of what lives in it.
+~
+202 0 6
+D2
+~
+~
+0 -1 20217
+S
+#20219
+The Sunken Road~
+   The causeway sinks below the water here, and you wade knee deep along its
+line, feeling for the logs with your feet. Mist closes in until you cannot
+see your hands. Voices call to you from the mist, using the names of people
+you have lost.
+~
+202 0 6
+D1
+~
+~
+0 -1 20216
+D2
+~
+~
+0 -1 20220
+D3
+~
+~
+0 -1 20222
+S
+#20220
+The Barrow Isle~
+   A low island rises from the marsh, crowned with a grassy barrow ringed
+with stones. The old fen-folk buried their kings' servants here. The barrow
+door has been dug open from the inside, and the earth around it is churned
+and wet.
+~
+202 0 4
+D0
+~
+~
+0 -1 20219
+D5
+~
+~
+0 -1 20221
+S
+#20221
+Inside the Barrow~
+   A passage of mossy stone leads into the mound, lined with niches where
+the dead lie in rotted finery. Water drips everywhere. At the end of the
+passage, a wight in a crown of tarnished bronze sits on a stone chair, its
+servants kneeling around it.
+~
+202 ad 0
+D4
+~
+~
+0 -1 20220
+S
+#20222
+The Fen-King's Way~
+   An ancient road of carved stone rises out of the water, leading west
+toward the Deep Mere. Statues of crowned men line it, their faces worn away
+by centuries of rain, their hands held out as if offering something. Each
+one has been hung with drowned flowers.
+~
+202 0 2
+D0
+~
+~
+0 -1 20227
+D1
+~
+~
+0 -1 20219
+D3
+~
+~
+0 -1 20223
+S
+#20223
+The Shore of the Deep Mere~
+   The road ends at a stone jetty on the shore of a lake of black,
+motionless water. The mist here is thick and cold and smells of iron. A
+causeway of carved stone runs out into the mere, half submerged, toward a
+ruined tower rising from the water at its centre.
+~
+202 0 2
+D1
+~
+~
+0 -1 20222
+D3
+~
+~
+0 -1 20224
+S
+#20224
+The Causeway Across the Mere~
+   You wade along the submerged stones, the black water around your thighs
+and rising. The bottom drops away on either side into darkness. Pale faces
+rise to just beneath the surface and drift alongside you, watching, patient.
+~
+202 0 6
+D1
+~
+~
+0 -1 20223
+D3
+~
+~
+0 -1 20225
+S
+#20225
+The Drowned Tower~
+   The tower's lower floors are flooded. Its walls are carved with the
+history of the fen-kings, ending in a carving of the marsh rising over a
+crowned figure who opens his arms to a darkness in the west. A stair leads
+down into the black water.
+~
+202 d 0
+D1
+~
+~
+0 -1 20224
+D5
+~
+~
+0 -1 20226
+S
+#20226
+The Hall Beneath the Mere~
+   A drowned throne room deep beneath the mere, its pillars wrapped in weed.
+Grey light glows from nowhere. On the throne sits the Drowned Lord, last of
+the fen-kings, who made a pact with the West to save his kingdom and drowned
+it instead. He rises.
+~
+202 a 9
+D4
+~
+~
+0 -1 20225
+S
+#20227
+The Western Fens~
+   The marsh gives way to firmer ground as you go west. The reeds thin, and
+the land rises toward a grey, open plain. Broken banners lie half buried in
+the mud, and the wind brings a smell of old iron and older death from the
+battlefield ahead.
+~
+202 0 2
+D2
+~
+~
+0 -1 20222
+D3
+West, the ground firms and rises onto a grey battlefield.
+~
+~
+0 -1 20300
+S
+$

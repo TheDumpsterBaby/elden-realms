@@ -1,0 +1,81 @@
+#6400
+goat mountain~
+the mountain goat~
+A gaunt mountain goat picks at a tuft of grass here.
+~
+A rangy goat, well used to the cliffs. It will not go near the valley below,
+and it eyes you warily.
+~
+gh k 0 E
+16 16 8 3d5+145 2d5+2
+0 16000
+8 8 1
+BareHandAttack: 4
+E
+#6401
+demon decay~
+the Demon of Decay~
+A cloaked, clawed demon of decay comes at you, rotting the air around it!
+~
+One of the things that came through when Rand's summoning broke. Wood
+softens and metal pits where it walks, and it hates anything that is still
+alive.
+~
+beflmnopr dk -1000 E
+18 16 8 3d5+190 2d7+2
+0 22500
+8 8 0
+BareHandAttack: 8
+E
+#6402
+haunt book monster guardian~
+the Book Haunt~
+A mound of torn books heaves up into a man's shape and lunges at you!
+~
+Rand's library, possessed. Pages and bindings churn in the shape of a man,
+and where its face should be is a book of the mage's own notes, flapping
+open and shut like a mouth.
+~
+beflmnopqr dk 0 S
+19 16 8 1d1+246 2d7+3
+0 32773
+8 8 0
+#6403
+dread feeling bad~
+a Dread~
+A dread closes on your throat like a hand.
+~
+It is like every dread you have ever felt, but heavier, and it has a shape.
+Something from the west that clings to the room where Rand slept.
+~
+beflmnopqr dk 0 S
+21 15 8 1d1+279 3d5+3
+0 22864
+8 8 0
+#6404
+nightmare~
+Your Worst Nightmare~
+Your worst nightmare takes shape in front of you and attacks!
+~
+Your own deepest fears, given flesh by what Rand let in. It has your face,
+or the face of someone you lost.
+~
+beflmnopqr dk 0 S
+22 15 8 1d1+333 3d8+2
+0 32508
+8 8 0
+#6405
+guardian warden~
+the Warden~
+A warden of bound stone guards the barred door. It turns and attacks!
+~
+A guardian that Rand bound to watch the door to his cellars. It does not
+know he is dead. It knows only that nobody passes.
+~
+beflmnopr dk 0 E
+21 15 8 1d1+279 3d6+2
+0 22864
+8 8 0
+BareHandAttack: 9
+E
+$

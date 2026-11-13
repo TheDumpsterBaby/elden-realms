@@ -1,0 +1,350 @@
+#6300
+The Passage to the Hospice~
+   A vaulted stone passage leads east from the Temple altar, its walls
+carved with the names of healers who died tending the wounded. The air
+smells of lye and incense. Through the far arch you can hear coughing,
+prayers and, now and then, a scream.
+~
+63 cde 0
+D1
+~
+~
+0 -1 6301
+D3
+~
+~
+0 -1 3054
+E
+names walls carved~
+Hundreds of names, each followed by a date. The dates grow closer together
+toward the end of the passage.
+~
+S
+#6301
+The West Cloister~
+   A covered walk runs around a small garden of medicinal herbs, gone to
+seed for lack of hands to tend it. Wounded men sit along the walls in the
+weak sun, wrapped in blankets. Sisters in white move among them with bowls
+of broth and clean bandages.
+~
+63 c 0
+D0
+~
+~
+0 -1 6305
+D1
+~
+~
+0 -1 6302
+D2
+~
+~
+0 -1 6306
+D3
+~
+~
+0 -1 6300
+S
+#6302
+The Herb Garden~
+   Beds of herbs fill the cloister garth, bordered by low box hedges:
+feverfew, comfrey, poppy, and rows of plants you do not recognise. A stone
+basin of clear water stands in the middle, the only clean water you have
+seen outside the Temple.
+~
+63 c 2
+D1
+~
+~
+0 -1 6303
+D3
+~
+~
+0 -1 6301
+S
+#6303
+The East Cloister~
+   The eastern walk of the cloister looks onto the infirmary windows and the
+bell tower. A door leads to the apothecary, and a broad stair descends to
+the mortuary, where the stretcher-bearers bring those who could not be
+saved.
+~
+63 c 0
+D0
+~
+~
+0 -1 6309
+D1
+~
+~
+0 -1 6311
+D2
+~
+~
+0 -1 6304
+D3
+~
+~
+0 -1 6302
+D5
+~
+~
+0 -1 6312
+S
+#6304
+The Hospice Gate~
+   The hospice's southern gate stands open at the top of the hill. Below,
+the Refugee Camps spread out in a grey haze of smoke. Stretcher-bearers come
+and go without rest, and a sister at the gate decides who is carried in and
+who is turned away.
+~
+63 c 0
+D0
+~
+~
+0 -1 6303
+D2
+~
+~
+0 -1 6103
+S
+#6305
+The Chapel of the Last Rites~
+   A plain chapel lit by banks of candles. Bodies lie on biers before the
+altar, wrapped in white, waiting for the rites to be spoken over them so
+that they will rest. A priest moves from bier to bier, his voice hoarse, his
+hands never still.
+~
+63 cde 0
+D2
+~
+~
+0 -1 6301
+S
+#6306
+The Long Infirmary~
+   A long hall lined with beds, every one of them full. Men missing limbs,
+men with wounds that will not close, men who stare at the ceiling and
+whisper about the West. The smell of blood and vinegar is overpowering. A
+door at the end leads to the surgery.
+~
+63 c 0
+D0
+~
+~
+0 -1 6301
+D1
+~
+~
+0 -1 6307
+S
+#6307
+The Surgery~
+   A stone table stained dark, a tray of saws and knives, a bucket you do
+not look into. The physician's leather apron hangs on a peg beside a list of
+names: those who must lose a limb tomorrow. The list is long, and the
+physician has not slept.
+~
+63 c 0
+D1
+~
+~
+0 -1 6308
+D3
+~
+~
+0 -1 6306
+S
+#6308
+The Physician's Study~
+   Books on anatomy and herb lore crowd the shelves, and the desk is buried
+in notes. A jar on the desk holds a sample of grey, soft grain beside a
+sketch of a blotched human arm. Across the top of the notes is written, and
+underlined three times: IT IS NOT A DISEASE.
+~
+63 c 0
+D3
+~
+~
+0 -1 6307
+E
+notes jar grain sketch~
+The greyblight spreads from the grain to the flesh. It does not kill; it
+replaces. The victim is not dead when they rise. They are listening. To
+what?
+~
+S
+#6309
+The Foot of the Bell Tower~
+   A narrow tower rises into darkness, its walls slick with damp. A bell
+rope hangs down the centre. The hospice bell is rung once for every death,
+and the rope is frayed nearly through.
+~
+63 c 0
+D2
+~
+~
+0 -1 6303
+D4
+~
+~
+0 -1 6310
+S
+#6310
+The Belfry~
+   A great bronze bell hangs among pigeon-fouled beams. Through the louvres
+you can see the fort, the camps and the fields, and far to the west, the
+stain on the horizon. Up here the bell hums faintly by itself, as if
+something far away were striking it.
+~
+63 0 0
+D5
+~
+~
+0 -1 6309
+S
+#6311
+The Apothecary~
+   Shelves of jars and bottles climb the walls, most of them empty. Bundles
+of herbs hang drying from the beams. The apothecary works at a bench with a
+mortar and pestle, grinding poppy for men who will die whether she grinds it
+or not.
+~
+63 c 0
+D3
+~
+~
+0 -1 6303
+S
+#6312
+The Mortuary~
+   A cold, low vault where the dead are washed and wrapped. Stone slabs hold
+shrouded bodies, and more lie on the floor between them. Some of the shrouds
+have grey stains spreading through the linen. A heavy door in the east wall
+is chained and padlocked.
+~
+63 d 0
+D0
+~
+~
+0 -1 6313
+D1
+A heavy door, chained and padlocked. Scratches cover the inside of it.
+~
+door chained~
+1 6306 6314
+D4
+~
+~
+0 -1 6303
+S
+#6313
+The Sexton's Room~
+   A cramped room beside the mortuary where the sexton lives and keeps the
+keys to the catacombs. A cot, a bottle, a lantern, and a heavy iron ring of
+keys on a nail. The sexton has started drinking before noon, and he keeps a
+mattock within reach of his cot.
+~
+63 d 0
+D2
+~
+~
+0 -1 6312
+S
+#6314
+The Catacomb Stair~
+   Worn steps spiral down into the earth beneath the hospice. The walls are
+lined with niches, each holding a skull. The air grows colder with every
+step, and from below comes a sound like many people breathing in their
+sleep.
+~
+63 ad 0
+D3
+~
+door chained~
+1 6306 6312
+D5
+~
+~
+0 -1 6315
+S
+#6315
+The Hall of Niches~
+   A long gallery cut from the rock, its walls lined floor to ceiling with
+burial niches. Many niches are empty. Their occupants have climbed out and
+lie on the floor, or stand facing the western wall, swaying.
+~
+63 ad 0
+D0
+~
+~
+0 -1 6316
+D1
+~
+~
+0 -1 6318
+D2
+~
+~
+0 -1 6317
+D4
+~
+~
+0 -1 6314
+S
+#6316
+The Ossuary~
+   Bones are stacked in patterns along every wall: femurs in rows, skulls in
+arches, ribs in fans. Generations of Midgaard's dead are arranged here.
+Tonight the bones are moving, clicking softly as they try to remember how
+they fit together.
+~
+63 ad 0
+D2
+~
+~
+0 -1 6315
+S
+#6317
+The Flooded Catacomb~
+   Black water has seeped up through the floor and stands waist deep between
+the niches. It is very cold. Things float in it. Every now and then the
+surface ripples outward from something moving beneath it.
+~
+63 ad 6
+D0
+~
+~
+0 -1 6315
+S
+#6318
+The Deep Catacomb~
+   The oldest part of the catacombs, carved before Midgaard had walls. The
+niches here hold abbots and abbesses of the hospice, laid out in their robes
+with their hands folded. Many of the robes are empty. A sealed door at the
+end has been broken open from the inside.
+~
+63 ad 0
+D1
+~
+~
+0 -1 6319
+D3
+~
+~
+0 -1 6315
+S
+#6319
+The Tomb of the Abbess~
+   A round vault with a marble sarcophagus at its centre, its lid cast aside
+and cracked in two. The walls are scored with spirals scratched into the
+stone by fingernails. The Abbess who founded the hospice rose first, and the
+others rose because she called them.
+~
+63 ad 0
+D3
+~
+~
+0 -1 6318
+S
+$

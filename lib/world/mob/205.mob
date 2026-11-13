@@ -1,0 +1,330 @@
+#20500
+skirmisher grey~
+a grey skirmisher~
+A grey skirmisher crouches in a ditch, javelin ready.
+~
+A hollowed soldier of the West's host, grey-skinned and silent, sent to
+probe the fortress's defences.
+~
+dfg 0 -900 E
+56 6 3 14d10+364 6d6+10
+752 37642
+8 8 0
+BareHandAttack: 0
+E
+#20501
+soldier lastlight~
+a Lastlight soldier~
+A Lastlight soldier leans on his spear, red-eyed with exhaustion.
+~
+The last garrison of the living. He has fought every night for a month and
+he will fight tonight.
+~
+dbm 0 700 E
+58 6 3 14d10+1062 6d13+20
+1060 121114
+8 8 1
+BareHandAttack: 0
+E
+#20502
+sergeant gate~
+the gate sergeant~
+The gate sergeant writes your name in his ledger.
+~
+He writes down every name. "So someone will know you were here," he says,
+"after."
+~
+db 0 600 E
+58 6 3 14d10+1062 6d13+20
+1060 121114
+8 8 1
+BareHandAttack: 0
+E
+#20503
+smith~
+the fortress smith~
+The fortress smith hammers a dented helm straight.
+~
+She mends what can be mended and melts what cannot, and there is never
+enough of either.
+~
+db 0 500 E
+57 6 3 14d10+1045 6d13+19
+1031 116974
+8 8 2
+BareHandAttack: 0
+E
+#20504
+archer lastlight~
+a Lastlight archer~
+A Lastlight archer draws and looses across the river.
+~
+Fingers raw from the string. She has stopped counting her kills.
+~
+db 0 700 E
+58 6 3 14d10+1062 6d13+20
+1060 121114
+8 8 0
+BareHandAttack: 0
+E
+#20505
+officer lastlight~
+a Lastlight officer~
+A Lastlight officer studies the maps, jaw clenched.
+~
+Young for his rank. Everyone senior to him is dead.
+~
+db 0 600 E
+59 6 3 14d10+1080 6d13+20
+1090 125326
+8 8 1
+BareHandAttack: 0
+E
+#20506
+commander lastlight~
+the Commander of the Last Light~
+The Commander of the Last Light watches the bridge, sword across his knees.
+~
+An old knight with a ruined face, the last of the realm's great captains. He
+knows the fortress will fall. He means to make the West pay for every stone.
+~
+db 0 900 E
+63 5 3 15d10+4030 7d18+33
+2270 476290
+8 8 1
+BareHandAttack: 0
+E
+#20507
+quartermaster~
+the fortress quartermaster~
+The quartermaster counts sacks with a frown.
+~
+There is less every night. He does not know why. He suspects everyone.
+~
+db 0 400 E
+56 6 3 14d10+55 1d2+0
+651 7536
+8 8 1
+BareHandAttack: 0
+E
+#20508
+rat grey~
+a grey rat~
+A grey rat as big as a dog gnaws at a sack.
+~
+The rot that began in Midgaard's granary is here too. It is everywhere.
+~
+dfg 0 -500 E
+55 7 4 13d10+364 6d6+10
+730 36310
+8 8 0
+BareHandAttack: 4
+E
+#20509
+priest garrison~
+the garrison priest~
+The garrison priest murmurs the last rites over a kneeling soldier.
+~
+He gives every soldier the last rites before every watch. He has given them
+to some soldiers forty times.
+~
+db 0 1000 E
+58 6 3 14d10+59 1d2+0
+689 8083
+8 8 1
+BareHandAttack: 0
+E
+#20510
+warden bridge~
+the bridge warden~
+The bridge warden stands in the gatehouse arch, a great axe ready.
+~
+Every night the grey soldiers cross the bone bridge, and every night she
+meets them here. She has never let one past.
+~
+db 0 700 E
+62 5 3 15d10+3969 7d18+33
+2212 461290
+8 8 2
+BareHandAttack: 0
+E
+#20511
+troll bridge bone~
+a bone-bridge troll~
+A grey troll hung with skulls squats on the bone bridge, blocking the way.
+~
+The West bred it to hold the bridge for the assaults. It eats whatever falls
+in the gap.
+~
+dbfl 0 -900 E
+63 5 3 15d10+4030 7d18+33
+2270 476290
+8 8 0
+BareHandAttack: 6
+E
+#20512
+drowned river soldier~
+a river-drowned soldier~
+A drowned soldier wades up out of the grey river.
+~
+Whichever side he fought on, he fights for the West now.
+~
+dfg 0 -900 E
+57 6 3 14d10+372 6d6+10
+773 38998
+8 8 0
+BareHandAttack: 0
+E
+#20513
+ferryman grey skull~
+the grey ferryman~
+A hooded ferryman with a skull for a face holds out his hand for his fare.
+~
+He ferried the dead of Riversmeet across the river for the West. He would
+like to ferry you.
+~
+dbfl 0 -1000 E
+62 5 3 15d10+3969 7d18+33
+2212 461290
+8 8 0
+BareHandAttack: 0
+E
+#20514
+soldier grey host~
+a soldier of the grey host~
+A soldier of the grey host stands in rank, black-eyed and silent.
+~
+Hollowed, armoured in grey iron, utterly obedient. The West has thousands of
+them.
+~
+dfg 0 -1000 E
+58 6 3 14d10+378 6d6+10
+795 40378
+8 8 0
+BareHandAttack: 0
+E
+#20515
+hound dread~
+a dread hound~
+A dread hound the size of a horse strains at its chain, jaws dripping.
+~
+Bred in the far west from wolves and something worse. Its eyes burn grey and
+its breath stinks of graves.
+~
+dfg 0 -900 E
+59 6 3 14d10+1080 6d13+20
+1090 125326
+8 8 0
+BareHandAttack: 4
+E
+#20516
+captain grey~
+a grey captain~
+A grey captain looks up from the siege maps with black eyes.
+~
+Once a captain of the living, taken alive and hollowed. He remembers the
+fortress's weaknesses because he helped build it.
+~
+dfg 0 -1000 E
+60 5 3 15d10+1093 7d11+21
+1119 129610
+8 8 1
+BareHandAttack: 0
+E
+#20517
+priest grey~
+a grey priest~
+A grey priest breathes dust into the mouth of a caged prisoner.
+~
+Nu'Groth's priests hollow the living with its words. This one is very good
+at it.
+~
+dfg 0 -1000 E
+59 6 3 14d10+1080 6d13+20
+1090 125326
+8 8 0
+BareHandAttack: 0
+E
+#20518
+prisoner caged~
+a caged prisoner~
+A prisoner clutches the bars of a bone cage.
+~
+A soldier of the Last Light, taken in a sally. "Kill me," he whispers.
+"Before they make me fight my friends."
+~
+db 0 500 E
+55 7 4 13d10+59 1d2+0
+633 7270
+8 8 0
+BareHandAttack: 0
+E
+#20519
+overseer grey~
+a grey overseer~
+A grey overseer cracks a whip over the slaves at the engines.
+~
+It drives the slaves until they drop, and then it drives the corpses.
+~
+dfg 0 -1000 E
+59 6 3 14d10+1080 6d13+20
+1090 125326
+8 8 0
+BareHandAttack: 0
+E
+#20520
+slave hollowed~
+a hollowed slave~
+A hollowed slave hauls on a rope, empty-eyed.
+~
+There is nothing left inside. It hauls until it is told to stop.
+~
+dfg 0 -600 E
+55 7 4 13d10+364 6d6+10
+730 36310
+8 8 0
+BareHandAttack: 0
+E
+#20521
+crew tower~
+a siege tower crewman~
+A grey crewman lashes timbers on the siege tower.
+~
+Building the tower that will bring down the last wall of the living.
+~
+dfg 0 -900 E
+58 6 3 14d10+378 6d6+10
+795 40378
+8 8 0
+BareHandAttack: 0
+E
+#20522
+champion grey~
+a champion of the grey host~
+A champion of the grey host rises from the fire, armour bolted to its flesh.
+~
+The West's chosen warriors, remade with iron and grey fire. It has killed a
+hundred soldiers of the living in single combat.
+~
+dbfl 0 -1000 E
+63 5 3 15d10+4030 7d18+33
+2270 476290
+8 8 0
+BareHandAttack: 0
+E
+#20523
+bridgebreaker giant~
+the Bridgebreaker~
+The Bridgebreaker hefts a hammer the size of a door and roars.
+~
+A giant from the far west, its flesh bolted with iron plates, its eyes grey
+fire. It smashed three arches of the great bridge with its hammer, and it
+has been promised the honour of breaking the Last Light's gate.
+~
+dbfl 0 -1000 E
+65 4 2 16d10+9312 7d27+49
+5568 1521010
+8 8 0
+BareHandAttack: 7
+E
+$

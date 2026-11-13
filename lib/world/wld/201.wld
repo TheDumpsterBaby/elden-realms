@@ -1,0 +1,455 @@
+#20100
+Under the Eaves of the Hollow Wood~
+   The burned trees of the Marches give way to living ones, tall and grey-
+barked, their branches knitting overhead. The light turns dim and green. It
+is very quiet; no birds, no insects, not even wind. The road runs on west,
+narrowing to a track.
+~
+201 0 3
+D1
+~
+~
+0 -1 20029
+D3
+~
+~
+0 -1 20101
+S
+#20101
+The Forest Track~
+   The track winds between trunks so thick that three men could not link
+arms around them. Moss hangs from the branches in grey curtains. Your
+footsteps sound too loud, and you have the feeling, every few paces, that
+something has just stopped moving.
+~
+201 0 3
+D0
+~
+~
+0 -1 20102
+D1
+~
+~
+0 -1 20100
+D2
+~
+~
+0 -1 20105
+D3
+~
+~
+0 -1 20108
+S
+#20102
+The Woodcutters' Clearing~
+   A clearing where woodcutters worked: stumps, stacked logs, a lean-to of
+bark. Their axes are still buried in a half-felled tree. The tree is
+bleeding a thick grey sap from the cut, and the sap has crept down the trunk
+and across the ground toward the lean-to.
+~
+201 0 3
+D0
+~
+~
+0 -1 20103
+D2
+~
+~
+0 -1 20101
+D3
+~
+~
+0 -1 20104
+S
+#20103
+The Woodcutters' Hut~
+   A low hut of logs and turf. Bunks for six men, a table with six bowls of
+porridge gone grey with mould, six pairs of boots by the door. The men who
+wore them walk the wood now, still carrying their axes, still working.
+~
+201 d 0
+D2
+~
+~
+0 -1 20102
+E
+bowls porridge boots~
+The bowls were never finished. The spoons are still in them.
+~
+S
+#20104
+The Bleeding Grove~
+   Every tree in this grove weeps grey sap from cracks in its bark. The sap
+pools between the roots and gives off a sweet, cloying smell. Insects that
+land in it do not die; they twitch, and slowly turn grey, and walk away.
+~
+201 0 3
+D1
+~
+~
+0 -1 20102
+D3
+~
+~
+0 -1 20113
+S
+#20105
+The Fern Hollow~
+   A dip in the forest floor filled with ferns taller than a man. They close
+behind you as you push through, and the track is lost at once. The ferns
+move against the stillness of the air, parting and closing as something low
+and quick passes through them.
+~
+201 0 3
+D0
+~
+~
+0 -1 20101
+D2
+~
+~
+0 -1 20106
+D3
+~
+~
+0 -1 20109
+S
+#20106
+The Deer Run~
+   A narrow path beaten by deer runs between the trees. The deer that made
+it are here: a herd standing among the trunks, perfectly still, all facing
+west. Their eyes are milky grey. When you come closer, every head turns
+toward you at once.
+~
+201 0 3
+D0
+~
+~
+0 -1 20105
+D3
+~
+~
+0 -1 20107
+S
+#20107
+The Glade of the Antlered Stones~
+   A glade ringed by old standing stones carved with antlers, where the
+people of the wood once worshipped the forest's guardian. The carvings have
+been defaced, scratched over with grey spirals. The grass in the glade is
+dead, and in its centre lies a huge stag's skull, freshly cleaned.
+~
+201 0 3
+D0
+~
+~
+0 -1 20119
+D1
+~
+~
+0 -1 20106
+E
+stones antlers carvings~
+The Antlered One, guardian of the wood. Under the spirals someone has
+scratched: HE HAS BEEN TAKEN.
+~
+S
+#20108
+The Forest Track, Hanging Moss~
+   The moss hangs so thickly here that you push through it like curtains. It
+is damp and cold and clings to your skin. Things are tangled in it: a bird's
+skeleton, a child's mitten, a wooden charm on a string, turning slowly.
+~
+201 0 3
+D0
+~
+~
+0 -1 20109
+D1
+~
+~
+0 -1 20101
+D3
+~
+~
+0 -1 20111
+S
+#20109
+The Webbed Thicket~
+   Webs as thick as rope span the gaps between the trees, white and grey and
+heavy with wrapped shapes. Some of the shapes are deer. Some are not. The
+webs tremble constantly, though there is no wind, and the trembling grows
+stronger as you go deeper.
+~
+201 0 3
+D1
+~
+~
+0 -1 20105
+D2
+~
+~
+0 -1 20108
+D3
+~
+~
+0 -1 20110
+S
+#20110
+The Brood Hollow~
+   Beneath a tangle of roots the webs form a domed chamber, dark as night.
+Egg sacs the size of barrels hang from the roots, pulsing. On the far side
+of the chamber, something huge shifts its many legs and the whole web sways.
+~
+201 a 3
+D1
+~
+~
+0 -1 20109
+S
+#20111
+The Forest Track, Fallen Giant~
+   An enormous tree has fallen across the track, its roots torn out of the
+earth and standing higher than a house. You climb over the trunk. The hollow
+under the roots is full of bones, gnawed and stacked with unsettling care.
+~
+201 0 3
+D0
+~
+~
+0 -1 20113
+D1
+~
+~
+0 -1 20108
+D3
+~
+~
+0 -1 20116
+D5
+~
+~
+0 -1 20112
+S
+#20112
+Under the Roots~
+   You crawl into the pit beneath the fallen tree's roots. The bones are
+piled in neat spirals, skulls at the centre of each. This is a larder, and a
+shrine, and the creature that keeps it is coming back; you can hear it
+breathing in the passage behind the roots.
+~
+201 ad 0
+D4
+~
+~
+0 -1 20111
+S
+#20113
+The Dead Stream~
+   A stream runs through the wood, clear as glass and utterly lifeless. No
+weed grows in it, no fish swim in it, and the stones on its bed are bleached
+white. The water is so cold it aches. Grey sap drips into it from the trees
+on the bank.
+~
+201 0 6
+D1
+~
+~
+0 -1 20104
+D2
+~
+~
+0 -1 20111
+D3
+~
+~
+0 -1 20114
+S
+#20114
+The Forester's Mill~
+   A small sawmill on the stream, its wheel still turning in the dead water.
+The saw blade runs back and forth on its own, cutting nothing. Sawdust lies
+deep on the floor, grey, and footprints lead through it to a ladder.
+~
+201 d 0
+D1
+~
+~
+0 -1 20113
+D4
+~
+~
+0 -1 20115
+S
+#20115
+The Mill Loft~
+   The forester who ran the mill lives up here still, after a fashion. He
+has carved a hundred small figures of wood and set them all around the loft,
+facing west. Each one is a person he knew. He is carving another one now,
+and he does not look up.
+~
+201 d 0
+D5
+~
+~
+0 -1 20114
+S
+#20116
+The Wayside Shrine of the Wood~
+   A small roofed shrine stands beside the track, where travellers once left
+offerings for safe passage. The offerings are rotted. The carved figure
+inside, a robed woman with a lantern, has had its face chiselled off and
+replaced with a smooth grey stone.
+~
+201 0 3
+D0
+~
+~
+0 -1 20117
+D1
+~
+~
+0 -1 20111
+D3
+~
+~
+0 -1 20119
+S
+#20117
+The Owl Tree~
+   A massive hollow oak stands alone in a ring of dead bracken. Its trunk is
+split open like a door, and from inside come soft, low hoots, far too deep
+for any owl. Pellets of fur and bone lie heaped around its roots, some of
+them the size of a man's head.
+~
+201 0 3
+D2
+~
+~
+0 -1 20116
+D4
+~
+~
+0 -1 20118
+S
+#20118
+Inside the Hollow Oak~
+   You climb up inside the hollow trunk into a great nest of branches and
+bones. Eyes as big as plates open in the dark above you. The owl that lives
+here is the size of a horse, its feathers grey and falling out in patches,
+its beak caked with old blood.
+~
+201 a 3
+D5
+~
+~
+0 -1 20117
+S
+#20119
+The Old Way~
+   An ancient path paved with mossy stones runs west through the heart of
+the wood, older than the track and older than Midgaard. The trees lean over
+it. Here the silence is complete, a pressure in your ears, and the grey sap
+runs in rivulets between the paving stones.
+~
+201 0 3
+D1
+~
+~
+0 -1 20116
+D2
+~
+~
+0 -1 20107
+D3
+~
+~
+0 -1 20120
+S
+#20120
+The Approach to the Heartwood~
+   The trees grow closer and taller, and their bark has turned from grey to
+black. Their roots break up through the paving. Ahead, a wall of intertwined
+trunks forms a living barrier with a single dark opening, and from it comes
+a slow, deep sound, like breathing.
+~
+201 0 3
+D0
+~
+~
+0 -1 20121
+D1
+~
+~
+0 -1 20119
+D3
+~
+~
+0 -1 20123
+S
+#20121
+The Thorn Maze~
+   Walls of black thorn rise higher than your head, and the paths between
+them twist back on themselves. The thorns are long as daggers and wet with
+grey sap. Torn cloth and old blood mark where others have tried to force a
+way through.
+~
+201 0 3
+D0
+~
+~
+0 -1 20122
+D2
+~
+~
+0 -1 20120
+D3
+~
+~
+0 -1 20124
+S
+#20122
+The Heart of the Thorns~
+   At the centre of the maze stands a tree that was once a woman, or a woman
+who was once a tree; her arms are branches and her hair is grey moss, and
+her face is twisted in endless pain. The dryad of the Hollow Wood has been
+made the gardener of its thorns.
+~
+201 0 3
+D2
+~
+~
+0 -1 20121
+S
+#20123
+The Heartwood~
+   A vast chamber of living trees, their trunks fused into walls, their
+branches a roof so thick no light comes through. In the centre stands the
+Antlered One, guardian of the wood for a thousand years: a stag-headed giant
+of root and bark. The West has rotted it hollow, and grey fire burns in the
+cage of its ribs.
+~
+201 a 3
+D1
+~
+~
+0 -1 20120
+S
+#20124
+The Western Edge of the Wood~
+   The trees thin out at last, and the track runs down a slope into low, wet
+ground. The air changes, heavy with the smell of stagnant water and rot.
+Ahead, mist hangs over the Greywater Fens, and somewhere out in it a bell is
+tolling, slow and muffled.
+~
+201 0 3
+D1
+~
+~
+0 -1 20121
+D3
+Downhill to the west, the track runs into the mists of the Greywater Fens.
+~
+~
+0 -1 20200
+S
+$

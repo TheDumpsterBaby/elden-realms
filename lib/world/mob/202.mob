@@ -1,0 +1,305 @@
+#20200
+light grey wisp~
+a grey light~
+A pale grey light bobs above the water, beckoning.
+~
+A cold glow with something almost like a face inside it. It leads travellers
+into the deep water and feeds on their drowning.
+~
+dfg 0 -800 E
+41 10 5 10d10+282 5d5+7
+456 20182
+8 8 0
+BareHandAttack: 12
+E
+#20201
+leech marsh~
+a giant marsh leech~
+A leech as long as your arm rises from the water, sucker gaping.
+~
+Slick, black and blind, it can drain a man in an hour.
+~
+dfg 0 -300 E
+40 10 5 10d10+275 5d5+7
+439 19210
+8 8 0
+BareHandAttack: 4
+E
+#20202
+heron grey~
+a milky-eyed heron~
+A grey heron with milky eyes stands in the shallows, watching you.
+~
+Its beak is long and sharp as a spear, and it no longer eats fish.
+~
+dfg 0 -500 E
+40 10 5 10d10+275 5d5+7
+439 19210
+8 8 0
+BareHandAttack: 11
+E
+#20203
+hag fen~
+the fen hag~
+A bent old woman with green-grey skin stirs her cauldron, grinning.
+~
+She has lived in the marsh for three hundred years, and she was wicked long
+before the West came. Now she has a patron, and she is delighted.
+~
+dbfl 0 -900 E
+47 9 5 11d10+3072 5d19+24
+1420 265090
+8 8 2
+BareHandAttack: 0
+E
+#20204
+drowned villager~
+a drowned villager~
+A drowned villager turns a white, bloated face toward you.
+~
+Weed in its hair, eels in its ribs. It drowned when the marsh rose, and the
+darkness walked it again.
+~
+dfg 0 -800 E
+41 10 5 10d10+282 5d5+7
+456 20182
+8 8 0
+BareHandAttack: 8
+E
+#20205
+fisher drowned~
+a drowned eel-fisher~
+A drowned eel-fisher swings a rotting net toward you.
+~
+Big and broad, his net weighted with stones. He still knows how to catch
+things.
+~
+dfg 0 -800 E
+43 10 5 10d10+822 5d11+15
+657 66574
+8 8 1
+BareHandAttack: 0
+E
+#20206
+eels swarm eel~
+a boiling swarm of fen eels~
+The water boils with grey eels, all teeth.
+~
+Hundreds of eels, fat on the drowned. They strip a body in minutes.
+~
+dfg 0 -300 E
+42 10 5 10d10+289 5d6+7
+474 21178
+8 8 0
+BareHandAttack: 4
+E
+#20207
+harpy marsh~
+a marsh harpy~
+A harpy with grey wings and a drowned woman's face screeches at you.
+~
+She collects shiny things from the drowned. She would like your eyes for her
+nest.
+~
+dbfl 0 -800 E
+44 9 5 11d10+834 5d11+15
+681 69706
+8 8 2
+BareHandAttack: 8
+E
+#20208
+wight bog~
+a bog wight~
+A bog wight, its skin tanned dark as leather by the peat, rises from the mud.
+~
+Preserved for centuries in the bog, it has awakened hungry. Its touch steals
+warmth.
+~
+dfg 0 -900 E
+42 10 5 10d10+289 5d6+7
+474 21178
+8 8 0
+BareHandAttack: 8
+E
+#20209
+militia stilthold guard~
+a Stilthold militiaman~
+A Stilthold militiaman in faded blue watches the marsh, a torch in one hand.
+~
+Every man and woman in Stilthold serves on the wall. This one has served for
+twenty years, since he was twelve.
+~
+dbm 0 600 E
+44 9 5 11d10+834 5d11+15
+681 69706
+8 8 1
+BareHandAttack: 0
+E
+#20210
+townsfolk townsman~
+a Stilthold townsman~
+A Stilthold townsman trims a lamp wick with careful hands.
+~
+Lamps are life in Stilthold. Everyone carries one, everyone tends one.
+~
+dg 0 500 E
+40 10 5 10d10+44 1d2+0
+380 3850
+8 8 0
+BareHandAttack: 0
+E
+#20211
+reeve~
+the Reeve of Stilthold~
+The Reeve of Stilthold studies the map of black stones.
+~
+A stout grey-haired woman with an eel-fisher's hands. She has held Stilthold
+together through two winters of the dark. She will not hold a third without
+help.
+~
+db 0 700 E
+48 8 4 12d10+3127 5d19+25
+1469 276490
+8 8 2
+BareHandAttack: 0
+E
+#20212
+landlady~
+the landlady~
+The landlady wipes the bar and keeps one eye on the lanterns.
+~
+Kind eyes in a hard face. She feeds the militia on credit and has stopped
+keeping the tally.
+~
+db 0 500 E
+40 10 5 10d10+44 1d2+0
+380 3850
+8 8 2
+BareHandAttack: 0
+E
+#20213
+healer lamp~
+the lamp healer~
+The lamp healer heats an iron in a brazier, face set.
+~
+The only cure for the grey is fire. He hates every moment of it, and does
+not stop.
+~
+db 0 900 E
+42 10 5 10d10+48 1d2+0
+411 4243
+8 8 1
+BareHandAttack: 0
+E
+#20214
+ringer bell~
+the bell ringer~
+The bell ringer hauls the rope, counting under his breath.
+~
+If the bell stops, the grey lights come over the walls. He has not slept a
+full night in a year.
+~
+db 0 400 E
+40 10 5 10d10+44 1d2+0
+380 3850
+8 8 1
+BareHandAttack: 0
+E
+#20215
+militia drowned~
+a drowned militiaman~
+A drowned militiaman in rotted blue drags himself out of the bog.
+~
+One of the lost company. His spear is still in his hand.
+~
+dfg 0 -800 E
+43 10 5 10d10+822 5d11+15
+657 66574
+8 8 1
+BareHandAttack: 0
+E
+#20216
+queen leech~
+the leech queen~
+A leech the size of a boat heaves itself out of the red water.
+~
+Swollen and ancient, her body pulses with stolen blood.
+~
+dbfl 0 -500 E
+47 9 5 11d10+3072 5d19+24
+1420 265090
+8 8 0
+BareHandAttack: 4
+E
+#20217
+wraith mist~
+a mist wraith~
+The mist thickens into a shape with your mother's voice.
+~
+It speaks with the voices of the dead you remember. It knows your name.
+~
+dfg 0 -900 E
+44 9 5 11d10+834 5d11+15
+681 69706
+8 8 0
+BareHandAttack: 8
+E
+#20218
+servant barrow~
+a barrow servant~
+A skeleton in rotted livery shuffles toward you.
+~
+Buried alive with its king a thousand years ago, to serve him in death. It
+is still serving.
+~
+dfg 0 -900 E
+43 10 5 10d10+295 5d5+8
+492 22198
+8 8 0
+BareHandAttack: 8
+E
+#20219
+steward barrow wight crowned~
+the barrow steward~
+A crowned wight rises from its stone chair.
+~
+Steward to the fen-kings, he rules their servants in death. The Drowned
+Lord's return has woken him.
+~
+dbfl 0 -1000 E
+47 9 5 11d10+3072 5d19+24
+1420 265090
+8 8 0
+BareHandAttack: 0
+E
+#20220
+knight drowned~
+a drowned knight~
+A knight in weed-hung armour stands guard, water pouring from his visor.
+~
+A knight of the old fen-kingdom, drowned with his lord. His sword is green
+with age and still sharp.
+~
+dfg 0 -900 E
+45 9 5 11d10+852 5d12+15
+706 72910
+8 8 1
+BareHandAttack: 0
+E
+#20221
+lord drowned fen-king king~
+the Drowned Lord~
+The Drowned Lord rises from his throne, black water streaming from his crown.
+~
+Last of the fen-kings. When the West first reached the marsh he bargained
+with it for his kingdom's survival, and the price was the kingdom. He
+drowned it in a night, and he has been Nu'Groth's willing servant ever
+since.
+~
+dbfl 0 -1000 E
+50 8 4 12d10+7234 6d24+36
+3659 900010
+8 8 1
+BareHandAttack: 0
+E
+$

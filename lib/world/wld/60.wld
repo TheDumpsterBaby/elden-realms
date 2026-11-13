@@ -1,0 +1,457 @@
+#6000
+A Muddy Lane North of the East Gate~
+   A lane of trampled mud leads north from Midgaard's east gate between low
+stone walls. Carts heavy with sacks creak past toward the fort, each one
+escorted by a soldier with a tally board. Beyond the walls, fields of grey
+wheat ripple in the wind.
+~
+60 0 2
+D0
+~
+~
+0 -1 6001
+D2
+~
+~
+0 -1 3053
+S
+#6001
+The Lane, Between the Walls~
+   The lane narrows between dry-stone walls furred with lichen. A wooden
+sign nailed to a post reads BY ORDER OF THE GARRISON: ALL GRAIN TO THE FORT.
+Someone has carved a crude skull beneath the words.
+~
+60 0 2
+D0
+~
+~
+0 -1 6002
+D2
+~
+~
+0 -1 6000
+E
+sign post skull~
+BY ORDER OF THE GARRISON: ALL GRAIN TO THE FORT. HOARDERS WILL HANG. Below,
+a carved skull with grain spilling from its mouth.
+~
+S
+#6002
+The Field Crossroads~
+   Four tracks meet around a stone trough where carters water their oxen. To
+the west stands a requisition post flying Midgaard's grey banner, the
+farmhouse and its barn lie to the north, the mill wheel turns slowly to the
+east, and wheat stretches away in every direction.
+~
+60 0 2
+D0
+~
+~
+0 -1 6005
+D1
+~
+~
+0 -1 6016
+D2
+~
+~
+0 -1 6001
+D3
+~
+~
+0 -1 6004
+D4
+~
+~
+0 -1 6003
+S
+#6003
+On Top of the Field Wall~
+   From the top of the old wall you can see the whole valley: grey fields,
+the dark bulk of the granary, the fort's towers to the south. To the west,
+beyond the walls of Midgaard, the sky is stained a sickly brown that the
+farmers will not talk about.
+~
+60 0 2
+D5
+~
+~
+0 -1 6002
+E
+west sky stain~
+A smudge of brown and black low on the western horizon. The farmhands call
+it the Weather and spit when they say it.
+~
+S
+#6004
+The Requisition Post~
+   A timber hut with a counter across its front where farmers hand over
+their harvest. A soldier weighs each sack on a great iron scale while a
+clerk writes in a ledger. Nobody is paid. A list of hoarders hangs beside
+the door, and some names have been crossed through in red.
+~
+60 d 0
+D1
+~
+~
+0 -1 6002
+E
+list hoarders names~
+A list of farm families who held back grain. The crossed-out names are the
+ones who were hanged.
+~
+S
+#6005
+The Farmhouse Yard~
+   A yard of packed earth between a long stone farmhouse and a sagging barn.
+Chickens scratch in the dirt, and a dog on a chain watches you without
+barking. The farmhouse windows are boarded, and a child's face appears at a
+crack and vanishes.
+~
+60 0 2
+D0
+~
+~
+0 -1 6007
+D1
+~
+~
+0 -1 6009
+D2
+~
+~
+0 -1 6002
+D3
+~
+~
+0 -1 6006
+S
+#6006
+Inside the Farmhouse~
+   A single long room smelling of woodsmoke and boiled turnips. A family of
+six shares one table and almost no food. The father's chair is empty; his
+boots stand by the door where he left them the day he was taken west for the
+wall.
+~
+60 d 0
+D1
+~
+~
+0 -1 6005
+S
+#6007
+The Sagging Barn~
+   Tools hang on pegs and broken harness lies in heaps. The air is thick
+with dust and the smell of wet hay. Something has been at the feed bins: the
+wood is gnawed through and grain lies scattered, grey and furred with mould.
+~
+60 d 0
+D1
+~
+~
+0 -1 6014
+D2
+~
+~
+0 -1 6005
+D4
+~
+~
+0 -1 6008
+S
+#6008
+The Barn Loft~
+   Hay is piled high under the roof beams. Pigeons shift and mutter in the
+rafters. A hollow has been made in the hay, with a blanket and a stub of
+candle; someone has been hiding up here, and recently.
+~
+60 d 0
+D5
+~
+~
+0 -1 6007
+S
+#6009
+The Farm Well~
+   A stone well with a bucket on a frayed rope. The water at the bottom is
+dark and smells faintly of rot. The farmers still drink it, because there is
+nothing else, and because the soldiers drink the clean water from the fort's
+cisterns.
+~
+60 0 2
+D1
+~
+~
+0 -1 6010
+D3
+~
+~
+0 -1 6005
+S
+#6010
+The Eastern Wheatfield~
+   Wheat stands chest high, its ears grey instead of gold. When you push
+through it the stalks crumble into dust that catches in your throat. The
+reapers who should be working here have gone west to the wall, and the
+harvest is rotting where it stands.
+~
+60 0 2
+D0
+~
+~
+0 -1 6011
+D1
+~
+~
+0 -1 6024
+D3
+~
+~
+0 -1 6009
+S
+#6011
+The Scarecrow Field~
+   A ring of scarecrows stands in the middle of the field, more than any
+farm would need. They are dressed in old Midgaard uniforms. Up close their
+sackcloth faces are stained dark, and the straw that sticks out of their
+sleeves moves when there is no wind.
+~
+60 0 2
+D2
+~
+~
+0 -1 6010
+D3
+~
+~
+0 -1 6012
+E
+scarecrows uniforms faces~
+The uniforms are real. One still has a name stitched inside the collar:
+BRANNIC, 3RD COMPANY.
+~
+S
+#6012
+The Northern Wheatfield~
+   The wheat is flattened here in a wide spiral, as if something large lay
+down in it and turned around many times. At the centre of the spiral the
+earth is bare and black. Nothing has grown back.
+~
+60 0 2
+D1
+~
+~
+0 -1 6011
+D3
+~
+~
+0 -1 6013
+S
+#6013
+The Old Orchard~
+   Gnarled apple trees grow in crooked rows, their branches heavy with
+small, hard fruit. Many apples have fallen and rotted in the grass, and
+wasps drone over them. A path leads deeper among the trees, where they grow
+closer together.
+~
+60 0 3
+D0
+~
+~
+0 -1 6015
+D1
+~
+~
+0 -1 6012
+D2
+~
+~
+0 -1 6014
+S
+#6014
+Behind the Barn~
+   A muddy strip between the back of the barn and the orchard fence, where
+the farm's rubbish is thrown. Broken pots, bones and a smashed cradle lie in
+the nettles. The barn's back wall has a hole gnawed through its base, wide
+enough for a cat. Or a very large rat.
+~
+60 0 2
+D0
+~
+~
+0 -1 6013
+D3
+A rat hole has been gnawed into the barn wall, and the rotten boards beside
+it give way to a push.
+~
+~
+0 -1 6007
+S
+#6015
+Deep in the Orchard~
+   The trees grow wild here and the light turns green and dim. In a clearing
+an old apple tree has been hung with ribbons, bones and little dolls of
+twisted straw. Someone has been leaving offerings, and the offerings are not
+to any god the Temple would name.
+~
+60 0 3
+D2
+~
+~
+0 -1 6013
+E
+dolls ribbons bones offerings~
+The straw dolls each have a single grey grain of wheat pushed into the head
+where the face should be.
+~
+S
+#6016
+The Millrace~
+   A channel of fast brown water runs beside the track toward a great timber
+mill. Its wheel groans as it turns. Grey scum collects against the sluice
+gate, and dead fish turn slowly in an eddy, their eyes milky and white.
+~
+60 0 2
+D0
+~
+~
+0 -1 6019
+D1
+~
+~
+0 -1 6017
+D3
+~
+~
+0 -1 6002
+S
+#6017
+The Mill Floor~
+   Great millstones grind with a sound like distant thunder, and flour hangs
+in the air in drifting sheets. The flour is the colour of ash. A miller
+white with dust works the stones with a fixed and frantic attention, talking
+to nobody you can see.
+~
+60 d 0
+D3
+~
+~
+0 -1 6016
+D4
+~
+~
+0 -1 6018
+S
+#6018
+The Mill Loft~
+   Sacks of grain wait to be fed down the chute to the stones. Several have
+split, and the grain inside is grey and soft, and it moves. Pale grubs as
+long as a finger squirm through it and drop through the chute into the flour
+below.
+~
+60 d 0
+D5
+~
+~
+0 -1 6017
+S
+#6019
+The Granary Yard~
+   The great granary rises above the yard, a windowless barn of grey stone
+raised on squat pillars against damp and vermin. The pillars have not
+stopped the vermin. Soldiers guard the doors, but they stand well back from
+them and do not like the sounds inside.
+~
+60 0 2
+D0
+The granary doors, barred from outside.
+~
+doors door~
+1 -1 6020
+D2
+~
+~
+0 -1 6016
+S
+#6020
+Inside the Great Granary~
+   Mountains of grain rise into the darkness, the stores that keep the fort
+alive through winter. The smell hits first: sweet, wet rot. The grain shifts
+and whispers on its own, and in the gloom, small red eyes watch from every
+slope of it.
+~
+60 ad 0
+D2
+~
+doors door~
+1 -1 6019
+D5
+~
+~
+0 -1 6021
+S
+#6021
+The Granary Undercroft~
+   Between the pillars beneath the granary, grain has leaked through the
+floor into heaps black with mould. Tunnels lead off into the earth, wide
+enough to crawl through, their mouths ringed with grey slime.
+~
+60 ad 0
+D0
+~
+~
+0 -1 6022
+D4
+~
+~
+0 -1 6020
+S
+#6022
+The Rat Tunnels~
+   You crawl on hands and knees through tunnels lined with packed grain and
+filth. The walls are warm, and pulse faintly under your palms. Ahead the
+tunnel opens into a chamber filled with a wet chittering, like a thousand
+teeth on wood.
+~
+60 ad 0
+D0
+~
+~
+0 -1 6023
+D2
+~
+~
+0 -1 6021
+S
+#6023
+The Heart of the Rot~
+   A chamber hollowed out of the earth beneath the granary, its floor a
+living carpet of rats. At its centre writhes a knot of them, dozens of rats
+fused at the tails into a single heaving mass, and it is larger than a man.
+Grey grain spills from its many mouths.
+~
+60 ad 0
+D2
+~
+~
+0 -1 6022
+S
+#6024
+The Eastern Hedge~
+   A thick hawthorn hedge marks the edge of the Granary Fields. A gap has
+been hacked through it, and beyond the gap the smoke of hundreds of
+cookfires rises from the Refugee Camps. A soldier's warning has been painted
+on a board: NO REFUGEES PAST THIS HEDGE.
+~
+60 0 2
+D3
+~
+~
+0 -1 6010
+D1
+Through the gap in the hedge lie the Refugee Camps.
+~
+~
+0 -1 6100
+S
+$

@@ -1,0 +1,71 @@
+#1300
+The Great Hall~
+   Warm firelight from a wide stone hearth illuminates this expansive great
+hall. Heavy timber beams span the high vaulted ceiling, and thick woven rugs
+cover the polished flagstones. Comfortable armchairs surround a low oak table
+near the fire. An archway to the north opens into the dining hall, a heavy
+oak door leads east to the bedroom, and a reinforced ironbound door guards
+the weapons vault to the west.
+~
+13 cdjk 0
+D0
+The Dining Hall lies through the northern archway.
+~
+~
+0 -1 1301
+D1
+A sturdy oak door leads east into the Master Bedroom.
+~
+door oak~
+1 -1 1302
+D3
+A heavy ironbound vault door blocks the western passage.
+~
+door vault ironbound~
+2 -1 1303
+S
+#1301
+The Dining Hall~
+   A long banquet table carved from dark walnut dominates the center of
+this hall, flanked by high-backed chairs and lit by wrought-iron candelabras.
+Tapestries hang along the stone walls, deadening the echo of footsteps.
+The wide archway to the south returns to the great hall.
+~
+13 cdjk 0
+D2
+The Great Hall lies back to the south.
+~
+~
+0 -1 1300
+S
+#1302
+The Master Bedroom~
+   Quiet and insulated from the rest of the estate, this chamber holds a
+large four-poster bed draped in heavy velvet curtains. A cedar wardrobe and
+a polished writing desk sit against the far wall beside a tall, narrow
+window looking out over an endless astral expanse. The door to the west
+leads back to the great hall.
+~
+13 cdjk 0
+D3
+The oak door to the west opens into the Great Hall.
+~
+door oak~
+1 -1 1300
+S
+#1303
+The Weapons Vault~
+   Reinforced stone walls lined with oiled hardwood racks and iron-banded
+chests enclose this secure armory. Forged stands hold space for blades,
+polearms, shields, and enchanted armor, all kept dry and spotless by subtle
+protective wards. The heavy ironbound vault door leads east back into the
+great hall.
+~
+13 cdjk 0
+D1
+The heavy ironbound vault door leads east into the Great Hall.
+~
+door vault ironbound~
+2 -1 1300
+S
+$

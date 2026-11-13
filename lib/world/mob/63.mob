@@ -1,0 +1,266 @@
+#6300
+soldier wounded~
+a wounded soldier~
+A wounded soldier sits wrapped in a blanket, staring at nothing.
+~
+His bandages are clean, but the eyes above them have seen the West, and they
+have not come back from it.
+~
+db 0 400 E
+10 18 9 2d10+25 1d2+0
+41 250
+8 8 1
+BareHandAttack: 0
+E
+#6301
+sister nursing nurse~
+a nursing sister~
+A nursing sister in white changes a bandage with quick, sure hands.
+~
+Her white robe is spattered red to the elbows. She hums as she works so the
+men will not hear her crying.
+~
+dg 0 900 E
+11 18 9 2d10+27 1d2+0
+48 300
+8 8 2
+BareHandAttack: 0
+E
+#6302
+sister herb~
+the herb sister~
+An elderly sister kneels among the herb beds, weeding.
+~
+She has tended this garden for forty years. She talks to the plants and
+swears they listen.
+~
+db 0 900 E
+12 17 9 3d10+24 1d2+0
+55 355
+8 8 2
+BareHandAttack: 0
+E
+#6303
+orderly~
+an orderly~
+An orderly carries a covered bucket toward the stairs.
+~
+A big, slow, gentle man who does the work nobody else will do.
+~
+dgm 0 300 E
+13 17 9 3d10+125 2d4+2
+72 2038
+8 8 1
+BareHandAttack: 0
+E
+#6304
+sister gate~
+the gate sister~
+A stern sister at the gate judges every stretcher with a glance.
+~
+She chooses who lives. There are not enough beds. She has made her peace
+with that, or tells herself she has.
+~
+db 0 700 E
+14 17 9 3d10+354 2d10+4
+109 7066
+8 8 2
+BareHandAttack: 0
+E
+#6305
+priest rite~
+the priest of the last rites~
+A hoarse priest speaks the last rites over a shrouded body.
+~
+If the rites are not spoken, the dead do not rest. Since the greyblight
+came, even the rites are not always enough.
+~
+db 0 1000 E
+16 16 8 4d10+383 2d11+5
+135 9226
+8 8 1
+BareHandAttack: 0
+E
+#6306
+physician doctor~
+the physician~
+The physician scrubs blood from his hands, his face grey with fatigue.
+~
+The finest surgeon in Midgaard, and the only one left. He has cut off more
+limbs this year than in the rest of his life together.
+~
+db 0 600 E
+15 17 9 3d10+371 2d10+5
+121 8110
+8 8 1
+BareHandAttack: 0
+E
+#6307
+ringer bell~
+the bell-ringer~
+The bell-ringer sits by the rope, waiting for the next death.
+~
+Deaf in one ear from the bell. He rang it forty-one times yesterday.
+~
+db 0 300 E
+12 17 9 3d10+24 1d2+0
+55 355
+8 8 1
+BareHandAttack: 0
+E
+#6308
+bat belfry~
+a belfry bat~
+A bat with a wingspan like a cloak hangs from the beams.
+~
+Far too large for a bat. The humming of the bell seems to have drawn it here
+and made it grow.
+~
+dfg 0 -200 E
+11 18 9 2d10+116 2d3+2
+55 1462
+8 8 0
+BareHandAttack: 4
+E
+#6309
+apothecary woman~
+the apothecary~
+The apothecary grinds poppy seed at her bench.
+~
+Sharp-tongued, quick-handed, and running out of everything.
+~
+db 0 600 E
+13 17 9 3d10+26 1d2+0
+63 415
+8 8 2
+BareHandAttack: 0
+E
+#6310
+sister mortuary~
+the mortuary sister~
+A sister washes a body, a heavy mace hanging at her belt.
+~
+She washes the dead with great tenderness, and she keeps the mace close for
+the ones that sit up.
+~
+db 0 800 E
+15 17 9 3d10+371 2d10+5
+121 8110
+8 8 2
+BareHandAttack: 0
+E
+#6311
+dead shrouded corpse~
+a shrouded corpse~
+A shrouded corpse sits up slowly on its slab.
+~
+Grey stains spread through the linen. Beneath the shroud something turns its
+head toward the west.
+~
+dfg 0 -700 E
+13 17 9 3d10+125 2d4+2
+72 2038
+8 8 0
+BareHandAttack: 8
+E
+#6312
+sexton drunk~
+the sexton~
+The sexton sits on his cot with a bottle and a mattock.
+~
+He keeps the keys to the catacombs. He has been down there since the dead
+began to walk, and he will not go down again for anyone, and he does not
+like anyone asking.
+~
+dbl 0 0 E
+19 16 8 4d10+1395 2d18+8
+333 43330
+8 8 1
+BareHandAttack: 0
+E
+#6313
+dead risen corpse~
+a risen corpse~
+A risen corpse in rotting grave-clothes sways, facing the western wall.
+~
+Midgaard's honoured dead, risen. Its skin is grey and its eyes are fixed on
+the West.
+~
+dfg 0 -800 E
+15 17 9 3d10+139 2d5+2
+91 2710
+8 8 0
+BareHandAttack: 8
+E
+#6314
+bones swarm~
+a clattering swarm of bones~
+A whirling swarm of loose bones clatters through the air.
+~
+Hundreds of small bones, finger joints and vertebrae, spinning together as
+if a storm were trapped in them.
+~
+dfg 0 -800 E
+14 17 9 3d10+132 2d5+2
+81 2362
+8 8 0
+BareHandAttack: 6
+E
+#6315
+guardian ossuary skeleton~
+an ossuary guardian~
+A tall skeleton assembled from many bodies rises with a clatter.
+~
+Too many ribs, too many arms, a skull from a giant. The bones put themselves
+together into something new.
+~
+dbf 0 -900 E
+17 16 8 4d10+400 2d12+5
+148 10414
+8 8 0
+BareHandAttack: 6
+E
+#6316
+drowned dead corpse~
+a drowned corpse~
+A bloated corpse rises from the black water.
+~
+Swollen and white, water running from its mouth, it reaches for you with
+fingers that have no nails.
+~
+dfg 0 -800 E
+16 16 8 4d10+140 2d6+2
+101 3082
+8 8 0
+BareHandAttack: 8
+E
+#6317
+monk risen abbot~
+a risen abbot~
+A risen abbot in mouldering robes chants in a dead language.
+~
+Once a holy man who healed the sick. Now he chants the falling note of the
+Grey Choir, and his hands are cold as the grave.
+~
+dfg 0 -900 E
+17 16 8 4d10+400 2d12+5
+148 10414
+8 8 0
+BareHandAttack: 8
+E
+#6318
+abbess unquiet~
+the Unquiet Abbess~
+The Unquiet Abbess rises from her broken tomb, grey light burning in her eyes.
+~
+She founded the hospice four hundred years ago and gave her life to healing.
+The West has reached down into her grave and given her a new purpose: to
+raise every soul the hospice could not save, and march them to the wall.
+~
+dbfl 0 -1000 E
+23 15 8 5d10+3493 3d19+14
+1056 190450
+8 8 2
+BareHandAttack: 0
+E
+$

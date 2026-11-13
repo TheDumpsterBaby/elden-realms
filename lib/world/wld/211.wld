@@ -1,0 +1,403 @@
+#21100
+The Weeping Pool~
+   You climb out of a pool of grey water into a forest that should not
+exist. The trees have bark like skin, pale and veined, and their branches
+end in fingers. Sap runs down them like tears. All around you, very softly,
+the trees are weeping.
+~
+211 0 3
+D0
+~
+~
+0 -1 21112
+D2
+~
+~
+0 -1 21113
+D3
+~
+~
+0 -1 21101
+D5
+~
+~
+0 -1 21015
+S
+#21101
+Among the Skin Trees~
+   The trunks are warm to the touch, and they flinch. Faces push out of the
+bark, eyes closed, mouths moving. They are the people the forest has taken,
+absorbed into the wood, still alive. They whisper to you to cut them free,
+or to cut them down, or to join them.
+~
+211 0 3
+D0
+~
+~
+0 -1 21102
+D1
+~
+~
+0 -1 21100
+D2
+~
+~
+0 -1 21104
+D3
+~
+~
+0 -1 21106
+S
+#21102
+The Grove of Screaming Fruit~
+   Heavy fruit hangs from these trees, swollen and red, each one the size of
+a head. When the wind moves them, they scream. The ground is covered in
+burst fruit and the seeds inside them, which are teeth, and which have begun
+to put down roots.
+~
+211 0 3
+D0
+~
+~
+0 -1 21103
+D2
+~
+~
+0 -1 21101
+D3
+~
+~
+0 -1 21114
+S
+#21103
+The Glade of the Hanged Knight~
+   A knight in silver armour hangs from a great tree by vines grown through
+his arms and legs, his armour pierced by branches. He has hung here for
+years, and he is not dead; the tree feeds on him and keeps him alive. His
+eyes open, and he begs you to kill him. The tree does not want you to.
+~
+211 0 3
+D0
+~
+~
+0 -1 21115
+D2
+~
+~
+0 -1 21102
+S
+#21104
+The Stream of Sap~
+   A stream of thick red sap flows slowly through the forest, warm and
+stinking of iron. Things drown in it: deer, birds, a man still clutching a
+lantern. The sap clings to your legs and does not want to let go.
+~
+211 0 6
+D0
+~
+~
+0 -1 21101
+D3
+~
+~
+0 -1 21105
+S
+#21105
+The Thorn Hollow~
+   A hollow overgrown with black thorns as long as swords, wet with red sap.
+Wolves with thorns growing from their spines lie among them like hounds in a
+kennel. At the centre of the hollow, a woman of thorns and bark sits weaving
+thorn into new shapes.
+~
+211 0 3
+D1
+~
+~
+0 -1 21104
+D3
+~
+~
+0 -1 21117
+S
+#21106
+The Shifting Path~
+   A path runs between the trees, but it will not stay still. When you look
+away and look back, it bends in a new direction. The trees lean in. Roots
+move under the leaf litter like snakes. The forest is herding you, and it
+knows where it wants you to go.
+~
+211 0 3
+D0
+~
+~
+0 -1 21107
+D1
+~
+~
+0 -1 21101
+D3
+~
+~
+0 -1 21108
+S
+#21107
+The Glade of Mourning~
+   A glade of white trees, their bark smooth and pale as bone. Women in
+white walk among them, wringing their hands, their faces hidden by their
+hair. They are weeping for everyone the forest has taken, and their weeping
+is a sound that stops hearts.
+~
+211 0 3
+D0
+~
+~
+0 -1 21116
+D2
+~
+~
+0 -1 21106
+S
+#21108
+The Whispering Wood~
+   The whispering is loud here, a thousand voices in the bark, all speaking
+at once, all saying the same thing: come closer, come closer, it is warm
+inside, it does not hurt for long. You find you have taken a step toward a
+tree without deciding to.
+~
+211 0 3
+D1
+~
+~
+0 -1 21106
+D2
+~
+~
+0 -1 21109
+D3
+~
+~
+0 -1 21110
+S
+#21109
+The Root Maze~
+   You descend into a maze of tunnels beneath the forest floor, walled with
+roots as thick as a man. They pulse. They are veins. The whole forest is one
+creature, and you are inside its body, and somewhere ahead is its heart,
+beating.
+~
+211 a 3
+D0
+~
+~
+0 -1 21108
+D3
+~
+~
+0 -1 21119
+D5
+~
+~
+0 -1 21118
+S
+#21110
+The Heart Grove~
+   The trees part around a vast clearing. In its centre stands the Weeping
+Mother, a tree larger than a castle, its bark a mass of faces, its branches
+hung with sleeping people wrapped in bark like cocoons. This was the first
+grove the Nu'Groth reached, long ago, and every tree in the forest grew from
+her seed.
+~
+211 0 3
+D0
+~
+~
+0 -1 21120
+D1
+~
+~
+0 -1 21108
+D2
+~
+~
+0 -1 21121
+D3
+~
+~
+0 -1 21111
+S
+#21111
+The Edge of the Forest~
+   The trees end abruptly at the foot of a black cliff that rises into the
+clouds. Built into the cliff, and out of it, is a fortress of black stone so
+vast that its walls are lost in the mist above. War-horns sound from its
+towers. This is the Nu'Groth's outer fortress, and its gate is open.
+~
+211 0 3
+D0
+~
+~
+0 -1 21122
+D1
+~
+~
+0 -1 21110
+D2
+~
+~
+0 -1 21123
+D3
+West, the gate of the Black Bastion stands open in the cliff.
+~
+~
+0 -1 21200
+S
+#21112
+The Misted Pools~
+   North of the weeping pool a chain of small grey pools lies among the
+roots, mist rising from them in slow coils. Lights drift in the mist, soft
+and inviting, and the bones at the edges of the pools show where people
+followed them.
+~
+211 0 3
+D2
+~
+~
+0 -1 21100
+S
+#21113
+The Drowned Saplings~
+   South of the pool, young skin-trees grow from the flooded ground, thin
+and pale, their faces still small, still crying like infants. Red sap pools
+between them.
+~
+211 0 3
+D0
+~
+~
+0 -1 21100
+S
+#21114
+The Orchard of the Dead~
+   West of the screaming fruit is an orchard in neat rows, planted by
+someone: every tree hung with bodies instead of fruit, swinging gently. A
+tall figure in a straw hat walks between the rows with a scythe, harvesting.
+~
+211 0 3
+D1
+~
+~
+0 -1 21102
+S
+#21115
+The Lost Knights' Camp~
+   North of the hanged knight lie the remains of his company's camp: rusted
+tents, a cold fire-pit, and his squires, grown into the trees around the
+clearing up to their waists. They still hold their spears. Their lord's
+banner hangs from a branch, rotting.
+~
+211 0 3
+D2
+~
+~
+0 -1 21103
+S
+#21116
+The White Lake~
+   Beyond the glade of mourning lies a still lake of milk-white water, its
+shores lined with bone-white trees. A woman stands in the shallows with her
+back to you, singing a lament, and the water around her is rippling with her
+grief.
+~
+211 0 6
+D2
+~
+~
+0 -1 21107
+S
+#21117
+The Thorn Kennels~
+   West of the thorn hollow, cages of woven thorn hold the litters of the
+thorn wolves. The pups are already thorned, and they hurl themselves at the
+bars when you come near.
+~
+211 0 3
+D1
+~
+~
+0 -1 21105
+S
+#21118
+The Root-Heart~
+   Below the root maze the tunnels open into a hollow where all the forest's
+roots meet in a single knot as big as a house, beating slowly. Each beat
+pushes red sap out through the veins of the forest. Something stands guard
+before it.
+~
+211 a 0
+D4
+~
+~
+0 -1 21109
+S
+#21119
+The Buried Village~
+   West of the root maze, the roots have grown through a whole village and
+pulled it underground. Houses hang in the root-walls, doors open, and their
+people sit inside at their tables, roots grown through their chairs and into
+their backs.
+~
+211 a 0
+D1
+~
+~
+0 -1 21109
+S
+#21120
+The Hall of Cocoons~
+   North of the Mother the forest has made a hall of hanging cocoons, each
+with a sleeper inside, each sleeper slowly turning into wood. A tender moves
+among them, checking, adjusting, humming a lullaby.
+~
+211 0 3
+D2
+~
+~
+0 -1 21110
+S
+#21121
+The Seed Pits~
+   South of the Mother the earth is pocked with pits where her seeds fall
+and sprout. What grows from them is not trees.
+~
+211 0 3
+D0
+~
+~
+0 -1 21110
+S
+#21122
+The Cliff Path~
+   A narrow path climbs the black cliff north of the forest's edge toward
+the Bastion's outer walls. The Bastion's scouts use it to watch the forest,
+and they are watching you.
+~
+211 0 5
+D2
+~
+~
+0 -1 21111
+S
+#21123
+The Burnt Siegeworks~
+   South of the forest's edge lie the burned remains of siege engines,
+trebuchets and towers that an eastern army built to break the Black Bastion,
+long ago. It never got to use them. Its soldiers walk among the wreckage
+still, grey and transparent, loading engines that are not there.
+~
+211 0 2
+D0
+~
+~
+0 -1 21111
+S
+$

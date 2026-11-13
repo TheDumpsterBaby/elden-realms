@@ -1,0 +1,65 @@
+#207
+Claude~
+Vel'Morrow, the Plague City~
+20700 20799 20 2
+M 0 20700 2 20700	fly_swarm
+M 0 20701 3 20701	plague_walker
+M 0 20702 1 20702	corpse_cart
+M 0 20703 1 20702	pit_mass
+M 0 20704 2 20703	plague_doctor
+E 1 20700 100 16	grey_syringe
+G 1 20701 30	beaked_mask
+M 0 20705 2 20703	grey_sleeper
+M 0 20706 2 20704	grey_merchant
+G 1 20702 40	grain_jar
+M 0 20701 2 20704	plague_walker
+M 0 20707 1 20705	flesh_tailor
+E 1 20703 100 16	tailor_needle
+G 1 20704 100	stitched_gloves
+M 0 20708 2 20705	stitched_soldier
+M 0 20709 2 20706	choir_zealot
+E 1 20705 80 16	zealot_flail
+M 0 20710 3 20707	choir_faithful
+M 0 20709 1 20707	choir_zealot
+E 1 20705 80 16	zealot_flail
+M 0 20711 1 20708	plague_bishop
+E 1 20706 100 16	spiral_staff
+E 1 20707 100 6	bishop_mitre
+M 0 20712 3 20709	grey_moth
+M 0 20713 2 20710	plague_rat_swarm
+M 0 20713 1 20711	plague_rat_swarm
+M 0 20714 1 20711	rat_lord
+G 1 20708 100	rat_lord_tail
+M 0 20715 2 20712	blighted_noble
+E 1 20709 70 16	rapier
+M 0 20715 2 20713	blighted_noble
+E 1 20709 70 16	rapier
+M 0 20716 1 20713	grey_hound_noble
+M 0 20717 2 20714	plague_knight
+E 1 20710 80 16	plague_blade
+E 1 20711 30 5	swollen_plate
+M 0 20718 1 20715	maggot_mass
+M 0 20719 3 20716	grey_courtier
+M 0 20717 1 20716	plague_knight
+E 1 20710 80 16	plague_blade
+E 1 20711 30 5	swollen_plate
+M 0 20720 1 20717	mother_of_flies
+G 1 20712 100	ducal_crown
+G 1 20713 100	fly_mantle
+M 0 20701 2 20718	plague_walker
+M 0 20721 2 20719	grey_weaver
+M 0 20722 4 20720	grey_child
+M 0 20723 1 20720	matron_mera
+G 1 20714 100	mera_rosary
+M 0 20724 2 20721	corpse_flower
+G 1 20715 25	grey_bloom
+M 0 20725 1 20722	bell_ringer
+G 1 20716 60	cracked_bell
+M 0 20726 2 20723	carrion_flock
+M 0 20727 1 20724	ossuary_keeper
+G 1 20717 50	plague_mask
+M 0 20728 2 20725	bloated_drowned
+M 0 20729 3 20726	quarantine_patient
+M 0 20705 1 20726	grey_sleeper
+S
+$

@@ -1,0 +1,472 @@
+#20400
+The Hill Road~
+   The road from the battlefield climbs into hills of coarse grey grass.
+Burial mounds rise on every slope, hundreds of them, ringed with standing
+stones. Many have been broken open, their stone doors cast down, and paths
+of trampled grass lead away from them in every direction.
+~
+204 0 4
+D0
+~
+~
+0 -1 20401
+D1
+~
+~
+0 -1 20318
+D3
+~
+~
+0 -1 20403
+S
+#20401
+A Broken Barrow~
+   A mound has been split open like a burst fruit. Its stone door lies
+shattered in the grass, and the passage behind it gapes, breathing cold air.
+Grave goods are scattered across the slope: bronze cups, beads, a little
+clay horse. Whatever lay inside did not stop to take them.
+~
+204 0 4
+D2
+~
+~
+0 -1 20400
+D5
+~
+~
+0 -1 20402
+S
+#20402
+The Barrow Passage~
+   A passage of fitted stone slabs leads into the mound, so low you must
+stoop. The walls are carved with spirals, the ancient ones that the hill-
+folk made long before the West ever used the sign. At the end lies an empty
+stone bed, and claw marks on the ceiling above it.
+~
+204 ad 0
+D4
+~
+~
+0 -1 20401
+S
+#20403
+The Crossing of Stones~
+   Four roads meet in a hollow between hills, marked by a cairn of white
+stones taller than a man. Offerings have been left on it for centuries:
+coins, bread, little bone charms. Someone has knocked the top off the cairn
+and painted the stones beneath it grey.
+~
+204 0 4
+D0
+~
+~
+0 -1 20404
+D1
+~
+~
+0 -1 20400
+D2
+~
+~
+0 -1 20407
+D3
+~
+~
+0 -1 20409
+S
+#20404
+The Grave Robbers' Camp~
+   A camp of tents and dug-outs in the lee of a big barrow, where grave
+robbers came to loot the opened tombs. Picks and shovels lie everywhere. So
+do the robbers, or what is left of them, and some of what is left is still
+digging.
+~
+204 0 4
+D0
+~
+~
+0 -1 20405
+D2
+~
+~
+0 -1 20403
+S
+#20405
+The Great Dig~
+   The robbers drove a shaft straight down into the side of a huge mound,
+shoring it with timber. A windlass stands over the shaft with a rope and
+bucket. A sign scrawled on a plank by the windlass reads: DONT GO DOWN.
+Below that, in a different hand: SHE IS AWAKE.
+~
+204 0 4
+D2
+~
+~
+0 -1 20404
+D5
+~
+~
+0 -1 20406
+S
+#20406
+The Tomb of the Spiral Queen~
+   A round chamber beneath the mound, its walls lined with gold leaf and
+carved with a queen surrounded by kneeling figures. Her stone coffin stands
+open. She sits on its edge, mummified and jewelled, combing her long dry
+hair, and she smiles at you with teeth like brown pegs.
+~
+204 ad 0
+D4
+~
+~
+0 -1 20405
+S
+#20407
+The Ghoul Dell~
+   A deep dell between three barrows where the ghouls of the hills gather to
+feed. The grass is worn away to mud and bones. The ghouls are pale and naked
+and move on all fours, and they have learned to hunt in packs like wolves.
+~
+204 0 4
+D0
+~
+~
+0 -1 20403
+D3
+~
+~
+0 -1 20408
+S
+#20408
+The Bone Hollow~
+   At the end of the dell, the ghouls have piled the bones of their meals
+into a mound of their own, a mockery of the barrows around them. On top of
+it sits the largest ghoul you have ever seen, cracking a thighbone and
+sucking out the marrow.
+~
+204 0 4
+D1
+~
+~
+0 -1 20407
+S
+#20409
+The Road to the Monastery~
+   A paved road climbs a steep hill toward a walled monastery, its stone
+walls lit by a ring of torches that never go out. Bodies lie along the road,
+wrapped in white and laid in neat rows: the dead the monks have put to rest,
+awaiting burial in ground they have blessed.
+~
+204 0 4
+D1
+~
+~
+0 -1 20403
+D3
+~
+~
+0 -1 20419
+D4
+~
+~
+0 -1 20410
+S
+#20410
+The Gate of the Unsleeping Flame~
+   A great gate of oak bound with iron stands in the monastery wall, carved
+with a single open eye surrounded by flames. Two monks in grey stand at it
+with staves, and above them on the wall more monks pace with torches,
+chanting. The chant never stops.
+~
+204 c 1
+D3
+~
+~
+0 -1 20411
+D5
+~
+~
+0 -1 20409
+S
+#20411
+The Monastery Courtyard~
+   A paved courtyard inside the walls, with a well in its centre and the
+monastery buildings around it. Monks cross it quickly, always in pairs,
+always chanting. Refugees from the hills huddle along the walls, given
+shelter here because the monks turn no living soul away.
+~
+204 c 1
+D0
+~
+~
+0 -1 20413
+D1
+~
+~
+0 -1 20410
+D2
+~
+~
+0 -1 20414
+D3
+~
+~
+0 -1 20415
+D4
+~
+~
+0 -1 20412
+S
+#20412
+The Wall Walk~
+   The top of the monastery wall, where monks walk the vigil in a ring that
+never breaks. From here you can see the barrows stretching away in every
+direction, and the shapes moving among them. Every so often a monk stops and
+hurls a torch down at something climbing the wall.
+~
+204 c 1
+D5
+~
+~
+0 -1 20411
+S
+#20413
+The Chapel of the Flame~
+   A tall chapel with no windows, lit by a single great flame that burns in
+a bronze bowl on the altar. It has burned without fuel for six hundred
+years, the monks say, and while it burns the dead of the hills cannot pass
+the walls. It is smaller than it used to be.
+~
+204 cde 0
+D2
+~
+~
+0 -1 20411
+E
+flame bowl altar~
+A white flame, steady and silent. Its light seems to push against something
+you cannot see. At its edges, it flickers grey.
+~
+S
+#20414
+The Refectory~
+   Long tables where monks and refugees eat together in silence: barley
+bread, thin soup, water. The monks give their own portions to the children.
+A reader stands at a lectern reading aloud the names of the dead buried in
+the hills, one after another, as he has every day for forty years.
+~
+204 cde 0
+D0
+~
+~
+0 -1 20411
+S
+#20415
+The Cloister of Graves~
+   A cloister around a garth of graves, where the monks bury those they have
+put to rest. Each grave has a small flame burning on it in a clay lamp. An
+old monk tends the lamps, and every grave whose lamp goes out, he says, is a
+grave that will open.
+~
+204 c 0
+D0
+~
+~
+0 -1 20417
+D1
+~
+~
+0 -1 20411
+D3
+~
+~
+0 -1 20416
+S
+#20416
+The Library of the Dead~
+   Shelves of scrolls and books record every barrow in the hills: who lies
+in it, when they were buried, what rites keep them down. A monk at a desk is
+copying one of them in great haste. He tells you without looking up that the
+rites are failing, all of them, all at once.
+~
+204 cde 0
+D1
+~
+~
+0 -1 20415
+E
+scrolls books shelves~
+Records of a thousand barrows. The newest scroll, unfinished: THE KING
+BENEATH THE GREAT MOUND STIRS. THE FLAME CANNOT HOLD HIM.
+~
+S
+#20417
+The Abbot's Stair~
+   A narrow stair spirals up inside the monastery's only tower. The walls
+are painted with the faces of past abbots, each holding a flame. The most
+recent portrait shows a hard-faced woman, and the paint is barely dry.
+~
+204 c 0
+D2
+~
+~
+0 -1 20415
+D4
+~
+~
+0 -1 20418
+S
+#20418
+The Abbot's Chamber~
+   A bare cell at the top of the tower: a cot, a desk, a window looking
+west. The abbess of the monastery keeps the vigil here at night, watching
+the Great Mound on the western horizon, where a grey light has begun to
+burn.
+~
+204 cde 0
+D5
+~
+~
+0 -1 20417
+E
+window west mound~
+The Great Mound, the largest barrow in the hills. A grey light leaks from it
+now, like dawn from under a door.
+~
+S
+#20419
+The Western Downs~
+   Beyond the monastery the hills grow higher and barer, and the barrows
+larger and older. The wind moans over the grass. Bones lie in the open, and
+shapes walk in the distance, some of them taller than any man.
+~
+204 0 4
+D1
+~
+~
+0 -1 20409
+D2
+~
+~
+0 -1 20422
+D3
+~
+~
+0 -1 20420
+S
+#20420
+The Giant's Barrow~
+   An enormous long barrow lies along the ridge, its door large enough for a
+wagon. The hill-folk buried their champions here, and their champions were
+not small. The door is open. Something inside is walking, and the ground
+shakes with each step.
+~
+204 0 4
+D1
+~
+~
+0 -1 20419
+D5
+~
+~
+0 -1 20421
+S
+#20421
+The Hall of Champions~
+   A long hall beneath the barrow lined with stone biers, each one built for
+a man twice the height of a man. The biers are empty. At the far end, a
+giant skeleton in bronze armour rises from the last of them, picking up a
+sword as long as a cart.
+~
+204 ad 0
+D4
+~
+~
+0 -1 20420
+S
+#20422
+The Avenue of Stones~
+   A double row of standing stones leads west across the downs toward the
+Great Mound, each stone carved with a face. The faces have been worn by wind
+and rain to blank ovals, but as you walk between them you feel them turn to
+watch you pass.
+~
+204 0 4
+D0
+~
+~
+0 -1 20419
+D3
+~
+~
+0 -1 20423
+S
+#20423
+Before the Great Mound~
+   The Great Mound rises before you, a hill made by hands, ringed by three
+circles of stones. Its great stone door has been pushed outward from within
+and lies flat on the grass. Grey light pours from the opening, and with it a
+cold that freezes the breath in your throat.
+~
+204 0 4
+D1
+~
+~
+0 -1 20422
+D3
+~
+~
+0 -1 20426
+D5
+~
+~
+0 -1 20424
+S
+#20424
+The King's Passage~
+   A long passage of carved stone runs down into the heart of the mound, its
+walls lined with the bones of servants, horses and hounds buried to serve
+the king in death. They are all awake. They all turn toward you.
+~
+204 d 0
+D4
+~
+~
+0 -1 20423
+D5
+~
+~
+0 -1 20425
+S
+#20425
+The Chamber of the Barrow King~
+   A great domed chamber at the heart of the mound, heaped with gold and
+bronze and bone. On a throne of stone sits the Barrow King, first lord of
+the hill-folk, dead three thousand years. Grey fire burns in his eye
+sockets. He has heard the voice from the West, and he has answered it.
+~
+204 d 0
+D4
+~
+~
+0 -1 20424
+S
+#20426
+The Western Ridge~
+   The barrow hills end at a long ridge. Below it, a great river winds
+through a ruined valley, crossed by a broken bridge. On the near bank stand
+the walls of a fortress, and from its single tower a banner still flies,
+faded but defiant.
+~
+204 0 4
+D1
+~
+~
+0 -1 20423
+D3
+A switchback path leads down toward the river and the fortress.
+~
+~
+0 -1 20500
+S
+$

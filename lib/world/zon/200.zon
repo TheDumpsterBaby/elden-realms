@@ -1,0 +1,90 @@
+#200
+Claude~
+The Burned Marches~
+20000 20099 20 2
+M 0 20000 2 20000	blight_crow
+M 0 20001 2 20002	tower_watchman
+E 1 20005 100 16	watch_crossbow
+E 1 20006 40 6	watch_helm
+O 0 20000 1 20003	water_barrel
+M 0 20002 1 20003	tower_surgeon
+G 1 20003 100	field_dressing
+M 0 20001 1 20003	tower_watchman
+E 1 20005 100 16	watch_crossbow
+E 1 20006 40 6	watch_helm
+M 0 20003 1 20004	tower_captain
+E 1 20007 100 16	captain_blade
+M 0 20006 2 20005	hollowed_villager
+M 0 20006 1 20006	hollowed_villager
+M 0 20008 2 20006	carrion_hound
+G 1 20010 20	hound_hide
+M 0 20008 2 20007	carrion_hound
+G 1 20010 20	hound_hide
+M 0 20009 1 20007	ash_ghoul
+M 0 20000 3 20008	blight_crow
+M 0 20007 1 20008	hollowed_militia
+E 1 20009 80 16	rusted_spear
+M 0 20010 1 20009	hanged_wraith
+G 1 20011 60	hangmans_noose
+M 0 20007 2 20010	hollowed_militia
+E 1 20009 80 16	rusted_spear
+M 0 20009 2 20011	ash_ghoul
+M 0 20001 2 20012	tower_watchman
+E 1 20005 100 16	watch_crossbow
+E 1 20006 40 6	watch_helm
+O 0 20000 1 20013	water_barrel
+M 0 20004 1 20013	tower_quartermaster
+G 1 20004 100	hard_bread
+G 1 20003 100	field_dressing
+M 0 20009 2 20014	ash_ghoul
+M 0 20011 2 20016	raider
+E 1 20012 70 16	raider_axe
+E 1 20013 30 5	raider_leathers
+O 0 20001 1 20017	cracked_fountain
+M 0 20011 3 20017	raider
+E 1 20012 70 16	raider_axe
+E 1 20013 30 5	raider_leathers
+M 0 20012 1 20017	raider_outrider
+E 1 20014 100 16	outrider_bow
+E 1 20015 40 12	wolfskin_cloak
+M 0 20013 3 20018	captive_villager
+M 0 20014 1 20018	raider_jailer
+E 1 20012 100 16	raider_axe
+G 1 20016 100	pen_key
+M 0 20015 1 20019	raider_shaman
+E 1 20017 100 16	ash_staff
+M 0 20006 2 20019	hollowed_villager
+O 0 20002 1 20020	ash_tome
+M 0 20015 1 20020	raider_shaman
+E 1 20017 100 16	ash_staff
+M 0 20011 2 20021	raider
+E 1 20012 70 16	raider_axe
+E 1 20013 30 5	raider_leathers
+M 0 20016 1 20022	raider_warlord
+E 1 20018 100 16	warlord_axe
+E 1 20013 100 5	raider_leathers
+M 0 20017 2 20023	drowned_hollow
+M 0 20008 2 20024	carrion_hound
+G 1 20010 20	hound_hide
+M 0 20018 1 20025	hound_alpha
+G 1 20019 100	alpha_fang
+M 0 20008 2 20025	carrion_hound
+G 1 20010 20	hound_hide
+M 0 20007 2 20026	hollowed_militia
+E 1 20009 80 16	rusted_spear
+M 0 20000 2 20026	blight_crow
+M 0 20001 2 20027	tower_watchman
+E 1 20005 100 16	watch_crossbow
+E 1 20006 40 6	watch_helm
+O 0 20000 1 20028	water_barrel
+M 0 20005 1 20028	marches_commander
+E 1 20008 100 16	commander_sword
+M 0 20006 2 20029	hollowed_villager
+M 0 20007 2 20030	hollowed_militia
+E 1 20009 80 16	rusted_spear
+M 0 20019 1 20031	reaver
+E 1 20020 100 16	reaver_blade
+E 1 20021 100 6	reaver_helm
+E 1 20022 100 5	blackened_plate
+S
+$

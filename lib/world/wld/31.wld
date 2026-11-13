@@ -1,0 +1,1005 @@
+#3100
+The Northwest End Of The Parade~
+   The lower ward begins here at the foot of the bridge. The old concourse
+has been made a parade ground, its paving stones scored by iron heels. The
+bridge is north; the parade runs east and south.
+~
+31 0 1
+D0
+You see the Bridge.
+~
+~
+0 -1 3051
+D1
+You see the promenade.
+~
+~
+0 -1 3101
+D2
+The promenade continues far south.
+~
+~
+0 -1 3127
+S
+#3101
+The Parade~
+   The parade runs along the top of the lower ward, wide enough for a
+regiment to march twelve abreast. Every morning a drum sounds here and the
+garrison forms up in its ranks. Barracks line the north side, their doors
+marked with regiment numbers.
+~
+31 0 1
+D1
+The promenade continues.
+~
+~
+0 -1 3102
+D2
+Park Road leads south.
+~
+~
+0 -1 3131
+D3
+You see the Concourse.
+~
+~
+0 -1 3100
+S
+#3102
+The Parade~
+   The parade runs along the top of the lower ward, wide enough for a
+regiment to march twelve abreast. Every morning a drum sounds here and the
+garrison forms up in its ranks. The garden gate is south, hung with a wreath
+of dry leaves.
+~
+31 0 1
+D1
+You see the promenade.
+~
+~
+0 -1 3103
+D2
+You see the park entrance.
+~
+~
+0 -1 3105
+D3
+You see the promenade.
+~
+~
+0 -1 3101
+S
+#3103
+The Parade~
+   The parade runs along the top of the lower ward, wide enough for a
+regiment to march twelve abreast. Every morning a drum sounds here and the
+garrison forms up in its ranks. Officers' billets face the parade, their
+windows shuttered.
+~
+31 0 1
+D1
+You see the Concourse.
+~
+~
+0 -1 3104
+D2
+The small path leads south.
+~
+~
+0 -1 3132
+D3
+You see the promenade.
+~
+~
+0 -1 3102
+S
+#3104
+The Northeast End Of The Parade~
+   The parade ends at the east wall of the lower ward. Sentries walk the
+wall above, watching the lanes to the east, which have never yet needed
+watching. The parade runs west and south.
+~
+31 0 1
+D2
+The Concourse continues south.
+~
+~
+0 -1 3130
+D3
+You see the promenade.
+~
+~
+0 -1 3103
+E
+wall~
+The east wall of the lower ward. It is low and old, and nobody has bothered
+to strengthen it.
+~
+S
+#3105
+The Garden Gate~
+   The gate of what was once the city park, now the Memorial Garden. Its
+lawns were dug up for vegetables when the siege rations began, and the paths
+are lined with wooden markers for those who died with no body to bury. The
+parade is north, a cookhouse east, and the garden paths south.
+~
+31 c 1
+D0
+You see the promenade.
+~
+~
+0 -1 3102
+D1
+You see Park Cafe.
+~
+~
+0 -1 3106
+D2
+You see the park.
+~
+~
+0 -1 3108
+S
+#3106
+The Garden Cookhouse~
+   The old park cafe now cooks for the lower ward. A great pot of thin stew
+bubbles all day, and a tired woman ladles it out to anyone with a garrison
+token. The garden gate is west.
+~
+31 dh 0
+D3
+You see the park entrance.
+~
+~
+0 -1 3105
+S
+#3107
+A Path In The Memorial Garden~
+   The path turns here between rows of cabbages and wooden markers. The
+garden is very quiet; people come here to remember, not to talk.
+~
+31 0 1
+D1
+~
+~
+0 -1 3108
+D2
+~
+~
+0 -1 3113
+S
+#3108
+A Path In The Memorial Garden~
+   A narrow path among the memorial markers, each carved with a name and a
+place: Ashford, the Fens, the Barrow Hills. The garden is very quiet; people
+come here to remember, not to talk.
+~
+31 0 1
+D0
+You see the northern park entrance.
+~
+~
+0 -1 3105
+D1
+~
+~
+0 -1 3109
+D3
+~
+~
+0 -1 3107
+S
+#3109
+A Path In The Memorial Garden~
+   Crows sit on the markers here and do not fly when you pass. The garden is
+very quiet; people come here to remember, not to talk.
+~
+31 0 1
+D2
+~
+~
+0 -1 3115
+D3
+~
+~
+0 -1 3108
+S
+#3110
+Garrison Headquarters~
+   The headquarters of the garrison: a hall of maps, muster rolls and tired
+officers. The great map on the wall shows the march in fifteen bands of
+deepening grey, and pins mark where the regiments are. There are not many
+pins. The door is east.
+~
+31 d 0
+D1
+You see Park Road.
+~
+door~
+1 3105 3111
+S
+#3111
+Park Road~
+   Park Road runs north and south past the garrison headquarters, whose door
+is west. Soldiers come and go at a run with orders. The memorial garden's
+west gate is east.
+~
+31 0 1
+D0
+~
+~
+0 -1 3131
+D1
+You see the park entrance.
+~
+~
+0 -1 3112
+D2
+~
+~
+0 -1 3118
+D3
+You see the Cityguard HeadQuarters.
+~
+door~
+1 3105 3110
+E
+building door sign~
+The sign above the door reads: GARRISON HEADQUARTERS. ALL ORDERS FROM THE
+LORD COMMANDER.
+~
+S
+#3112
+The Western Garden Gate~
+   A small gate on the west side of the memorial garden. Park Road is west;
+the garden path runs east.
+~
+31 c 1
+D1
+~
+~
+0 -1 3113
+D3
+~
+~
+0 -1 3111
+S
+#3113
+A Path In The Memorial Garden~
+   A path through the garden where the oldest markers stand, from the first
+years of the war, their names weathered nearly away. The path runs north,
+east and west.
+~
+31 0 1
+D0
+~
+~
+0 -1 3107
+D1
+You see the pond.
+~
+~
+0 -1 3114
+D3
+You see the western park entrance.
+~
+~
+0 -1 3112
+S
+#3114
+The Pond~
+   A dark pond in the middle of the garden. Its water came from the river
+and has gone grey and still, and nothing grows on its banks. A black swan
+glides on it in silence. Paths lead east and west.
+~
+31 0 6
+D1
+~
+~
+0 -1 3115
+D3
+~
+~
+0 -1 3113
+S
+#3115
+A Path In The Memorial Garden~
+   The path passes a long stone set with the names of a whole regiment, the
+Riversmeet Foot, every one of them lost on the same night. The path runs
+north, east and west.
+~
+31 0 1
+D0
+~
+~
+0 -1 3109
+D1
+~
+~
+0 -1 3116
+D3
+~
+~
+0 -1 3114
+S
+#3116
+The Eastern Garden Gate~
+   The eastern gate of the memorial garden. Emerald Avenue is east; the
+garden path runs west.
+~
+31 c 1
+D1
+~
+~
+0 -1 3117
+D3
+~
+~
+0 -1 3115
+S
+#3117
+Emerald Avenue~
+   Emerald Avenue was the road of the rich, before they fled east. Its tall
+houses are now billets, storehouses and field hospitals. The commander's
+waiting room is east; the garden gate is west, and the avenue runs north and
+south.
+~
+31 0 1
+D0
+~
+~
+0 -1 3132
+D1
+~
+~
+0 -1 3137
+D2
+~
+~
+0 -1 3119
+D3
+~
+~
+0 -1 3116
+S
+#3118
+Park Road~
+   Park Road runs north and south between barracks and stables. The road is
+churned to mud by horses and carts.
+~
+31 0 1
+D0
+~
+~
+0 -1 3111
+D2
+~
+~
+0 -1 3135
+S
+#3119
+Emerald Avenue~
+   Emerald Avenue was the road of the rich, before they fled east. Its tall
+houses are now billets, storehouses and field hospitals. The avenue runs
+north and west.
+~
+31 0 1
+D0
+~
+~
+0 -1 3117
+D3
+~
+~
+0 -1 3133
+S
+#3120
+The Road Crossing~
+   The crossroads of the lower ward, where Park Road meets Emerald Avenue. A
+signpost points the way, and an iron ladder climbs a tower here to a house
+built high above the roofs. Roads lead in all four directions.
+~
+31 0 1
+D0
+~
+~
+0 -1 3133
+D1
+~
+~
+0 -1 3136
+D2
+~
+~
+0 -1 3134
+D3
+~
+~
+0 -1 3135
+D4
+The chain disappears in the clouds.
+~
+~
+0 -1 7914
+E
+sign~
+North: Emerald Avenue. South: the lower lanes. East and west: Park Road. Up:
+Redferne. All civilians to keep off the roads at curfew.
+~
+E
+chain~
+A heavy chain hangs from the ladder, to drag it up in a siege.
+~
+S
+#3121
+Emerald Avenue~
+   Emerald Avenue was the road of the rich, before they fled east. Its tall
+houses are now billets, storehouses and field hospitals. The avenue runs
+east and south.
+~
+31 0 1
+D1
+~
+~
+0 -1 3134
+D2
+~
+~
+0 -1 3125
+S
+#3122
+Park Road~
+   Park Road, lined with the empty shops of tradesmen who have gone to the
+Ironworks. Elm Street runs east; the road runs north and south.
+~
+31 0 1
+D0
+~
+~
+0 -1 3136
+D1
+~
+~
+0 -1 3123
+D2
+~
+~
+0 -1 3126
+S
+#3123
+Elm Street~
+   A short street of officers' houses with black wreaths on many of the
+doors. It runs east and west.
+~
+31 0 1
+D1
+~
+~
+0 -1 3124
+D3
+~
+~
+0 -1 3122
+S
+#3124
+The End Of Elm Street~
+   Elm Street ends at a great elm tree, the last tree in the lower ward.
+Widows tie ribbons to its branches. The street runs west.
+~
+31 0 1
+D3
+~
+~
+0 -1 3123
+S
+#3125
+Emerald Avenue~
+   Emerald Avenue was the road of the rich, before they fled east. Its tall
+houses are now billets, storehouses and field hospitals. The avenue runs
+north and south.
+~
+31 0 1
+D0
+~
+~
+0 -1 3121
+D2
+~
+~
+0 -1 3128
+S
+#3126
+Park Road~
+   The southern stretch of Park Road, quiet but for the creak of carts
+carrying the dead to the graves. The road runs north and south.
+~
+31 0 1
+D0
+~
+~
+0 -1 3122
+D2
+~
+~
+0 -1 3129
+S
+#3127
+On The Parade~
+   The western end of the lower parade, at the foot of the wall. The parade
+runs east, and the upper parade is north.
+~
+31 0 1
+D0
+~
+~
+0 -1 3100
+D1
+~
+~
+0 -1 3128
+S
+#3128
+On The Parade~
+   The lower parade, where the dead are carried in procession on their way
+to the graves. The parade runs east and west, and the avenue north.
+~
+31 0 1
+D0
+~
+~
+0 -1 3125
+D1
+~
+~
+0 -1 3129
+D3
+~
+~
+0 -1 3127
+S
+#3129
+On The Parade~
+   The lower parade before the graveyard gate. A bell hangs here that is
+rung for every burial; it rings most days. The gate south opens onto the
+Field of the Fallen, and the parade runs east and west, with Park Road
+north.
+~
+31 0 1
+D0
+~
+~
+0 -1 3126
+D1
+~
+~
+0 -1 3130
+D2
+Through the solid iron bars you see the graveyard.
+~
+grate~
+2 3106 3150
+D3
+~
+~
+0 -1 3128
+S
+#3130
+On The Parade~
+   The eastern end of the lower parade. It runs west, and north toward the
+upper parade.
+~
+31 0 1
+D0
+~
+~
+0 -1 3104
+D3
+~
+~
+0 -1 3129
+S
+#3131
+Park Road~
+   The top of Park Road, where it meets the parade. The road runs north and
+south.
+~
+31 0 1
+D0
+~
+~
+0 -1 3101
+D2
+~
+~
+0 -1 3111
+S
+#3132
+Emerald Avenue~
+   Emerald Avenue was the road of the rich, before they fled east. Its tall
+houses are now billets, storehouses and field hospitals. Penny Lane runs
+east; the avenue runs north and south.
+~
+31 0 1
+D0
+~
+~
+0 -1 3103
+D1
+~
+~
+0 -1 3139
+D2
+~
+~
+0 -1 3117
+S
+#3133
+Emerald Avenue~
+   Emerald Avenue was the road of the rich, before they fled east. Its tall
+houses are now billets, storehouses and field hospitals. The avenue runs
+east and south.
+~
+31 0 1
+D1
+~
+~
+0 -1 3119
+D2
+~
+~
+0 -1 3120
+S
+#3134
+Emerald Avenue~
+   Emerald Avenue was the road of the rich, before they fled east. Its tall
+houses are now billets, storehouses and field hospitals. The avenue runs
+north and west.
+~
+31 0 1
+D0
+~
+~
+0 -1 3120
+D3
+~
+~
+0 -1 3121
+S
+#3135
+Park Road~
+   Park Road runs north and east between storehouses guarded by bored
+soldiers.
+~
+31 0 1
+D0
+~
+~
+0 -1 3118
+D1
+~
+~
+0 -1 3120
+S
+#3136
+Park Road~
+   Park Road, running south and west past a stable of war-horses. The horses
+stamp and shy at nothing.
+~
+31 0 1
+D2
+~
+~
+0 -1 3122
+D3
+~
+~
+0 -1 3120
+S
+#3137
+The Waiting Room~
+   The anteroom of the Lord Commander's office. Hard chairs stand against
+the walls, and messengers from the front wait in them, mud-stained and grey
+with exhaustion, holding their dispatches. The office is east; the avenue
+west.
+~
+30 d 0
+D1
+It looks like some kind of office.
+~
+~
+0 -1 3138
+D3
+The exit west leads to Emerald Avenue.
+~
+~
+0 -1 3117
+E
+chair chairs~
+Plain wooden chairs, worn smooth by waiting.
+~
+E
+desk~
+The adjutant's desk, piled with dispatches and casualty lists.
+~
+E
+typewriter~
+A brass contraption for copying orders. It has jammed.
+~
+S
+#3138
+The Lord Commander's Office~
+   The Lord Commander's office is a plain room with a great table covered in
+maps of the march. Every map ends at the same place, far in the west, where
+the mapmakers have drawn nothing at all and written only: HERE IT IS. The
+waiting room is west.
+~
+30 d 0
+D3
+The waiting room is to the west.
+~
+~
+0 -1 3137
+E
+desk~
+The commander's table, covered in maps, reports and a cold cup of tea.
+~
+E
+chair armchair~
+A worn leather chair. The commander rarely sits in it.
+~
+S
+#3139
+Penny Lane~
+   A narrow lane of small houses where the garrison's craftsmen live:
+smiths, fletchers, cobblers. It runs east and west.
+~
+31 0 1
+D1
+~
+~
+0 -1 3140
+D3
+~
+~
+0 -1 3132
+S
+#3140
+Penny Lane~
+   Penny Lane turns north here past a fletcher's shed full of drying arrows.
+The lane runs north and west.
+~
+31 0 1
+D0
+~
+~
+0 -1 3141
+D3
+~
+~
+0 -1 3139
+S
+#3141
+The End Of Penny Lane~
+   Penny Lane ends at a small locked house. The lane runs south.
+~
+31 0 1
+D2
+~
+~
+0 -1 3140
+S
+#3150
+The Field of the Fallen~
+   A gravel road runs south through the Field of the Fallen. Graves crowd
+both sides, fresh earth on old, and the gravediggers cannot keep up. The
+parade is north.
+~
+31 0 2
+D0
+Through the solid iron bars you see the Concourse.
+~
+grate~
+2 3106 3129
+D2
+The gravel road continues southward.
+~
+~
+0 -1 3151
+S
+#3151
+The Field of the Fallen~
+   The gravel road passes between mass graves marked only with regiment
+numbers. Lime has been scattered over them, and still the earth moves
+sometimes at night. The road runs north and south.
+~
+31 0 2
+D0
+The gravel road continues northwards.
+~
+~
+0 -1 3150
+D2
+The gravel road continues southward.
+~
+~
+0 -1 3152
+S
+#3152
+The Field of the Fallen~
+   A pyre stands here, where those who died in the west are burned before
+they can be buried, as the priests now insist. The ashes blow over
+everything. The road runs north and south.
+~
+31 0 2
+D0
+The gravel road continues northwards.
+~
+~
+0 -1 3151
+D2
+The gravel road continues southward.
+~
+~
+0 -1 3153
+S
+#3153
+The Field of the Fallen~
+   The far end of the graves, where the oldest stones lean in the mud. Some
+of the graves here are open, and the earth around them is scratched from the
+inside. The road runs north and south.
+~
+34 0 1
+D0
+The gravel road continues northwards.
+~
+~
+0 -1 3152
+D2
+The gravel road continues southward to an open space before a small
+building.
+~
+~
+0 -1 3154
+S
+#3154
+In Front Of The Chapel~
+   A small stone chapel at the end of the graveyard, where the dead lie for
+a night before burial with a priest to watch them. The road runs north, and
+the chapel door is south.
+~
+31 0 2
+D0
+The gravel road continues northwards.
+~
+~
+0 -1 3153
+D2
+The chapel door is made of dark wood.
+~
+door~
+1 -1 3155
+S
+#3155
+Inside The Chapel~
+   A cold chapel of bare stone. Coffins lie on trestles before the altar,
+each with an iron nail through its lid, for the dead of the West do not
+always stay dead. The door is north.
+~
+34 ad 0
+D0
+The chapel door is made of dark wood.
+~
+door~
+1 -1 3154
+E
+glass windows~
+Narrow windows of grey glass. The light through them is the colour of ash.
+~
+E
+altar~
+A plain altar with a single candle that is never let go out.
+~
+E
+benches rows~
+A few rough benches for the mourners. Fewer come every year; there are fewer
+left to mourn.
+~
+S
+#3200
+Under The Bridge~
+   The river runs dark under the stone bridge. Iron grates are sunk into the
+water at the wall, and things caught on them stir in the current. The river
+runs east.
+~
+31 0 7
+D1
+~
+~
+0 -1 3201
+E
+wall~
+Iron grates bar the river where it passes under the wall. They are thick
+with weed and worse.
+~
+S
+#3201
+On The River~
+   The river runs slow and dark through the fort. It comes from the west
+now, and its water is grey and cold and smells of rot. Bodies sometimes come
+down it, and the ferrymen hook them out before they reach the grates.
+~
+31 0 7
+D1
+~
+~
+0 -1 3202
+D3
+~
+~
+0 -1 3200
+S
+#3202
+On The River~
+   The river runs slow and dark through the fort. It comes from the west
+now, and its water is grey and cold and smells of rot. Bodies sometimes come
+down it, and the ferrymen hook them out before they reach the grates.
+~
+31 0 7
+D1
+~
+~
+0 -1 3203
+D3
+~
+~
+0 -1 3201
+S
+#3203
+On The River~
+   The river runs slow and dark through the fort. It comes from the west
+now, and its water is grey and cold and smells of rot. Bodies sometimes come
+down it, and the ferrymen hook them out before they reach the grates.
+~
+31 0 7
+D0
+~
+~
+0 -1 3049
+D1
+~
+~
+0 -1 3204
+D3
+~
+~
+0 -1 3202
+S
+#3204
+On The River~
+   The river runs slow and dark through the fort. It comes from the west
+now, and its water is grey and cold and smells of rot. Bodies sometimes come
+down it, and the ferrymen hook them out before they reach the grates.
+~
+31 0 7
+D1
+~
+~
+0 -1 3205
+D3
+~
+~
+0 -1 3203
+S
+#3205
+On The River~
+   The river runs slow and dark through the fort. It comes from the west
+now, and its water is grey and cold and smells of rot. Bodies sometimes come
+down it, and the ferrymen hook them out before they reach the grates.
+~
+31 0 7
+D3
+~
+~
+0 -1 3204
+S
+$

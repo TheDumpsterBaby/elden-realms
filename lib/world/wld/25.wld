@@ -1,0 +1,3837 @@
+#2500
+The Edge Of The Mistwood~
+   The trail from the copse ends here against a wall of grey mist that does
+not move with the wind. Old trees stand half-seen inside it, their bark pale
+as bone. A post of black iron is driven into the ground at the edge, hung
+with a board. The air is cold and smells faintly of struck flint. A narrow
+path goes north into the mist; the copse lies back to the south.
+~
+25 cg 3
+D0
+Grey mist, and the pale shapes of trees inside it.
+~
+~
+0 -1 2508
+D2
+The copse of trees and the open plains lie back to the south.
+~
+~
+0 -1 4075
+E
+post board iron~
+The board is painted in plain letters: "WAR-COLLEGE OF THE HIGH TOWER. The
+wood is warded. Keep to the path. Those who leave it are not looked for."
+~
+S
+#2501
+The Mistwood~
+   The mist is thick enough to taste. Grey trunks crowd in on every side,
+and a ring of white stones has been laid on the ground here, as if to mark a
+place where something was buried, or where something should stay. Faint
+growling comes from nowhere in particular. Paths, or what may be paths, lead
+north, east, south and west.
+~
+25 acfg 3
+D0
+The mist swallows the path a few steps on.
+~
+~
+0 -1 2507
+D1
+The mist swallows the path a few steps on.
+~
+~
+0 -1 2502
+D2
+The mist swallows the path a few steps on.
+~
+~
+0 -1 2504
+D3
+The mist swallows the path a few steps on.
+~
+~
+0 -1 2503
+E
+ring stones white~
+Smooth white river stones, each one scratched with a small ward-sign. Two of
+them have been kicked out of the ring.
+~
+S
+#2502
+The Mistwood~
+   A tall tree here has been split by fire from crown to root, and the two
+halves lean apart like an open door. Something has scratched marks into the
+burnt wood at the height of a man's face. The mist is a little thinner to
+the north, where there may be a clearing. Other ways run east, south and
+west into grey.
+~
+25 acfg 3
+D0
+The mist thins a little; there may be a clearing that way.
+~
+~
+0 -1 2511
+D1
+Grey mist and grey trees.
+~
+~
+0 -1 2503
+D2
+Grey mist and grey trees.
+~
+~
+0 -1 2505
+D3
+Grey mist and grey trees.
+~
+~
+0 -1 2501
+E
+tree marks burnt~
+Tally marks, dozens of them, scratched with a knife or a nail. Someone was
+counting days here.
+~
+S
+#2503
+The Mistwood~
+   The ground dips into a hollow full of dead leaves, and the mist pools in
+it like water. A rusted helmet lies at the bottom, upside down, holding a
+little rainwater. There is no sign of whoever wore it. The moaning in the
+trees is louder here. Ways lead off north, east, south and west, and every
+one of them looks the same.
+~
+25 acfg 3
+D0
+The mist hides whatever lies that way.
+~
+~
+0 -1 2509
+D1
+The mist hides whatever lies that way.
+~
+~
+0 -1 2501
+D2
+The mist hides whatever lies that way.
+~
+~
+0 -1 2506
+D3
+The mist hides whatever lies that way.
+~
+~
+0 -1 2502
+E
+helmet helm rusted~
+An old levy helmet of the kind the Recruit Yards hand out. The strap has
+been cut, not broken.
+~
+S
+#2504
+The Mistwood~
+   A bell of green bronze hangs from a low branch on a rotten cord, without
+a clapper. The tower's mages hang them through the wood to mark the safe
+paths, but the mist moves the paths and not the bells. Wet roots knot across
+the ground. Shapes in the grey suggest ways north, east, south and west.
+~
+25 acfg 3
+D0
+Trees loom and fade in the mist.
+~
+~
+0 -1 2501
+D1
+Trees loom and fade in the mist.
+~
+~
+0 -1 2505
+D2
+Trees loom and fade in the mist.
+~
+~
+0 -1 2507
+D3
+Trees loom and fade in the mist.
+~
+~
+0 -1 2503
+E
+bell bronze cord~
+The bell has no clapper. When the mist stirs it moves, but it makes no sound
+at all.
+~
+S
+#2505
+The Mistwood~
+   The trees here grow in a near-perfect circle, as if planted, and the mist
+inside the circle is darker than the mist outside it. A cold that has
+nothing to do with the weather settles on the skin. Shadows move between the
+trunks a little after the trees do. Paths lead north, east, south and west
+between the trunks.
+~
+25 acfg 3
+D0
+Something dark moves in the grey that way, then is gone.
+~
+~
+0 -1 2502
+D1
+Something dark moves in the grey that way, then is gone.
+~
+~
+0 -1 2506
+D2
+Something dark moves in the grey that way, then is gone.
+~
+~
+0 -1 2508
+D3
+Something dark moves in the grey that way, then is gone.
+~
+~
+0 -1 2504
+S
+#2506
+The Mistwood~
+   A stake of black ash wood stands here, charred at the tip and carved with
+a ward-sign that has been scored through with a deep scratch. The grass
+round it is dead in a perfect circle. To the west the mist seems to open
+onto a clearing; north, east and south it is as thick as ever.
+~
+25 acfg 3
+D0
+Grey mist and grey trees.
+~
+~
+0 -1 2503
+D1
+Grey mist and grey trees.
+~
+~
+0 -1 2510
+D2
+Grey mist and grey trees.
+~
+~
+0 -1 2509
+D3
+The mist parts a little onto a clearing.
+~
+~
+0 -1 2511
+E
+stake ash ward sign~
+One of the tower's ward-stakes. Something has drawn a line through the ward
+with a claw, and the wood beneath the cut has gone grey.
+~
+S
+#2507
+The Mistwood~
+   The bones of a slender man lie under a tree here, wrapped in a dark cloak
+that the damp has not rotted. A curved knife is still in his hand. The mages
+left him where he fell as a warning to others of his kind. The mist goes on
+to the north, east, south and west.
+~
+25 acfg 3
+D0
+Pale trunks and grey mist.
+~
+~
+0 -1 2504
+D1
+Pale trunks and grey mist.
+~
+~
+0 -1 2508
+D2
+Pale trunks and grey mist.
+~
+~
+0 -1 2501
+D3
+Pale trunks and grey mist.
+~
+~
+0 -1 2509
+E
+bones cloak man~
+The skull is long and narrow and the cloak is of drow weave, black on black.
+A spy for the west, come to look at the tower. He did not get far.
+~
+S
+#2508
+The Mistwood~
+   Close to the edge of the wood the mist is thinner, and the trees have
+been marked with daubs of white paint at head height, some of them very old.
+A trodden track seems to bend away south toward the wood's edge. Other ways
+lead north, east and west into thicker grey.
+~
+25 acfg 3
+D0
+Grey mist and grey trees.
+~
+~
+0 -1 2505
+D1
+Grey mist and grey trees.
+~
+~
+0 -1 2509
+D2
+The mist is thinner that way, toward the edge of the wood.
+~
+~
+0 -1 2500
+D3
+Grey mist and grey trees.
+~
+~
+0 -1 2507
+E
+paint daubs marks~
+White daubs, each one a ward-sign. The newest are fresh; the oldest have
+weathered almost away.
+~
+S
+#2509
+The Mistwood~
+   A fallen tree lies across the ground here, and someone has built a lean-
+to of branches against it and then abandoned it. A cold fire-pit holds the
+burnt ends of what looks like a map. The growling seems very close. Ways
+lead north, east, south and west through the trees.
+~
+25 acfg 3
+D0
+The grey closes in that way.
+~
+~
+0 -1 2506
+D1
+The grey closes in that way.
+~
+~
+0 -1 2507
+D2
+The grey closes in that way.
+~
+~
+0 -1 2503
+D3
+The grey closes in that way.
+~
+~
+0 -1 2508
+E
+lean-to fire pit map~
+Scraps of a hand-drawn map of the wood, every path crossed out in turn. The
+last scrap only says, in a shaking hand, "they move".
+~
+S
+#2510
+The Mistwood~
+   The trees stand further apart here, and their roots have been scorched
+black. To the east the shadows draw back and something like a clearing can
+be seen. Elsewhere the mist hangs in heavy folds, hiding the ways north,
+south and west.
+~
+25 acfg 3
+D0
+Grey mist and grey trees.
+~
+~
+0 -1 2507
+D1
+The shadows draw back to show a small clearing.
+~
+~
+0 -1 2511
+D2
+Grey mist and grey trees.
+~
+~
+0 -1 2509
+D3
+Grey mist and grey trees.
+~
+~
+0 -1 2502
+S
+#2511
+A Burnt Clearing~
+   A clearing of charred grass where nothing has grown back. The war-magi
+burn this ground every spring so that nothing can hide close to the tower.
+The mist stands in a wall around the edges, east, south and west, and goes
+no further in. A paved path leads north toward a dark shape rising out of
+the grey.
+~
+25 ag 3
+D0
+A paved path runs north toward the foot of a great tower.
+~
+~
+0 -1 2512
+D1
+The mist stands like a wall.
+~
+~
+0 -1 2506
+D2
+The mist stands like a wall.
+~
+~
+0 -1 2502
+D3
+The mist stands like a wall.
+~
+~
+0 -1 2510
+S
+#2512
+Before The Diamond Gate~
+   The High Tower rises out of the mist above you, black stone without a
+window for the first hundred feet, until it vanishes into low cloud. Scorch
+marks streak the lower courses where something once tried to burn its way
+in. A gate of cut diamond, clear as ice and set with ward-runes, closes the
+doorway to the north. The path behind has already gone back into the mist.
+~
+25 g 0
+D0
+The diamond gate is clear as ice, and very strong.
+~
+gate diamond~
+2 2500 2513
+E
+scorch marks courses~
+Long black streaks in the stone, as if from fire that ran upward. The masons
+have never been able to scrub them out.
+~
+S
+#2513
+The Gate Hall~
+   Inside, the tower is far larger than its walls allow; the war-magi fold
+space as easily as cloth. The gate hall is a long vault hung with the
+banners of regiments the college has sent mages to. Apprentices in grey
+hurry past with books and satchels. The muster hall is north, a corridor
+runs east, the refectory lies west, and the diamond gate is south.
+~
+25 dg 0
+D0
+The common room looks quite busy and noisy.
+~
+~
+0 -1 2514
+D1
+~
+~
+0 -1 2515
+D2
+~
+gate diamond~
+2 2500 2512
+D3
+~
+~
+0 -1 2516
+E
+banners banner regiments~
+Faded regimental banners: the Second of the Wall, the Ashford Levy, the
+Riversmeet Foot. A black thread is tied round the staff of every one.
+~
+S
+#2514
+The Muster Hall~
+   The great common room of the college, where apprentice war-magi rest
+between drills. They sit at long tables comparing notes, playing at dice, or
+staring at nothing. A board on the wall lists who is posted west next. A
+small stone fountain splashes in one corner. A dim passage leads north, the
+tavern is east, the quartermaster's shop west and the gate hall south.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2517
+D1
+The mages' bar can be seen to the east.
+~
+~
+0 -1 2518
+D2
+~
+~
+0 -1 2513
+D3
+~
+~
+0 -1 2519
+E
+board list~
+A list of names in chalk under the heading POSTED TO THE WALL. Some have
+been wiped off and written again. Some have been wiped off.
+~
+E
+fountain~
+Clean water, drawn from a deep well. Someone has carved "drink while you
+can" into the rim.
+~
+S
+#2515
+The Corridor Of Names~
+   A plain corridor whose walls are covered from floor to ceiling in small
+painted names, one for every war-magus the college has lost on the march.
+The newest are at the eastern end, where the painters are still at work. The
+corridor runs east toward the officers' wing and west to the gate hall.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2530
+D3
+~
+~
+0 -1 2513
+E
+names wall walls~
+Thousands of names, small and neat. Beside some of them a second mark has
+been painted: a grey eye. Nobody will say what it means.
+~
+S
+#2516
+The Refectory~
+   A long hall of trestle tables that could seat several hundred. At meal
+times it is full and loud; now it is empty, the benches pushed in, and the
+only sound is something bubbling beyond the kitchen door. Every table has a
+ration-mark burnt into its end. The kitchen door is west; the gate hall lies
+east.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2513
+D3
+~
+door wooden~
+1 -1 2520
+S
+#2517
+A Disused Passage~
+   A narrow passage that nobody seems to use. Dust lies thick on the floor,
+and in the dust are a few footprints that go one way only. The outline of a
+trapdoor can be made out underfoot, its iron ring polished by use. The
+muster hall lies back to the south.
+~
+25 adg 0
+D2
+~
+~
+0 -1 2514
+D5
+~
+trapdoor~
+1 -1 2521
+E
+trapdoor ring~
+A heavy trapdoor with a polished iron ring. Somebody uses it, even if the
+dust says otherwise.
+~
+E
+footprints prints dust~
+Booted prints, going toward the trapdoor. None come back.
+~
+S
+#2518
+The Drowned Lamp Tavern~
+   The college's tavern, smoky and low, where the masters let the students
+drink because they will be at the wall soon enough. Cups float from the bar
+to the tables on their own. Nobody looks up as you come in; they have their
+own thoughts to drown. The only way out is west.
+~
+25 dg 0
+D3
+~
+~
+0 -1 2514
+E
+sign~
+A board behind the bar: "Herbal brew for the head. Bread for the road.
+Nothing for the dreams."
+~
+S
+#2519
+The Quartermaster Of Reagents~
+   The college's store, crammed with herbs, chalk, parchment, candles and
+sealed jars, everything a war-magus needs in the field. Each item carries
+the tower's mark and the date it was issued. A ledger of debts lies open on
+the counter. The only exit leads back east.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2514
+E
+ledger debts~
+A ledger of what each student owes the store. Beside many names the debt has
+been struck through and the word "wall" written in.
+~
+S
+#2520
+The Kitchen~
+   A hot, crowded kitchen. A black oven twelve feet high squats against one
+wall, and opposite it stands an iron meat locker large enough to hold a man,
+and perhaps it has. A spice rack hangs in mid-air in the middle of the room,
+turning slowly. The cooks here are mages too, and they do not like visitors.
+The wooden door east leads back to the refectory.
+~
+25 dg 0
+D1
+~
+door wooden~
+1 -1 2516
+S
+#2521
+Below The Trapdoor~
+   A cramped shaft beneath the floor, dark and smelling of damp stone. A
+little grey light leaks down through the trapdoor above. Water drips
+somewhere far below, slow and steady, and a rope ladder hangs down into the
+dark.
+~
+25 adg 0
+D4
+~
+trapdoor~
+1 -1 2517
+D5
+~
+~
+0 -1 2522
+S
+#2522
+The Undercroft Crossing~
+   A low vaulted crossing in the cellars of the tower, where the college
+keeps what it does not want upstairs. The walls sweat. Running water can be
+heard to the south, and a faint light glows down the passage east. Other
+passages lead north and west, and the ladder climbs back up.
+~
+25 adg 0
+D0
+~
+~
+0 -1 2523
+D1
+A faint light shows at the far end of the passage.
+~
+~
+0 -1 2524
+D2
+~
+~
+0 -1 2525
+D3
+~
+~
+0 -1 2526
+D4
+~
+~
+0 -1 2521
+S
+#2523
+Before The Cell Door~
+   The passage ends at a stout oak door to the north, bound with iron and
+painted with a ward-sign in red. Under the sign someone has chalked the
+words DO NOT ANSWER HIM. There is a slot at the bottom for food. The only
+other way is back south.
+~
+25 adg 0
+D0
+~
+door oak~
+2 2522 2527
+D2
+~
+~
+0 -1 2522
+E
+sign ward words chalk~
+DO NOT ANSWER HIM, in a careful hand. Below, in another hand: "Whatever he
+says."
+~
+S
+#2524
+The Jailor's Passage~
+   A dark passage ending in a door to the east that stands half open, soft
+lamplight showing round its edges. Loud snoring comes from beyond it. A row
+of iron hooks along the wall holds manacles of several sizes, some of them
+not made for human wrists. The crossing lies back west.
+~
+25 adg 0
+D1
+~
+door~
+1 -1 2528
+D3
+~
+~
+0 -1 2522
+E
+hooks manacles~
+Manacles of many sizes. One pair is long and thin, with too many joints in
+the cuff.
+~
+S
+#2525
+The Midden Pool~
+   A black pool fills the end of this cellar, and the stench of it is enough
+to make the eyes water. The kitchens and the laboratories both empty their
+waste down here. Things float in it that are better not looked at, and
+something gurgles beneath the surface. The crossing lies north; the only
+other way is down, into the water.
+~
+25 adg 0
+D0
+~
+~
+0 -1 2522
+D5
+No light reaches below the surface of the pool.
+~
+~
+0 -1 2529
+S
+#2526
+The Fallen Passage~
+   The passage ends in a great fall of broken stone and earth that fills it
+from floor to roof. The masons say it was not an accident: something dug up
+toward the tower from the deep tunnels under Kar-Dumhal, and the masters
+brought the roof down on it. Scratching can still be heard in the stone on
+some nights. The only way out is back east.
+~
+25 adg 0
+D1
+~
+~
+0 -1 2522
+E
+stone fall rubble earth~
+Broken stone, packed tight. In one gap a grey claw, long dead, is pinned
+between two blocks.
+~
+S
+#2527
+The Muzzled Man's Cell~
+   A black cell floored with filthy straw. A man is chained to the far wall
+by wrists, ankles and neck, and an iron muzzle is locked over his mouth. The
+walls around him have been scratched with marks that hurt the eyes to
+follow. The only exit is the oak door back south.
+~
+25 adg 0
+D2
+~
+door oak~
+2 2522 2523
+E
+walls marks scratches~
+Lines that bend the wrong way. They look a little like the ward-signs
+upstairs, turned inside out.
+~
+S
+#2528
+The Jailor's Office~
+   A cluttered office with a cot, a lamp and a table covered in bread crusts
+and unsigned release papers. The jailor sleeps a great deal; very few of the
+things kept down here need feeding for long. A ring of hooks by the door is
+empty except for one. The only exit is the door west.
+~
+25 dg 0
+D3
+~
+door~
+1 -1 2524
+E
+papers release~
+Release orders, all of them blank. Nobody has ever been released from the
+undercroft.
+~
+S
+#2529
+Beneath The Midden Pool~
+   The filthy water closes overhead and a current takes hold at once,
+pulling down and sideways into a drain no mage ever meant anyone to swim.
+There is no light and no air. The pull goes on, and on, and the cold reaches
+into the chest and stays there.
+~
+25 abdg 0
+S
+#2530
+The Officers' Wing~
+   The corridor widens where the officers' wing begins. Here war-magi home
+from the wall are given beds, and the walls glow with a dim, steady ward-
+light so that nobody need sleep in the dark. There are wooden doors north
+and south; the corridor goes on east and back west.
+~
+25 dg 0
+D0
+~
+door wooden~
+1 -1 2532
+D1
+~
+~
+0 -1 2531
+D2
+~
+door wooden~
+1 -1 2533
+D3
+~
+~
+0 -1 2515
+S
+#2531
+A Turn In The Officers' Wing~
+   The corridor turns here around a pillar carved with the college's sign, a
+hand holding a flame. Three wooden doors open off it: north, east and south.
+The way back runs west. A ward-light burns in a niche, and someone has left
+a cup of cold tea beside it.
+~
+25 dg 0
+D0
+~
+door wooden~
+1 -1 2534
+D1
+~
+door wooden~
+1 -1 2536
+D2
+~
+door wooden~
+1 -1 2535
+D3
+~
+~
+0 -1 2530
+E
+pillar sign hand flame~
+A hand holding a flame, carved in black stone. The motto under it is worn
+almost smooth: "We burn so the wall may stand."
+~
+S
+#2532
+A Linen Store~
+   A narrow store room of shelves stacked with folded blankets, spare robes
+and boxes of candle ends. Some of the robes are scorched or stained and have
+been folded anyway, as if their owners might come back for them. The only
+way out is the door south.
+~
+25 adg 0
+D2
+~
+door wooden~
+1 -1 2530
+E
+robes robe~
+Grey robes with names stitched inside the collars. Several are stiff with
+old blood.
+~
+S
+#2533
+A Broom Closet~
+   A dark closet full of brooms, mops and buckets. The brooms were enchanted
+long ago to sweep the officers' wing by themselves, and the enchantment has
+gone sour; they are now kept shut in here. Several of them are leaning
+toward the door. The only exit is north.
+~
+25 adg 0
+D0
+~
+door wooden~
+1 -1 2530
+S
+#2534
+The Officers' Corridor~
+   A quiet corridor lit by the warm glow of the walls. The doors here are
+hung with small slates bearing the names of whoever sleeps behind them, and
+most of the slates are blank. A wooden door leads east, another south, and
+the corridor runs on north.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2538
+D1
+~
+door wooden~
+1 -1 2537
+D2
+~
+door wooden~
+1 -1 2531
+E
+walls wall~
+The walls shed a warm, even light, a small mercy for men who have come back
+from the dark.
+~
+E
+slates slate~
+Most are wiped clean. One still reads "Corvan, 3rd Battle-Circle, back by
+midwinter."
+~
+S
+#2535
+The Wardens' Chamber~
+   A bare chamber with no furniture, because its keepers have no need of
+any. Disembodied hands and eyes drift here between their rounds, bound into
+the tower's service by the masters long ago. The air prickles. The only way
+out is the door to the north.
+~
+25 dg 0
+D0
+~
+door wooden~
+1 -1 2531
+S
+#2536
+A Guest Bedroom~
+   A small bare room with a cot in one corner and a dusty mirror on the
+wall. Nobody has slept here in a long while. The bedding is folded at the
+foot of the cot and has not been touched. The only door leads back west.
+~
+25 dg 0
+D3
+~
+door wooden~
+1 -1 2531
+E
+mirror~
+Someone seems to be looking back at you from the other side, a thin grey
+figure standing a little behind where your reflection should be. When you
+turn round there is no one there.
+~
+S
+#2537
+A Guest Bedroom~
+   A comfortable room with a small globe of ward-light floating under the
+ceiling, a washstand and a cot with real blankets. Someone is sleeping in
+the cot, still half in his travelling clothes, his boots muddy from the
+road. The only door leads back west.
+~
+25 dg 0
+D3
+~
+door wooden~
+1 -1 2534
+S
+#2538
+The Foot Of The Novice Stair~
+   The officers' corridor ends here at the foot of a broad stair that climbs
+to the novices' floor. A charred door is set in the east wall, and a smell
+of old smoke still comes from under it. The corridor runs back south.
+~
+25 dg 0
+D1
+~
+door wooden~
+1 -1 2539
+D2
+~
+~
+0 -1 2534
+D4
+~
+~
+0 -1 2540
+S
+#2539
+The Burnt Room~
+   This was a guest room once. The walls are black with soot and the bed is
+a heap of ash, and the floor is scorched in the shape of a man lying on his
+side. A war-magus came back from the west here and slept, and in the night
+the fire in him came out. The only exit is the charred door west.
+~
+25 adg 0
+D3
+~
+door charred~
+1 -1 2538
+E
+floor shape scorch~
+A pale outline on the black floor where something lay while everything
+around it burned.
+~
+S
+#2540
+The Novice Landing~
+   The stair comes up onto the novices' floor. The corridor smells of ink
+and sweat and cheap candles. An oak door north opens on the barracks, faint
+moonlight shows in a small alcove to the east, and the corridor runs on
+west. The stair leads back down.
+~
+25 dg 0
+D0
+~
+door oak~
+1 -1 2542
+D1
+Faint moonlight falls into a small alcove that way.
+~
+~
+0 -1 2541
+D3
+~
+~
+0 -1 2543
+D5
+~
+~
+0 -1 2538
+S
+#2541
+The Window Alcove~
+   A small alcove ending in a tall window to the east, its glass long gone,
+letting in a cold breeze and the moonlight. The novices come here to look
+out at a world they have not yet been sent into. Initials are carved deep
+into the sill. The only way out is back west.
+~
+25 dg 0
+D1
+Below, the grey mistwood spreads out like a sea, and far beyond it lie the
+small lights of the eastern farms.
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 2540
+E
+window~
+Below, the grey mistwood spreads in every direction like a sea. Beyond it
+lie dark hills, and far off the small lights of the eastern farms that feed
+the wall.
+~
+E
+sill initials~
+Hundreds of initials, carved over many years. Some of them match names in
+the Corridor of Names below.
+~
+S
+#2542
+The Novice Barracks~
+   Rows of narrow cots line the walls. Apprentices sit cross-legged on them,
+muttering cantrips or bent over books by the light of a single conjured
+spark each. Their kit is stacked at the foot of every bed, ready to go. The
+room runs on west, and an oak door leads back south.
+~
+25 dg 0
+D2
+~
+door oak~
+1 -1 2540
+D3
+~
+~
+0 -1 2544
+S
+#2543
+The Novice Corridor~
+   A corridor scuffed by hundreds of young feet. Lesson rotas are pinned
+along the walls, and someone has drawn a rude sketch of a master on one of
+them. An oak door leads north, and the corridor runs east and west.
+~
+25 dg 0
+D0
+~
+door oak~
+1 -1 2544
+D1
+~
+~
+0 -1 2540
+D3
+~
+~
+0 -1 2545
+E
+rotas rota sketch~
+The rotas list drills by hour: wards at dawn, fire at noon, blade at dusk.
+The sketch shows a master with a very large nose.
+~
+S
+#2544
+The Novice Barracks~
+   The far end of the barracks, where the youngest apprentices sleep. Some
+of them are no more than children, sent by families in the refugee camps who
+could not feed them. A few have hung charms over their beds. The room runs
+back east, and an oak door leads south.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2542
+D2
+~
+door oak~
+1 -1 2543
+E
+charms charm~
+Little twists of straw and ribbon, the kind mothers make in the east to keep
+the dark away from a sleeping child.
+~
+S
+#2545
+Outside The Workshop~
+   The corridor runs east and west past an oak door to the north. Flashes of
+blue light show under it, followed by small cries and giggling. A bucket of
+sand stands by the door, and a sign above it says FIRE.
+~
+25 dg 0
+D0
+A flash of blue light shows round the edges of the door.
+~
+door oak~
+1 -1 2546
+D1
+~
+~
+0 -1 2543
+D3
+~
+~
+0 -1 2547
+E
+sign bucket sand~
+A bucket of sand under a sign: FIRE. It has clearly been used more than
+once.
+~
+S
+#2546
+The Novices' Workshop~
+   A small workshop of scarred tables strewn with chalk, parchment and
+snapped wands. In the far corner a knot of young apprentices has a small
+kitten cornered, and they are trying spells on it. The room reeks of singed
+fur. The only door leads back south.
+~
+25 dg 0
+D2
+~
+door oak~
+1 -1 2545
+S
+#2547
+A Turn In The Novice Corridor~
+   The corridor turns south toward the lecture halls. A notice nailed to the
+corner reads SILENCE BEYOND THIS POINT, and below it, smaller, LECTURES IN
+PROGRESS. The way back runs east.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2545
+D2
+~
+~
+0 -1 2548
+E
+notice~
+SILENCE BEYOND THIS POINT. LECTURES IN PROGRESS. A third line has been
+scratched out.
+~
+S
+#2548
+The Hall Of Lectures~
+   A tall corridor of black stone lined with closed doors. The voices of
+masters drone behind them, reciting the words of the burning bolt and the
+lesser ward over and over. A metal door to the west is marked FIRST DRILL.
+The hall runs north and south.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2547
+D2
+~
+~
+0 -1 2550
+D3
+~
+door metal~
+1 -1 2549
+S
+#2549
+The First Drill Room~
+   A classroom of benches facing a scorched target wall. Bored students
+slump at their desks while the instructor drills them in the bolt of force,
+a spell every war-magus must cast a hundred times without thinking before he
+is sent west. The instructor does not like to be interrupted. The only exit
+is the metal door east.
+~
+25 dg 0
+D1
+~
+door metal~
+1 -1 2548
+E
+target wall~
+A wall of stone pocked with thousands of small craters, one for every bolt
+cast here.
+~
+S
+#2550
+The Hall Of Lectures~
+   The hall goes on north and south. Beside a metal door to the west, a
+student has been made to stand facing the wall, and has been forgotten; only
+the scuff marks of his feet remain. Chalk dust drifts in the air.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2548
+D2
+~
+~
+0 -1 2551
+D3
+~
+door metal~
+1 -1 2552
+S
+#2551
+The Hall Of Lectures~
+   Here the hall is hung with charts showing the march: fifteen bands of
+country between the wall and the west, each one coloured darker than the
+last. A metal door leads west. The hall runs north and south.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2550
+D2
+~
+~
+0 -1 2553
+D3
+~
+door metal~
+1 -1 2554
+E
+charts chart march~
+Fifteen bands from Midgaard to the west, the last almost black. Across the
+bottom a master has written: "Every band you hold is a band they do not."
+~
+S
+#2552
+The Empty Drill Room~
+   An empty classroom. A blackboard hangs in the air at the front, covered
+in sigils that nobody has wiped away, and the desks have been pushed back
+against the walls as though something was drawn on the floor and then
+scrubbed out. The only exit is the metal door east.
+~
+25 dg 0
+D1
+~
+door metal~
+1 -1 2550
+E
+blackboard sigils board~
+The sigils of a binding, half finished. The last one has been written over
+and over until the chalk broke.
+~
+E
+floor~
+Faint lines of a scrubbed-out circle still show between the boards.
+~
+S
+#2553
+A Turn In The Hall Of Lectures~
+   The hall turns here from north to east. A brass bell hangs from a bracket
+to mark the hours of the drills, its rope worn thin. The walls glow with a
+steady ward-light.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2551
+D1
+~
+~
+0 -1 2555
+E
+bell brass rope~
+The hour bell. The college rings it eight times for the end of a drill and
+once, slowly, when news comes back from the wall.
+~
+S
+#2554
+The Veiling Room~
+   At first glance the classroom is empty: rows of desks, a lectern, a cold
+lamp. Then there is the rustle of robes, a chair that moves by itself, and
+the sense of being watched. The students of the veil are practising, and so
+is their teacher. The only exit is the metal door east.
+~
+25 dg 0
+D1
+~
+door metal~
+1 -1 2551
+S
+#2555
+The Hall Of Lectures~
+   The hall runs east and west here. A sturdy iron door to the south leads
+to the amphitheatre, and a slate beside it gives the day's lecture: THE
+NATURE OF THE GREY. The ward-light is brighter here, as if the walls were
+listening too.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2556
+D2
+~
+door sturdy iron~
+1 -1 2557
+D3
+~
+~
+0 -1 2553
+E
+slate lecture~
+THE NATURE OF THE GREY: what it takes from the living, and how to keep it
+out. Attendance compulsory.
+~
+S
+#2556
+The Hall Of Lectures~
+   The hall runs east and west. The thud of blows and the stamp of feet come
+through a large oaken door to the south, and the floor here is scuffed with
+the boots of students limping out of it.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2558
+D2
+~
+door large oaken~
+1 -1 2559
+D3
+~
+~
+0 -1 2555
+S
+#2557
+The Amphitheatre~
+   A small amphitheatre of stone tiers rising round a podium. The acoustics
+are so fine that every footstep rings, and an old wizard at the podium is
+speaking of the west in a voice barely above a whisper. Nobody in the tiers
+is moving. The only exit is the iron door north.
+~
+25 dg 0
+D0
+~
+door sturdy iron~
+1 -1 2555
+S
+#2558
+The Hall Of Lectures~
+   The hall runs east and west. The walls here are scorched in streaks, and
+a small door to the south has been reinforced with iron bands. Beside it a
+rack holds wet cloths for burns.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2560
+D2
+~
+door small~
+1 -1 2561
+D3
+~
+~
+0 -1 2556
+E
+rack cloths~
+Wet cloths, and a jar of grease. The duellists come out of the south door
+and reach for them without looking.
+~
+S
+#2559
+The Blade Yard~
+   A long hall of packed sand set out with battle-scarred dummies. A war-
+magus who runs out of spells on the march has only his knife, and here the
+young mages learn to use it. The battle mistress walks among them,
+correcting grips. The only exit is the door north.
+~
+25 dg 0
+D0
+~
+door~
+1 -1 2556
+E
+dummies dummy~
+Straw dummies dressed in rags of grey, each with a crude face painted on.
+The faces have no eyes.
+~
+S
+#2560
+A Turn In The Hall Of Lectures~
+   The hall turns from west to north. The noise of the drill rooms fades
+behind, and the floor is carpeted from here on, a sign of the masters'
+quarters. A row of hooks holds wet cloaks.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2562
+D3
+~
+~
+0 -1 2558
+S
+#2561
+The Duelling Room~
+   A bare room for duels of spell against spell. The walls, floor and
+ceiling are scarred black by fire and crazed by frost, but they were built
+to hold and they hold. A war-magus learns here what it is to be struck by a
+spell, so that it will not surprise him in the west. The only exit is the
+small door north.
+~
+25 dg 0
+D0
+~
+door small~
+1 -1 2558
+S
+#2562
+The Masters' Corridor~
+   A carpeted corridor where the teaching masters live. It is quieter here,
+and warmer. A door to the east leads to the masters' lounge, and the
+corridor runs north and south.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2563
+D1
+~
+door~
+1 -1 2564
+D2
+~
+~
+0 -1 2560
+S
+#2563
+The Masters' Corridor~
+   Portraits of former masters line the corridor, each with a small brass
+plate giving the years of teaching and, for most of them, the place on the
+march where they fell. A wooden door leads east, and the corridor runs north
+and south.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2566
+D1
+~
+door wooden~
+1 -1 2565
+D2
+~
+~
+0 -1 2562
+E
+portraits portrait plates plate~
+Stern faces in oils. "Master Iselde, the Fens." "Master Orrin, the Barrow
+Hills." "Master Hal, Ashford." The newest frame is empty.
+~
+S
+#2564
+The Masters' Lounge~
+   A large comfortable lounge of deep chairs and low tables, where teachers
+rest between drills. A great copper urn of bitter black tea simmers against
+the far wall, and the masters drink it to stay awake through the night
+watches. The only exit is the wooden door west.
+~
+25 dg 0
+D3
+~
+door wooden~
+1 -1 2562
+E
+urn copper tea~
+A copper urn of black tea, kept hot by a small rune on its base. It tastes
+of tar.
+~
+S
+#2565
+The Senior Master's Bedchamber~
+   A large, plush bedroom belonging to a master of standing. An ice mirror
+hangs on one wall, and a scrying globe sits on a stand, clouded grey. The
+bed floats a yard above the floor, because the master no longer trusts what
+might be under it. The only exit is the wooden door west.
+~
+25 dg 0
+D3
+~
+door wooden~
+1 -1 2563
+E
+mirror ice~
+A mirror of ice that never melts. It shows the room, but not the bed.
+~
+E
+globe scrying~
+The globe is clouded grey, and the cloud moves as if something on the other
+side were pressed up against it.
+~
+S
+#2566
+The Masters' Corridor~
+   The corridor runs north and south. A glass door to the east shows a
+lamplit study beyond. A small shrine in the wall here holds a cold candle
+for each master posted west this year.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2568
+D1
+~
+door glass~
+1 -1 2567
+D2
+~
+~
+0 -1 2563
+E
+shrine candle candles~
+Seven candles, cold. The masters light one only when its owner comes home.
+~
+S
+#2567
+The Map Study~
+   A small study lined with old books. A great table fills the middle of the
+room, spread with maps of the march weighted down with stones, and pins mark
+where the war-magi are posted. The only light is a plain oil lamp; the
+masters say spell-light draws the eye of the west. The only exit is the
+glass door west.
+~
+25 dg 0
+D3
+~
+door glass~
+1 -1 2566
+E
+maps map pins table~
+Maps of the fifteen bands west of Midgaard, drawn and redrawn. Black pins
+mark posts that have gone silent. There are a great many black pins.
+~
+S
+#2568
+Below The Upper Stair~
+   The corridor ends at the foot of a narrow stair climbing to the upper
+floors, where only masters and their chosen go. A pair of disembodied hands
+keeps silent watch on it, and a wooden golem stands beside the first step.
+The corridor runs back south.
+~
+25 dg 0
+D2
+~
+~
+0 -1 2566
+D4
+~
+~
+0 -1 2569
+S
+#2569
+The Head Of The Upper Stair~
+   The stair comes up into the floor of making, where the college's scrolls,
+blades, potions and bindings are made for the wall. The halls here are
+little used and smell of hot metal, ink and sulphur. The walls give off a
+faint blue light. A corridor leads west, and the stair goes back down.
+~
+25 dg 0
+D3
+~
+~
+0 -1 2570
+D5
+~
+~
+0 -1 2568
+S
+#2570
+The Scriptorium Corridor~
+   A long corridor running east and west, its floor spotted with old ink. A
+thick wooden door to the north is marked with a quill. The faint scratch of
+many pens comes from behind it, steady as rain.
+~
+25 dg 0
+D0
+~
+door wooden~
+1 -1 2571
+D1
+~
+~
+0 -1 2569
+D3
+~
+~
+0 -1 2572
+S
+#2571
+The Scriptorium~
+   A calligrapher's office crowded with desks, quills, inkpots and drying
+parchment. Scribes copy out ward-scrolls by the hundred for the wall, and
+translate the few written things brought back from the west, which they do
+slowly and with their eyes half shut. A curtain to the west glows with
+candlelight; the wooden door is south.
+~
+25 dg 0
+D2
+~
+door wooden~
+1 -1 2570
+D3
+~
+curtain~
+1 -1 2573
+E
+parchment parchments~
+Ward-scrolls, all the same. One sheet on the end desk is not a ward: it is a
+copy of grey writing that crawls when you look away.
+~
+S
+#2572
+The Scriptorium Corridor~
+   The corridor runs east and west. Racks along the walls hold rolled
+scrolls waiting to be sent down to the quartermaster, each one tagged with
+the name of a regiment.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2570
+D3
+~
+~
+0 -1 2574
+E
+racks scrolls tags~
+Tags for the Second of the Wall, the Riversmeet Foot, the Fenwatch. Some
+tags have been crossed out and the scrolls left to gather dust.
+~
+S
+#2573
+The Master Scribe's Workshop~
+   The master scribe's workshop, where the greatest scrolls are written.
+Half-finished sheets cover a writing table, held down by lumps of lead. A
+giant candle burns with a soft blue flame that gives light but no heat, so
+that nothing here can catch. The only way out is back through the curtain
+east.
+~
+25 dg 0
+D1
+~
+curtain~
+1 -1 2571
+E
+candle blue~
+A candle as thick as a man's waist, its blue flame perfectly still.
+~
+S
+#2574
+The Corridor Of Stores~
+   A long corridor running east and west. A half-closed wooden door to the
+north leads into darkness, and the air coming through it is cold and stale.
+Something heavy has been dragged along the floor here, leaving two long
+grooves.
+~
+25 dg 0
+D0
+A dark room shows through the half-open door.
+~
+door wooden~
+1 -1 2575
+D1
+~
+~
+0 -1 2572
+D3
+~
+~
+0 -1 2576
+S
+#2575
+A Dark Store Room~
+   A small, cold store room with shelves of common stock: candles, chalk,
+twine, sealing wax. None of it looks worth the pair of disembodied eyes that
+hangs in the dark, watching the door. Perhaps the eyes are not here for the
+shelves. The only exit is the door south.
+~
+25 adg 0
+D2
+~
+door wooden~
+1 -1 2574
+S
+#2576
+A Turn In The Corridor Of Stores~
+   The corridor bends from east to south. The ring of hammers comes faintly
+from further south, and the stone underfoot is warm. Someone has painted an
+arrow on the wall and the word FORGE.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2574
+D2
+~
+~
+0 -1 2577
+S
+#2577
+Outside The Metal Store~
+   The corridor runs north and south. An iron-bound door to the west is
+locked and warded, and a brass plate on it reads METALS: BY ORDER OF THE
+ENCHANTER. The heat is stronger here.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2576
+D2
+~
+~
+0 -1 2578
+D3
+~
+door iron~
+2 2515 2579
+E
+plate brass~
+METALS. BY ORDER OF THE ENCHANTER. A smaller line beneath: "Silver is
+counted."
+~
+S
+#2578
+Outside The Forge~
+   The corridor runs north and south. Behind an iron door to the west comes
+the sharp ring of metal on metal, and a red light flickers under the door.
+The stone of the wall is hot to the touch.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2577
+D2
+~
+~
+0 -1 2580
+D3
+~
+door iron~
+1 -1 2581
+S
+#2579
+The Metal Store~
+   A large store room of bins full of ores, salt and rare earths, beside
+neat stacks of ingots. A heavy cabinet carved with warding sigils is bolted
+to one wall. The college needs silver above all things, for blades that bite
+the dead. The iron door is east; the ring of the forge comes through another
+door to the south.
+~
+25 dg 0
+D1
+~
+door iron~
+2 2515 2577
+D2
+~
+door~
+2 2515 2581
+E
+bins ores~
+Ores from the Ironworks and the dwarven halls, each bin chalked with its
+weight and the day it came.
+~
+S
+#2580
+The Corridor Of Stores~
+   The corridor runs north and south. Soot streaks the ceiling here, and a
+long crack runs along the floor, as if the forge's heat had once split the
+stone.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2578
+D2
+~
+~
+0 -1 2583
+S
+#2581
+The Enchanter's Forge~
+   A furnace-hot room. A great forge burns against one wall with a blue
+flame, and its smoke pours up into a vent in the ceiling. A mithril anvil
+encrusted with runes stands in the middle, worn bright with use. Tools hang
+from a rack that floats ten feet up. Doors lead north to the metal store,
+east to the corridor, and south.
+~
+25 dg 0
+D0
+~
+door~
+2 2515 2579
+D1
+~
+door iron~
+1 -1 2578
+D2
+~
+door~
+1 -1 2582
+D4
+~
+vent~
+1 -1 2612
+E
+anvil mithril runes~
+A mithril anvil, its runes worn by a hundred years of hammering silver into
+blades for the wall.
+~
+E
+vent ceiling~
+A grated vent above the forge. The grate can be swung open.
+~
+S
+#2582
+The Master Enchanter's Chamber~
+   The walls of the Enchanter's chamber are hung with racks of fine blades,
+each one with a ward-word etched near the hilt. A huge chest with a glowing
+lock stands to one side, and unfinished swords lie on a small work table.
+Not all of them are lying quite still. The only exit is the door north.
+~
+25 dg 0
+D0
+~
+door~
+1 -1 2581
+S
+#2583
+A Turn In The Corridor Of Stores~
+   The corridor bends from north to east. A heap of cracked crucibles has
+been swept into the corner, and the smell changes here from hot iron to
+something sweet and rotten.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2580
+D1
+~
+~
+0 -1 2584
+S
+#2584
+The Alchemists' Corridor~
+   A corridor running east and west, stained yellow and green by years of
+spills. A steel door to the south has been dented outward from within. A
+sign beside it reads LABORATORY: KNOCK AND WAIT.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2585
+D2
+~
+door steel~
+1 -1 2586
+D3
+~
+~
+0 -1 2583
+E
+sign~
+LABORATORY: KNOCK AND WAIT. Underneath, in another hand: "Do not wait long."
+~
+E
+dent dents~
+The door is dented outward, as if something on the other side had struck it
+very hard.
+~
+S
+#2585
+The Alchemists' Corridor~
+   The corridor runs east and west. The air is thick and sweet and makes the
+head swim. Small glass shards crunch underfoot, and someone has drawn a
+chalk line across the floor and written STAY EAST OF THIS on one side and
+nothing on the other.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2587
+D3
+~
+~
+0 -1 2584
+S
+#2586
+The Laboratory~
+   A small laboratory with a workbench buried under instruments, vials and
+scrawled notes. It looks abandoned, or kept by a madman: half the notes are
+formulae for draughts to be issued to the wall, and half are the same
+sentence written over and over. A steel door leads north, and an opening
+leads east.
+~
+25 dg 0
+D0
+~
+door steel~
+1 -1 2584
+D1
+~
+~
+0 -1 2588
+E
+notes~
+Recipes for healing draughts, carefully set out. And then, in a crabbed
+hand, hundreds of times: "it tastes grey it tastes grey it tastes grey".
+~
+S
+#2587
+The Alchemists' Corridor~
+   The corridor runs east and west. A steel door to the south is painted
+with a five-pointed star and the words SUMMONING IN PROGRESS. The air hums
+and the hair on the arms stands up.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2589
+D2
+~
+door steel~
+1 -1 2590
+D3
+~
+~
+0 -1 2585
+S
+#2588
+The Mad Alchemist's Workroom~
+   Bubbling braziers, coils of glass and scores of odd vials crowd every
+surface. Broken glass carpets the floor. The alchemist who works here once
+made the best healing draughts in the east; then he began to test potions
+brewed from things taken from the west, and he tested them on himself. The
+only way out is back west.
+~
+25 dg 0
+D3
+~
+~
+0 -1 2586
+S
+#2589
+A Turn In The Alchemists' Corridor~
+   The corridor turns from west to north. The humming from the summoning
+room fades, and a smell of straw and animals comes from further north.
+Someone has scratched a tally of days into the wall at knee height.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2591
+D3
+~
+~
+0 -1 2587
+S
+#2590
+The Pentagram Chamber~
+   A five-pointed star is cut into the floor and filled with silver. The
+Summoner stands within it, holding a gate open so the college can study what
+comes through, and kill it. To the south a crackling field of energy fills
+the far end of the room. The steel door is north.
+~
+25 dg 0
+D0
+~
+door steel~
+1 -1 2587
+D2
+The energy field crackles and glows. Nothing can be seen beyond it.
+~
+~
+0 -1 2592
+E
+star pentagram floor silver~
+A star of inlaid silver, its points scorched. The silver is worn thin where
+something has scraped at it from inside.
+~
+S
+#2591
+The Corridor Of Pens~
+   The corridor runs north and south. A bronze door to the east stands in a
+wall freshly painted white, and the smell of animals is stronger here.
+Feathers and tufts of fur drift along the floor.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2593
+D1
+~
+door bronze~
+1 -1 2594
+D2
+~
+~
+0 -1 2589
+S
+#2592
+Inside The Energy Field~
+   The world turns over and the stomach with it. There is no floor, no wall,
+no door, only a crackling light that holds you like a fly in amber. The
+Summoner made this to keep what he calls up; it does not care what it keeps.
+There is no way out but magic.
+~
+25 cdefgj 0
+S
+#2593
+The Corridor Of Pens~
+   The corridor runs north and south. A bronze door to the east has a grille
+in it at head height, and through the grille comes a soft, coaxing voice
+speaking to something that growls back.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2596
+D1
+~
+door bronze~
+1 -1 2595
+D2
+~
+~
+0 -1 2591
+S
+#2594
+The Quiet Room~
+   A small empty room, warm and still, with a woven mat on the floor. The
+masters of the floor of making set it aside so that anyone who has seen too
+much in the workrooms may sit here until their hands stop shaking. The only
+exit is the bronze door west.
+~
+25 cdg 0
+D3
+~
+door bronze~
+1 -1 2591
+E
+mat~
+A plain woven mat, worn through in the middle by many knees.
+~
+S
+#2595
+The Charm Master's Chamber~
+   Straw and dirt litter the floor of the chamber of the Master of Charm,
+who bends the wills of beasts and men to the college's use. Leashes and
+collars hang from pegs. Through a cage of bars to the north come growls and
+scratching; the bronze door is west.
+~
+25 dg 0
+D0
+~
+cage bars~
+1 -1 2597
+D3
+~
+door bronze~
+1 -1 2593
+E
+leashes collars pegs~
+Leashes and collars of many sizes. One is sized for a man.
+~
+S
+#2596
+The Corridor Of Pens~
+   The corridor runs north and south. Claw marks score the stone along one
+wall, as though something was dragged this way and did not want to go.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2598
+D2
+~
+~
+0 -1 2593
+S
+#2597
+The Animal Pens~
+   A row of stinking cages along both walls. Wolves, birds, a bear and other
+beasts are kept here, some caught on the march with something grey behind
+their eyes, to be charmed, studied or cut up. They watch you go by. The only
+way out is the cage of bars to the south.
+~
+25 dg 0
+D2
+~
+cage bars~
+1 -1 2595
+S
+#2598
+The Foot Of The Binding Stair~
+   The corridor ends at a stair climbing to the binding floor above. Two
+wooden golems stand guard at the foot of it. Someone has nailed a board to
+the bottom step: MASTERS ONLY. The corridor runs back south.
+~
+25 dg 0
+D2
+~
+~
+0 -1 2596
+D4
+~
+~
+0 -1 2599
+E
+board~
+MASTERS ONLY. Below it, freshly painted: THE BLACK DOOR IS SEALED.
+~
+S
+#2599
+The Head Of The Binding Stair~
+   The stair comes up onto the binding floor, where the masters bind power
+into staves and wands, and clay and stone into servants. It is very quiet. A
+corridor leads west, and the stair goes back down. Fresh chalk wards have
+been drawn across the top step, and stepping over them makes the teeth ache.
+~
+25 dg 0
+D3
+~
+~
+0 -1 2600
+D5
+~
+~
+0 -1 2598
+E
+wards chalk step~
+A line of chalk wards, redrawn often. They are there to keep something on
+this floor from going down.
+~
+S
+#2600
+The Silver Corridor~
+   A corridor running east and west, its walls inlaid with thin lines of
+silver that catch the light. A silver door to the north leads to a store
+room. A pair of disembodied eyes drifts slowly up and down the length of the
+corridor.
+~
+25 dg 0
+D0
+~
+door silver~
+1 -1 2601
+D1
+~
+~
+0 -1 2599
+D3
+~
+~
+0 -1 2604
+S
+#2601
+The Stave Store~
+   A large store room where raw materials are bundled and stacked: freshly
+cut staves of ash and yew, rods of iron and copper, wands not yet bound.
+Each bundle is tagged with the master it was cut for. A silver door leads
+west, and another south.
+~
+25 dg 0
+D2
+~
+door silver~
+1 -1 2600
+D3
+~
+door silver~
+1 -1 2602
+E
+staves bundles tags~
+Staves cut from trees in the Mistwood. The tags give names, and some of the
+names are struck through.
+~
+S
+#2602
+The Master Spellbinder's Chamber~
+   The chamber of the Master Spellbinder, who binds spells into wood and
+metal for the war-magi to carry west. Unlike the workshops below, it holds
+no tools at all; he needs only his hands and his will. A black scorch on the
+floor marks where a wand once broke. Silver doors lead east and west.
+~
+25 dg 0
+D1
+~
+door silver~
+1 -1 2601
+D3
+~
+door silver~
+2 2524 2603
+E
+scorch floor~
+A starburst of black on the floor. The stone inside it has gone soft, like
+old cheese.
+~
+S
+#2603
+The Spellbinder's Cache~
+   The Spellbinder's cache, where finished work waits to be issued. Three
+tall cabinets chased with silver stand against the walls; otherwise the room
+is bare, and very cold. Silver doors lead east and south.
+~
+25 dg 0
+D1
+~
+door silver~
+2 2524 2602
+D2
+~
+door silver~
+2 2524 2605
+S
+#2604
+The Silver Corridor~
+   The corridor runs east and west. The silver lines in the walls are
+tarnished black here, as though something had passed close to them and
+soured them. A master has scrawled DO NOT POLISH beside the worst of it.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2600
+D3
+~
+~
+0 -1 2605
+S
+#2605
+The Silver Corridor~
+   The corridor runs east and west. A silver door to the north is locked and
+sealed with wax stamped with the Spellbinder's mark. The floor in front of
+it is worn smooth by people who stood here waiting to be let in.
+~
+25 dg 0
+D0
+~
+door silver~
+2 2524 2603
+D1
+~
+~
+0 -1 2604
+D3
+~
+~
+0 -1 2606
+E
+wax seal mark~
+A seal of black wax stamped with a wand crossed by a key.
+~
+S
+#2606
+A Turn In The Silver Corridor~
+   The corridor bends from east to south. A small window of thick glass is
+set in the outer wall, too high to see out of, and grey light comes through
+it.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2605
+D2
+~
+~
+0 -1 2607
+S
+#2607
+The Clay Corridor~
+   The corridor runs north and south. The floor here is gritty with dried
+clay, and big footprints, far too big for any man, are pressed into it going
+both ways.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2606
+D2
+~
+~
+0 -1 2608
+S
+#2608
+The Clay Corridor~
+   The corridor runs north and south. A rusty old door to the west hangs a
+little crooked on its hinges, and a thud of heavy movement comes from behind
+it. Clay dust lies thick round the threshold.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2607
+D2
+~
+~
+0 -1 2613
+D3
+~
+door rusty~
+1 -1 2609
+S
+#2609
+The Golem Maker's Workshop~
+   A workshop of half-finished forms: torsos of clay, limbs of stone, a head
+of bronze with no face yet. Some of them move and some do not. The golems
+made here stand on the wall where there are not enough men. A store room
+lies north and the golem chamber south; a rusty door leads east, and a
+trapdoor is set in the floor.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2610
+D1
+~
+door rusty~
+1 -1 2608
+D2
+~
+~
+0 -1 2611
+D5
+~
+trapdoor~
+1 -1 2612
+E
+trapdoor~
+A wooden trapdoor in the floor, warm to the touch. Heat rises through its
+cracks.
+~
+S
+#2610
+The Clay Store~
+   A small store room heaped with clay, stone, timber and less pleasant
+materials in sealed barrels. Everything is grey with dust. The only way out
+is south.
+~
+25 dg 0
+D2
+~
+~
+0 -1 2609
+E
+barrels barrel~
+The barrels are sealed with pitch and marked FLESH. The college does not ask
+where the Golem Maker gets it.
+~
+S
+#2611
+The Golem Chamber~
+   A long chamber where finished golems stand in rows, from some no taller
+than a hand to some that stoop under the ceiling. They seem to sleep. A few
+have a name chalked on the chest, the regiment they are meant for. The only
+way out is north.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2609
+S
+#2612
+In The Flue~
+   It is very dark here, and hot. This is a crawlspace between floors where
+the forge's smoke is drawn up before it is led away. Soot covers everything.
+A trapdoor is set in the roof above, and a vent opens in the floor below,
+glowing faintly red.
+~
+25 adg 0
+D4
+~
+trapdoor~
+1 -1 2609
+D5
+~
+vent~
+1 -1 2581
+S
+#2613
+The Clay Corridor~
+   The corridor runs north and south. A golem's hand lies on the floor here,
+broken off at the wrist, and its fingers are still slowly opening and
+closing.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2608
+D2
+~
+~
+0 -1 2614
+S
+#2614
+A Turn In The Clay Corridor~
+   The corridor turns from north to east. The walls change from plain stone
+to stone painted with shifting colours that will not stay still when you
+look at them directly.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2613
+D1
+~
+~
+0 -1 2615
+S
+#2615
+The Corridor Of Veils~
+   The corridor runs east and west. The colours on the walls shift and run
+like oil on water, and now and then a doorway appears in them that is not
+really there.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2616
+D3
+~
+~
+0 -1 2614
+S
+#2616
+The Corridor Of Veils~
+   The corridor runs east and west. An emerald door to the south glitters so
+brightly it is hard to look at, and it may be the only real thing in the
+wall. The floor seems to tilt, though a dropped coin would not roll.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2619
+D2
+~
+door emerald~
+1 -1 2617
+D3
+~
+~
+0 -1 2615
+S
+#2617
+The Illusion Master's Chamber~
+   The walls of the Master of Illusions' chamber change colour and texture
+as you watch, reforming from moment to moment. Heaps of treasure glitter on
+every side, or seem to. The master teaches war-magi to hide a company in a
+fold of hillside, and to make the dead see the living where there are none.
+An emerald door leads north and an opening west.
+~
+25 dg 0
+D0
+~
+door emerald~
+1 -1 2616
+D3
+~
+~
+0 -1 2618
+S
+#2618
+The Endless Bedchamber~
+   The bedroom of the Master of Illusions. Strange things float in the air,
+and the walls never quite stay where they were. The room seems far larger
+than it can be, stretching off to the north, south and west, and every way
+leads back to the same bed. The chamber lies east.
+~
+25 dg 0
+D0
+The room stretches off to the north.
+~
+~
+0 -1 2618
+D1
+~
+~
+0 -1 2617
+D2
+The room stretches off to the south.
+~
+~
+0 -1 2618
+D3
+The room stretches off to the west.
+~
+~
+0 -1 2618
+S
+#2619
+The Corridor Of Veils~
+   The corridor runs east and west. The colours on the walls are gentler
+here, and a glass door to the south shows a still, dim room beyond. A small
+sign beside it asks for silence.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2621
+D2
+~
+door glass~
+1 -1 2620
+D3
+~
+~
+0 -1 2616
+E
+sign~
+SILENCE. In smaller letters: "Here you may rest from what you have seen."
+~
+S
+#2620
+The Meditation Chamber~
+   A meditation chamber so quiet that not even footsteps make a sound. The
+masters come here to clear their minds before a binding, and war-magi come
+to forget. It is very peaceful, and very empty. The only exit is the glass
+door north.
+~
+25 cdeg 0
+D0
+~
+door glass~
+1 -1 2619
+S
+#2621
+A Turn In The Corridor Of Veils~
+   The corridor turns from west to north. The colours drain out of the walls
+here and leave them grey, and a cold draught comes from the north, smelling
+faintly of rot.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2622
+D3
+~
+~
+0 -1 2619
+S
+#2622
+Before The Sealed Wing~
+   The corridor runs north and south past a blackened door to the east. The
+door is chained, and the chains have been broken from the inside. Across it
+is painted in red: SEALED BY ORDER OF THE ARCHMAGUS. A smell of rot seeps
+from under it.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2626
+D1
+~
+door black~
+1 -1 2623
+D2
+~
+~
+0 -1 2621
+E
+chains chain~
+Heavy chains, snapped. The broken links are bent outward.
+~
+E
+door sealed paint~
+SEALED BY ORDER OF THE ARCHMAGUS. Below it, in a different hand: "He went
+too far in to come back."
+~
+S
+#2623
+The Sealed Wing~
+   A large dark room behind the sealed door. The air is stale and cold, and
+a dread settles on the chest that has no cause anyone could name. The master
+of this wing studied the dead of the west to learn how to unmake them, and
+the college sealed it when he began to make them instead. The stench of rot
+comes from the north; the black door is west.
+~
+25 adg 0
+D0
+~
+~
+0 -1 2624
+D3
+~
+door black~
+1 -1 2622
+S
+#2624
+The Cutting Room~
+   The stench makes the stomach heave. Body parts and half-rotted corpses
+lie everywhere, and on the operating tables are still forms that resemble
+nothing that ever lived. Some of them wear the grey of the college. Screams
+come from the north. The way back is south.
+~
+25 adg 0
+D0
+Looking north fills you with a deep dread.
+~
+~
+0 -1 2625
+D2
+~
+~
+0 -1 2623
+S
+#2625
+The Necromancer's Lair~
+   The lair of the Necromancer, once a master of the war-college. Undead of
+every kind stand in rows awaiting his word, among them the bodies of
+students who came looking for him. Glowing sigils are cut into the walls and
+floor to keep his own creations off him. The only way out is south.
+~
+25 adg 0
+D2
+~
+~
+0 -1 2624
+E
+sigils~
+Wards of the college, but redrawn with a grey hand. They no longer keep the
+dead out; they keep them in line.
+~
+S
+#2626
+The Grey Corridor~
+   The corridor runs north and south. The ward-light in the walls is weak
+and flickering here, and the stones are cold. Students hurry through this
+stretch without looking at the black door behind them.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2627
+D2
+~
+~
+0 -1 2622
+S
+#2627
+The Grey Corridor~
+   The corridor runs north and south. A row of fresh ward-signs has been
+painted across the floor, the paint still tacky, and the light grows
+steadier beyond them.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2628
+D2
+~
+~
+0 -1 2626
+S
+#2628
+The Foot Of The Gallery Stair~
+   The corridor ends at the foot of a stair of black stone climbing to the
+warding galleries. Two wooden golems guard it, and the walls glow brightly
+here, as if to make up for the dark behind. The corridor runs back south.
+~
+25 dg 0
+D2
+~
+~
+0 -1 2627
+D4
+~
+~
+0 -1 2629
+S
+#2629
+The Warding Galleries~
+   The stair comes up at the east end of a long gallery of black obsidian,
+cut with runes of warding that whisper faintly in no tongue anyone living
+speaks. Here the college keeps what it has taken from the west, each thing
+sealed in its own niche. The first niche holds a grey banner. The gallery
+runs west, and the stair goes back down.
+~
+25 dg 0
+D3
+~
+~
+0 -1 2630
+D5
+~
+~
+0 -1 2628
+E
+banner niche grey~
+A banner of grey cloth taken from the Field of Broken Banners. It bears no
+sign at all, and yet it is hard to stop looking at it.
+~
+E
+runes walls~
+Ward-runes cut deep into the obsidian and filled with silver. They whisper
+all the time; the masters say that is how you know they are working.
+~
+S
+#2630
+The Warding Galleries~
+   The gallery runs east and west. A niche in the obsidian holds a sealed
+jar of grey ash, and the glass is warm though nothing near it is. The runes
+around this niche have been recut three times.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2629
+D3
+~
+~
+0 -1 2631
+E
+jar ash niche~
+A jar of ash from the Ashen Waste, labelled in a neat hand: "Do not open. Do
+not let it be opened. It remembers being alive."
+~
+S
+#2631
+A Turn In The Warding Galleries~
+   The gallery turns from east to south. In the niche at the corner rests a
+crown of black iron, still wet, though it was brought up out of the Drowned
+Kingdom many years ago and has never been near water since.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2630
+D2
+~
+~
+0 -1 2632
+E
+crown niche iron~
+A crown of black iron, dripping slowly. The drops vanish before they reach
+the floor of the niche.
+~
+S
+#2632
+The Warding Galleries~
+   The gallery runs north and south. A niche here holds a single small shoe,
+a child's, laced with grey thread. It was found walking on its own on the
+road from Vel'Morrow. It does not walk now. The masters check every morning.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2631
+D2
+~
+~
+0 -1 2633
+E
+shoe niche~
+A child's leather shoe, laced with grey thread. Its toe points a little
+toward the west, whichever way it is set down.
+~
+S
+#2633
+The Crossing Of The Galleries~
+   Four obsidian galleries meet here around a pillar of white stone, the
+ward that holds all the others. The runes on every wall pulse in time with
+it, slowly, like a heartbeat. Galleries lead north, east, south and west.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2632
+D1
+~
+~
+0 -1 2634
+D2
+~
+~
+0 -1 2646
+D3
+~
+~
+0 -1 2636
+E
+pillar stone ward~
+A pillar of white stone carved all over with the college's strongest wards.
+A hairline crack runs up one side, and someone has filled it with silver.
+~
+S
+#2634
+The End Of The East Gallery~
+   The gallery ends at a dark door to the east. Tendrils of mist cling to
+the floor here, seeping from under the door, and they are cold enough to
+numb the ankles. The gallery runs back west.
+~
+25 dg 0
+D1
+~
+door black~
+1 -1 2635
+D3
+~
+~
+0 -1 2633
+S
+#2635
+The Scrying Chamber~
+   The scrying chamber of the college, where the faceless seers look out
+over the march and tell the wall what is coming. A huge black cauldron
+bubbles in the centre, pouring smoky fog into the air, and in the fog move
+pictures of grey country and grey things walking. The only exit is the black
+door west.
+~
+25 adg 0
+D3
+~
+door black~
+1 -1 2634
+E
+fog pictures smoke~
+Grey country, burnt fields, a line of figures walking east without hurrying.
+One of them stops and turns its head, and the fog clouds over.
+~
+S
+#2636
+The End Of The West Gallery~
+   The gallery ends at a wooden door to the west, oddly homely between the
+obsidian walls. Soft snoring comes through it. The niche beside the door is
+empty, its runes cut away, and a note says ON LOAN TO THE LIBRARY. The
+gallery runs back east.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2633
+D3
+~
+door wooden~
+1 -1 2637
+E
+note niche~
+ON LOAN TO THE LIBRARY. The date on the note is forty years old.
+~
+S
+#2637
+The Library Of The War-College~
+   The entrance to the great library. A giant desk stands here under a
+landslide of books, parchments and scrolls. Shelves loaded with books run
+away north, south and west as far as the eye can see; the books of the west
+are somewhere in there, chained. The door back to the gallery is east.
+~
+25 dg 0
+D0
+All you can see are books.
+~
+~
+0 -1 2639
+D1
+~
+door wooden~
+1 -1 2636
+D2
+All you can see are books.
+~
+~
+0 -1 2640
+D3
+All you can see are books.
+~
+~
+0 -1 2638
+E
+desk books~
+Books on wards, on fire, on the anatomy of the dead. A ledger of loans lies
+open; most are years overdue, and against many the librarian has written
+"fell".
+~
+S
+#2638
+Among The Shelves Of Wards~
+   Shelves of books on warding rise out of reach, floating a little off the
+floor. The books seem to wink in and out of sight when not looked at
+straight. A strong musty smell hangs over everything. Aisles lead north,
+east, south and west.
+~
+25 dg 0
+D0
+All you can see are books.
+~
+~
+0 -1 2641
+D1
+All you can see are books.
+~
+~
+0 -1 2637
+D2
+All you can see are books.
+~
+~
+0 -1 2642
+D3
+All you can see are books.
+~
+~
+0 -1 2643
+S
+#2639
+Among The Shelves Of Fire~
+   Here the shelves hold the books of fire, bound in iron so that they
+cannot burn. The air is warm and dry and smells of hot metal. Aisles lead
+off north, east, south and west between the stacks, and they all look much
+the same.
+~
+25 dg 0
+D0
+All you can see are books.
+~
+~
+0 -1 2640
+D1
+All you can see are books.
+~
+~
+0 -1 2642
+D2
+All you can see are books.
+~
+~
+0 -1 2637
+D3
+All you can see are books.
+~
+~
+0 -1 2641
+S
+#2640
+Among The Shelves Of The Dead~
+   These shelves hold the college's studies of the dead: their anatomy,
+their habits, how they are put down and how they get up again. Several books
+are bound in a pale leather that nobody asks about. Aisles lead north, east,
+south and west.
+~
+25 dg 0
+D0
+All you can see are books.
+~
+~
+0 -1 2637
+D1
+All you can see are books.
+~
+~
+0 -1 2641
+D2
+All you can see are books.
+~
+~
+0 -1 2639
+D3
+All you can see are books.
+~
+~
+0 -1 2642
+S
+#2641
+Among The Shelves Of Histories~
+   Histories fill these shelves: of the wall, of Old Thalos and its fall, of
+the first darkness and the second. Many of the newest volumes are only a few
+pages long, and end mid-sentence. Aisles lead north, east, south and west.
+~
+25 dg 0
+D0
+All you can see are books.
+~
+~
+0 -1 2642
+D1
+All you can see are books.
+~
+~
+0 -1 2639
+D2
+All you can see are books.
+~
+~
+0 -1 2638
+D3
+All you can see are books.
+~
+~
+0 -1 2640
+S
+#2642
+Among The Chained Shelves~
+   The books on these shelves are chained, and the chains are warded. They
+were taken from the west, and some of them move against their chains when no
+one is near. A faint whispering rises from the stacks. Aisles lead north,
+east, south and west.
+~
+25 dg 0
+D0
+All you can see are books.
+~
+~
+0 -1 2638
+D1
+All you can see are books.
+~
+~
+0 -1 2640
+D2
+All you can see are books.
+~
+~
+0 -1 2641
+D3
+All you can see are books.
+~
+~
+0 -1 2639
+E
+chains books chained~
+Black books on silver chains. The nearest has no title, only a grey
+thumbprint pressed into the cover.
+~
+S
+#2643
+Among The Forgotten Shelves~
+   A corner of the library that the librarian seldom reaches. Dust lies
+thick, and the books here have been shelved in no order at all. To the west
+there is a small gap between two shelves; the aisle runs back east.
+~
+25 dg 0
+D1
+All you can see are books.
+~
+~
+0 -1 2638
+D3
+There is a small gap between the shelves, just wide enough to squeeze
+through.
+~
+~
+0 -1 2644
+S
+#2644
+Between The Shelves~
+   The shelves press so close here that it is hard to turn round. Books
+hover just out of reach, and the musty smell is strong. A faint flicker of
+light shows to the north; the way back is east.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2645
+D1
+~
+~
+0 -1 2643
+S
+#2645
+The Hidden Reading Room~
+   A small bare room with nothing in it but an enormous tome lying open on
+the floor. Its jewelled bindings are worn like old bark, and spidery writing
+crawls across its pages too fast to follow. Something has been wedged
+between the pages. The only way out is south, between the shelves.
+~
+25 dg 0
+D2
+~
+~
+0 -1 2644
+E
+tome book writing pages~
+The writing moves. Now and then a word holds still long enough to be read:
+wall, ward, west, wake.
+~
+S
+#2646
+The South Gallery~
+   The gallery runs north and south. A tall shape in a niche is covered with
+a black cloth, and a small sign reads DO NOT UNCOVER. The runes around it
+are thicker than anywhere else in the galleries.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2633
+D2
+~
+~
+0 -1 2647
+E
+cloth shape niche sign~
+A mirror, by its shape, under a black cloth. DO NOT UNCOVER. The cloth stirs
+a little, as though something behind it were breathing.
+~
+S
+#2647
+The End Of The South Gallery~
+   The obsidian ends at a golden archway to the south that hums with power
+strong enough to numb the skin. This is the last ward before the crown of
+the tower. The gallery runs back north.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2646
+D2
+~
+~
+0 -1 2648
+E
+archway arch~
+A golden arch carved with the hand and flame of the college. The gold is
+warm, and the hum comes up through the soles of the feet.
+~
+S
+#2648
+Beneath The Golden Arch~
+   Passing through the arch brings a tingle, as if the living ward had
+looked into you, found you wanting and let you by anyway. The light from the
+arch is almost blinding. Through the glare a stairway can be made out
+climbing up. The gallery lies back north.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2647
+D4
+~
+~
+0 -1 2649
+S
+#2649
+The Silent Landing~
+   A landing halfway up a long stair. No sound or smell reaches here at all,
+and there is nothing to see in any direction but stair. It is meant to empty
+the mind before the crown. The stair goes on up, and back down.
+~
+25 dg 0
+D4
+~
+~
+0 -1 2650
+D5
+~
+~
+0 -1 2648
+S
+#2650
+The Crossing Of The Orders~
+   The stair ends in a crossing where the halls of the three orders of the
+college meet, and their powers push and pull against one another in the air.
+A grey-tiled hall leads south to the Grey Order, a black-tiled hall east to
+the Black, and a white-tiled hall west to the White. To the north a wide
+hall swirls with colours, the way to the Archmagus. The stair leads back
+down.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2673
+D1
+~
+~
+0 -1 2658
+D2
+~
+~
+0 -1 2651
+D3
+~
+~
+0 -1 2665
+D5
+~
+~
+0 -1 2649
+S
+#2651
+The Grey Hall~
+   A hall of grey tiles running north and south. Dim globes of light drift
+here, showing the way. The Grey Order keeps the college's wards and holds
+the balance between the other two, and its hall is calm and plain.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2650
+D2
+~
+~
+0 -1 2652
+S
+#2652
+The Grey Hall~
+   The grey hall runs north to the crossing. To the south stand large double
+doors of grey metal, engraved with a pair of scales. The globes of light
+gather here, waiting.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2651
+D2
+~
+door grey~
+1 -1 2653
+E
+scales doors~
+A pair of scales, perfectly level, engraved on the grey doors. Under it:
+"Neither fire nor shadow. The wall."
+~
+S
+#2653
+The Grey Antechamber~
+   The antechamber of the Master of the Grey Order. Power hangs in the air
+thickly enough to taste, like the air before a storm. Once the eyes adjust
+to the half-light, a larger chamber can be made out to the south. The grey
+doors lead back north.
+~
+25 dg 0
+D0
+~
+door grey~
+1 -1 2652
+D2
+~
+~
+0 -1 2654
+S
+#2654
+The Grey Chamber~
+   The audience chamber of the Grey Order, plain and orderly. Ward-stones
+from the march stand on stands about the walls, each one cracked, brought
+back so that the order can learn how it failed. A study lies west, a closet
+east and a bedchamber south; the antechamber is north.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2653
+D1
+~
+~
+0 -1 2656
+D2
+~
+~
+0 -1 2657
+D3
+~
+~
+0 -1 2655
+E
+ward-stones stones stands~
+Ward-stones from posts on the march, each split clean through. Labels give
+the post and the date. The dates are getting closer together.
+~
+S
+#2655
+The Grey Study~
+   A large study whose walls are shelved with books of warding. A broad oak
+desk is covered in reports from the wall. A small pair of scales floats at
+eye level in perfect balance, the sign of the order. The only exit is east.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2654
+E
+scales~
+Tiny scales of grey metal, hanging in the air. They do not move, even when
+you breathe on them.
+~
+E
+reports desk~
+Reports from every post on the march, in many hands. The Master has written
+in the margins of each one: "hold".
+~
+S
+#2656
+The Grey Closet~
+   A small closet hung with grey cloaks and robes, all of them plain, all of
+them mended many times. A row of empty pegs at the end is labelled with the
+names of masters who did not come back to claim them. The only exit is west.
+~
+25 adg 0
+D3
+~
+~
+0 -1 2654
+S
+#2657
+The Grey Bedchamber~
+   The bedchamber of the Master of the Grey Order. A large plain bed takes
+up most of the room, and curtained windows are set in the far wall. The bed
+has not been slept in; the Master sleeps sitting up, at his desk. The only
+exit is north.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2654
+E
+windows curtains~
+Behind the curtains the glass looks out on nothing but grey cloud.
+~
+S
+#2658
+The Black Hall~
+   A hall of black tiles running east and west, filled with an unnatural
+darkness that swallows light. The Black Order studies the sorcery of the
+west in order to turn it back on itself. The college needs what they learn,
+and is afraid of them. The dread grows the further east you go.
+~
+25 adg 0
+D3
+~
+~
+0 -1 2650
+D1
+~
+~
+0 -1 2659
+S
+#2659
+The Black Hall~
+   The black hall runs east and west. The darkness is thicker here, and
+voices seem to whisper in it, too low to make out. Small bones have been set
+into the black tiles in a pattern.
+~
+25 adg 0
+D1
+~
+~
+0 -1 2660
+D3
+~
+~
+0 -1 2658
+E
+bones pattern tiles~
+Finger bones set into the tiles in the shape of a ward. Or of something that
+looks like a ward from the wrong side.
+~
+S
+#2660
+Before The Obsidian Doors~
+   The black hall ends at a pair of obsidian doors to the east. The darkness
+here is so thick it can almost be held, and a deep fear and loathing rises
+in the throat. The hall runs back west.
+~
+25 adg 0
+D1
+~
+door obsidian~
+1 -1 2661
+D3
+~
+~
+0 -1 2659
+S
+#2661
+The Chamber Of Darkness~
+   A vast chamber whose walls are lost in the dark. Patches of pure black
+swirl here and there, drinking whatever light comes near them. This is where
+the Black Order brings what it has learned in the west, to practise. Ways
+lead north, east and south into deeper dark; the obsidian doors are west.
+~
+25 adg 0
+D0
+~
+~
+0 -1 2662
+D1
+~
+~
+0 -1 2664
+D2
+~
+~
+0 -1 2663
+D3
+~
+door obsidian~
+1 -1 2660
+S
+#2662
+A Lightless Room~
+   It is very dark here... So dark that it presses on the eyes. Something in
+the room breathes, slowly and patiently. The only way out is south.
+~
+25 adg 0
+D2
+~
+~
+0 -1 2661
+S
+#2663
+The Question Room~
+   A dimly lit chamber. Instruments hang from a rack on the wall, and they
+quiver as if eager. An iron table stands in the middle, bare and clean. The
+Black Order says it questions only things from the west here. The straps on
+the table are sized for a man. The only way out is north.
+~
+25 adg 0
+D0
+~
+~
+0 -1 2661
+E
+instruments rack~
+Hooks, blades and pins, all of fine silver, all of them stirring slightly on
+their pegs.
+~
+E
+table straps~
+An iron table with leather straps at wrist, ankle and throat.
+~
+S
+#2664
+The Inner Sanctum Of The Black Order~
+   A small dark chamber. Glowing sigils cover the walls in a language that
+is no longer spoken anywhere in the east. An altar of obsidian stands here,
+and it glows without giving light; it seems to drink the light in. The only
+way out is west.
+~
+25 adg 0
+D3
+~
+~
+0 -1 2661
+E
+altar obsidian~
+An altar of black glass. Looking into it, there is a long way down, and
+something far off in the west looks back up.
+~
+E
+sigils walls~
+Writing taken from the west. The Black Order says it has tamed it. It does
+not look tame.
+~
+S
+#2665
+The White Hall~
+   A long, brilliantly lit hall running east and west. The walls and floor
+are milky white and glow with a cold radiance. The White Order would burn
+every tainted thing in the east, and every tainted mage, and they keep their
+hall so bright that no shadow can stand in it.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2650
+D3
+~
+~
+0 -1 2666
+S
+#2666
+The White Hall~
+   The white hall runs east and west. The light is so bright it hurts. To
+the west stand great double doors of finely worked ivory, carved with a
+flame. A row of iron stakes stands along the wall, ready.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2665
+D3
+~
+door ivory~
+1 -1 2667
+E
+stakes iron~
+Burning-stakes. The White Order keeps them clean and oiled.
+~
+S
+#2667
+The White Antechamber~
+   A small antechamber lit by a glow with no source, as if the room itself
+were burning cold. A larger chamber lies west, and the sense of being
+weighed and found wanting is strong. The ivory doors lead back east.
+~
+25 dg 0
+D1
+~
+door ivory~
+1 -1 2666
+D3
+~
+~
+0 -1 2669
+S
+#2669
+The Chamber Of The White Flame~
+   A vast chamber of some unknown metal, white to the point of blindness. A
+flame burns in the centre, feeding on shadow, and it leans toward each
+visitor as if testing them for taint. A meditation room lies north, a study
+south and a closet west; the antechamber is east.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2670
+D1
+~
+~
+0 -1 2667
+D2
+~
+~
+0 -1 2671
+D3
+~
+~
+0 -1 2672
+E
+flame~
+A white flame without fuel. It leans toward you and tastes the air, and
+then, reluctantly, leans away.
+~
+S
+#2670
+The White Meditation Room~
+   A small room heaped with white silk cushions. It is warm and very quiet,
+and the urge to lie down and sleep is almost too strong to resist. The only
+way out is south.
+~
+25 dg 0
+D2
+~
+~
+0 -1 2669
+S
+#2671
+The White Study~
+   A spacious study, tidy to the point of being bare. Lists of names lie in
+perfect stacks on the desk: mages of the college the White Order suspects of
+taint. The only way out is north.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2669
+E
+lists names desk~
+Lists of names, neatly written. Many are students. One of them is the Master
+of the Grey Order.
+~
+S
+#2672
+The White Closet~
+   A small closet with white cloaks and vests hung on hooks, and a few old
+boots set in a row. Everything is spotless. The only way out is east.
+~
+25 adg 0
+D1
+~
+~
+0 -1 2669
+S
+#2673
+The Hall Of Three Doors~
+   A wide hall where several people could walk abreast. The floor swirls
+with colours in constant motion. A huge door of grey metal bars the way
+north; it opens only with the Grey Order's key. The crossing lies south.
+~
+25 dg 0
+D0
+~
+door metal grey~
+2 2593 2674
+D2
+~
+~
+0 -1 2650
+S
+#2674
+The Hall Of Three Doors~
+   The wide hall goes on between two great doors: grey metal back to the
+south, and black obsidian to the north, which opens only with the Black
+Order's key. The swirl of colours on the floor darkens here, as if shadowed.
+~
+25 dg 0
+D0
+~
+door obsidian black~
+2 2594 2675
+D2
+~
+door metal grey~
+2 2593 2673
+S
+#2675
+The Hall Of Three Doors~
+   The last stretch of the wide hall. The black door is south, and a door of
+white ivory bars the way north, opening only with the White Order's key. No
+one comes to the Archmagus unless all three orders agree, or unless they rob
+all three.
+~
+25 dg 0
+D0
+~
+door ivory white~
+2 2595 2676
+D2
+~
+door obsidian black~
+2 2594 2674
+S
+#2676
+The Entranceway Of The Archmagus~
+   The entrance to the audience chamber of the Archmagus of the war-college.
+Tapestries on the walls show the masters who held the tower before her, each
+standing on the wall with fire in hand. A multicoloured carpet rustles under
+the boots. The audience chamber lies north; the ivory door is south.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2677
+D2
+~
+door white ivory~
+2 2595 2675
+E
+tapestries tapestry~
+Archmagi of old, each shown on the wall of Midgaard holding back a grey tide
+with fire. In the last tapestry the tide is closer.
+~
+S
+#2677
+The Audience Chamber~
+   Bolts of energy leap crackling from wall to wall, and colours bloom in
+the air and fade. It all draws the eye to a throne cut from a single huge
+emerald in the centre of the room, where the Archmagus hears the reports of
+the wall. An altar room lies north, a dressing room east, a library west,
+and the entranceway south.
+~
+25 dg 0
+D0
+~
+~
+0 -1 2680
+D1
+~
+~
+0 -1 2678
+D2
+~
+~
+0 -1 2676
+D3
+~
+~
+0 -1 2679
+E
+throne emerald~
+A throne of flawless emerald, taken, they say, from a drowned king's hall in
+the west long ago, and cleansed by fire for a year and a day before anyone
+sat on it.
+~
+S
+#2678
+The Dressing Room~
+   A plush dressing room. Robes of state and battle hang from a rack that
+floats at eye level, some of them scorched at the hems. A large silver
+mirror stands on a gold stand. The only way out is west.
+~
+25 dg 0
+D3
+~
+~
+0 -1 2677
+E
+mirror silver~
+A silver mirror. It shows the room as it is, and nothing else, which in this
+tower is a comfort.
+~
+S
+#2679
+The Archmagus' Library~
+   A small, cosy library, the shelves filled with well-used books. A big oak
+writing table holds letters from the Lord Commander of Midgaard, asking for
+more war-magi, and drafts of replies. The light comes from a plain oil lamp.
+The only way out is east.
+~
+25 dg 0
+D1
+~
+~
+0 -1 2677
+E
+letters table drafts~
+Letters from the Lord Commander: "Send more. Send any." The drafts of the
+replies have all been torn up but the last: "I am sending the novices."
+~
+S
+#2680
+The Chapel Of The Lamp~
+   A small chapel built round a golden altar. Icons of lesser powers line
+the walls, but the altar bears the sign of the Lamp, the old patron of
+mages, whose flame they say was lit before the west ever went dark. The
+audience chamber lies south. Narrow doors, hidden in the panelling, lead
+east and west.
+~
+25 dg 0
+D1
+~
+door secret~
+1 -1 2681
+D2
+~
+~
+0 -1 2677
+D3
+~
+door secret~
+1 -1 2682
+E
+altar icons lamp sign~
+A golden altar marked with a small lamp. The flame carved on it has been
+worn smooth by hands.
+~
+S
+#2681
+The Treasury~
+   A small chamber of stale air that has not been opened in many years. The
+college's treasury, against the day the wall falls and the masters must buy
+passage east. The only way out is the hidden door west.
+~
+25 dg 0
+D3
+~
+door secret~
+1 -1 2680
+S
+#2682
+The Escape-Way~
+   A small dark passage that ends in a blinding blue light to the west.
+Travelling cloaks and a leather backpack hang ready on hooks. This is the
+Archmagus' way out: if the tower falls, the light will carry her to the
+temple of Midgaard. The hidden door leads back east.
+~
+25 adg 0
+D1
+~
+door~
+1 -1 2680
+D3
+~
+~
+0 -1 2683
+E
+hooks cloaks~
+Hooks for a dozen cloaks. Only a few cloaks remain. Someone has already used
+the way out more than once.
+~
+S
+#2683
+In The Blue Light~
+   You float in a blue field of force with no source anywhere. It pushes
+from every side at once and holds you weightless. High overhead there is a
+flaw in the blue, like a doorway seen through water, and beyond it the faint
+sound of temple bells.
+~
+25 dg 0
+D4
+~
+~
+0 -1 3001
+S
+$

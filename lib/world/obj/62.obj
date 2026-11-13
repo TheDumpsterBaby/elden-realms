@@ -1,0 +1,126 @@
+#6200
+trough troughs quench~
+a quenching trough~
+A long stone quenching trough steams here.~
+~
+15 0 0
+0 0 -1 0
+5 11 1
+#6201
+spear fresh iron~
+a freshly forged spear~
+A freshly forged iron spear lies here.~
+~
+5 0 8193
+0 1 7 11
+8 78 7
+#6202
+cap iron helm~
+an iron cap~
+A plain iron cap lies here.~
+~
+9 0 17
+4 0 0 0
+10 78 7
+#6203
+cudgel iron-shod~
+an iron-shod cudgel~
+An iron-shod cudgel lies here.~
+~
+5 0 8193
+0 1 7 5
+8 88 8
+#6204
+hammer smith~
+a smith's hammer~
+A heavy smith's hammer lies here.~
+~
+5 0 8193
+0 1 7 7
+8 78 7
+#6205
+whip barbed~
+a barbed whip~
+A whip with iron barbs lies coiled here.~
+~
+5 0 8193
+0 1 7 2
+8 98 9
+A
+18 1
+#6206
+blade sword named~
+a named blade~
+A fine sword with a name engraved on it lies here.~
+~
+5 0 8193
+0 1 8 3
+8 121 12
+E
+name engraved blade~
+Engraved along the fuller: FOR ROSIN OF THE THIRD COMPANY, WHO HELD THE
+GATE.
+~
+A
+18 2
+A
+19 1
+#6207
+coat quilted~
+a quilted officer's coat~
+A quilted coat with brass buttons lies here.~
+~
+9 0 9
+6 0 0 0
+10 88 8
+#6208
+key chain~
+a key to the conscripts' chains~
+A small iron key lies here.~
+~
+18 0 1
+0 0 0 0
+1 11 1
+#6209
+pick mining~
+a mining pick~
+A mining pick lies here.~
+~
+5 0 8193
+0 1 6 11
+8 68 6
+#6210
+bar sharpened iron~
+a sharpened iron bar~
+An iron bar ground to a point lies here.~
+~
+5 0 8193
+0 1 7 11
+8 88 8
+#6211
+heartstone stone heart~
+a heartstone~
+A fist-sized stone glowing with inner heat lies here.~
+~
+11 0 16385
+0 0 0 0
+2 109 10
+A
+1 1
+A
+13 20
+A
+19 1
+#6212
+maul molten black~
+a maul of black slag~
+A heavy maul of black slag, still warm, lies here.~
+~
+5 0 8193
+0 2 5 6
+8 121 12
+A
+19 2
+A
+18 1
+$

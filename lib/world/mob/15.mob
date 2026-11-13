@@ -1,0 +1,307 @@
+#1500
+weigher judge god~
+the Weigher~
+You resist the urge to avert your eyes from the Weigher at the end of the road.
+~
+The sight is different for every soul, a mirror held up to what each pilgrim
+truly is. At first a proud and bitter old judge; just as easily a gentle
+open hand, a smile, and gardens... gardens.
+~
+beilnopqr h 1000 S
+30 13 7 1d1+2999 8d8+9
+0 400000
+8 8 1
+#1501
+vessamar watcher scales~
+Vessamar of the Scales~
+Vessamar, the Watcher of the Scales, turns and begins to look you over.
+~
+At first you see only a bright and comforting glow; then the shape sharpens,
+and you see a face, eyes, hands holding a pair of scales, and then that too
+fades and you see nothing.
+~
+bl h 1000 S
+30 13 7 1d100+1953 6d7+7
+0 263915
+8 8 1
+#1502
+corrith watcher herald~
+Corrith the Herald~
+Corrith the Herald, Watcher of the Road, smiles and begins to tell you something.
+~
+Called the Herald, it was this Watcher who brought the word of the road to
+the Pilgrim-Saints, and who carried Oswen the First Pilgrim across the
+mountains in a single night.
+~
+bl h 1000 S
+30 13 7 1d100+1953 6d7+7
+0 263915
+8 8 1
+#1503
+ildane watcher shield~
+Ildane the Shield~
+Ildane the Shield, Watcher of the Road, looks up and frowns at you in disapproval.
+~
+It is impossible to fix your eyes on this Watcher. He is nothing human, and
+with a whisper he scatters every picture of him you try to make in your
+mind.
+~
+bl h 1000 S
+30 13 7 1d100+1953 6d7+7
+0 263915
+8 8 1
+#1504
+morvaine watcher gate dark~
+Morvaine of the Dark Gate~
+Morvaine, the Watcher of the Dark Gate, stands here guarding the way forward.
+~
+When Sefhra fell, the Weigher had need of a fourth Watcher, and Morvaine
+rose from the dark ways of the road to take the place. Morvaine knows every
+sin that passes up the stair.
+~
+bl h 1000 S
+30 13 7 1d100+1953 6d7+7
+0 263915
+8 8 1
+#1505
+child warden gatechild~
+the gate-child~
+The gate-child of the blazing sword looks at you and begins to chuckle.
+~
+It seems to be nothing more than a small child wrapped in glowing white
+cloth, but as you try to walk past it grins and cackles, drawing a sword far
+too large for it, and bars the road.
+~
+bf h 0 S
+25 14 7 10d5+346 3d6+6
+0 40256
+8 8 0
+#1506
+jester fool~
+the jester~
+A mad, drunken jester is sitting here, lost in his deepening stupor.
+~
+He is dimly aware of your gaze. Chuckling softly, he mutters something about
+dragons, a temple, the falling of great kingdoms and a city in the west that
+will swallow them all. He laughs at you and takes another drink.
+~
+b 0 -300 S
+24 14 7 10d2+278 2d8+4
+415 26727
+6 6 1
+#1507
+wisp sprite mocking~
+the mocking wisp~
+A mocking wisp dances in and out of the air before your eyes, taunting you.
+~
+The pilgrims say the wisps are the souls of liars, bound to the road to lie
+to those who walk it. They promise shortcuts, wishes, easy ways. To you it
+looks like nothing more than an annoying little sprite of light.
+~
+cg b 0 S
+28 13 7 25d2+466 3d9+4
+0 60186
+8 8 0
+#1508
+warlord old man grevaunt marshal~
+the slumped old warlord~
+A slumped, shaking old warlord stands up and begins to shout at the world.
+~
+Marshal Grevaunt wears a faded uniform hung with honours he awarded himself.
+He once taught a whole people to hate their neighbours and marched them into
+the fire for it, and his hand has not stopped shaking since.
+~
+bf dk -1000 S
+29 13 7 4d10+916 4d9+7
+820 121579
+8 8 1
+#1509
+oduran prince ascetic~
+Prince Oduran~
+Prince Oduran the Ascetic sits here in rags, washing blood from his hands in a silver bowl.
+~
+Thin as a rake, in a coarse wool tunic, he has not bathed in months nor
+eaten in days. His people thought him a saint. The water in his bowl never
+runs clear, and his smile is still so charming.
+~
+bf dk -1000 S
+29 13 7 4d10+916 4d9+7
+820 121579
+8 8 1
+#1510
+cassel betrayer~
+Cassel the Betrayer~
+The Betrayer approaches slowly, holding out his arms in an embrace.
+~
+Cassel walked beside Oswen the First Pilgrim for years, and sold him for a
+purse of silver. You see nothing in his face but the sadness of a man who
+would sell the road itself.
+~
+bc dk -1000 S
+28 13 7 5d10+711 4d6+6
+1 91209
+8 8 1
+#1511
+ozmandar king drowned~
+Ozmandar the Drowned King~
+Ozmandar the Drowned King stands here, dripping, sent for a lifetime of pride.
+~
+Robed in sodden cloth of gold and crowned with river weed, he was shown the
+truth and drove his host into the flood rather than bow to it. He looks at
+you with nothing but a smirk of contempt.
+~
+b dk -1000 S
+28 13 7 5d10+711 4d6+6
+709 91209
+8 8 1
+#1512
+hadric steward first mourner~
+Hadric the Mourner~
+Hadric, first of the Stewards, mourns over the death of the First Pilgrim.
+~
+A simple man in dark, plain robes, bent and silent, living again the memory
+of a friend he never believed would die.
+~
+b dk 1000 S
+28 13 7 5d10+711 4d6+6
+709 91209
+8 8 1
+#1513
+talmor steward second upright~
+Talmor the Upright~
+You see Talmor, second of the Stewards, who kept the First Pilgrim's road.
+~
+You are struck by the man's uprightness. He looks at you sadly and says: "I
+do not wish to fight you, but if you refuse the truth of the road, then I
+must."
+~
+b dk 1000 S
+28 13 7 5d10+711 4d6+6
+709 91209
+8 8 1
+#1514
+brannoc steward third chosen~
+Brannoc the Chosen~
+The third of the rightly-guided Stewards, Brannoc, stands before you.
+~
+He was chosen by a clique of jealous rivals who could agree on nobody else.
+With the memory of the First Pilgrim fading fast from the faithful, he could
+do little, and in the end his enemies killed him.
+~
+bf dk 1000 S
+29 13 7 4d10+916 4d9+7
+820 121579
+8 8 1
+#1515
+edrin steward fourth last~
+Edrin the Last Steward~
+You have come before Edrin, fourth and last of the Stewards.
+~
+Some hold him the nearest to the truth of all the Stewards, most deserving
+of honour. Others called him a schismatic and a traitor, to be killed and
+forgotten. Looking at him now, you must decide for yourself.
+~
+bf dk 1000 S
+29 13 7 4d10+916 4d9+7
+820 121579
+8 8 1
+#1516
+sefhra unweighed fallen watcher~
+Sefhra the Unweighed~
+You gaze in awe at the fairest of all the Watchers, Sefhra the Unweighed.
+~
+He smiles calmly and tells you of the day he would not lay his hand upon the
+scales. Then he gestures at you, smiling, and conjures a picture of every
+temptation that will be yours if only you follow him.
+~
+bcf dk -1000 S
+28 13 7 10d5+711 4d6+6
+710 91506
+8 8 1
+#1517
+tempter voice~
+the Tempter~
+You pause nervously as a voice whispers at you from over your shoulder.
+~
+There is no shape to the presence that fills this place, only laughter,
+moaning, screaming and begging, and beneath it all a patient voice that
+knows your name.
+~
+bcf dk -1000 S
+28 13 7 10d5+711 4d6+6
+710 91506
+8 8 1
+#1518
+dragon serpent violet~
+the violet dragon~
+A violet dragon turns to you in violent lust for your soul.
+~
+The old serpent of the last day, ancient and violet-hued, that has watched
+kingdom after kingdom bow down before it. It turns to you as though you were
+the last.
+~
+bcf dk -1000 S
+29 13 7 75d2+873 4d8+5
+839 127490
+8 8 1
+#1519
+demon fire burning~
+the burning demon~
+The fire around you is ruled by a massive, burning demon.
+~
+You see nothing but the red, unending anger of the lord of the burning ways,
+the fate you have always been afraid of.
+~
+bcf dk -1000 S
+29 13 7 75d2+873 4d8+5
+839 127490
+8 8 1
+#1520
+baby innocent~
+the innocent baby~
+Lying on the ground wrapped in blankets is the most innocent of babies.
+~
+A newly made soul at the start of its road, barely aware of you, lost in a
+sleepy, contented yawn.
+~
+b dk 1000 S
+27 14 7 5d10+176 3d6+5
+456 21712
+4 4 1
+#1521
+boy teenage~
+the teenage boy~
+You stop in surprise at the sight of a teenage boy staring off into the distance.
+~
+He is young, and has not yet seen how bloody the world is. Following his
+gaze, you see he is staring in wonder at the full moon.
+~
+b dk 1000 S
+28 13 7 5d10+767 4d6+6
+730 97847
+8 8 1
+#1522
+man kneeling~
+the man~
+A middle-aged man is here, kneeling in prayer.
+~
+He is tired and lined with age, but kneeling in his worn robe he is the
+picture of perfect contentment.
+~
+bl dk 1000 S
+29 13 7 75d2+894 4d8+6
+847 130100
+5 5 1
+#1523
+soul bodyless~
+the bodyless soul~
+You are overwhelmed by the presence of a soul that has left its body behind.
+~
+Tastes and scents reach you, and the wind moving through gardens. Nothing
+can explain or describe this perfection, this utter peace.
+~
+bf dk 1000 S
+29 13 7 100d2+843 4d8+5
+0 128423
+8 8 1
+$

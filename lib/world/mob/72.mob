@@ -1,0 +1,60 @@
+#7200
+master mindeater mind eater mindflayer~
+the master mind-eater~
+The master mind-eater floats here, its face tentacles curling.
+~
+A tall, robed thing with a squid's head and long fingers. It came up from
+the deep long ago. Since the West stirred, it hears a voice in the dark, and
+it has begun to answer.
+~
+aceflm dfk -800 S
+14 17 9 1d10+170 3d4+3
+0 20000
+8 8 0
+#7201
+senior mindeater mind eater mindflayer~
+a senior mind-eater~
+A senior mind-eater turns its tentacled face toward you.
+~
+A mind-eater, hungry for thought.
+~
+acejklm dfk -600 S
+8 18 9 1d10+100 2d4+1
+66 4500
+8 8 0
+#7202
+junior mindeater mind eater mindflayer~
+a junior mind-eater~
+A junior mind-eater hisses at you.
+~
+A young mind-eater, eager to feed.
+~
+acehlm dfk -350 S
+6 19 10 1d10+75 1d4+0
+41 1305
+8 8 0
+#7203
+wererat rat~
+a wererat~
+A wererat stands here, half man and half rat, holding a stolen blade.
+~
+One of the rat-men of the deep drains. They were men once, deserters and
+smugglers who hid down here too long.
+~
+cgjlk k -700 S
+6 19 10 4d6+69 2d4+0
+41 1346
+8 8 0
+#7204
+rat father ratfather gigantic~
+the Rat-Father~
+The Rat-Father heaves its bulk up from a nest of bones.
+~
+A rat the size of a pony, grey and hairless, with a man's intelligence in
+its eyes. Every rat in the drains is its child.
+~
+bf k -800 S
+12 17 9 1d10+150 2d4+2
+132 13000
+8 8 1
+$

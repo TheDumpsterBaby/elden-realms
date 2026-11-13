@@ -1,0 +1,229 @@
+#1500
+scales justice scale vessamar~
+the Scales of Vessamar~
+Two beautiful plates hung like scales have been left here.~
+~
+12 ak ao
+0 0 0 0
+10 15000 2200
+E
+scales justice scale vessamar~
+The scales sway gently back and forth of their own accord, as if weighing
+something you cannot yet see.
+~
+A
+3 1
+A
+4 2
+#1501
+scroll parchment herald~
+the Herald's Scroll~
+A solid, silver-lined scroll rests on the ground.~
+~
+12 g ao
+0 0 0 0
+1 500 500
+E
+scroll parchment herald~
+It seems to hold some working meant to carry its bearer across great
+distances, as the Herald carried the First Pilgrim, but how to use it is
+impossible to tell.
+~
+A
+14 15
+A
+19 -1
+#1502
+sword blazing~
+a blazing sword~
+You are startled by the sight of a sword that blazes up as you approach it.~
+~
+5 abgkn an
+0 3 4 11
+10 5000 900
+E
+sword blazing~
+The edge of the blade is lined with writing, the words of the Pilgrim's Vow,
+in a fine silver-laced flowing script.
+~
+A
+13 -5
+#1503
+shield protector penitent~
+the Shield of the Penitent~
+A weighty shield has been abandoned here by one unworthy to hold it.~
+~
+9 kn aj
+9 0 0 0
+20 5000 1500
+E
+shield protector penitent~
+It slides away from your attempts to look at it, turning your gaze as it
+will turn the weapons that try to kill you.
+~
+#1504
+armband band faded~
+a faded armband~
+A ragged, faded strip of cloth has been left here, forgotten.~
+~
+12 j ai
+0 0 0 0
+0 15 50
+E
+armband band faded~
+It bears the badge of Marshal Grevaunt's army, a burning tower on a grey
+field. Whatever rank it marked means nothing now.
+~
+A
+6 2
+A
+5 -1
+#1505
+scimitar jeweled jewelled~
+a jewelled scimitar~
+A stunning curved blade glistens on the ground.~
+~
+5 akn an
+0 7 1 3
+5 5000 500
+E
+scimitar jeweled jewelled~
+The hilt and guard are set all round with stones and bright metals, a gift
+to Hadric from the pilgrim houses that he never once wore in battle.
+~
+#1506
+ember charred~
+a charred ember~
+You glance briefly at a smouldering ember that rests at your feet.~
+~
+1 ajnop ao
+0 0 -1 0
+0 5 2500
+A
+18 2
+A
+12 10
+E
+ember charred~
+It glares back at you, almost angrily.
+~
+#1507
+ethereal flame~
+an ethereal flame~
+The entire room is aglow from the flame at your feet.~
+~
+1 ajkop ao
+0 0 -1 0
+0 5 2500
+A
+12 8
+A
+13 10
+E
+ethereal flame~
+Even being near it fills you with a peaceful and comforted feeling.
+~
+#1508
+key gates~
+the Key to the Gates~
+You have found at last the Key to the Gates at the end of the road.~
+~
+18 aikl ao
+1508 0 0 0
+0 1000 500
+A
+3 2
+E
+key gates~
+There are no gates.  They are inside of you.
+~
+#1509
+history burnt book~
+a burnt history~
+A burnt book, some forgotten history, lies on the ground.~
+~
+13 0 ao
+0 0 0 0
+2 10 500
+A
+4 2
+E
+history burnt book~
+So this is the jester's joke.  All of our works have turned to dust,
+and will end in nothing.  It is for this that he laughs.
+~
+#1510
+leaf book page pilgrim~
+a leaf of the Pilgrim's Book~
+A thin leaf of parchment with flowing script and rich trim glows softly here.~
+~
+1 dklmn ao
+0 0 -1 0
+0 500 8000
+E
+leaf book page pilgrim~
+The Third Lantern Saying: "Carry the light, and the road carries you. Set it
+down, and you are only walking."
+~
+A
+18 3
+A
+19 3
+#1511
+forge unity gloves~
+the Forge of Unity~
+It is surely the best of men who has left these gloves here to aid you.~
+~
+9 iklmn ah
+4 0 0 0
+5 12000 4000
+A
+19 2
+A
+13 10
+#1512
+pendant drowned king loop~
+the Drowned King's pendant~
+A beautiful pendant of ancient and noble workmanship lies here, wet with river water.~
+~
+11 al ac
+0 0 0 0
+3 5000 2000
+E
+pendant drowned king loop~
+A loop of white gold above two crossed bars, the royal sign of Ozmandar's
+sunken kingdom. It is never quite dry.
+~
+A
+12 10
+A
+12 5
+#1513
+amulet sun burned disc~
+the Amulet of the Burned Sun~
+A gleaming golden disc stamped with a burning sun lies here.~
+~
+11 ag ac
+0 0 0 0
+5 7500 1500
+A
+3 2
+A
+4 2
+#1514
+image graven idol~
+a graven image of Nu'Groth~
+You frown in disgust at the hideous idol of a false god that you have found.~
+~
+1 jlq ao
+0 0 0 0
+2 1000 500
+E
+image graven idol~
+A small figure of black stone, crudely made, showing a shape that is mostly
+an open door and a great deal of grey. The Tempter offers it to every
+pilgrim who will take it. It is the god of the west.
+~
+A
+6 2
+$

@@ -1,0 +1,185 @@
+#6500
+warden guard dwarf dwarven~
+a warden of Orrund~
+A warden of Orrund stands here, axe on his shoulder.
+~
+A broad, scarred dwarf in soot-black mail, with his beard braided short so
+nothing can grab it. He looks at outsiders as if they owe him something.
+~
+ablm dhk 1000 S
+25 14 7 4d20+384 2d8+11
+493 46757
+8 8 1
+#6501
+porter worker dwarf dwarven~
+a dwarven porter~
+A dwarven porter trudges by under a load of blades.
+~
+A dwarf bent under a great bundle of new-forged blades bound for the front.
+He has carried a load like this down the mountain every day for years.
+~
+glm 0 900 S
+23 15 8 25d5+254 2d4+11
+404 30659
+8 8 1
+#6502
+wraith shade ghost~
+the wraith~
+A wraith hangs in the cold air here, waiting.
+~
+A black, almost transparent shape with the outline of a dwarf in mail.
+Something came back up from the old mine that was not quite the warden who
+went down.
+~
+abfnopr dfk -900 S
+26 14 7 9d7+516 3d11+9
+574 72093
+8 8 1
+#6503
+storekeeper armourer shopkeeper~
+the armourer of the Hide and Tooth~
+The armourer of the Hide and Tooth stands here, arms folded.
+~
+A thick, rotund dwarf with forge-burns on both forearms. He sells the hold's
+steel to anyone who can pay, and to Midgaard, who often cannot.
+~
+ablm d 1000 S
+33 0 -10 1d1+30000 2d8+32
+33500 800000
+8 8 1
+#6504
+baker granite head granitehead~
+Granitehead the baker~
+Granitehead the baker waits behind his counter, covered in flour.
+~
+A cheerful old dwarf white with flour to the elbows. He lost three sons in
+the old mine and bakes as if bread could fill the hole.
+~
+ablm d 900 S
+33 0 -10 1d1+30000 2d8+22
+55000 800000
+8 8 1
+#6505
+lizard giant tunnel~
+a tunnel lizard~
+A tunnel lizard forages along the stone floor here.
+~
+A long, pale lizard as big as a pony, bred by the dwarves to haul ore carts.
+Since the old mine fell there is not enough ore to haul, and it wanders the
+hold, hungry.
+~
+g dk 100 S
+25 14 7 4d20+388 3d7+5
+264 47284
+8 8 1
+#6506
+giant hill~
+the hill giant~
+A hill giant prowls the narrow way here.
+~
+A giant, nearly eighteen feet tall, wearing a dwarf's plate as a
+breastplate. It has come down from the high peaks because the west is
+driving everything east.
+~
+gl k 600 S
+24 14 7 4d20+357 3d3+10
+456 38703
+8 8 1
+#6507
+mineworker dwarven dwarf miner worker~
+a dwarven mineworker~
+A dwarven mineworker swings his pick at the coal here.
+~
+A worn-out dwarf black with coal dust, muscles knotted from too many shifts.
+He curses the poor seam and the old mine both.
+~
+bl k 500 S
+20 15 8 3d13+97 1d3+6
+271 8850
+8 8 1
+#6508
+mineleader overseer dwarven dwarf mine leader~
+the overseer~
+A dwarven overseer is here, driving the work.
+~
+A huge, hard dwarf who keeps the coal coming for the forges. He was a
+gallery-master in the old mine, and he was among the last out.
+~
+bl k 700 S
+24 14 7 50d2+322 3d4+8
+455 38471
+8 8 1
+#6509
+doctor healer dwarven~
+the dwarven healer~
+The dwarven healer moves among the sick and wounded here.
+~
+A grey-bearded healer who has not slept a whole night in years. He prays to
+the old stone-gods with every bandage, and they have not answered lately.
+~
+abl dhk 999 S
+25 14 7 9d4+414 3d8+5
+497 48142
+8 8 1
+#6510
+peon wounded dwarven dwarf~
+a wounded dwarf~
+A wounded dwarf lies here, waiting for the healer.
+~
+A dwarf bandaged from shoulder to hip, sent back from the wall with a wound
+that will not close.
+~
+bm k 500 S
+20 15 8 10d3+94 2d3+6
+270 8550
+8 8 1
+#6511
+dwarf warden~
+an off-duty warden~
+An off-duty warden sits on a bunk, oiling his axe.
+~
+A young warden who has only ever known Orrund at war. He talks of the old
+mine as if it were a story.
+~
+b k 500 S
+21 15 8 1d15+150 3d3+4
+302 12030
+8 8 1
+#6514
+guard barrack warden~
+a barrack guard~
+A barrack guard lounges here between watches.
+~
+A sour veteran warden who would rather be asleep, and makes sure you know
+it.
+~
+bm k 100 S
+23 15 8 5d10+242 2d5+5
+382 24137
+8 8 1
+#6516
+mazekeeper keeper~
+the mazekeeper~
+The mazekeeper crouches here, muttering at the floor.
+~
+A gaunt dwarf with wild eyes and bleeding fingers, who was set to keep the
+deep maze and has listened too long to what moves beneath it. He blames the
+Queen for the old mine, and he means to go home.
+~
+abfl dhk -1000 S
+27 14 7 250d4+1889 4d3+5
+1386 325688
+8 8 1
+#6517
+snake giant serpent~
+a pale cave serpent~
+A pale cave serpent coils in the dark here.
+~
+A huge colourless snake that came up out of the depths, from the direction
+of the old mine. Its eyes are milky and blind, and it does not need them.
+~
+bf k -1000 S
+28 13 7 300d6+525 4d4+19
+1026 188869
+8 8 1
+$

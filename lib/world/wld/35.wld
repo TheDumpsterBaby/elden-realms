@@ -1,0 +1,1031 @@
+#3500
+The Moor Crossing~
+   You stand on open moor, a wide, bare place where the wind howls with
+nothing to stop it. Tracks cross the heather here. One wanders north toward
+the hills, where few go now, for there are tales of things moving in the old
+dwarf-mines beneath them. A narrow trail scars its way east up toward a
+stony hillside and the farms of the ridge. A lane runs south between the
+trees.
+~
+35 0 1
+D0
+~
+~
+0 -1 4000
+D1
+~
+~
+0 -1 3300
+D2
+~
+~
+0 -1 3501
+S
+#3501
+The Lane~
+   A shady lane between tall trees. Many of them have been felled, their
+stumps raw and white, and the trunks carted west to make stakes for the
+wall. A crow watches you from one of the stumps. The lane runs north to the
+moor and south to the laneway.
+~
+35 0 1
+D0
+~
+~
+0 -1 3500
+D2
+~
+~
+0 -1 3502
+S
+#3502
+The Laneway~
+   The laneway, where the roads of the east meet. East, the broad King's
+Road sets off straight as a spear toward King Welmar's castle; west, the
+lane runs on toward the shrine where the Supply Road turns for Midgaard. A
+steep path drops away down to the northeast toward the dwarven village, and
+a lane goes north between the trees. Wheel-ruts from the levy carts are cut
+deep into every road.
+~
+35 0 1
+D0
+~
+~
+0 -1 3501
+D1
+The King's Road runs east toward the pale towers of a castle in the
+distance.
+~
+~
+0 -1 15000
+D3
+~
+~
+0 -1 3503
+D5
+A well-trodden path leads steeply down to the northeast, toward the smoke of
+a dwarven village.
+~
+~
+0 -1 6500
+E
+ruts~
+Deep ruts from heavy carts, all of them heading west.
+~
+S
+#3503
+The Shrine Turning~
+   The lane meets the Supply Road here, at the western edge of Miden'Nir.
+West you can see the lamp of the crossroads shrine, where the wagons for
+Midgaard turn onto the road to the fort. Every carter who passes touches his
+hat toward it. East the lane leads to the laneway and the roads of the east.
+~
+35 c 1
+D1
+~
+~
+0 -1 3502
+D3
+West, the Supply Road and its shrine lamp, on the road back toward Midgaard.
+~
+~
+0 -1 5027
+S
+#3504
+The South Gate~
+   You are inside the squat stone gatehouse of Miden'Nir's south gate, a
+breach in the long wall of stone and timber that keeps the forest away from
+the Supply Road. Bowmen watch from the slits overhead, and a list of wagons
+raided this month is nailed to the gate post. West, a track runs down to the
+road; south, the gate opens on the forest.
+~
+35 0 3
+D2
+South, through the gate, lies the forest of Miden'Nir.
+~
+~
+0 -1 3505
+D3
+West, a track runs down to the Supply Road crossroads.
+~
+~
+0 -1 5028
+E
+list post~
+A list of wagons lost this month: grain, arrows, salt, boots, all bound for
+the wall. Beside each: "goblins". Beside two: "goblins, and riders".
+~
+E
+slits bowmen~
+Narrow arrow slits. Behind them, tired faces watch the trees.
+~
+S
+#3505
+The Trail To Miden'Nir~
+   You are in light forest just south of the gate. The trees here have been
+cut back from the path so that nothing can creep close to it, and the stumps
+are scarred with old arrowheads. The path goes on south into darker woods,
+and the trees thin enough to pass east. West, smoke rises above the
+treetops. The gatehouse is north.
+~
+35 c 3
+D0
+To the north stands the gatehouse in the outer wall.
+~
+~
+0 -1 3504
+D1
+More light forest.
+~
+~
+0 -1 3506
+D2
+The path cuts into the darkness of Miden'Nir.
+~
+~
+0 -1 3507
+D3
+A short way west, smoke rises from the chimney of the Woodsman Inn.
+~
+~
+0 -1 3570
+S
+#3506
+The Miden'Nir~
+   You are in a dark stretch of forest. To the east the trees give out at
+the foot of the mountains. The lighter woods lie west, and the forest runs
+on south. A wagon wheel, splintered, lies half-hidden in the bracken.
+~
+35 0 3
+D1
+The mountains can be seen jutting up to the east.
+~
+~
+0 -1 3550
+D2
+The forest is darker to the south.
+~
+~
+0 -1 3509
+D3
+The forest gets lighter as you go west.
+~
+~
+0 -1 3505
+E
+wheel wagon~
+A wagon wheel, smashed. Goblin arrows are still stuck in the spokes.
+~
+S
+#3507
+The Miden'Nir~
+   The forest is deep here, and the wind moves restlessly through the high
+branches. North the woods grow lighter toward the gate. South and west,
+paths lead deeper in. Someone has hung a dead goblin from a branch as a
+warning; the crows have been at it.
+~
+35 0 3
+D0
+The forest is lighter in this direction.
+~
+~
+0 -1 3505
+D2
+More and darker woods.
+~
+~
+0 -1 3510
+D3
+There is a small path leading west.
+~
+~
+0 -1 3508
+E
+goblin branch~
+A small green body hung by the neck. It has not frightened anyone off.
+~
+S
+#3508
+On A Small Path~
+   A small path winds east and south through the dark woods. To the west the
+mountains rise like a wall. The path is marked with little cairns of stones,
+goblin-sign, telling their bands where the wagons pass.
+~
+35 0 3
+D1
+Wind-swept forest.
+~
+~
+0 -1 3507
+D2
+To the south, the trail continues.
+~
+~
+0 -1 3511
+E
+cairns cairn stones sign~
+Little piles of three stones, the top one marked with a smear of green.
+Goblin trail-sign.
+~
+S
+#3509
+The Miden'Nir~
+   The trees of Miden'Nir are lush and green here, and very quiet. Too
+quiet: no birds at all. The woods are too thick to pass west, but you can go
+north, south, or east toward the grey mountains.
+~
+35 0 3
+D0
+The trees lighten up a bit this way.
+~
+~
+0 -1 3506
+D1
+Huge grey mountains lie in this direction.
+~
+~
+0 -1 3512
+D2
+The forest continues.
+~
+~
+0 -1 3514
+S
+#3510
+A Crossroads~
+   Three worn foot-paths meet in a small clearing, going north, east and
+south. The trees press close above, so that only scraps of sky show through
+the branches. A broken crate lies in the clearing, stamped with the mark of
+the Midgaard quartermaster, empty.
+~
+35 0 3
+D0
+Trees as far as the eye can see.
+~
+~
+0 -1 3507
+D1
+There is an especially dark part of the forest this way.
+~
+~
+0 -1 3514
+D2
+There is an especially dark section of forest this way.
+~
+~
+0 -1 3516
+E
+crate~
+A smashed supply crate with Midgaard's mark on it. Whatever was in it, the
+goblins have it now.
+~
+S
+#3511
+The Trail~
+   A north-south trail through the woods. To the west, the mountains glare
+down, and thick undergrowth blocks any way in that direction. Small, bare
+footprints cross the mud of the trail.
+~
+35 0 3
+D0
+The trail bends to the north.
+~
+~
+0 -1 3508
+D2
+To the south, the path re-enters the forest.
+~
+~
+0 -1 3515
+E
+footprints prints~
+Small, clawed, bare feet. Goblins, a band of a dozen at least.
+~
+S
+#3512
+The Miden'Nir~
+   The forest climbs toward the mountains here. You can go north to the foot
+of the slopes, or west and south through the trees; the steep rock blocks
+the way east. Something has stripped the bark off the trees here, high up,
+in long ragged strips.
+~
+35 0 3
+D0
+The mountains can be seen to the north.
+~
+~
+0 -1 3550
+D2
+A light section of forest.
+~
+~
+0 -1 3513
+D3
+The forest continues here.
+~
+~
+0 -1 3509
+E
+bark trees strips~
+Long tears in the bark, higher than a man could reach. Wyvern claws.
+~
+S
+#3513
+The Miden'Nir~
+   The forest is dim, and grows darker still to the west. There is something
+bad hidden in these woods; you can smell it on the wind, faint and sweet.
+The trees thin to the north.
+~
+35 0 3
+D0
+There is a small clearing to the north.
+~
+~
+0 -1 3512
+D3
+It gets darker and thicker this way.
+~
+~
+0 -1 3514
+S
+#3514
+The Deep Forest~
+   It is dark here, and the forest closes round you, heavier and stiller
+with every step. The trees are hung with grey moss. It might be time to turn
+back toward somewhere safe. Paths lead in all four directions.
+~
+35 0 3
+D0
+More forest.
+~
+~
+0 -1 3509
+D1
+Lighter forest and mountains in the distance.
+~
+~
+0 -1 3513
+D2
+More trees.
+~
+~
+0 -1 3517
+D3
+The forest continues.
+~
+~
+0 -1 3510
+S
+#3515
+The Light Forest~
+   The forest is light here, and the trail is easy to follow north and
+south. To the east the trees grow thick and dark. The ground is strewn with
+grain from a split sack, already sprouting.
+~
+35 0 3
+D0
+A trail leading north-south.
+~
+~
+0 -1 3511
+D1
+The trees get thicker as you go east.
+~
+~
+0 -1 3516
+D2
+More trees and some small hills.
+~
+~
+0 -1 3518
+E
+grain sack~
+A split sack of Midgaard-bound grain. The goblins dropped it running.
+~
+S
+#3516
+Some Muddy Ground~
+   The ground here is a bog of mud and puddles, churned up by many small
+feet and the deep tracks of a wagon dragged off the road. Your boots squelch
+at every step. Paths lead north, east, south and west.
+~
+35 0 3
+D0
+The Miden'nir continues.
+~
+~
+0 -1 3510
+D1
+More trees.
+~
+~
+0 -1 3517
+D2
+The trees get VERY thick to the south.  You can barely see...
+~
+~
+0 -1 3519
+D3
+Some light trees and daylight.
+~
+~
+0 -1 3515
+E
+tracks wagon~
+A wagon was hauled through here, its wheels sunk to the axles. Goblins
+pulled it, a great many of them.
+~
+S
+#3517
+Near The Mountains~
+   The mountains rise sheer to the east, grey and wet. The rock blocks every
+way but north and west, where the ground slopes down into the trees.
+~
+35 0 3
+D0
+Many trees to the north.
+~
+~
+0 -1 3514
+D3
+There is a bit of a slope downward to the west.
+~
+~
+0 -1 3516
+S
+#3518
+The Fading Trail~
+   The trail all but vanishes here among the trunks. North the forest is
+lighter and the trail clearer. To the south a path goes on into darker
+woods. East the trees stand trunk to trunk.
+~
+35 0 3
+D0
+You can see a trail this way.
+~
+~
+0 -1 3515
+D1
+The trees stand trunk to trunk that way.
+~
+~
+0 -1 -1
+D2
+Dark forest.
+~
+~
+0 -1 3522
+S
+#3519
+The Dark Path~
+   You are hemmed in by trees on both sides. The path runs north and south,
+and east into the woods. The trees are far too thick to go west. A sweet,
+sickening stench drifts up from the south.
+~
+35 0 3
+D0
+The forest gets lighter this way.
+~
+~
+0 -1 3516
+D1
+The forest continues.
+~
+~
+0 -1 3520
+D2
+A strong stench comes from this direction.
+~
+~
+0 -1 3521
+D3
+The trees stand trunk to trunk that way.
+~
+~
+0 -1 -1
+S
+#3520
+The Dark Forest~
+   You push through the underbrush. The forest is very thick here, the
+branches so dense overhead that no sunlight gets through. It is too thick to
+go east or north, but the woods open a little to the south and west.
+~
+35 0 3
+D2
+The thick forest continues.
+~
+~
+0 -1 3523
+D3
+The thick forest continues.
+~
+~
+0 -1 3519
+S
+#3521
+The Carnage~
+   A gruesome sight. Blood is everywhere, on the trees and soaked into the
+ground, and a supply wagon lies on its side, its load torn open. Two bodies
+lie in front of it, staring up. The woods are impassable south, but you can
+go north, east or west.
+~
+35 1 3
+D0
+Darkness.
+~
+~
+0 -1 3519
+D1
+Your light does not reach that far.
+~
+~
+0 -1 3523
+D3
+More dark forest.
+~
+~
+0 -1 3522
+E
+carcass body corpse carcasses bodies corpses~
+Two carters, pierced by something huge and jagged, like a spear. Their lips
+are pale blue: poison. The wyverns got them before the goblins could.
+~
+E
+wagon load~
+An overturned supply wagon bound for the wall. Arrows, salt, boots,
+scattered in the mud.
+~
+S
+#3522
+Deep In The Forest Of Miden'Nir~
+   There is a sickening stench here of blood and rot. North, through the
+branches, you catch glimpses of daylight and a trail. East, you can see
+nothing at all. The trees are close and stifling.
+~
+35 0 3
+D0
+You see daylight and a trail to follow.
+~
+~
+0 -1 3518
+D1
+The stench comes from this direction.
+~
+~
+0 -1 3521
+S
+#3523
+The Dark Forest~
+   The branches block out the sun, and the air is still and stale. The
+forest runs on north, and east toward the mountains. A stench comes from the
+west, and something about this place makes the hair rise on your neck.
+~
+35 0 3
+D0
+It seems to get much darker that way.
+~
+~
+0 -1 3520
+D1
+The forest grows darker still toward the mountains.
+~
+~
+0 -1 3551
+D3
+The trees thin a little that way, and the stench grows.
+~
+~
+0 -1 3521
+S
+#3550
+At The Foot Of The Mountains~
+   You are at the foot of the mountains, where it is too steep to climb
+north or east. A goblin lookout post of piled stones stands on a ledge,
+empty for now. The green forest of Miden'Nir spreads out south and west.
+~
+35 0 5
+D2
+The forest of Miden'nir spreads out before you.
+~
+~
+0 -1 3512
+D3
+The forest of Miden'nir spreads out before you.
+~
+~
+0 -1 3506
+E
+post lookout ledge stones~
+A small hide of stacked stones. From it, a goblin could watch the whole road
+from the gate.
+~
+S
+#3551
+Deep In The Forest Of Miden'Nir~
+   The branches block out all sunlight, and the forest is very dark. The
+woods go on west. Mountains close off every other way but south, where a low
+tunnel has been dug into the mountainside. The ground before it is trampled
+bare.
+~
+35 a 3
+D2
+The tunnel leads into the mountainside.
+~
+~
+0 -1 3552
+D3
+The forest continues, and grows a little lighter.
+~
+~
+0 -1 3523
+S
+#3552
+A Tunnel In The Mountains~
+   A tunnel carved into the mountain by the goblins of Miden'Nir, long ago.
+The floor is worn smooth by small feet and by things dragged over it. It
+runs south into the mountain and north out into the forest.
+~
+35 a 1
+D0
+Outside, you see the forest of Miden'nir.
+~
+~
+0 -1 3551
+D2
+The tunnel continues to the south.
+~
+~
+0 -1 3553
+S
+#3553
+A Tunnel In The Mountains~
+   The tunnel is lighter to the north, toward the way out; south, the
+passage grows ever smaller. A small alcove has been hacked into the east
+wall. Sacks marked with the Midgaard quartermaster's stamp are piled along
+the walls.
+~
+35 a 1
+D0
+The tunnel gets wider in this direction.
+~
+~
+0 -1 3552
+D1
+You see a small alcove.
+~
+~
+0 -1 3554
+D2
+The tunnel gets smaller in this direction.
+~
+~
+0 -1 3555
+E
+sacks stamp~
+Stolen supply sacks: oats, salt, arrowheads. Enough to feed a company on the
+wall for a week.
+~
+S
+#3554
+A Small Alcove~
+   A small alcove hacked from the rock. A pile of twigs, leaves and a stolen
+army blanket serves as a bed. The main passage lies west.
+~
+35 a 1
+D3
+You see the main passageway.
+~
+~
+0 -1 3553
+E
+twigs leaves bead bed blanket~
+Twigs and leaves heaped into a bed for something small, with a grey wool
+blanket of the garrison on top.
+~
+S
+#3555
+A Tunnel In The Mountains~
+   Deeper in, the tunnel shrinks until you must hunch over to go on. A low
+archway south opens into a larger chamber, and the tunnel runs back north.
+~
+35 a 1
+D0
+The tunnel continues north.
+~
+~
+0 -1 3553
+D2
+You see a small cavern.
+~
+~
+0 -1 3556
+S
+#3556
+The Goblin HeadQuarters~
+   The tunnel widens into a cavern that is large, for goblins: the den of
+the Miden'Nir bands. Bones of animals and worse are strewn about from recent
+meals. Loot from the supply wagons is heaped against the walls, and on a
+flat stone sits a little pile of fine silver coins, too fine for goblins to
+have earned. The tunnel leads north.
+~
+35 a 1
+D0
+The tunnel heads north.
+~
+~
+0 -1 3555
+E
+loot heap~
+Boots, arrows, salt, broken barrels, a carter's hat. All bound for the wall.
+~
+E
+coins silver stone~
+Good silver, new-minted, unmarked. Someone is paying the goblins to strike
+the wagons.
+~
+E
+bones~
+Deer and boar, mostly. Not all.
+~
+S
+#3570
+The Front Of The Inn~
+   A well-worn path opens into a clearing before an old wooden building with
+smoke pouring from its chimney. Its windows are shuttered with planks and
+the porch is ringed with sharpened stakes. A painted sign hangs on the porch
+to the west. Paths lead north and south around the building, and east back
+into the forest.
+~
+35 0 3
+D0
+You can go north around the Inn.
+~
+~
+0 -1 3571
+D1
+Back through the trees to the forest of Miden'Nir.
+~
+~
+0 -1 3505
+D2
+You can go south around the Inn.
+~
+~
+0 -1 3572
+D3
+The front door of the Inn, heavy and iron-studded.
+~
+~
+0 -1 3574
+E
+sign~
+The sign reads: The Woodsman. Someone has painted underneath: "Beds. Ale.
+Walls."
+~
+E
+stakes porch~
+Sharpened stakes, hammered in a ring around the porch. Some have dried green
+blood on them.
+~
+S
+#3571
+North Of The Inn~
+   You stand on the north side of the Inn, where firewood is stacked high
+under the eaves. The air smells of smoke and cooking. The only way is back
+south to the front porch.
+~
+4 0 3
+D2
+You see the front of the Inn.
+~
+~
+0 -1 3570
+S
+#3572
+South Of The Inn~
+   The south side of the Inn. You can go north to the front door or west
+round to the back. A faint trail leads south into the trees, and from it
+comes a muffled sound of crying.
+~
+35 0 3
+D0
+This way leads to the front of the Inn.
+~
+~
+0 -1 3570
+D2
+The trail heads south, toward the crying.
+~
+~
+0 -1 3575
+D3
+This way leads to the back of the Inn.
+~
+~
+0 -1 3573
+S
+#3573
+Behind The Inn~
+   The back of the Inn, where the keeper throws his rubbish. It does not
+smell good. Piles of garbage lie to the west. You can go back east round the
+side of the building.
+~
+35 0 3
+D1
+You can go around the Inn this way.
+~
+~
+0 -1 3572
+D3
+Only rats and fool adventurers play in garbage.
+~
+~
+0 -1 3578
+S
+#3574
+The Woodsman Inn~
+   The common room of the Woodsman Inn, low-beamed and smoky. It is mostly
+empty. Since the goblins grew bold, few carters stop here, and those who do
+sleep with their boots on. An axe hangs by the door within easy reach. The
+bar is north, a quiet table south, and in a dark corner west sits a heavy
+drinker. The door is east.
+~
+35 cd 1
+D0
+The bar, manned by the Innkeeper.
+~
+~
+0 -1 3576
+D1
+The door out to the clearing.
+~
+~
+0 -1 3570
+D2
+An empty table, a rare thing on a busier night.
+~
+~
+0 -1 3579
+D3
+A table in a dark corner, occupied by a heavy drinker.
+~
+~
+0 -1 3577
+E
+axe~
+A woodsman's axe, well used and not for wood.
+~
+S
+#3575
+The Ambush Point~
+   An overgrown foot-trail south of the Inn, where a supply wagon was
+ambushed not long ago. Bushes are trampled flat and branches are broken
+down; a smashed lantern and a carter's whip lie in the leaves. Hoof-marks
+lead away west. The Inn is north.
+~
+35 0 3
+D0
+The Inn lies to the north.
+~
+~
+0 -1 3572
+D3
+A trail through the woods, cut by hoof-marks.
+~
+~
+0 -1 3581
+E
+lantern whip~
+A smashed carter's lantern and a whip. The rest of the wagon's crew is not
+here.
+~
+S
+#3576
+The Bar~
+   Folk once came here for the food and the welcome. Now the Innkeeper
+serves only the few carters and fighters who make it through the forest, and
+keeps a loaded crossbow under the bar. The common room is south.
+~
+35 df 1
+D2
+You may retreat south back to the common room.
+~
+~
+0 -1 3574
+E
+crossbow bar~
+A heavy crossbow, wound and loaded, under the bar.
+~
+S
+#3577
+The Bard's Table~
+   A dark corner of the Inn with a big round table and a few wooden chairs.
+There is a large sticky stain on the table where a drink was spilled and
+nobody wiped it up. The common room is east.
+~
+35 d 1
+D1
+You see the main floor of the Inn to the east.
+~
+~
+0 -1 3574
+S
+#3578
+The Garbage Dump~
+   You stand knee-deep in garbage: bones, peelings, broken pots, rags. It
+smells terrible, and something is moving underneath it. Cleaner ground lies
+east.
+~
+35 0 3
+D1
+You can return to cleaner lands this way.
+~
+~
+0 -1 3573
+S
+#3579
+A Quieter Section Of The Inn~
+   A quiet end of the Woodsman, empty but for a bench and a table. It is a
+safe enough place to rest and bind your wounds. The common room is north.
+~
+35 d 0
+D0
+You see the common room.
+~
+~
+0 -1 3574
+S
+#3581
+On The Trail Of The Horsemen~
+   The path runs east and west. Fresh hoof-prints in the soft ground show
+where the riders fled west, shod horses, army-shod, not goblin ponies.
+~
+35 0 3
+D1
+Back to the ambush point.
+~
+~
+0 -1 3575
+D3
+The trail continues.
+~
+~
+0 -1 3582
+S
+#3582
+On The Trail Of The Horsemen~
+   The path turns here, east and south. The hoof-prints swing south. A torn
+strip of grey cloth hangs from a thorn: part of a garrison tabard.
+~
+35 0 3
+D1
+The trail continues.
+~
+~
+0 -1 3581
+D2
+The tracks lead south.
+~
+~
+0 -1 3583
+E
+cloth tabard strip~
+Grey wool with a trim of the Midgaard garrison. One of the riders was a
+soldier of the wall, once.
+~
+S
+#3583
+On The Trail Of The Horsemen~
+   The trail of the horsemen runs north and west through the forest. The
+tracks are very fresh. They must be close.
+~
+35 0 3
+D0
+The trail continues.
+~
+~
+0 -1 3582
+D3
+The tracks lead west.
+~
+~
+0 -1 3584
+S
+#3584
+A Dead End Trail~
+   The path ends abruptly where the trees close in. Fresh tracks churn the
+ground and stop right here, by a ring of cold ashes and a heap of stolen
+sacks. The riders' hiding place. The only way back is east.
+~
+35 0 3
+D1
+Back along the trail.
+~
+~
+0 -1 3583
+E
+ashes sacks~
+A cold campfire and supply sacks with the Midgaard stamp. Deserters' loot.
+~
+S
+$

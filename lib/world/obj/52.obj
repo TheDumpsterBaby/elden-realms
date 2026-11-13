@@ -1,0 +1,429 @@
+#5200
+vest ringmail watch~
+a ringmail vest of the Thalos watch~
+A ringmail vest of the old city watch lies heaped on the floor.~
+~
+9 ag 9
+6 0 0 0
+60 12000 400
+A
+17 -1
+#5201
+helm iron old~
+an old iron helm~
+An old iron helm of the Thalos council guard has been left on the ground.~
+~
+9 0 17
+5 0 0 0
+10 5000 800
+A
+18 -2
+#5202
+gauntlets iron old~
+a pair of old iron gauntlets~
+A pair of old iron gauntlets rests heavily on the ground.~
+~
+9 0 129
+3 0 0 0
+10 2200 900
+A
+18 -3
+A
+19 1
+#5203
+sleeves iron old~
+a pair of old iron sleeves~
+A set of old iron sleeves lies on the ground.~
+~
+9 0 257
+4 0 0 0
+10 2450 500
+A
+18 -4
+A
+19 2
+#5204
+boots iron old~
+a pair of old iron boots~
+A pair of old iron boots has been left here.~
+~
+9 0 65
+3 0 0 0
+6 800 200
+A
+18 -1
+A
+2 -2
+#5205
+greaves iron old~
+a set of old iron greaves~
+A set of old iron greaves lies here, crusted with ancient dust.~
+~
+9 0 33
+5 0 0 0
+10 5400 210
+A
+18 -3
+A
+2 -3
+#5206
+girth iron old belt~
+an old iron girth~
+An old iron girth, the badge of the council guard, lies at your feet.~
+~
+9 0 2049
+2 0 0 0
+6 4200 600
+#5207
+plate breast breastplate iron battered~
+a battered iron breastplate~
+A battered iron breastplate, holed through the middle, lies here.~
+~
+9 0 9
+5 0 0 0
+125 13000 150
+A
+18 -6
+#5208
+shield iron warden sturdy~
+a stone warden's iron shield~
+A small but sturdy iron shield, worn smooth by a century of wind, has been left here.~
+~
+9 gh 513
+5 0 0 0
+5 500 1000
+A
+23 -2
+A
+24 -2
+#5210
+potion black~
+a black potion~
+A stoppered jet-black potion from the old apothecary stands upright here.~
+~
+10 fg 1
+16 4 36 39
+5 6000 1000
+#5211
+potion orange~
+an orange potion~
+A small orange potion sealed with ancient wax lies here.~
+~
+10 fg 1
+20 44 -1 -1
+10 7500 200
+#5213
+staff serpentine green~
+a green serpentine staff~
+A staff of green serpentine stone, carved with the old script of Thalos, has been left here.~
+~
+4 fg 16385
+15 2 2 23
+12 6600 300
+#5214
+ball quartz smooth~
+a smooth quartz ball~
+A smooth quartz ball lies here, glowing with a cold inner light.~
+~
+1 g 16385
+0 0 72 0
+30 3050 950
+#5215
+scroll tattered~
+a tattered scroll~
+A tattered scroll in the old script of Thalos has been left here.~
+~
+2 g 1
+24 24 44 4
+15 11000 4000
+#5216
+scroll bound~
+a bound scroll~
+A bound scroll from the council's desk lies at your feet.~
+~
+2 g 1
+15 18 19 20
+15 4200 100
+#5217
+flute silver~
+a silver flute~
+A silver flute from the Tavern of the Sun glimmers from beneath a rock.~
+~
+4 fg 16385
+18 2 2 7
+3 10500 8000
+#5218
+talisman demon~
+a demon-faced talisman~
+A talisman carved with a snarling demon face glares up at you.~
+~
+9 agh 5
+2 0 0 0
+11 2500 150
+E
+talisman demon~
+The face is not one carved in Thalos. It came in with the things that took
+the city, and it is heavier than it should be.
+~
+A
+1 -10
+A
+2 -8
+#5219
+venison chunk meat fresh~
+a chunk of fresh meat~
+A chunk of fresh meat from the lamias' larder sits here.~
+~
+19 0 1
+24 0 0 0
+20 100 20
+#5220
+fountain blood cracked marble~
+a large cracked fountain~
+~
+~
+23 0 0
+10 10 13 1
+0 0 0
+E
+fountain blood cracked marble~
+A great marble fountain, split through the middle. The water that wells up
+into its basin is dark red and warm, and it never stops.
+~
+#5221
+sword two-handed greatsword~
+a two-handed sword~
+A great two-handed sword of the Thalos wardens hangs on a hook in the wall.~
+~
+5 0 8193
+0 2 6 3
+22 55000 8000
+A
+18 -3
+A
+19 4
+#5222
+robe black silk~
+a black silk robe~
+A black silk robe, the mourning dress of Thalos, lies heaped in one corner.~
+~
+9 0 1025
+1 0 0 0
+6 1300 500
+#5223
+cloak green dark~
+a dark green cloak~
+A dark green cloak of the Thalos road-wardens has been dropped here.~
+~
+9 ag 5
+0 0 0 0
+12 14500 4000
+A
+13 8
+A
+17 -5
+#5224
+seal ebony key~
+an engraved ebony seal~
+A small ebony seal, engraved with the arms of the council, lies here.~
+~
+18 c 16385
+5224 0 0 0
+2 0 0
+#5225
+desk curved council~
+the council desk~
+~
+~
+15 0 0
+100 13 5224 0
+0 0 0
+#5226
+seal ivory key~
+an engraved ivory seal~
+A small ivory seal, engraved with the Warden's mark, lies here.~
+~
+18 c 16385
+5226 0 0 0
+2 0 0
+#5227
+cabinet glass~
+the glass cabinet~
+~
+~
+15 0 0
+500 13 5226 0
+0 0 0
+#5228
+arm rotted~
+a half-rotted arm~
+A half-rotted arm floats lazily past your feet.~
+~
+19 0 1
+50 0 0 1
+20 0 10
+#5230
+stone pale blue~
+a pale blue stone~
+A pale blue mosaic stone from the temple dome lies here.~
+~
+8 dg 16385
+0 0 0 0
+10 5500 600
+A
+1 1
+#5231
+stone scarlet blue~
+a scarlet and blue stone~
+A scarlet and blue stone, fallen from some old mosaic, lies here.~
+~
+8 dg 16385
+0 0 0 0
+10 5500 600
+A
+3 1
+#5232
+stone blue incandescent~
+an incandescent blue stone~
+A small incandescent blue stone glows in the dust.~
+~
+8 dg 16385
+0 0 0 0
+10 5500 600
+A
+4 1
+#5233
+stone red deep~
+a deep red stone~
+A deep red stone, like a drop of old blood, lies here.~
+~
+8 dg 16385
+0 0 0 0
+10 5500 600
+A
+2 1
+#5234
+stone pink~
+a pink stone~
+A tiny pink stone lies at your feet.~
+~
+8 dg 16385
+0 0 0 0
+10 5500 600
+A
+5 1
+#5235
+stone pearly white~
+a pearly white stone~
+A pearly white stone lies here, untouched by the dust around it.~
+~
+8 dg 16385
+0 0 0 0
+10 8700 600
+A
+13 1
+#5236
+stone lavender pale~
+a pale lavender stone~
+A pale lavender stone lies here, faintly cold.~
+~
+8 dgh 16385
+0 0 0 0
+10 4300 600
+A
+24 -2
+#5237
+stone lavender green~
+a lavender and green stone~
+A lavender and green stone rests on the ground.~
+~
+8 dgh 16385
+0 0 0 0
+10 4700 600
+A
+24 -4
+#5238
+stone rose dusty~
+a dusty rose stone~
+A dusty rose stone, the colour of old festival paint, lies here.~
+~
+8 dg 16385
+0 0 0 0
+10 9800 600
+A
+17 -1
+#5239
+stone grey dull~
+a dull grey stone~
+You can barely make out a dull grey stone among the rubble.~
+~
+8 dg 16385
+0 0 0 0
+10 20 200
+#5240
+stone purple vibrant~
+a vibrant purple stone~
+A vibrant purple stone glows sullenly among the ruins.~
+~
+8 dgh 16385
+0 0 0 0
+10 10200 1000
+A
+13 -50
+#5241
+stone pink green~
+a pink and green stone~
+A bright pink and green stone has been left here.~
+~
+8 dgh 16385
+0 0 0 0
+10 6600 1000
+A
+18 -5
+#5242
+stone green pale~
+a pale green stone~
+A pale green stone lies here collecting dust.~
+~
+8 dgh 16385
+0 0 0 0
+10 7100 1000
+A
+19 -5
+#5243
+stone clear~
+a clear stone~
+A clear stone lies at your feet. Something seems to move inside it.~
+~
+8 dgh 16385
+0 0 0 0
+10 8900 1000
+A
+17 -3
+#5244
+stone iridescent~
+an iridescent stone~
+A large iridescent stone from the heart of the temple dome lies here.~
+~
+8 dgh 16385
+0 0 0 0
+10 3700 1000
+A
+13 -100
+#5250
+mandolin~
+a mandolin~
+A mandolin from the Tavern of the Sun lies against the wall, its strings slack.~
+~
+4 g 16385
+13 3 3 15
+20 3000 1500
+#5251
+harp golden~
+a golden harp~
+A battered golden harp lies tipped over among the broken tables.~
+~
+4 g 16385
+18 1 1 6
+100 2500 800
+$

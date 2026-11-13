@@ -1,0 +1,247 @@
+#6200
+carter ore~
+an ore carter~
+An ore carter drives a creaking wagon toward the gate.
+~
+Black dust in every line of his face.
+~
+dg 0 200 E
+8 18 9 2d10+20 1d2+0
+28 163
+8 8 1
+BareHandAttack: 0
+E
+#6201
+guard gate soldier~
+an ironworks guard~
+An ironworks guard searches a conscript at the gate.
+~
+Thorough, unsmiling, and armed with a fresh-forged spear.
+~
+dbm 0 100 E
+12 17 9 3d10+118 2d4+2
+63 1738
+8 8 1
+BareHandAttack: 0
+E
+#6202
+conscript labourer laborer~
+a chained conscript~
+A chained conscript pushes a barrow of ore, head down.
+~
+Taken from the camps because they could still stand. They will work until
+they cannot.
+~
+dg 0 300 E
+8 18 9 2d10+20 1d2+0
+28 163
+8 8 0
+BareHandAttack: 0
+E
+#6203
+overseer yard~
+a yard overseer~
+A yard overseer counts barrows, a cudgel tapping his leg.
+~
+He hits the slow ones and the fast ones alike. It keeps them guessing.
+~
+dfg 0 -300 E
+13 17 9 3d10+125 2d4+2
+72 2038
+8 8 1
+BareHandAttack: 0
+E
+#6204
+smith blacksmith~
+a forge smith~
+A forge smith hammers a glowing blade, sweat steaming off him.
+~
+Arms like oak and burns all over. He has made a thousand blades this year
+and will make a thousand more.
+~
+db 0 200 E
+12 17 9 3d10+118 2d4+2
+63 1738
+8 8 1
+BareHandAttack: 0
+E
+#6205
+overseer whip~
+the treadwheel overseer~
+An overseer cracks a whip at the conscripts in the treadwheel.
+~
+She enjoys it. That is the worst part.
+~
+dbf 0 -500 E
+14 17 9 3d10+354 2d10+4
+109 7066
+8 8 2
+BareHandAttack: 0
+E
+#6206
+apprentice boy~
+a forge apprentice~
+An apprentice fishes in the quench trough with long tongs.
+~
+Twelve years old, burned on both arms, and proud of every scar.
+~
+db 0 300 E
+9 18 9 2d10+22 1d2+0
+34 204
+8 8 1
+BareHandAttack: 0
+E
+#6207
+armourer armorer~
+the armourer~
+The armourer turns a helm over in her hands, frowning at a flaw.
+~
+She knows every flaw in every piece that leaves this hall, and she knows
+that a flawed shield is better than none.
+~
+db 0 300 E
+14 17 9 3d10+354 2d10+4
+109 7066
+8 8 2
+BareHandAttack: 0
+E
+#6208
+clerk armoury~
+an armoury clerk~
+An armoury clerk counts spears with a weary sigh.
+~
+Four hundred and twelve. Four hundred and thirteen.
+~
+db 0 100 E
+9 18 9 2d10+22 1d2+0
+34 204
+8 8 1
+BareHandAttack: 0
+E
+#6209
+weaponsmith master~
+the master weaponsmith~
+The master weaponsmith folds glowing steel with slow, perfect strokes.
+~
+Grey-haired and steady-handed, the finest smith in the realm. She names
+every blade after a soldier who fell on the wall, so they will be remembered
+in steel.
+~
+db 0 500 E
+17 16 8 4d10+1273 2d16+7
+279 34690
+8 8 2
+BareHandAttack: 0
+E
+#6210
+overseer chief~
+the chief overseer~
+The chief overseer looks up from his ledgers with small, cold eyes.
+~
+A soft, pale man in a borrowed uniform who has never been near the wall. He
+meets his quotas by working conscripts to death, and he is praised for it.
+~
+dbl 0 -700 E
+16 16 8 4d10+1211 2d14+7
+253 30730
+8 8 1
+BareHandAttack: 0
+E
+#6211
+scavenger slag~
+a slag scavenger~
+A ragged scavenger digs through the slag with burned hands.
+~
+Too sick for the forges and too stubborn to die. She will fight you for a
+nail.
+~
+dfg 0 -200 E
+10 18 9 2d10+109 2d4+1
+47 1210
+8 8 0
+BareHandAttack: 0
+E
+#6212
+beetle cinder~
+a cinder beetle~
+A beetle the size of a dog scuttles over the slag, its shell glowing red.
+~
+Its shell is a crust of cooling slag over a body of embers. It came up out
+of the mine, and there are more every week.
+~
+dfg 0 -300 E
+12 17 9 3d10+118 2d4+2
+63 1738
+8 8 0
+BareHandAttack: 4
+E
+#6213
+ringleader conscript~
+the conscript ringleader~
+A lean woman in chains watches you from the dark, a sharpened bar in her hand.
+~
+She was a captain of militia in a village in the west. She will lead her
+people out of here or die trying.
+~
+db 0 400 E
+13 17 9 3d10+336 2d9+4
+96 6094
+8 8 2
+BareHandAttack: 0
+E
+#6214
+guard mine~
+a mine guard~
+A mine guard stands well back from the shaft.
+~
+He used to go down with the miners. He does not any more.
+~
+db 0 100 E
+13 17 9 3d10+125 2d4+2
+72 2038
+8 8 1
+BareHandAttack: 0
+E
+#6215
+miner~
+a sweating miner~
+A miner swings a pick at the warm rock.
+~
+Soaked in sweat, nervous, quick to swing his pick at anything that moves.
+~
+dg 0 100 E
+11 18 9 2d10+116 2d3+2
+55 1462
+8 8 1
+BareHandAttack: 0
+E
+#6216
+wraith ash~
+an ash wraith~
+A shape of drifting ash and embers rises in the shape of a man.
+~
+All that is left of a miner who met what lives below. It still carries the
+outline of a pick.
+~
+dfg 0 -800 E
+15 17 9 3d10+371 2d10+5
+121 8110
+8 8 0
+BareHandAttack: 12
+E
+#6217
+hulk molten slag~
+the Molten Hulk~
+A towering shape of molten iron and black slag rises from the glowing lake.
+~
+The living heart of the forge beneath the earth, woken by the miners' picks.
+It knows the West is coming, and it is eager to help it melt the fort's
+walls.
+~
+dbfl 0 -900 E
+20 15 8 5d10+3073 3d16+12
+844 144010
+8 8 0
+BareHandAttack: 6
+E
+$

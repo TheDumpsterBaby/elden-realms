@@ -1,0 +1,1891 @@
+#4000
+The Hill Road~
+   A rutted cart road climbs north out of the plains into low, bare hills.
+The dwarves once hauled ore down this road to the markets of the east; now
+the ruts are full of weeds and nobody comes this way who can help it. Far
+off to the northeast the first peaks of a long mountain chain rise grey
+against the sky. The road runs north into the hills and south back to the
+plains.
+~
+40 c 4
+D0
+~
+~
+0 -1 4001
+D2
+~
+~
+0 -1 3500
+S
+#4001
+The Hill Road~
+   The road winds between dark, scrubby hills that close in on either side.
+A milestone lies toppled in the ditch, its dwarven runes chipped away by
+someone with a hammer and a grudge. Ahead to the north a single mountain
+stands alone, black and enormous, apart from all the others. The road
+continues north and falls away south.
+~
+40 c 4
+D0
+~
+~
+0 -1 4002
+D2
+~
+~
+0 -1 4000
+E
+milestone stone runes~
+A squat dwarven milestone, knocked flat. Most of the runes have been hacked
+out; what remains reads "KAR-DUM..." and a distance no one will walk again.
+~
+S
+#4002
+The End Of The Road~
+   The cart road ends at a turning-place of packed stone where the ore
+wagons were once loaded. The lone mountain looms directly north, and a
+narrow trail climbs through the rocks to the dark mouth of the old mine.
+Someone has scratched a warning on a boulder beside the trail. To the
+northeast the southern end of the great range can be seen. The road leads
+back south.
+~
+40 c 4
+D0
+~
+~
+0 -1 4010
+D2
+~
+~
+0 -1 4001
+E
+boulder warning scratch scratches~
+Scratched deep into the boulder in dwarvish and then, more crudely, in the
+common tongue: "SEALED. DO NOT DIG. THEY ARE BELOW."
+~
+S
+#4010
+The Mine Mouth~
+   The adit of the mine opens into a low chamber some forty feet long, its
+walls marked by dwarven picks. The great timber gate that once closed it
+lies in splinters on the floor, broken outward, from inside. Fresh air comes
+in from the south, where the trail leads back down; to the north a tunnel
+runs on into the mountain.
+~
+40 ad 2
+D0 
+~
+~
+0 -1 4011
+D2
+~
+~
+0 -1 4002
+E
+gate timber splinters~
+Heavy oak beams bound with iron, smashed outward. The iron bands are bent
+the wrong way, as if something pushed from within.
+~
+S
+#4011
+The Entry Drift~
+   A narrow drift squeezes north between walls slick with seeping water. The
+smell of wet stone and old mould thickens with every step away from the
+light, and the dwarves' tally marks on the wall stop abruptly partway along.
+The last breath of fresh air comes from the south.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4014
+D2
+~
+~
+0 -1 4010
+S
+#4012
+A Bend In The Drift~
+   The drift turns sharply here. To the north it opens into a wider cave; to
+the east it runs on through the mountain. An abandoned ore barrow lies on
+its side across the bend, one wheel missing.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4016
+D1
+~
+~
+0 -1 4013
+E
+barrow ore~
+A dwarven ore barrow, its bed still half full of grey stone. Whoever was
+pushing it left in a hurry.
+~
+S
+#4013
+A Dusty Drift~
+   Dust lies thick on the floor of this east-west drift, and the only marks
+in it are the small, clawed prints of kobolds. No dwarf has walked here in a
+long time. The way runs east and west.
+~
+40 ad 3
+D1
+~
+~
+0 -1 4014
+D3
+~
+~
+0 -1 4012
+S
+#4014
+The Breach~
+   The old drift curves away to the south and west here, but in the north
+wall a new hole has been torn through the rock, rough and unshored, much
+younger than the dwarven work around it. The spoil from the digging lies
+heaped against the wall, and it was dug from the other side.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4018
+D2
+~
+~
+0 -1 4011
+D3
+~
+~
+0 -1 4013
+E
+hole breach spoil~
+The rubble lies on this side of the wall, pushed out. Whatever dug this
+tunnel came from the north and broke through into the dwarves' mine.
+~
+S
+#4015
+A Jagged Drift~
+   The drift jags from west to north here. The walls sweat with condensation
+and the roof hangs low enough to brush the head; the weight of the mountain
+above is easy to imagine. Cracked props of black timber hold up the ceiling,
+and none of them look sound.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4019
+D3
+~
+~
+0 -1 4014
+S
+#4016
+The Great Stope~
+   A wide stope where the dwarves once quarried out a whole seam, leaving a
+cavern so broad that its eastern and western ends are lost in darkness.
+Pillars of unworked rock hold up the roof. A drift leads south out of the
+stope, and the cavern stretches away east and west.
+~
+40 ad 2
+D1
+~
+~
+0 -1 4017
+D2
+~
+~
+0 -1 4012
+D3
+~
+~
+0 -1 4023
+S
+#4017
+The East End Of The Stope~
+   The stope ends against a wall worn smooth and rippled by water long
+before the dwarves came. A cold draught rises from cracks along its foot,
+and there is no way on. The rest of the cavern lies west.
+~
+40 ad 2
+D3
+~
+~
+0 -1 4016
+S
+#4018
+The Bone Cave~
+   A cave narrows here into a tunnel that runs south, while the cave itself
+goes on north into the dark. In one corner lies a great heap of bones,
+gnawed clean and sorted, the small ones on one side and the large on the
+other.
+~
+40 ad 2
+D0
+~
+~
+0 -1 4025
+D2
+~
+~
+0 -1 4014
+E
+pile bones heap~
+Kobold bones, goat bones, and -- unmistakably -- the broad, heavy skulls of
+dwarves. Someone has arranged them with care.
+~
+S
+#4019
+The Water-Cut Passage~
+   A wide passage runs north and south, its walls smooth and curved where an
+underground river carved them long ago. The dwarves widened it into a haul
+road; the iron rails are gone, prised up and carried off by the newcomers.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4026
+D2
+~
+~
+0 -1 4015
+S
+#4020
+The Shaft Alcove~
+   A small alcove opens off the main drift. In its floor a winding shaft
+drops away into the lower workings, the windlass that served it smashed and
+the rope cut. The only other way out is north.
+~
+40 acd 3
+D0
+~
+~
+0 -1 4027
+D5
+~
+~
+0 -1 4064
+E
+windlass rope shaft~
+The windlass has been beaten to pieces and the rope cut clean. Somebody did
+not want anything coming up. It came up anyway.
+~
+S
+#4021
+The Sweating Shaft~
+   The drift ends here at a broad shaft sunk in the northwestern corner of
+the floor. The air rising from it is warm and wet and clings to the skin,
+and it carries a faint, sweetish smell. The drift leads back east.
+~
+40 acd 3
+D1
+~
+~
+0 -1 4022
+D5
+~
+~
+0 -1 4115
+S
+#4022
+The Damp Drift~
+   Moisture hangs so thick in this drift that it beads on cloth and metal
+alike. Water runs in a thin sheet down the walls. The drift goes north and
+west, and a large cavern opens to the east.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4024
+D1
+~
+~
+0 -1 4023
+D3
+~
+~
+0 -1 4021
+S
+#4023
+The West End Of The Stope~
+   The western reach of the great stope, where the dwarves stopped cutting.
+The air near the drift mouth to the west is heavy and wet, like standing in
+fog. The walls and the far end of the cavern are lost in shadow; the stope
+stretches on to the east.
+~
+40 ad 2
+D1
+~
+~
+0 -1 4016
+D3
+~
+~
+0 -1 4022
+S
+#4024
+The Dripping Drift~
+   The walls here run with a constant trickle of water and the floor is a
+chain of stagnant pools, scummed and still. Something has been wading
+through them, more than once. The drift leads south, and to the west the air
+grows damper still.
+~
+40 ad 3
+D2
+~
+~
+0 -1 4022
+D3
+~
+~
+0 -1 4059
+S
+#4025
+The Lamp Cave~
+   The north end of a fair-sized cave where the dwarves kept their lamp
+store. Empty niches line the walls, every lamp taken. An opening in the east
+wall leads to a junction of several tunnels, and the cave runs back south.
+~
+40 ad 2
+D1
+~
+~
+0 -1 4026
+D2
+~
+~
+0 -1 4018
+E
+niches niche lamps~
+Rows of little stone niches, each blackened by old flame. Not one lamp is
+left.
+~
+S
+#4026
+The Crossdrifts~
+   Four drifts meet here at a dwarven crossing, each once marked with a
+carved rune now hacked away. A musty stench comes from the north; the
+western way opens at once into a cave, and the drifts to the south and east
+are black as pitch.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4028
+D1
+~
+~
+0 -1 4027
+D2
+~
+~
+0 -1 4019
+D3
+~
+~
+0 -1 4025
+S
+#4027
+An Elbow In The Drift~
+   The drift bends here to run west and north. A small alcove hides in the
+shadows just to the south, and a faint breath of moving air comes from
+somewhere to the north.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4029
+D2
+~
+~
+0 -1 4020
+D3
+~
+~
+0 -1 4026
+S
+#4028
+The Reeking Drift~
+   A narrow north-south drift. A pale glimmer of daylight shows to the
+north, and with it comes a sweet, heavy smell of rot that catches in the
+throat. The drift leads back south.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4030
+D2
+~
+~
+0 -1 4026
+S
+#4029
+The Air Cave~
+   A cave where fresh, cold air pours in from the north, and the dust is
+swept into ripples on the floor by the wind. The dwarves cut their
+ventilation shafts here; now the wind only brings in the smell of the hills.
+A tunnel leads south into the mountain.
+~
+40 ad 2
+D0
+~
+~
+0 -1 4031
+D2
+~
+~
+0 -1 4027
+S
+#4030
+The Light Shaft~
+   A shaft high overhead lets in a grey circle of sky, and in the dim light
+lies the source of the stench: the bodies of several creatures, torn open
+and left to rot. Something large dens here and does not eat all it kills.
+The only way out is the drift to the south.
+~
+40 d 2
+D2
+~
+~
+0 -1 4028
+E
+corpse corpses bodies~
+Kobolds and a goblin or two, ripped apart by something with a long body and
+a crushing bite. They have been here some time.
+~
+S
+#4031
+The Valley Below The Mountain~
+   A small, cold valley on the north side of the mountain, ringed by bare
+hills. An air-cave opens in the mountainside to the south. To the north the
+valley climbs into the hills, and a steep trail climbs a hill to the east.
+~
+40 0 2
+D0
+~
+~
+0 -1 4032
+D1
+A narrow trail climbs the steep hill to the east.
+~
+~
+0 -1 4045
+D2
+~
+~
+0 -1 4029
+S
+#4032
+The Foothills~
+   A winding path through the foothills on the north flank of Mount Dumhal.
+Cairns of stacked stones mark the way, set up by dwarves long ago. The path
+runs north and south.
+~
+40 0 4
+D0
+~
+~
+0 -1 4033
+D2
+~
+~
+0 -1 4031
+E
+cairn cairns stones~
+Dwarven waymarks. Some have been kicked over; one has been rebuilt, crudely,
+with a small skull on top.
+~
+S
+#4033
+A Fork In The Foothills~
+   The path forks here. It runs on north and south, while a rough trail
+breaks away east toward the mountains. A wooden signpost once stood here;
+only its stump remains.
+~
+40 0 4
+D0
+~
+~
+0 -1 4034
+D1
+~
+~
+0 -1 4037
+D2
+~
+~
+0 -1 4032
+S
+#4034
+The Long Grass~
+   The grass grows rank and tall here, crushed flat in great swathes where
+something very heavy has lain or walked. Boulders the size of carts lie
+scattered about, not where they fell but where they were thrown. The way
+leads north to the edge of the hills, west deeper into them, and south to
+the fork.
+~
+40 0 2
+D0
+~
+~
+0 -1 4035
+D2
+~
+~
+0 -1 4033
+D3
+~
+~
+0 -1 4042
+S
+#4035
+The Foothills' End~
+   The foothills give out here onto open plains to the north. The wind comes
+hard and cold across the flat grass. The hills lie back to the south.
+~
+40 0 4
+D0
+~
+~
+0 -1 4036
+D2
+~
+~
+0 -1 4034
+S
+#4036
+The Plains~
+   Open grassland under a wide grey sky. The path leads south into the
+foothills. A faint, almost hidden trail leads west toward a copse of dark
+trees that seems nearer than it should be.
+~
+40 0 2
+D2
+~
+~
+0 -1 4035
+D3
+~
+~
+0 -1 4075
+S
+#4037
+The Path Through The Foothills~
+   The path runs east and west through the foothills. To the west it returns
+to the fork; to the east it ends where a spur of the mountain chain thrusts
+up out of the ground and blots out half the sky.
+~
+40 0 4
+D1
+~
+~
+0 -1 4038
+D3
+~
+~
+0 -1 4033
+S
+#4038
+The Foot Of The Spur~
+   The base of a great mountain, first of the chain that marches north from
+Mount Dumhal toward the top of the world. A path leads back west through the
+foothills, and to the east a narrow, well-worn trail starts up the
+mountainside. The trail is worn by paws, not boots.
+~
+40 0 5
+D1
+~
+~
+0 -1 4039
+D3
+~
+~
+0 -1 4037
+S
+#4039
+A Trail Up The Mountain~
+   A narrow trail clings to the mountainside, worn deep by the passage of
+some animal. It climbs on up toward the summit and drops west back to the
+foot of the mountain. Tufts of tawny fur are caught on the thorns.
+~
+40 0 5
+D3
+~
+~
+0 -1 4038
+D4
+~
+~
+0 -1 4040
+S
+#4040
+The Summit~
+   The top of the mountain is a flat, wind-scoured plateau some thirty yards
+across, smaller than it looked from below. From here the march can be seen
+to the west, a brown haze under a darker sky. A gouge in the north side of
+the plateau leads to a cave; a rough trail heads east down toward a hidden
+valley, and the way back is down.
+~
+40 0 5
+D0
+~
+~
+0 -1 4041
+D1
+~
+~
+0 -1 4076
+D5
+~
+~
+0 -1 4039
+S
+#4041
+The Lion's Den~
+   The gouge leads down into a cramped den that stinks of cat and old blood.
+Bones are scattered over a bed of flattened grass, some of them very large.
+A great mountain lion makes its lair here. The only way out is south.
+~
+40 ad 2
+D2
+~
+~
+0 -1 4040
+S
+#4042
+The Level Foothills~
+   The foothills flatten out here. Off to the west a great cave mouth gapes
+in the side of a hill that rises too steeply and too suddenly from the land
+around it. A path begins here, out of nothing, and leads east.
+~
+40 0 2
+D1
+~
+~
+0 -1 4034
+D3
+~
+~
+0 -1 4043
+S
+#4043
+The Cave Mouth~
+   The tunnel inside the hill is far larger than it looked from outside: the
+roof is twenty feet up and the floor fifteen feet across, the walls rubbed
+smooth by something passing through. Fresh air comes in from the east, and
+to the west the tunnel runs into darkness.
+~
+40 d 2
+D1
+~
+~
+0 -1 4042
+D3
+~
+~
+0 -1 4044
+S
+#4044
+The Hill Giant's Hall~
+   A vast cavern, its roof twenty-five feet up or more and its walls lost in
+shadow. In the middle of the sandy floor stands an enormous table of rough
+timber, tall enough to walk beneath without stooping, and around it lie the
+gnawed remains of many meals. A great tunnel leads out of the east wall.
+~
+40 ad 2
+D1
+~
+~
+0 -1 4043
+E
+table~
+A table built from whole tree trunks, lashed together. On it lie a cracked
+cauldron, a cartwheel used as a plate, and a dwarven helm used as a cup.
+~
+S
+#4045
+The Steep Trail~
+   The trail climbs a steep hill and levels out where it starts to pass
+between the mountains. Loose scree slides away underfoot. It goes on east
+through the hills and drops west to the valley.
+~
+40 c 5
+D1
+The rocky trail continues east between the mountains.
+~
+~
+0 -1 4046
+D3
+The trail drops steeply west to the valley floor.
+~
+~
+0 -1 4031
+S
+#4046
+Between The Mountains~
+   The trail between the mountains seems to have no end. Grey walls of rock
+rise on either side and the wind moans between them. It runs east and west.
+~
+40 c 5
+D1
+The trail winds on eastward between the peaks.
+~
+~
+0 -1 4047
+D3
+The trail winds on westward between the peaks.
+~
+~
+0 -1 4045
+S
+#4047
+The Eastern Foothills~
+   After the long trek between the mountains the trail comes out into
+foothills again. A short way east the path turns toward a narrow trail that
+bends away to the northwest. The mountain pass lies back west.
+~
+40 c 5
+D1
+The path continues east toward the narrow trail.
+~
+~
+0 -1 4049
+D3
+The trail back through the mountains seems to go on forever.
+~
+~
+0 -1 4046
+S
+#4048
+A Turn In The Eastern Foothills~
+   A short way into the foothills the trail faces the long pass between the
+mountains to the west, which looks a hard and tiring road. Eastward the path
+leads toward a narrow trail that bends away northwest.
+~
+40 c 5
+D1
+The path continues east toward the narrow trail.
+~
+~
+0 -1 4049
+D3
+The trail through the mountains seems to go on forever.
+~
+~
+0 -1 4046
+S
+#4049
+The Bend Toward Thalos~
+   The trail turns here from its westward run into a track meandering away
+to the north, toward the mountain road to New Thalos. Refugees have come
+this way; a dropped shoe and a broken cart axle lie in the ditch.
+~
+40 c 4
+D0
+A narrow trail winds away north into the mountains.
+~
+~
+0 -1 5628
+D3
+The trail heads west toward the mountains.
+~
+~
+0 -1 4048 
+S
+#4050
+The Mossy Bend~
+   The tunnel bends from east to south. The walls are cold and wet, and a
+greenish moss grows thick near the roof on the northern side, glowing very
+faintly in the dark.
+~
+40 ad 3
+D1
+~
+~
+0 -1 4051
+D2
+~
+~
+0 -1 4053
+E
+moss~
+A pale green moss that gives off a faint, sickly light. The dwarves never
+wrote of it. It came with the newcomers.
+~
+S
+#4051
+The Broken Steps~
+   The tunnel narrows sharply here, and eastward the floor drops nearly five
+feet in a run of jagged, broken steps. The dwarves cut them square; claws
+have since chewed their edges. Westward the floor is smooth.
+~
+40 ad 3
+D1
+~
+~
+0 -1 4052
+D3
+~
+~
+0 -1 4050
+S
+#4052
+The Spring~
+   The floor levels out again. A small spring bubbles up beside the southern
+wall into a stone basin the dwarves carved for it, though the water now
+tastes of iron and something worse. The tunnel runs east and west.
+~
+40 ad 3
+D1
+~
+~
+0 -1 4100
+D3
+~
+~
+0 -1 4051
+E
+spring basin water~
+Clear water in a carved basin, with a faint oily sheen. Nobody has drunk
+here in a long time and lived to complain.
+~
+S
+#4053
+The Right-Angle Drift~
+   The drift turns at a right angle, leading north and east. To the north it
+runs on through the gloom of the deep; to the east, unexpectedly, the drift
+opens into a large cave lit by the red flicker of fire.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4050
+D1
+~
+~
+0 -1 4054
+S
+#4054
+The Fire Cave~
+   The north end of a great cave lit by a flickering red glare from a huge
+fire that burns a short way to the south. The light throws long, leaping
+shadows on the walls, and they do not always move with the flames. Tunnels
+lead away east and west, half hidden in the shadows.
+~
+40 d 2
+D1
+~
+~
+0 -1 4055
+D2
+~
+~
+0 -1 4056
+D3
+~
+~
+0 -1 4053
+S
+#4055
+The Old Drifts~
+   A cramped exploratory drift, low and damp, one of many the dwarves cut
+while searching for the seam. It twists away into darkness and this branch
+ends here; the only way back is west.
+~
+40 ad 3
+D3
+~
+~
+0 -1 4054
+S
+#4056
+The Forge-Fire~
+   In the middle of the cave burns an enormous fire, built in the stone
+hearth of the dwarves' old forge and fed with their own timbers. It gives
+light enough to see both ends of the cave, north and south. Iron scraps lie
+around the hearth, beaten crudely into blades.
+~
+40 d 2
+D0
+~
+~
+0 -1 4054
+D2
+~
+~
+0 -1 4061
+E
+fire hearth forge~
+The fire has burned here a long time. The roof is black with soot and the
+floor grey with ash. The great dwarven hearth now serves those who drove the
+dwarves out.
+~
+E
+scraps iron blades~
+Dwarven rail-iron and pick-heads, hammered into ugly, serviceable blades by
+someone with no skill and no patience.
+~
+S
+#4057
+The Old Drifts~
+   Another low, wet drift in the warren of exploratory tunnels. Pick marks
+show where the dwarves gave up on this one and started a new one beside it.
+The way leads north and south.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4055
+D2
+~
+~
+0 -1 4062
+S
+#4058
+The Old Drifts~
+   The drift turns here, the roof dripping steadily onto a fallen prop. A
+chalk mark on the wall, a dwarven arrow, points south. The ways lead south
+and west.
+~
+40 ad 3
+D2
+~
+~
+0 -1 4063
+D3
+~
+~
+0 -1 4057
+S
+#4059
+The Rivulet Drift~
+   A drift deep in the heart of Mount Dumhal. A thin rivulet runs along the
+north wall and down the slope to the east, where the drift plunges deeper
+into the earth. Westward it climbs a little toward damper air.
+~
+40 acd 3
+D1
+~
+~
+0 -1 4060
+D3
+~
+~
+0 -1 4024
+S
+#4060
+The Still Pool~
+   The drift runs nearly level here. The rivulet along the north wall feeds
+a small black pool, yet the pool never rises, as if something below drinks
+it. The drift climbs west, and to the east a red flicker shows where it
+opens into a cave.
+~
+40 ad 3
+D1
+~
+~
+0 -1 4061
+D3
+~
+~
+0 -1 4059
+E
+pool water~
+Black, still water. It never ripples, even when the rivulet runs into it.
+~
+S
+#4061
+The South Fire Cave~
+   The southern end of the great fire cave, lit by the glare of the fire a
+short way north. Crude bedding of stolen dwarven cloth lies heaped along the
+walls, where the warband sleeps. Tunnels lead away west and south.
+~
+40 d 2
+D0
+~
+~
+0 -1 4056
+D2
+~
+~
+0 -1 4065
+D3
+~
+~
+0 -1 4060
+S
+#4062
+The Old Drifts~
+   A small, damp drift whose low roof is furred with pale growth. Water
+seeps from every crack and gathers in shallow puddles that nothing has
+disturbed for years. The drift runs east and west.
+~
+40 ad 3
+D1
+~
+~
+0 -1 4063
+D3
+~
+~
+0 -1 4061
+S
+#4063
+The Old Drifts~
+   The drift bends north and east here. Someone has lined the floor with
+sharpened stakes, and then, it seems, forgotten them; one still holds a
+scrap of hide.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4058
+D1
+~
+~
+0 -1 4064
+S
+#4064
+The Shaft Foot~
+   A small round chamber at the bottom of a shaft. The roof is smooth and in
+its centre a well-rounded hole leads up to the workings above. The walls are
+damp to the touch, and the chamber narrows west into a drift.
+~
+40 ad 3
+D3
+~
+~
+0 -1 4063
+D4
+~
+~
+0 -1 4020
+S
+#4065
+The Old Drifts~
+   A low drift that twists away into darkness. To the north a red glow marks
+the mouth of the great fire cave; the drift also leads east.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4061
+D1
+~
+~
+0 -1 4066
+S
+#4066
+The Old Drifts~
+   Three drifts meet here in the warren: north, east and south. Southward
+the way opens out into a great echoing cavern; the air from it is cold.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4062
+D1
+~
+~
+0 -1 4067
+D2
+~
+~
+0 -1 4069
+S
+#4067
+The Old Drifts~
+   A dead-end bay of the old workings, where the dwarves found nothing. The
+drift leads north and west, and the scratches on the walls here were not
+made by picks.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4063
+D3
+~
+~
+0 -1 4066
+S
+#4068
+The Echoing Cavern~
+   The northwest corner of a natural cavern so vast that every breath comes
+back as an echo. Stalactites hang from the dark above like teeth, and
+stalagmites rise to meet them. The cavern stretches east and south.
+~
+40 ad 2
+D1
+~
+~
+0 -1 4069
+D2
+~
+~
+0 -1 4070
+S
+#4069
+The Echoing Cavern~
+   The northeast reach of the great cavern. Something drips steadily in the
+dark, and the echo makes it sound like footsteps. A narrow drift leads off
+north; the cavern spreads away west and south.
+~
+40 ad 2
+D0
+~
+~
+0 -1 4066
+D2
+~
+~
+0 -1 4071
+D3
+~
+~
+0 -1 4068
+S
+#4070
+The Echoing Cavern~
+   The southwest reach of the great cavern, where a forest of stalagmites
+rises from the floor. Several have been snapped off and dragged away. The
+cavern continues north and east.
+~
+40 ad 2
+D0
+~
+~
+0 -1 4068
+D1
+~
+~
+0 -1 4071
+S
+#4071
+The Echoing Cavern~
+   The southeast end of the great cavern, where the stone teeth hang lowest.
+Clawed tracks cross the floor toward a narrow tunnel in the east wall. The
+cavern opens north and west.
+~
+40 ad 2
+D0
+~
+~
+0 -1 4069
+D1
+~
+~
+0 -1 4072
+D3
+~
+~
+0 -1 4070
+S
+#4072
+The New Tunnel~
+   A narrow tunnel bores through the mountain, turning from east to south.
+It is not dwarven work: the walls are gouged, not cut. Its west side breaks
+through a natural crack into a great cavern.
+~
+40 ad 3
+D1
+~
+~
+0 -1 4073
+D2
+~
+~
+0 -1 4074
+D3
+~
+~
+0 -1 4071
+S
+#4073
+The Unfinished Tunnel~
+   The gouged tunnel stops dead against a face of raw rock, its last few
+feet scraped at as if by hands. The diggers stopped here and did not say
+why. The only way out is back west.
+~
+40 ad 3
+D3
+~
+~
+0 -1 4072
+S
+#4074
+The Narrow Hole~
+   A small hole opens in the floor of the tunnel, far too narrow for
+anything larger than a kobold to pass, and warm air breathes up out of it.
+The only way out is north.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4072
+D5
+The hole is far too small to fit through. Warm air rises from it, smelling
+of smoke.
+~
+~
+0 -1 -1
+E
+hole floor~
+A narrow, worn hole. Something small has passed through it many times. Warm
+air breathes up from below, smelling of smoke.
+~
+S
+#4075
+The Copse Of Dark Trees~
+   A copse of black-barked trees stands alone on the plain, silent, with no
+birds in it. The plains lie to the east. Just to the north a shadow hangs
+between the trunks, shifting shape all the time, and seems to beckon.
+~
+40 0 4
+D0
+A shadow hangs between the trees, deeper than it should be. Beyond it is
+somewhere else.
+~
+~
+0 -1 2500
+D1
+~
+~
+0 -1 4036
+S
+#4076
+On A Mountain Trail~
+   A rough trail twists down the mountainside toward a small hidden valley
+in the shadow of another mountain to the east. From here the valley proves
+tiny, scarcely thirty feet long, and its floor is strangely dark. The summit
+is back west, and the trail drops down.
+~
+40 0 5
+D3
+~
+~
+0 -1 4040
+D5
+~
+~
+0 -1 4077
+S
+#4077
+In The Hidden Valley~
+   A cramped, cold valley at the foot of the eastern mountain, its floor
+black with old cinders. Nothing grows here. A carefully hidden trail climbs
+the eastern mountain, and the way back is up.
+~
+40 0 5
+D1
+~
+~
+0 -1 6400
+D4
+~
+~
+0 -1 4076
+S
+#4078
+In The Hidden Valley~
+   The far end of the hidden valley, in the shadow of the great mountain to
+the east. A trail leads east up the mountain, vanishing and reappearing
+among the rocks as if it does not want to be followed. The trail back climbs
+up the western slope.
+~
+40 0 5
+D1
+~
+~
+0 -1 6400
+D4
+~
+~
+0 -1 4076
+S
+#4100
+The Deep Incline~
+   The drift falls steeply here toward the deep, and a rivulet of water
+rushes down one side of it. The dwarves cut steps into the floor; most are
+worn smooth. The drift runs straight east for a long way and climbs back
+west.
+~
+40 acd 3
+D1
+~
+~
+0 -1 4101
+D3
+~
+~
+0 -1 4052
+S
+#4101
+The Long Drift~
+   A broad haul drift, wide enough for four to walk abreast, sloping gently
+east. A rivulet runs along the north wall. Iron rings for lamps are set in
+the roof at even intervals, all empty.
+~
+40 ad 3
+D1
+~
+~
+0 -1 4102
+D3
+~
+~
+0 -1 4100
+S
+#4102
+The Long Drift~
+   The long drift goes on, and its walls begin to close in quickly to the
+east like the neck of a funnel. Broken lamp glass crunches underfoot, as
+though a whole crew dropped their lights here at once. The way runs east and
+west.
+~
+40 ad 3
+D1
+~
+~
+0 -1 4103
+D3
+~
+~
+0 -1 4101
+S
+#4103
+The Funnel~
+   The drift narrows here to room for two side by side. Westward it widens;
+eastward it dives deeper. At waist height in the southern wall is a round
+hole some two feet across, edged with a faint gold light.
+~
+40 ad 3
+D1
+~
+~
+0 -1 4104
+D2
+~
+~
+0 -1 4106
+D3
+~
+~
+0 -1 4102
+S
+#4104
+The Bulb~
+   The drift ends in a round, bulb-shaped chamber thirty feet across. The
+walls are dry and strangely blurred to the eye, and nothing grows on them.
+The only way out is the drift climbing sharply from the west wall.
+~
+40 ad 3
+D3
+~
+~
+0 -1 4103
+S
+#4105
+The Golden Cave~
+   The northeast corner of a vast cavern lit by a soft, unwholesome golden
+light that seeps out of the walls themselves. The dwarves broke into this
+cave and thought they had found their fortune. It stretches west and south.
+~
+40 d 1
+D2
+~
+~
+0 -1 4108
+D3
+~
+~
+0 -1 4106
+E
+light gold golden walls~
+Gold-coloured veins pulse faintly in the rock. It is not gold. It is warm to
+the touch, and it is worthless.
+~
+S
+#4106
+The Golden Cave~
+   The northwest corner of the golden cavern. Old dwarven pick marks score
+the glowing veins where they tried, and failed, to mine them. A round hole
+two feet across opens in the north wall onto darkness. The cave stretches
+east and south.
+~
+40 d 1
+D0
+~
+~
+0 -1 4103
+D1
+~
+~
+0 -1 4105
+D2
+~
+~
+0 -1 4109
+E
+light gold golden veins~
+The light is gold, but nothing else is. The dwarves' picks cut into it and
+left only glowing dust.
+~
+S
+#4107
+The Hewn Passage~
+   A small passage makes a sharp turn here, south and west. The walls are
+roughly hewn. Southward the passage goes on in the dark; westward there is a
+soft golden glow.
+~
+40 ad 3
+D2
+~
+~
+0 -1 4113
+D3
+~
+~
+0 -1 4108
+S
+#4108
+The Golden Cave~
+   The southeast corner of the golden cavern. The light pulses very slowly
+here, like breathing. A crack in the east wall leads into a passage, and the
+cave stretches north and west.
+~
+40 d 1
+D0
+~
+~
+0 -1 4105
+D1
+~
+~
+0 -1 4107
+D3
+~
+~
+0 -1 4109
+E
+light gold golden~
+The glow brightens and fades in a slow rhythm. It is like standing inside
+something that sleeps.
+~
+S
+#4109
+The Golden Cave~
+   The middle of the golden cavern's western side. A dwarf's pick lies here
+with its haft burned black and its head half melted. The cave opens north,
+east and south.
+~
+40 d 1
+D0
+~
+~
+0 -1 4106
+D1
+~
+~
+0 -1 4108
+D2
+~
+~
+0 -1 4114
+E
+light gold golden~
+The veins are brightest here, and the air tastes of hot metal.
+~
+E
+pick haft~
+A dwarven pick, its iron head slumped as if it had been in a furnace.
+Whoever held it struck the wrong vein.
+~
+S
+#4110
+The Pit~
+   The tunnel ends abruptly in an alcove, at the very lip of a great hole in
+the floor. One more step would have been the last. A cold, rotten smell
+rises out of it, and far down there is a sound like digging. The tunnel
+leads back west.
+~
+40 acd 3
+D3
+~
+~
+0 -1 4111
+D5
+A dropped stone falls and falls and never strikes bottom. This is the way
+they came up, from the west and below. Nobody sane goes down.
+~
+~
+0 -1 -1
+E
+hole floor pit~
+A dropped stone falls and falls and never strikes bottom. This is the way
+they came up, from the west and below. Nobody sane goes down.
+~
+S
+#4111
+The Orange Moss Tunnel~
+   The walls of this small tunnel are furred with a strange orange moss that
+flakes away at a touch. The air is still and stale, with a rotten smell
+coming from the east. The tunnel runs east and west, and low in the southern
+wall there is a small, easily missed hole.
+~
+40 ad 3
+D1
+~
+~
+0 -1 4110
+D2
+The hole is very small. You would have to crawl through it.
+~
+~
+0 -1 4126
+D3
+~
+~
+0 -1 4112
+E
+moss walls wall~
+A dry, scratchy orange moss that crumbles under the fingers and leaves an
+orange stain that will not rub off.
+~
+E
+hole~
+A small hole low in the southern wall, just big enough to crawl into.
+~
+S
+#4112
+The Oily Tunnel~
+   This tunnel is unusually wide for the deep workings, yet the air is close
+and damp. A thin film of moisture coats the walls and feels slick and oily
+under the hand. The tunnel runs east and west.
+~
+40 ad 3
+D1
+~
+~
+0 -1 4111
+D3
+~
+~
+0 -1 4113
+E
+wall walls moisture coat coating~
+Colours swirl slowly through the film on the walls, like oil on water,
+though there is no oil here and no reason for it to move.
+~
+S
+#4113
+The Hewn Passage~
+   A natural passage running north and south, its walls roughly smoothed by
+dwarven chisels to ease the way. It wanders deeper into the mountain. A
+shadow in the eastern wall hides the mouth of a side tunnel.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4107
+D1
+~
+~
+0 -1 4112
+D2
+~
+~
+0 -1 4116
+S
+#4114
+The Golden Cave~
+   The southwest corner of the golden cavern, where the glow fades to a dull
+amber. The cave stretches north, and a strange fold of shadow in the west
+wall hides a passage.
+~
+40 d 1
+D0
+~
+~
+0 -1 4109
+D3
+~
+~
+0 -1 4115
+E
+light gold golden~
+The glow is dimmest here, a dull and dirty amber.
+~
+E
+shadow fold~
+The shadow hides the opening of a dark passage leading west.
+~
+S
+#4115
+The Dark Passage~
+   A short, dark passage ends here and its wall curves up toward the
+ceiling. Overhead is a hole just large enough to climb through, and
+handholds have been cut into the curve of the wall, too far apart for a
+dwarf's reach. The passage leads east.
+~
+40 ad 3
+D1
+~
+~
+0 -1 4114
+D4
+~
+~
+0 -1 4021
+E
+handholds handhold wall~
+Deep holds gouged into the rock, spaced for long arms and long claws.
+~
+S
+#4116
+The Square Passage~
+   A dwarf-cut passage, square and true, wide enough for two to walk side by
+side. It runs north and south, and far off to the south a pinpoint of yellow
+light flickers.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4113
+D2
+~
+~
+0 -1 4120
+E
+light~
+A flickering yellow point, too steady for fire alone. Torches, perhaps, and
+someone to tend them.
+~
+S
+#4117
+The Secret Way~
+   A narrow passage that few have ever walked. To the north there is a
+glimmer of golden light; to the south it leads toward a chamber. Dwarven
+runes of warding are cut into the lintel, and all of them have been
+scratched out.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4114
+D2
+~
+~
+0 -1 4122
+E
+runes lintel~
+Warding runes, deliberately defaced. Whatever the dwarves sealed in here,
+someone wanted it let out.
+~
+S
+#4118
+The Torch Cave~
+   A large cave lit by some twenty torches burning in iron sconces high on
+the walls, dwarven sconces filled with the invaders' pitch. The dancing
+flames hold the eye too long. The cave continues west and south, and in the
+north wall a narrow vertical crack may lead somewhere.
+~
+40 d 1
+D0
+The crack looks like a very tight fit.
+~
+~
+0 -1 4126
+D2
+~
+~
+0 -1 4123
+D3
+~
+~
+0 -1 4119
+S
+#4119
+The Torch Cave~
+   The northwest part of the torch-lit cave. Stolen dwarven gear is piled
+here in heaps for sorting: helms, picks, cups and coin. The cave continues
+east and south, and the rock wall to the west has an odd, too-smooth look.
+~
+40 d 1
+D1
+~
+~
+0 -1 4118
+D2
+~
+~
+0 -1 4124
+D3
+The rock wall to the west looks wrong somehow, as though it were set there.
+~
+wall rock~
+1 -1 4121
+E
+wall rock~
+The western wall is too smooth and too square. There is a hairline seam
+around it.
+~
+E
+gear heaps pile~
+Dwarven loot, sorted into heaps by a mind that values everything by weight.
+~
+S
+#4120
+The Rising Passage~
+   A passage just too narrow for two. The floor climbs here so that the roof
+seems to dip. To the south the passage narrows again; northward it widens. A
+flickering light shows from the south.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4116
+D2
+~
+~
+0 -1 4125
+E
+light~
+It is nearly enough to light the passage. Torchlight, somewhere to the
+south.
+~
+S
+#4121
+The Dwarven Hall~
+   An unnaturally regular hall, ten feet broad and twelve high, its walls
+dressed and polished by dwarven masons. Westward it narrows to a doorway
+five feet across. At the east end the hall stops at a smooth rock wall.
+~
+40 ad 3
+D1
+The smooth rock wall to the east looks as though it could be moved.
+~
+wall rock~
+1 -1 4119
+D3
+~
+~
+0 -1 4122
+E
+wall rock~
+The smooth rock wall to the east looks as though it could be moved. It is a
+dwarven secret door, cleverly hung.
+~
+S
+#4122
+The Sealed Vault~
+   A small, perfectly round chamber that no stream ever carved. Its walls
+are polished like glass and its two doorways, north and east, are exactly
+five feet broad and eleven tall. The dwarves sealed something in here when
+they fled. Whatever guards it now is not a dwarf.
+~
+40 ad 3
+D0
+~
+~
+0 -1 4117
+D1
+~
+~
+0 -1 4121
+E
+walls wall~
+Polished dwarven stonework, carved with a frieze of dwarves walking away
+from something, their heads bowed.
+~
+S
+#4123
+The Torch Cave~
+   The southeast part of the torch-lit cave. Gnawed bones and broken jars
+litter the floor, and the smoke of the torches hangs under the roof in a
+brown pall. The cave continues north and west.
+~
+40 d 1
+D0
+~
+~
+0 -1 4118
+D3
+~
+~
+0 -1 4124
+S
+#4124
+The Torch Cave~
+   The southwest part of the torch-lit cave, where the invaders' rough
+pallets lie beneath the sconces. The cave continues north and east, and a
+passage leads out of the western wall and turns north.
+~
+40 d 1
+D0
+~
+~
+0 -1 4119
+D1
+~
+~
+0 -1 4123
+D3
+~
+~
+0 -1 4125
+S
+#4125
+The Passage End~
+   The end of a narrow passage that leads away north. The bare southern wall
+seems to dance with the shadows thrown by the torchlight from the cave to
+the east.
+~
+40 d 3
+D0
+~
+~
+0 -1 4120
+D1
+~
+~
+0 -1 4124
+S
+#4126
+The Crawlway~
+   A crawlway barely two feet high, with jagged rock snagging at every move.
+There is no room to turn and none to fight. It would be a very bad place to
+meet whatever made it. It runs north and south.
+~
+40 acdfgij 5
+D0
+A small hole marks the northern end of the crawlway.
+~
+~
+0 -1 4111
+D2
+Torchlight shows at the southern end of the crawlway.
+~
+~
+0 -1 4118
+S
+$

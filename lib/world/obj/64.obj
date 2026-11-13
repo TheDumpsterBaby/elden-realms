@@ -1,0 +1,231 @@
+#6400
+dagger glowing~
+a glowing dagger~
+A dagger lies here, glowing with a cold light.~
+~
+5 ag 8193
+0 1 4 11
+1 1000 300
+A
+18 3
+#6401
+platemail glowing plate mail~
+the glowing platemail~
+A suit of platemail lies in a heap here, glowing faintly.~
+~
+9 ag 9
+9 0 0 0
+150 30000 10000
+E
+platemail plate mail~
+Heavy plate worked with Rand's wards. It glows with a pale light that does
+not warm.
+~
+#6402
+agate gem~
+an agate~
+A small banded agate lies here.~
+~
+8 0 1
+0 0 0 0
+1 5000 500
+#6403
+jade jewel~
+a piece of jade~
+A small piece of green jade gleams here.~
+~
+8 0 1
+0 0 0 0
+1 10000 1000
+#6404
+sculpture statue~
+a piece of sculpture~
+A fine piece of sculpture stands here.~
+~
+8 0 1
+0 0 0 0
+75 20000 2000
+E
+sculpture statue~
+A woman carved in white stone, straining beneath a heavy weight, tears
+chiselled on her cheeks. On the base: "For Ilsa, who would not leave." It
+makes you sad.
+~
+#6405
+vial dragons blood~
+a vial of dragon's blood~
+A small vial of dark red fluid lies in the ash here.~
+~
+10 0 1
+7 39 39 39
+5 48000 20500
+E
+vial blood~
+A stoppered vial of thick red blood, one of Rand's rarest reagents. It is
+still warm.
+~
+#6406
+amulet warding~
+a warding amulet~
+An amulet of tarnished silver has been dropped here.~
+~
+9 ag 5
+0 0 0 0
+3 20000 3000
+E
+amulet warding~
+A silver amulet cut with a warding sign. It did not save whoever wore it.
+~
+A
+2 3
+#6407
+rod pole surveyor~
+a surveyor's rod~
+A long rod marked with Rand's measuring runes has been cast aside here.~
+~
+3 ag 16385
+25 5 5 38
+10 25000 5000
+E
+rod pole surveyor runes~
+A rod of iron-shod ash, marked with runes for measuring out circles of
+binding. There is power still in it.
+~
+#6408
+bag powder wealth~
+a bag of powder of wealth~
+A small bag filled with glittering powder lies here.~
+~
+20 ag 1
+100000 0 0 0
+1 100000 0
+#6409
+desk drawers ebony~
+an ebony desk~
+Rand's ebony desk stands here, half buried in lava.~
+~
+15 0 0
+100 13 0 0
+800 0 0
+#6410
+book chaos~
+the Book of Chaos~
+A book whose title crawls across its cover rests here.~
+~
+3 abgh 16385
+20 1 1 26
+25 100000 25000
+#6411
+book elder~
+the Book of the Elder~
+A grey-bound book lies here.~
+~
+3 abg 16385
+30 1 1 28
+25 300000 50000
+#6412
+lens occluded~
+the Occluded Lens~
+A smoky lens about a foot across lies scuffed in the dust here.~
+~
+1 aghjk 16385
+0 0 0 0
+20 200000 50000
+E
+lens occluded~
+A disc of smoked glass. Through it the world looks dimmer, and other things
+can be seen moving in it.
+~
+A
+12 20
+A
+4 1
+#6413
+mevais herb leaf~
+a leaf of mevais~
+A small black leaf of mevais lies here, well preserved.~
+~
+10 0 1
+30 27 33 4
+1 0 0
+E
+mevais herb leaf~
+A black, glossy leaf from Rand's stores. Chewing it might have interesting
+effects.
+~
+#6414
+bottle peska~
+a bottle of peska~
+A bottle of milky fluid stands here.~
+~
+10 0 1
+30 28 3 1
+12 15000 3000
+E
+bottle peska~
+A milky concoction with strange motes drifting in it, brewed by Rand for his
+long nights.
+~
+#6415
+staff rand~
+Rand's staff~
+A metal-shod staff lies here.~
+~
+9 agnop 16385
+8 0 0 0
+7 100000 25000
+E
+staff rand~
+The staff of Rand, carved with binding-signs from end to end. It is still
+warm where his hand held it.
+~
+A
+12 5
+A
+17 5
+#6416
+chest wooden~
+a wooden chest~
+A heavy wooden chest stands here.~
+~
+15 0 0
+500 13 0 0
+0 0 0
+#6417
+chest wooden~
+a wooden chest~
+A heavy wooden chest stands here.~
+~
+15 0 0
+500 13 0 0
+0 0 0
+#6418
+chest wooden~
+a wooden chest~
+A heavy wooden chest stands here.~
+~
+15 0 0
+500 13 0 0
+0 0 0
+#6419
+basin water~
+a water basin~
+A basin of crisp, clean water from nowhere stands here.~
+~
+17 a 0
+100 100 0 0
+100 0 0
+#6420
+food bread~
+some food~
+Some food from the warded larder lies here.~
+~
+19 0 1
+8 0 0 0
+3 20 10
+E
+food bread~
+Bread, cheese and cold meat, fresh as the day they were laid in. Rand's
+wards keep the larder for a master who will never eat again.
+~
+$

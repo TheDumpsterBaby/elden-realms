@@ -1,0 +1,71 @@
+#50
+Claude~
+The Supply Road~
+5000 5099 20 2
+M 0 5000 2 5000	teamster
+M 0 5001 2 5001	carrion_crow
+M 0 5002 3 5003	caravan_guard
+E 1 5007 100 16	militia_spear
+E 1 5008 40 11	militia_shield
+M 0 5000 2 5003	teamster
+M 0 5003 1 5004	stablehand
+O 0 5000 1 5005	ledger
+M 0 5004 1 5005	depot_clerk
+M 0 5005 1 5006	depot_master
+M 0 5006 1 5008	signal_warden
+G 1 5006 60	caravan_lantern
+M 0 5001 3 5009	carrion_crow
+M 0 5007 3 5010	deserter
+E 1 5009 70 16	notched_sword
+M 0 5007 2 5011	deserter
+E 1 5009 70 16	notched_sword
+M 0 5008 1 5011	deserter_sergeant
+E 1 5009 100 16	notched_sword
+E 1 5010 35 5	deserter_mail
+M 0 5007 3 5012	deserter
+E 1 5009 70 16	notched_sword
+M 0 5008 1 5012	deserter_sergeant
+E 1 5009 100 16	notched_sword
+E 1 5010 35 5	deserter_mail
+M 0 5009 1 5013	deserter_captain
+E 1 5012 100 16	captains_sabre
+E 1 5010 100 5	deserter_mail
+E 1 5011 60 6	deserter_helm
+M 0 5010 2 5015	bandit
+E 1 5013 60 16	bandit_shortsword
+M 0 5010 2 5016	bandit
+E 1 5013 60 16	bandit_shortsword
+M 0 5011 1 5017	bandit_lookout
+M 0 5010 2 5018	bandit
+E 1 5013 60 16	bandit_shortsword
+M 0 5010 2 5019	bandit
+E 1 5013 60 16	bandit_shortsword
+M 0 5012 2 5019	bandit_cutthroat
+E 1 5014 100 16	cutthroat_dagger
+G 1 5004 50	cache_key
+D 0 5019 2 2
+O 0 5001 1 5020	strongbox
+P 1 5002 3 5001	salt_pork
+P 1 5003 2 5001	grain_sack
+P 1 5016 1 5001	signet_ring
+D 0 5020 0 2
+M 0 5013 1 5021	bandit_lord
+E 1 5015 100 16	lords_broadsword
+E 1 5016 100 1	signet_ring
+E 1 5010 100 5	deserter_mail
+G 1 5004 100	cache_key
+M 0 5014 2 5022	grey_wolf
+G 1 5017 25	wolf_pelt
+M 0 5014 3 5023	grey_wolf
+G 1 5017 25	wolf_pelt
+M 0 5015 1 5024	wolf_matriarch
+G 1 5018 100	matriarch_cloak
+M 0 5014 2 5024	grey_wolf
+G 1 5017 25	wolf_pelt
+M 0 5002 1 5026	caravan_guard
+E 1 5007 100 16	militia_spear
+E 1 5008 40 11	militia_shield
+M 0 5016 1 5029	shrine_keeper
+G 1 5005 100	road_ration
+S
+$

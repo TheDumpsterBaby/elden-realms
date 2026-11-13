@@ -1,0 +1,221 @@
+#21200
+blade legion~
+a legion blade~
+A grey iron legion blade lies here.~
+~
+5 0 8193
+0 4 5 3
+8 2189 218
+#21201
+plate legion~
+legion plate~
+A suit of grey iron legion plate lies here.~
+~
+9 0 9
+19 0 0 0
+10 2189 218
+#21202
+staff centurion black~
+a centurion's black staff~
+A black iron staff lies here.~
+~
+5 0 8193
+0 4 5 5
+8 2271 227
+A
+18 3
+#21203
+gauntlets forge general~
+the Forge-General's gauntlets~
+A pair of black iron gauntlets, still warm, lies here.~
+~
+9 0 129
+8 0 0 0
+10 2353 235
+A
+1 2
+A
+19 4
+#21204
+hammer forge~
+a forge hammer~
+A heavy forge hammer lies here.~
+~
+5 0 8193
+0 4 5 7
+8 2149 214
+#21205
+whip chain~
+a whip of chains~
+A whip of linked black chains lies here.~
+~
+5 0 8193
+0 4 6 2
+8 2353 235
+A
+18 4
+A
+19 4
+#21206
+glaive dread~
+a dread glaive~
+A black glaive lies here.~
+~
+5 0 8193
+0 4 6 3
+8 2271 227
+A
+19 3
+#21207
+keys prison ring~
+a ring of black keys~
+A ring of black iron keys lies here.~
+~
+18 0 1
+0 0 0 0
+1 11 1
+#21208
+mantle chain~
+a mantle of broken chains~
+A mantle of broken chains lies here.~
+~
+9 0 1025
+10 0 0 0
+10 2353 235
+A
+13 60
+A
+20 -4
+#21209
+rod void~
+a void rod~
+A rod of black glass that swallows the light lies here.~
+~
+5 0 8193
+0 4 5 5
+8 2271 227
+A
+12 60
+A
+3 1
+#21210
+sword general~
+a dread general's sword~
+A long black sword lies here.~
+~
+5 0 8193
+0 4 5 3
+8 2312 231
+A
+18 4
+A
+19 3
+#21211
+plate general~
+a dread general's plate~
+A suit of black plate lies here.~
+~
+9 0 9
+20 0 0 0
+10 2312 231
+A
+13 50
+#21212
+blade herald~
+the Herald's blade~
+A sword of black iron that hums with a voice lies here.~
+~
+5 0 8193
+0 4 6 3
+8 2437 243
+A
+18 6
+A
+19 6
+#21213
+plate herald~
+the Herald's plate~
+A suit of black plate, warm as flesh, lies here.~
+~
+9 0 9
+20 0 0 0
+10 2437 243
+A
+13 80
+A
+5 2
+A
+24 -4
+#21214
+sigil herald ring~
+the Herald's sigil ring~
+A ring of black iron bearing a spiral lies here.~
+~
+11 0 3
+0 0 0 0
+2 2353 235
+A
+1 2
+A
+2 2
+A
+18 2
+#21215
+bracer archer black~
+a black archer's bracer~
+A black leather archer's bracer lies here.~
+~
+9 0 4097
+4 0 0 0
+10 2189 218
+A
+18 2
+#21216
+mail drake scale~
+a coat of drake-scale mail~
+A coat of grey drake scales lies here.~
+~
+9 0 9
+20 0 0 0
+10 2353 235
+A
+13 40
+A
+2 1
+#21217
+brand iron inquisitor~
+the Inquisitor's brand~
+A long iron brand, still hot, lies here.~
+~
+5 0 8193
+0 4 5 14
+8 2271 227
+A
+18 4
+A
+19 2
+#21218
+censer void~
+a void censer~
+A censer leaking grey light lies here.~
+~
+11 0 16385
+0 0 0 0
+2 2230 223
+A
+12 40
+#21219
+map war campaign~
+a campaign map of the east~
+A rolled campaign map lies here.~
+~
+12 0 1
+0 0 0 0
+2 2000 200
+E
+map campaign~
+The Bastion's plan for the east: the legions to march through the march, the
+engines to break the west gate of Midgaard, and a note in the margin, "the
+sappers will be under the wall by midwinter."
+~
+$

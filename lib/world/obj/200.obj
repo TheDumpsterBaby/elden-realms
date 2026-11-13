@@ -1,0 +1,224 @@
+#20000
+barrel water~
+a water barrel~
+A barrel of clean water stands by the wall.~
+~
+23 0 0
+100 100 0 0
+2 11 1
+#20001
+fountain cracked~
+a cracked fountain~
+A cracked stone fountain dribbles grey water.~
+~
+23 0 0
+100 100 0 0
+2 11 1
+#20002
+book tome~
+an open book of grey pages~
+A book lies open on the table, its pages grey.~
+~
+12 0 0
+0 0 0 0
+2 11 1
+E
+book tome pages~
+The words crawl when you look at them. One phrase repeats, in a hundred
+hands: THE WALL IS ALREADY FALLEN. IT HAS ONLY NOT NOTICED.
+~
+#20003
+dressing field bandage~
+a field dressing~
+A rolled field dressing lies here.~
+~
+10 0 1
+30 15 -1 -1
+1 372 37
+#20004
+bread hard~
+a hard loaf of army bread~
+A hard loaf of army bread lies here.~
+~
+19 0 1
+12 0 0 0
+1 10 1
+#20005
+crossbow watch~
+a watchman's crossbow~
+A heavy crossbow lies here.~
+~
+5 0 8193
+0 2 5 11
+8 391 39
+#20006
+helm watch~
+a dented watch helm~
+A dented grey helm lies here.~
+~
+9 0 17
+6 0 0 0
+10 391 39
+#20007
+blade captain~
+a captain's longsword~
+A plain, well-kept longsword lies here.~
+~
+5 0 8193
+0 2 5 3
+8 431 43
+A
+18 2
+#20008
+sword commander~
+the Commander's sword~
+A sword with a worn leather grip lies here.~
+~
+5 0 8193
+0 2 5 3
+8 452 45
+A
+18 2
+A
+19 2
+#20009
+spear rusted~
+a rusted militia spear~
+A rusted spear lies here.~
+~
+5 0 8193
+0 2 5 11
+8 353 35
+#20010
+hide hound~
+a mangy hound hide~
+A mangy hound hide lies here.~
+~
+9 0 1025
+5 0 0 0
+10 353 35
+#20011
+noose hangman~
+a hangman's noose~
+A frayed noose lies coiled here.~
+~
+11 0 5
+0 0 0 0
+2 431 43
+A
+20 -3
+A
+5 1
+#20012
+axe raider~
+a raider's axe~
+A notched axe with a grey hand painted on the haft lies here.~
+~
+5 0 8193
+0 2 5 3
+8 411 41
+#20013
+leathers raider~
+raider leathers~
+A set of patched raider leathers lies here.~
+~
+9 0 9
+10 0 0 0
+10 411 41
+#20014
+bow outrider~
+an outrider's horn bow~
+A short horn bow lies here.~
+~
+5 0 8193
+0 2 5 11
+8 431 43
+A
+2 1
+#20015
+cloak wolfskin~
+a wolf-skin cloak~
+A wolf-skin cloak lies here.~
+~
+9 0 1025
+5 0 0 0
+10 431 43
+A
+14 20
+#20016
+key pen~
+a crude iron key~
+A crude iron key lies here.~
+~
+18 0 1
+0 0 0 0
+1 11 1
+#20017
+staff ash~
+a staff of ash-grey wood~
+A staff of grey wood lies here.~
+~
+5 0 8193
+0 2 5 5
+8 431 43
+A
+12 30
+A
+3 1
+#20018
+axe great warlord~
+the warlord's great axe~
+A huge double-bitted axe lies here.~
+~
+5 0 8193
+0 2 7 3
+8 452 45
+A
+19 3
+#20019
+fang alpha necklace~
+a necklace of carrion fangs~
+A necklace of yellow fangs lies here.~
+~
+11 0 5
+0 0 0 0
+2 431 43
+A
+1 1
+A
+18 1
+#20020
+blade reaver black~
+the Reaver's black blade~
+A greatsword of black iron lies here, smoking faintly.~
+~
+5 0 8193
+0 2 7 3
+8 473 47
+A
+18 3
+A
+19 3
+#20021
+helm reaver empty~
+the Reaver's empty helm~
+A blackened helm, grey embers glowing inside it, lies here.~
+~
+9 0 17
+6 0 0 0
+10 473 47
+A
+13 25
+A
+24 -2
+#20022
+plate blackened breastplate~
+a blackened breastplate~
+A breastplate scorched black lies here.~
+~
+9 0 9
+10 0 0 0
+10 452 45
+A
+5 1
+$

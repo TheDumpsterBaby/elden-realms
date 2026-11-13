@@ -1,0 +1,643 @@
+#3000
+magus war wizard~
+the war-magus~
+A war-magus stands behind the counter, muttering wards under his breath.
+~
+An old mage who went west with the first regiments and came back alone. His
+eyes are clouded grey, and he can see things nobody else can. He sells what
+the fort needs to fight sorcery with sorcery.
+~
+ablno d 900 S
+33 2 2 1d1+30000 2d8+18
+30000 160000
+8 8 1
+#3001
+baker ration~
+the ration baker~
+The ration baker wipes flour from her face and looks at you wearily.
+~
+A broad-armed woman grey with flour, who has not slept a full night since
+the war began. Her bread is hard and plain and keeps for a month on the
+march.
+~
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+100 160000
+8 8 1
+#3002
+provisioner grocer~
+the provisioner~
+The fort provisioner stands at the counter, ticking items off a ledger.
+~
+A thin, precise man who knows the price of every torch and sack in the fort,
+and the cost of running out.
+~
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+30000 160000
+8 8 1
+#3003
+weaponsmith smith~
+the weaponsmith~
+The weaponsmith is grinding an edge onto a sword from the Ironworks.
+~
+A burly smith with burn scars up both arms. He sells blades to boys who will
+die with them in their hands, and he does not like to think about it.
+~
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+30000 160000
+8 8 1
+#3004
+armourer armorer~
+the armourer~
+The armourer is hammering a dent out of a breastplate.
+~
+A stocky armourer who mends what comes back from the west. He has stopped
+looking at the holes.
+~
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+28500 160000
+8 8 1
+#3005
+innkeeper receptionist~
+the innkeeper~
+The innkeeper is checking the ledger of beds.
+~
+A tired woman with a pen behind her ear, who keeps track of who sleeps in
+the fort, and who does not come back to their bed.
+~
+abelnop dfp 900 S
+33 0 -10 1d1+30000 2d8+32
+0 0
+8 8 2
+#3006
+ferryman captain stolar~
+the ferryman~
+The ferryman leans on a boathook, watching the river.
+~
+A grizzled boatman who works the river with a hook, pulling out what comes
+down from the west. He will sell you a boat, if you are fool enough to need
+one.
+~
+ablno d 900 S
+33 2 2 1d1+30000 2d8+12
+2000 160000
+8 8 1
+#3007
+boatman sailor~
+the boatman~
+A boatman sleeps among the nets, snoring.
+~
+A boatman too drunk to work the river and too tired to care.
+~
+blno 0 900 S
+33 0 -10 1d1+30000 2d8+12
+2000 160000
+8 8 1
+#3008
+uncle juan~
+Uncle Juan~
+Uncle Juan is here ready to take your order.
+~
+He looks like he may or may not have a green card.
+~
+ablno 0 900 S
+33 0 -10 1d1+30000 2d8+18
+2000 160000
+8 8 1
+#3009
+water seller wally watermaster~
+the water-seller~
+The water-seller stands behind a row of clean water jars.
+~
+A careful man who draws his water from the deep wells under the fort and
+seals every jar with wax. Nobody drinks from the river any more.
+~
+ablno d 800 S
+33 0 -10 1d1+30000 1d8+18
+1000 160000
+8 8 1
+#3010
+courier master postmaster~
+the courier-master~
+The courier-master is sorting letters into bundles.
+~
+A precise old man who sorts the letters of the living and keeps the letters
+of the dead.
+~
+ablnopr dp 1000 S
+33 0 -10 1d1+30000 1d8+18
+2000 0
+8 8 1
+#3011
+sentry wall~
+a wall sentry~
+A wall sentry stands here, watching the west.
+~
+A soldier on wall duty, wrapped in a grey cloak, a horn at his belt to sound
+if anything comes out of the march.
+~
+dbm 0 600 E
+14 17 9 3d10+132 2d5+2
+81 2362
+8 8 0
+BareHandAttack: 0
+E
+#3012
+crossbowman bowman soldier~
+a crossbowman~
+A crossbowman stands at the gate, his weapon loaded.
+~
+A grim soldier with a heavy crossbow and a quiver of bolts tipped with
+blessed iron.
+~
+dbm 0 600 E
+16 16 8 4d10+140 2d6+2
+101 3082
+8 8 0
+BareHandAttack: 0
+E
+#3013
+soldier wounded~
+a wounded soldier~
+A wounded soldier lies on a pallet, bandaged and pale.
+~
+A young soldier carried back from the march with a wound that will not
+close. The edges of it are grey.
+~
+db 0 500 E
+4 19 10 1d10+18 1d2+0
+9 48
+8 8 0
+BareHandAttack: 0
+E
+#3014
+priest last breath~
+a priest of the last breath~
+A priest of the last breath kneels by the altar, waiting for the dead.
+~
+One of the priests who watch over the altar where the fallen return. She has
+seen thousands of soldiers wake on the cold stone, and she greets every one
+of them the same way: you are home, you are alive, you are needed.
+~
+db 0 1000 E
+22 15 8 5d10+177 3d5+4
+168 5818
+8 8 2
+BareHandAttack: 0
+E
+#3015
+sergeant recruiting recruiter~
+a recruiting sergeant~
+A recruiting sergeant sits at a table, taking down names.
+~
+A big, cheerful sergeant with a ledger and a missing hand. He signs up
+anyone who can hold a spear and sends them east to the Recruit Yards to
+learn how.
+~
+db 0 500 E
+18 16 8 4d10+154 2d6+3
+122 3898
+8 8 0
+BareHandAttack: 0
+E
+#3016
+widow mourner woman~
+a war widow~
+A war widow stands by the memorial post in silence.
+~
+A woman in black who comes here every day to touch a name on the post.
+~
+db 0 800 E
+2 20 10 1d10+14 1d2+0
+3 19
+8 8 2
+BareHandAttack: 0
+E
+#3017
+messenger runner~
+a fort messenger~
+A fort messenger hurries past with a dispatch case.
+~
+A quick, thin youth carrying orders between the gates and headquarters.
+~
+d 0 400 E
+8 18 9 2d10+95 1d6+1
+33 778
+8 8 0
+BareHandAttack: 0
+E
+#3018
+stranger hollow eyed~
+a hollow-eyed stranger~
+A hollow-eyed stranger stands in the shadows, his skin faintly grey.
+~
+He came in with the refugees, and something came in with him. His eyes are
+pale, his skin is grey at the fingertips, and he hums a tune that has no
+end. The first sign of the West, inside the walls.
+~
+dbl 0 -500 E
+10 18 9 2d10+109 2d4+1
+47 1210
+8 8 0
+BareHandAttack: 0
+E
+#3020
+master guildmaster mage~
+the master of the mages' guild~
+The master of the mages' guild is studying a chart of the march.
+~
+A gaunt mage who teaches the young to fight the West with fire and will. She
+does not let them read the books in the locked case.
+~
+abelnop dh 1000 S
+34 0 -10 6d10+640 1d8+24
+876 100000
+8 8 2
+#3021
+master guildmaster priest cleric~
+the master of the clerics' guild~
+The master of the clerics' guild kneels in prayer.
+~
+An old priest whose hands shake except when he heals. He has buried more
+soldiers than live in the fort.
+~
+abelnop dh 1000 S
+34 0 -10 6d10+640 1d8+24
+876 100000
+8 8 1
+#3022
+master guildmaster thief~
+the guildmaster of the black glove~
+A soft-spoken man counts coins in the shadows.
+~
+The master of a guild that does not exist. He trains those who will scout
+the march unseen, and he takes his cut of everything smuggled through the
+fort.
+~
+abelnop dh 1000 S
+34 0 -10 6d10+640 1d8+34
+876 100000
+8 8 2
+#3023
+master guildmaster warrior swordsman~
+the master of the swordsmen's guild~
+The master of the swordsmen's guild watches the drill with folded arms.
+~
+A one-eyed veteran of the first siege. He trains warriors to hold a line,
+because a line is all that stands between the West and everything else.
+~
+abelnop 0 1000 S
+34 0 -10 6d10+740 1d8+34
+926 100000
+8 8 1
+#3024
+sentry warded sorcerer~
+a warded sentry~
+A sentry in a robe stitched with wards stands at the inner door.
+~
+A mage of the guild set to guard the door. The wards on her robe glow
+faintly when you come near.
+~
+ablnop dh 900 S
+33 0 -5 6d10+990 1d8+22
+1000 60000
+8 8 1
+#3025
+templar knight~
+a templar~
+A templar in a grey surcoat guards the inner door.
+~
+A knight of the temple sworn to guard the clerics, and to burn any of them
+who come back from the west wrong.
+~
+ablnop dh 1000 S
+33 0 -5 6d10+990 1d8+22
+1000 160000
+8 8 1
+#3026
+cutthroat assassin~
+a cut-throat~
+A cut-throat leans in the doorway, cleaning his nails with a knife.
+~
+The guild's doorman. He looks at you as if measuring you for a shroud.
+~
+ablnop dfhst 400 S
+33 0 -10 6d10+990 1d8+25
+1000 160000
+8 8 1
+#3027
+knight wall~
+a knight of the wall~
+A knight of the wall stands guard at the inner door.
+~
+A knight in battered plate, sworn to the defence of the west wall. He has
+been west and it shows in his eyes.
+~
+ablnop dh 800 S
+33 0 -8 6d10+990 1d8+40
+1000 160000
+8 8 1
+#3040
+landlord bartender~
+the landlord of the Boar~
+The landlord of the Grunting Boar is drawing watered ale.
+~
+A heavy man who runs the oldest inn in the fort, and pours one cup a man by
+order of the Lord Commander.
+~
+bno 0 900 S
+24 2 2 6d10+390 1d8+12
+466 41511
+8 8 1
+#3041
+potboy waiter~
+the potboy~
+A potboy is carrying a tray of cups.
+~
+A thin boy too young for the wall, who works the bars and listens to the
+soldiers talk.
+~
+bno 0 900 S
+23 2 2 6d10+390 1d8+12
+440 41441
+8 8 1
+#3042
+potboy waiter~
+the potboy~
+A potboy is carrying a tray of cups.
+~
+A thin boy too young for the wall, who works the bars and listens to the
+soldiers talk.
+~
+bno 0 600 S
+23 1 2 6d10+390 1d8+12
+440 41441
+8 8 1
+#3043
+potboy waiter~
+the potboy~
+A potboy is carrying a tray of cups.
+~
+A thin boy too young for the wall, who works the bars and listens to the
+soldiers talk.
+~
+bno 0 600 S
+23 1 2 6d10+390 1d8+12
+440 41441
+8 8 1
+#3044
+potboy waiter~
+the potboy~
+A potboy is carrying a tray of cups.
+~
+A thin boy too young for the wall, who works the bars and listens to the
+soldiers talk.
+~
+bno 0 600 S
+23 1 2 6d10+390 1d8+12
+440 41441
+8 8 1
+#3045
+potboy waiter~
+the potboy~
+A potboy is carrying a tray of cups.
+~
+A thin boy too young for the wall, who works the bars and listens to the
+soldiers talk.
+~
+bno 0 600 S
+23 1 2 6d10+390 1d8+12
+440 41441
+8 8 1
+#3046
+filthy landlord~
+Filthy~
+Filthy is standing behind the bar, grinning with brown teeth.
+~
+The landlord of the Grubby Inn, who asks no questions and serves drink that
+would strip paint.
+~
+belno d 600 S
+33 1 -10 1d1+30000 1d8+22
+2000 80000
+8 8 1
+#3059
+provost marshal peacekeeper~
+the provost marshal~
+The provost marshal stands here, watching for deserters.
+~
+A hard-faced officer whose job is to keep order in the fort and to hang
+those who run. He is very good at his job.
+~
+aeglm d 1000 E
+17 3 0 5d6+225 3d3+13
+243 30000
+8 8 1
+BareHandAttack: 10
+E
+#3060
+soldier garrison guard cityguard~
+a soldier of the garrison~
+A soldier of the garrison stands here in a grey-trimmed tabard.
+~
+A soldier of the fort, tired and thin, his tabard patched and his sword well
+kept. He would die on the wall for you, and probably will.
+~
+aglm d 1000 S
+10 10 1 1d12+123 1d8+5
+97 9000
+8 8 1
+#3061
+carter corpse janitor~
+the corpse-carter~
+A corpse-carter pushes a handcart along, picking things up.
+~
+An old man who carts away whatever is left in the streets: rubbish, kit, and
+sometimes bodies.
+~
+agl 0 800 S
+1 20 9 2d6+10 1d5+0
+2 32
+8 8 1
+#3062
+cur dog starving fido~
+a starving cur~
+A starving cur is sniffing at the gutter.
+~
+A thin, ugly dog, all ribs and teeth, that eats whatever it can find,
+including the dead.
+~
+afghq p -200 E
+0 20 10 1d6+4 1d4+0
+0 21
+8 8 1
+BareHandAttack: 4
+E
+#3063
+sellsword mercenary~
+a sellsword~
+A sellsword lounges here, looking for work or trouble.
+~
+A hired blade from the eastern kingdoms who came for the garrison's pay and
+has not yet worked out that nobody comes back to spend it.
+~
+bl 0 -330 S
+5 15 5 2d6+60 1d6+1
+30 715
+8 8 1
+#3064
+veteran drunk~
+a shell-shocked veteran~
+A shell-shocked veteran sits here, drinking and staring at nothing.
+~
+An old soldier who came back from the Barrow Hills and has not stopped
+shaking. He drinks so he does not dream.
+~
+b 0 400 S
+2 19 8 2d6+22 1d6+0
+6 49
+8 8 1
+#3065
+beggar refugee~
+a refugee beggar~
+A refugee beggar holds out a thin hand.
+~
+Someone who fled the West with nothing and found nothing here either.
+~
+b 0 400 S
+1 20 9 2d6+10 1d5+0
+0 32
+8 8 2
+#3066
+hound carrion dog~
+a carrion hound~
+A carrion hound slinks along, its eyes faintly grey.
+~
+A big grey-eyed dog that came in through the west gate one night and would
+not leave. It eats the dead and watches the living.
+~
+afghq p -200 E
+0 20 10 1d6+4 1d4+0
+0 21
+8 8 1
+BareHandAttack: 4
+E
+#3067
+warden gate guard cityguard~
+a gate warden~
+A gate warden in heavy mail stands guard here.
+~
+One of the wardens of the gates, picked men who decide who goes out to the
+west and who is let back in. Those who come back wrong do not get in.
+~
+abglm 0 1000 S
+10 10 1 1d12+123 1d8+5
+97 9000
+8 8 1
+#3068
+blob grey gelatinous~
+a grey gelatinous blob~
+A grey gelatinous blob slides along the ground, cleaning as it goes.
+~
+A mass of grey jelly that crawled up out of the cisterns. It eats rubbish,
+and nobody is quite sure what else.
+~
+aeghlnopqr d 0 E
+20 0 0 1d11+325 3d6+5
+335 27724
+8 8 0
+BareHandAttack: 6
+E
+#3089
+kennelmaster pet shop boy~
+the kennelmaster~
+The kennelmaster is feeding the dogs.
+~
+A scarred woman who breeds hounds for the march. She knows every one of them
+by name, and remembers the ones that did not come back.
+~
+blno 0 1000 S
+10 10 1 1d1+30000 20d4+10
+500 9000
+8 8 1
+#3090
+cat ratting kitten~
+a ratting cat~
+A lean ratting cat watches you.
+~
+A scarred grey cat bred to keep the rats of the cisterns down.
+~
+bco 0 0 E
+1 20 9 1d6+11 1d4+0
+0 27
+8 8 0
+BareHandAttack: 8
+E
+#3091
+pup puppy hound~
+a war-hound pup~
+A war-hound pup tumbles about.
+~
+A big-pawed pup that will grow into a war-hound, if it lives that long.
+~
+bco 0 0 E
+1 20 9 1d6+13 1d4+0
+0 31
+8 8 0
+BareHandAttack: 8
+E
+#3092
+hound tracking beagle~
+a tracking hound~
+A tracking hound sniffs the air.
+~
+A long-eared hound with a nose that can find a man in the march, or what is
+left of him.
+~
+bco 0 0 E
+2 19 8 1d12+22 1d6+0
+0 48
+8 8 0
+BareHandAttack: 4
+E
+#3093
+mastiff war rottweiler~
+a war-mastiff~
+A war-mastiff stares at you, silent.
+~
+A huge dog in a spiked collar, trained to bring down ghouls.
+~
+bco 0 0 E
+3 18 7 1d12+35 1d7+0
+0 127
+8 8 0
+BareHandAttack: 4
+E
+#3094
+wolf tamed~
+a tamed wolf~
+A tamed wolf paces its cage.
+~
+A wolf caught as a cub on the march. It has never forgotten what it is.
+~
+bco 0 0 E
+4 17 6 1d12+47 1d8+0
+0 308
+8 8 0
+BareHandAttack: 4
+E
+#3095
+cryogenicist~
+the cryogenicist~
+The cryogenicist is checking the ice in the sleepers' cells.
+~
+A pale, careful man who keeps the sleepers cold until the fort needs them.
+~
+ablno dfp 900 S
+33 0 -10 1d1+30000 2d8+32
+0 0
+8 8 2
+$

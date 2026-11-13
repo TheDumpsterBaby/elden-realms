@@ -1,0 +1,357 @@
+#20300
+The Eastern Approach~
+   The fens give way to a wide grey plain under a low sky. The ground is
+littered with the leavings of an army: a broken wheel, a helmet, a boot, a
+standard pole snapped in half. Ahead, as far as you can see, the plain is
+covered with the dead, and some of them are standing up.
+~
+203 0 2
+D1
+~
+~
+0 -1 20227
+D3
+~
+~
+0 -1 20301
+S
+#20301
+The Ruined Encampment~
+   The army's camp stood here on the morning of the battle. The tents are
+slashed and trampled, the cookfires cold for a year, and the camp followers'
+wagons burned where they stood. Pots still hang over the dead fires, crusted
+with porridge nobody finished.
+~
+203 0 2
+D0
+~
+~
+0 -1 20302
+D1
+~
+~
+0 -1 20300
+D2
+~
+~
+0 -1 20303
+D3
+~
+~
+0 -1 20304
+S
+#20302
+The Command Tent~
+   The great tent of the army's commanders still stands, its canvas torn and
+its poles leaning. A map table holds a plan of the battle, the pieces
+knocked over. A ghostly officer bends over it, moving the pieces, again and
+again, trying to find the order that would have won.
+~
+203 d 0
+D2
+~
+~
+0 -1 20301
+E
+map table pieces~
+The plan of battle. Three companies on the left, five in the centre, the
+cavalry on the right. One piece, a black one, stands alone in the west.
+~
+S
+#20303
+The Field Hospital~
+   Rows of cots stand under a collapsed awning, and on each cot lies a
+soldier who died waiting for a surgeon. They are sitting up now, holding
+their wounds closed, waiting still. A surgeon's ghost moves among them with
+a saw, unable to save any of them, unable to stop trying.
+~
+203 0 2
+D0
+~
+~
+0 -1 20301
+D3
+~
+~
+0 -1 20305
+S
+#20304
+The Centre of the Field~
+   The heart of the battle, where the five companies of the centre broke.
+The ground is churned and black, and the dead lie three deep. Many of them
+are moving, re-forming their ranks, lifting broken spears. They advance
+toward you in silence, as they once advanced toward the West.
+~
+203 0 2
+D0
+~
+~
+0 -1 20306
+D1
+~
+~
+0 -1 20301
+D2
+~
+~
+0 -1 20305
+D3
+~
+~
+0 -1 20316
+S
+#20305
+The Left Flank~
+   Three companies held the left until the end. Their dead lie in a line,
+shields still overlapping, facing west. Arrows stand in the earth like grey
+grass. As you approach, the line rises as one and locks its shields.
+~
+203 0 2
+D0
+~
+~
+0 -1 20304
+D1
+~
+~
+0 -1 20303
+D2
+~
+~
+0 -1 20312
+D3
+~
+~
+0 -1 20310
+S
+#20306
+The Right Flank, the Cavalry's End~
+   The cavalry charged here, and here the cavalry died: horses and riders in
+heaps, lances snapped, banners trampled into the mud. Some of the horses are
+getting up, skeletal and grey, and their riders are climbing back into the
+saddle.
+~
+203 0 2
+D0
+~
+~
+0 -1 20307
+D2
+~
+~
+0 -1 20304
+D3
+~
+~
+0 -1 20308
+S
+#20307
+The Vulture Rocks~
+   A jumble of grey rocks rises from the plain, white with droppings.
+Vultures as big as men crowd the ledges, too fat to fly, picking at the
+scraps they carried up from the field. They do not like to be disturbed at
+their meal.
+~
+203 0 4
+D2
+~
+~
+0 -1 20306
+S
+#20308
+The Wrecked Siege Line~
+   A line of great trebuchets the army dragged here to break the West's
+lines. They were never fired. Something tore them apart, splintering beams
+as thick as trees. The crews lie beneath the wreckage, and one of the
+engines has been rebuilt by dead hands, out of timber and bone.
+~
+203 0 2
+D1
+~
+~
+0 -1 20306
+D3
+~
+~
+0 -1 20309
+S
+#20309
+The Bone Engine~
+   A siege engine built from timber and the bones of men and horses squats
+on the plain, its arm drawn back, a load of skulls in its sling. Dead
+crewmen tend it. It is aimed east, toward the fens, toward Stilthold, toward
+Midgaard far beyond.
+~
+203 0 2
+D1
+~
+~
+0 -1 20308
+S
+#20310
+The Mass Grave~
+   After the battle, the few survivors dug a great pit and laid their
+friends in it. They did not dig it deep enough. The earth has been pushed
+aside from beneath, and the pit is half empty. The ones still in it are
+struggling to climb out.
+~
+203 0 2
+D1
+~
+~
+0 -1 20305
+D3
+~
+~
+0 -1 20314
+D5
+~
+~
+0 -1 20311
+S
+#20311
+Down in the Pit~
+   You climb down among the dead. Limbs reach from the soil. Faces turn
+toward you. Somewhere at the bottom of the pit a voice is calling the names
+of a company roll, one after another, and each time a name is called,
+something answers and begins to dig.
+~
+203 a 2
+D4
+~
+~
+0 -1 20310
+S
+#20312
+The Ford of the Rout~
+   When the army broke, its survivors fled for the river, and here, at the
+ford, the West caught them. The water is choked with bodies in rusting
+armour. The current pushes them against each other, and they push back.
+~
+203 0 6
+D0
+~
+~
+0 -1 20305
+D3
+~
+~
+0 -1 20313
+S
+#20313
+The Far Bank~
+   A muddy bank on the far side of the ford, where a handful of survivors
+made a last stand behind an overturned wagon. Their bones lie around it
+still, weapons in hand. Scratched into the wagon's planks are the names of
+all of them, and a message.
+~
+203 0 2
+D0
+~
+~
+0 -1 20314
+D1
+~
+~
+0 -1 20312
+E
+wagon names message planks~
+Twelve names, and below them: WE HELD THE FORD UNTIL DUSK. TELL MIDGAARD IT
+IS COMING. TELL THEM IT CANNOT BE BEATEN IN THE FIELD.
+~
+S
+#20314
+The Bone Pyre~
+   At the western edge of the battlefield the servants of Nu'Groth have
+built a pyre of bones as tall as a tower. It burns with a cold grey flame
+that gives no heat. Dead men file past it in a slow column, and as each
+passes, the grey fire leaps into its empty eyes.
+~
+203 0 2
+D0
+~
+~
+0 -1 20316
+D1
+~
+~
+0 -1 20310
+D2
+~
+~
+0 -1 20313
+D3
+~
+~
+0 -1 20315
+S
+#20315
+The Circle of Raising~
+   A circle of black iron stakes driven into the earth, each topped with a
+skull. Inside it, the ground is bare and grey. A figure in robes of human
+skin chants over a heap of corpses, and they twitch and rise and shamble
+into the ranks of the dead host.
+~
+203 0 2
+D1
+~
+~
+0 -1 20314
+D3
+~
+~
+0 -1 20318
+S
+#20316
+The Hill of Banners~
+   A low hill rises from the centre of the field, where the army planted its
+banners at dawn. The banners are torn and blackened, and the hill is covered
+with the bodies of the honour guard who died defending them. At the top, a
+ring of dead knights stands guard around a single figure.
+~
+203 0 4
+D1
+~
+~
+0 -1 20304
+D2
+~
+~
+0 -1 20314
+D4
+~
+~
+0 -1 20317
+S
+#20317
+The Last Stand~
+   The crown of the hill, where the army's marshal made his last stand
+around the royal standard. The standard still flies, tattered and grey. The
+Marshal stands beneath it, risen, his sword in his hand and his army re-
+forming below him. He commands them now for Nu'Groth.
+~
+203 0 4
+D5
+~
+~
+0 -1 20316
+S
+#20318
+The Road West from the Field~
+   Beyond the battlefield the land rises into rolling hills covered in
+coarse grey grass. Old burial mounds hump up on every side, many of them
+broken open. On a far hilltop, a walled building stands with a single light
+in its window.
+~
+203 0 4
+D1
+~
+~
+0 -1 20315
+D3
+West, the road climbs into hills scattered with barrows.
+~
+~
+0 -1 20400
+S
+$

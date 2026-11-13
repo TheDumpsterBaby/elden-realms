@@ -1,0 +1,1092 @@
+#5400
+guildmaster mage master~
+the guildmaster~
+The master of the war-magi stands here.
+~
+An old man in a scorched robe peers at you over a heap of ancient books, as
+if measuring how long you would last on the wall.
+~
+blno dhk 1000 S
+16 -10 -10 1d1+10000 5d5+5
+1 0 
+8 8 1
+#5401
+guildmaster cleric master warden~
+the guildmaster~
+The master of the Flame-wardens stands here.
+~
+An old man in grey robes kneels by a single lamp. His eyes are red from
+years of night vigils.
+~
+blno dhk 1000 S
+16 -10 -10 1d1+10000 5d5+5
+1 0
+8 8 1
+#5402
+guildmaster warrior master~
+the guildmaster~
+The master of the drill-yard stands here.
+~
+A small, hard man in black robes waits to train you. He has sent a great
+many recruits to the wall, and he remembers them.
+~
+blno dhk 1000 S
+16 -10 -10 1d1+10000 5d5+5
+1 0
+8 8 1
+#5403
+guildmaster thief master~
+the guildmaster~
+The master of the yard stands here in the shadows.
+~
+A small man dressed in black rests in the corner. As you enter he throws a
+knife that lands in the wall by your ear. 'We will now begin,' is all he
+says.
+~
+blno dhk 1000 S
+16 -10 -10 1d1+10000 5d5+5
+1 0
+8 8 1
+#5404
+receptionist woman~
+the receptionist~
+A veiled woman greets you from behind the desk.
+~
+A tired young woman, veiled in the Thalos fashion, keeps the ledger of beds.
+A small moon-shaped birthmark shows on her cheek above the veil.
+~
+ablno d 800 S
+18 16 8 1d1+2744 2d21+10
+3 16200
+6 6 2
+#5405
+bartender man mage old~
+the old withered man~
+An old withered man leans against the bar.
+~
+An old mage who came out of Old Thalos as a child. He pours five cups at
+once without touching the jug and does not seem to see any of them.
+~
+blno d 0 S
+35 9 -1 1d1+12000 1d5+3
+1 1000
+8 8 1
+#5406
+john brother singer~
+Brother John~
+Brother John stands on the stage, singing the old songs.
+~
+A thin man with a fine voice who sings the songs of Old Thalos every night,
+the same few songs, and weeps at the same verses every time.
+~
+bg 0 0 S
+19 16 8 3d5+177 2d5+4
+31 2166
+8 8 1
+#5407
+panhandler refugee~
+the panhandler~
+A panhandler sits here with his hand out.
+~
+A skinny man in a blanket, newly come from some village nobody will ever go
+back to.
+~
+cgh 0 -20 S
+15 17 9 10d1+2 2d5+2
+25 281
+5 5 1
+#5408
+panhandler refugee~
+the panhandler~
+A panhandler sits here, staring at your clothes.
+~
+A thin man with an old soldier's brand on his arm. He is very interested in
+your boots.
+~
+cgh 0 -20 S
+16 16 8 10d1+2 2d6+2
+15 142
+5 5 1
+#5409
+beggar~
+the beggar~
+A grubby beggar sits in the filth.
+~
+A filthy, hollow-cheeked soul who has been begging so long he has forgotten
+what he was before.
+~
+cgh 0 -20 S
+15 17 9 10d1+3 2d5+2
+76 0
+8 8 1
+#5410
+baker~
+the baker~
+The baker stands behind his trays, counting loaves.
+~
+A big man in an apron white with flour. He bakes for the wall first and the
+city second, and both go hungry.
+~
+blno d 100 S
+35 0 0 1d1+30000 2d10+2
+1 2000
+8 8 1
+#5411
+shopkeeper storekeeper~
+the shopkeeper~
+The shopkeeper stands behind the counter.
+~
+A half-elf on a high stool behind the counter, with an eye for coin and a
+slate of what he has left.
+~
+blno d 100 S
+35 0 0 1d1+30000 2d10+2
+1 2000
+8 8 1
+#5412
+banker clerk~
+the banker~
+A banker waits to help you.
+~
+A small halfling with ink-stained fingers who counts the war tithe and
+dreams of it in his sleep.
+~
+blno d 0 S
+10 1 0 1d1+30000 3d6+2
+1 0
+8 8 1
+#5413
+ahkeem tailor~
+Ahkeem the tailor~
+Ahkeem the tailor welcomes you to his shop.
+~
+A middle-aged man in a coat of the old Thalos weave. He looks you over with
+disdain and suggests a new wardrobe.
+~
+blno d 0 S
+35 10 5 1d1+30000 1d5+5
+1 200
+8 8 1
+#5414
+vera lady seller~
+Vera the vegetable seller~
+Vera beams at you over her stall of roots and onions.
+~
+A tall, thin woman with dirt under her nails and a broad smile. She feeds
+half the street on credit and pretends she does not.
+~
+blno d 0 S
+35 10 5 1d1+30000 1d5+5
+1 2000
+8 8 2
+#5415
+butch meatcutter butcher~
+Butch the meatcutter~
+Butch the meatcutter stands here in his bloodied apron.
+~
+A stocky dwarf with a mad glint in his eye, twirling his cleaver into the
+air and catching it without looking.
+~
+blno d 0 S
+35 10 5 1d1+30000 1d5+5
+1 2000
+8 8 1
+#5416
+abdul armourer armorer~
+Abdul the armourer~
+Abdul stands here, waiting to help you.
+~
+Abdul returns your gaze with a steady, cold eye. Half the officers on the
+wall wear his plate.
+~
+blno d 0 S
+35 10 5 1d1+30000 1d5+5
+1 2000
+8 8 1
+#5417
+igor weaponsmith smith~
+Igor the weaponsmith~
+Igor stands here, fussing over a blade.
+~
+A small dwarf with a great hump on his left shoulder and burn scars up both
+arms.
+~
+blno d 0 S
+35 10 5 1d1+30000 1d5+5
+1 2000
+8 8 1
+#5418
+cassandra fishwife fishmonger~
+Cassandra~
+Cassandra stands proudly over her catch.
+~
+A cheerful weather-worn face, lined by years on the river. Only a lifetime
+of fish lets her bear the smell.
+~
+blno d 0 S
+35 0 0 1d1+30000 1d5+5
+1 2000
+8 8 2
+#5419
+foreman man~
+the foreman~
+The foreman stands here shouting at the workers.
+~
+A worried dwarf who keeps making notes in a book and glancing at the sky, as
+if the dark might come early.
+~
+bg 0 0 S
+19 16 8 3d10+47 1d8+3
+1 160
+8 8 1
+#5420
+worker labourer construction~
+the construction worker~
+A labourer is mending the road.
+~
+A big sweating refugee working off his family's ration debt. He does not
+look up.
+~
+bg 0 10 S
+18 16 8 3d8+51 2d5+4
+3 162
+8 8 1
+#5421
+statue oren saint~
+the statue of Saint Oren~
+The statue of Saint Oren the Warder stands here.
+~
+A marble statue of Saint Oren, sword raised, striking down a hollow-faced
+king. Wards are cut into its base, and they hum faintly.
+~
+abelnopqr dhk 1000 S
+19 16 8 1d1+1417 2d18+8
+618 19253
+8 8 0
+#5422
+statue hollow king~
+the statue of the Hollow King~
+The statue of the Hollow King stands here.
+~
+A statue of the shape the darkness wore when it came to Old Thalos: a crown
+on an empty face. It was made to be struck down by Saint Oren, forever.
+~
+abelnopqr dhk -1000 S
+19 16 8 1d1+1417 2d18+8
+618 19253
+8 8 0
+#5423
+statue ulme saint~
+the statue of Saint Ulme~
+The statue of Saint Ulme stands here.
+~
+Saint Ulme rides a great tusked beast with children clinging to its back,
+carved as she led them out of the burning city.
+~
+abelnopqr dhk 1000 S
+19 16 8 1d1+1417 2d18+8
+618 19253
+8 8 0
+#5424
+statue grey warden~
+the statue of the Grey Warden~
+The statue of the Grey Warden stands here.
+~
+A cowled figure with a ledger, the warden who counts the dead. Its robe is
+covered in strange runes that nobody can read.
+~
+abelnopqr dhk 0 S
+19 16 8 1d1+1417 2d18+8
+618 19253
+8 8 0
+#5425
+statue ilsa saint~
+the statue of Saint Ilsa~
+The statue of Saint Ilsa of the Dawn stands here.
+~
+Saint Ilsa, who held the gate until the sun came up, carved holding up her
+hands. The marble seems to glow faintly, as if warm.
+~
+abelnopqr dhk 1000 S
+19 16 8 1d1+1417 2d18+8
+618 19253
+8 8 0
+#5426
+statue mourning sultana queen~
+the statue of the Mourning Sultana~
+The statue of the Mourning Sultana stands here.
+~
+A sultana of Old Thalos in black marble covered with silver runes, her face
+hidden in her hands. It was she who opened the gate, they say, on the Night
+of Leaving.
+~
+abelnopqr dhk -1000 S
+19 16 8 1d1+1417 2d18+8
+618 19253
+8 8 0
+#5427
+statue teodor saint~
+the statue of Saint Teodor~
+The statue of Saint Teodor the Scribe stands here.
+~
+A stooped scholar in weathered marble, writing on a tablet. He wrote down
+the fall of Old Thalos so that none of it would be lost.
+~
+abelnopqr dhk 0 S
+19 16 8 1d1+1417 2d18+8
+618 19253
+8 8 0
+#5428
+statue perrin saint~
+the statue of Saint Perrin~
+The statue of Saint Perrin of the Road stands here.
+~
+A worn, dusty statue of a pilgrim with a staff. It was dragged all the way
+from Old Thalos on the exodus road, and looks it.
+~
+abelnopqr dhk 1000 S
+19 16 8 1d1+1417 2d18+8
+618 19253
+8 8 0
+#5429
+aziz deserter human~
+Aziz~
+Aziz the deserter stands here in the dark.
+~
+A big, burly man in a stripped levy coat. He ran from the wall, and he grins
+as he draws his sword.
+~
+gh d 0 S
+18 16 8 2d11+55 2d5+3
+2 1028
+8 8 1
+#5430
+mustafah robber human~
+Mustafah~
+Mustafah the robber stands here.
+~
+A lithe man with an evil smirk who robs the families who come in by the
+south gate.
+~
+gh d 0 S
+17 16 10 3d8+70 2d4+2
+4 584
+8 8 1
+#5431
+fatima elf invoker witch~
+Fatima~
+Fatima the elven hedge-witch stands here.
+~
+A dusky-skinned elf with black hair, expelled from the war-college for what
+she tried to learn.
+~
+gh d 0 S
+17 16 10 2d6+37 3d3+0
+3 332
+8 8 2
+#5432
+kareem dwarf mercenary~
+Kareem~
+Kareem the dwarven sell-sword stands here.
+~
+A short stocky fellow with a chest the girth of a barrel, who has sold his
+axe to every side of every quarrel.
+~
+gh d 0 S
+18 16 8 4d4+66 2d6+3
+2 2113
+8 8 1
+#5433
+trader merchant nomad caravan~
+the caravan trader~
+A caravan trader looks you over.
+~
+A robust fellow with a ready smile who brings goods in from the hills
+without paying the tithe. Something tells you not to trust him far.
+~
+cghlmno 0 -100 S
+25 20 10 1d1+1144 1d8+1
+754 408
+8 8 1
+#5434
+bodyguard guard~
+the Sultan's bodyguard~
+A bodyguard sizes you up.
+~
+A big half-orc who glances you over and goes back to watching the doors. He
+has been the Sultan's shadow for twenty years.
+~
+abeflm dk 0 S
+18 16 8 3d10+131 1d6+4
+2 900
+8 8 1
+#5435
+kid thief~
+the skinny kid~
+A skinny kid wanders around.
+~
+A small orphan of the commons who sees you looking at him and quickly looks
+away.
+~
+ch 0 100 S
+17 16 8 14d1+2 2d5+2
+4 590
+8 8 1
+#5436
+dockworker porter~
+the dockworker~
+A strong dockworker walks by moving crates.
+~
+A hulking man who carries grain sacks from the barges as if they were full
+of feathers.
+~
+g 0 0 S
+18 16 10 3d5+85 2d6+3
+2 1238
+8 8 1
+#5437
+collector taxcollector man tithe~
+the tithe-collector~
+A small man walks around scribbling in a ledger.
+~
+The Sultan's tithe-collector, who goes from shop to shop taking the wall's
+share. Nobody in the city is glad to see him.
+~
+gh 0 0 S
+16 16 10 10d2+86 2d3+3
+96 4413
+8 8 1
+#5438
+gorran rogue gord~
+Gorran~
+Gorran the rogue stands here.
+~
+A lean rogue in a patched cloak, who walks the streets as if he owned them
+and keeps one hand near his knife.
+~
+ch dhk 1000 S
+19 16 8 5d3+124 2d7+3
+1 1604
+8 8 1
+#5439
+corvane knight captain ser~
+Ser Corvane~
+Ser Corvane, heir of the last captain of Old Thalos, stands here.
+~
+A big, grey-bearded knight who carries his grandfather's spear, the one that
+held the gate on the Night of Leaving. He does not seem surprised by your
+approach and looks at you curiously.
+~
+chlm dk 800 S
+19 16 8 4d1+273 2d8+6
+295 13959
+8 8 1
+#5440
+orsin magus master~
+Master Orsin~
+Master Orsin the war-magus stands here.
+~
+A war-magus of the High Tower in long brown robes, here to choose students
+for the wall. His gaze goes right through you.
+~
+ag dhk 200 S
+19 16 8 5d2+213 1d6+3
+0 13959
+8 8 1
+#5441
+fenn greenleaf halfling~
+Fenn Greenleaf~
+Fenn Greenleaf stands here.
+~
+A halfling scout with a sling and a bag of stones, back from the hills and
+in no hurry to go out again.
+~
+ch 8 0 S
+19 16 8 3d5+142 3d4+1
+1 1604
+8 8 1
+#5442
+doomsayer man prophet~
+the doomsayer~
+A small grey-haired man walks around shouting about the West.
+~
+A ragged old preacher who stands on corners crying that the dark that ate
+Old Thalos is coming back. Some people listen more than they admit.
+~
+h 0 0 S
+17 16 10 1d1+2 1d5+2
+4 59
+8 8 1
+#5443
+cat alley~
+the alley cat~
+A small, starved cat searches for food.
+~
+A thin grey cat, all ribs and eyes.
+~
+h 0 -10 S
+15 17 10 1d2+12 2d5+2
+25 0
+8 8 1
+#5444
+vulture bird~
+the vulture~
+A vulture circles above you.
+~
+A great bald-headed bird that follows the burial carts. The only thing it
+wants is a corpse.
+~
+gh 0 -200 S
+15 17 9 1d3+2 2d5+2
+25 562
+8 8 1
+#5445
+man old~
+the old man~
+An old man sits here playing chess.
+~
+An old man who remembers his grandfather's stories of the old city. He is
+very intent on winning.
+~
+h 0 200 S
+16 16 10 2d3+2 1d3+4
+9 320
+6 6 1
+#5446
+librarian lorcan~
+Lorcan the Librarian~
+Lorcan the Librarian sits behind a desk.
+~
+A huge, hulking man who keeps the last books of Old Thalos, and rises slowly
+whenever someone asks him a question.
+~
+belno 0 300 S
+18 16 8 10d10+631 3d6+9
+391 74520
+6 6 1
+#5447
+devil dirt dust~
+the dirt devil~
+The wind kicks up some dust.
+~
+A small whirl of grit and wind, a young air spirit loose on the hills.
+~
+cf 0 -1000 S
+15 17 10 2d2+3 2d5+2
+76 2250
+8 8 1
+#5448
+lamia beast~
+the lamia~
+A lamia waits here for her next meal.
+~
+A creature with the upper body of a beautiful woman and the lower body of a
+four-legged beast. She preys on refugees on the road, and licks her lips as
+she looks at you.
+~
+cj 0 -500 S
+18 16 8 1d10+158 2d5+2
+241 21250
+8 8 2
+#5449
+wanderer madman~
+the hollow-eyed wanderer~
+A ragged, hollow-eyed wanderer stands here.
+~
+A refugee who went back to look for someone in the west and came back wrong.
+He does not sleep, and he does not like the living.
+~
+fg 32768 -750 S
+17 16 8 4d4+32 2d6+2
+3 474
+8 8 1
+#5450
+sultan~
+the Sultan~
+The Sultan sits here on his throne.
+~
+A heavy, frightened man in faded red robes, last of the old Thalan line. He
+has sold most of his palace treasure to pay the tithe to the wall, and he
+smiles at you the way he smiles at everyone who might be useful.
+~
+beilno dhk 200 S
+18 16 8 6d6+1217 1d6+0
+534 81000
+5 5 1
+#5451
+lady girl court~
+a lady of the court~
+A veiled lady of the Women's Court stands here.
+~
+A dark-eyed woman of the Sultan's household in faded silks and a pale blue
+veil, sewing shrouds for the wall. Her loyalty to the Sultan is unwavering.
+~
+b 0 0 S
+16 16 8 1d1+34 1d6+5
+0 1138
+8 8 2
+#5452
+jailer~
+the jailer~
+The jailer sleeps here, snoring loudly.
+~
+A pathetic soul, probably some nobleman who fell out of favour and was given
+the keys to the dungeon as punishment.
+~
+bch 0 -100 S
+20 15 8 3d4+108 1d6+7
+186 1481
+4 4 1
+#5453
+guard chamber eunich eunuch~
+a chamber guard~
+A chamber guard stands watch over the court.
+~
+A huge silent man whose only duty is to guard the Women's Court of the
+Palace.
+~
+bf dk 0 S
+18 16 8 5d1+171 2d6+3
+0 2925
+8 8 0
+#5454
+nahrin favourite favorite girl nichole~
+Nahrin, the Sultan's favourite~
+Nahrin, the Sultan's favourite, rests on a mound of pillows.
+~
+The loveliest woman in the Palace, and the one with a knife hidden in her
+pillows. She is about to use it.
+~
+bf dk 100 S
+18 16 8 1d1+79 2d5+4
+0 486
+5 5 2
+#5455
+keeper flame guardian~
+the Keeper of the Last Flame~
+The Keeper of the Last Flame stands here, wreathed in pale fire.
+~
+A tall figure of pale, steady fire in the shape of a cowled woman. It has
+guarded the flame since the Night of Leaving, and it will not suffer the
+dark near it.
+~
+abeiklnopqr dhks 1000 S
+18 16 8 2d3+3187 2d20+26
+0 120496
+5 5 0
+#5456
+guildguard mage guard~
+the guildguard~
+The guard of the Mages' Tower stands here.
+~
+A war-magus in mail with wards stitched into his sleeves. You would not want
+to test either.
+~
+blno dhk 0 S
+17 16 8 2d5+797 2d16+7
+0 2258
+8 8 1
+#5457
+guildguard cleric guard~
+the guildguard~
+The guard of the Flame-wardens stands here.
+~
+A broad warden with a mace and a lamp. He looks like he has buried a lot of
+people.
+~
+blno dhk 0 S
+17 16 8 2d5+797 2d16+7
+0 2258
+8 8 1
+#5458
+guildguard warrior guard~
+the guildguard~
+The guard of the Warriors' Guild stands here.
+~
+A scarred veteran of the wall, built like a gatepost. You would not want to
+mess with him.
+~
+blno dhk 0 S
+17 16 8 2d5+797 2d16+7
+0 2258
+8 8 1
+#5459
+guildguard thief guard~
+the guildguard~
+The guard of the thieves stands here.
+~
+A thief dressed in black, who stands as you enter and steps to bar your way,
+hands on two knife-hilts.
+~
+blno dhk -100 S
+17 16 8 2d5+797 2d16+7
+0 2258
+8 8 1
+#5460
+boy servant~
+the servant boy~
+A servant boy is here running errands.
+~
+A small boy who runs through the halls of the Palace and knows all of its
+secrets.
+~
+g 0 0 S
+15 17 10 10d1+2 2d5+2
+25 562
+8 8 1
+#5461
+guard sultans~
+the Sultan's guard~
+A guard stands here, watching the street.
+~
+A trained fighter in the tower-and-sun of Thalos, who watches every face for
+the ones that do not belong.
+~
+agh 0 1000 S
+18 16 8 2d4+176 1d8+0
+246 8100
+8 8 1
+#5462
+guard sultans~
+the Sultan's guard~
+A guard stands here, watching the gate.
+~
+A trained fighter in a tabard of the tower and rising sun, sworn to hold the
+gate as Saint Ilsa held it.
+~
+abg 0 1000 S
+18 16 8 2d4+176 1d8+2
+246 8100
+8 8 1
+#5463
+guard chief sultans~
+the Chief Guard~
+The Chief of the Sultan's Guard stands here.
+~
+A big, quiet man who has hunted things in the hills that most of his guards
+would not believe in.
+~
+ag d 1000 S
+19 16 8 4d5+296 2d8+1
+305 8022
+8 8 1
+#5464
+mercenary sellsword~
+the mercenary~
+A mercenary stands here waiting for a job.
+~
+A down-at-heel cut-throat who would rather be hired than levied.
+~
+g 0 0 S
+16 16 8 1d8+27 1d4+6
+6 512
+8 8 1
+#5465
+shipwright captain~
+the shipwright~
+An old captain rests here, carving on a stick.
+~
+The shipwright of New Thalos, who builds the barges that carry the grain. He
+beams at you through his beard.
+~
+blno 0 0 S
+35 0 0 1d1+30000 5d5+5
+1 2000
+8 8 1
+#5466
+blacksmith smith farrier~
+the blacksmith~
+The blacksmith stands here pumping the bellows.
+~
+A big man dripping with sweat, who shoes the horses of the tithe-wagons. He
+stops to bid you welcome.
+~
+blno 0 0 S
+35 0 0 1d1+30000 4d4+4
+1 2000
+8 8 1
+#5467
+horse~
+the horse~
+A horse stands here.
+~
+One of the fine horses whose sires came out of Old Thalos.
+~
+bgh 0 0 S
+16 16 10 10d1+2 2d6+2
+0 160
+8 8 1
+#5468
+refugee tourist~
+the bewildered refugee~
+A refugee stands here looking lost.
+~
+A small, round man with everything he owns tied around his neck, squinting
+at a hand-drawn map he is holding upside down.
+~
+cgh 0 0 S
+16 16 10 2d10+29 2d6+2
+177 5648
+8 8 1
+#5469
+ixitxachitl ray~
+the ixitxachitl~
+A very large ray with a wicked looking tail swims here.
+~
+A great ray with sharp fangs and a barbed tail, that the fishermen say takes
+swimmers.
+~
+bflpqr dgk -500 S
+18 16 8 3d3+176 3d4+2
+0 6480
+8 8 0
+#5470
+cryohydra hydra~
+the cryohydra~
+The cryohydra stands here.
+~
+A grey-brown many-headed reptile with amber eyes, its breath freezing on the
+bars. It was taken in the high passes.
+~
+fglpq k 0 S
+17 16 8 10d1+2 1d10+0
+0 452
+8 8 1
+#5471
+lizard minotaur~
+the minotaur lizard~
+The minotaur lizard stands here.
+~
+A huge lizard with horns like a bull's, kept in the Sultan's cells for the
+war-magi.
+~
+fg k 0 S
+17 16 8 1d10+88 3d5+0
+0 452
+8 8 1
+#5472
+dog death~
+the death dog~
+The death dog stands here.
+~
+A big two-headed hound that crept east out of the march. It barks at you
+viciously from both mouths.
+~
+fgl k 0 S
+16 16 8 1d15+158 1d10+4
+0 14400
+8 8 0
+#5473
+lion spotted~
+the spotted lion~
+The spotted lion stands here.
+~
+A fierce, dapple-skinned hill lion that glares at you through its matted
+mane.
+~
+fg k 0 S
+16 16 8 5d5+86 1d8+3
+0 14261
+8 8 1
+#5474
+behir~
+the behir~
+A behir slithers on the ground.
+~
+A great snake-like reptile with more than a dozen legs, and lightning in its
+throat.
+~
+fglpq kp -300 S
+18 16 8 4d3+192 2d6+3
+0 2250
+8 8 0
+#5475
+chimera creature lion goat dragon~
+the chimera~
+A creature with three heads, lion, goat and dragon, stands here.
+~
+The chimera has the hindquarters of a goat, the forepaws of a lion and the
+body of a red dragon. Nobody knows where the Sultan's hunters found it.
+~
+bflq dgkp -500 S
+17 16 8 5d5+390 3d4+8
+0 12488
+8 8 0
+#5476
+serpent feathered~
+the feathered serpent~
+A feathered serpent hovers here.
+~
+A beautiful creature with the body of a serpent and rainbow-coloured
+feathered wings, wasting in a cell far from the sky.
+~
+belnoq dghkp 300 S
+19 16 8 10d5+153 2d4+3
+0 3851
+8 8 0
+#5477
+hornet giant~
+the giant hornet~
+The giant hornet hovers here.
+~
+A hornet the size of a dog. There is nothing more to be said.
+~
+eqr dgk 300 S
+16 16 8 1d1+10 1d4+0
+0 461
+8 8 0
+#5478
+pegasus horse~
+the pegasus~
+The pegasus stands here, flexing its wings.
+~
+A magnificent winged steed, like the best horses of Old Thalos, but with
+wings. It is the pride of the Sultan's garden.
+~
+bglmpq dgk 1000 S
+18 16 8 1d5+1027 2d10+9
+0 21060
+8 8 0
+#5479
+elriva apothecary~
+Elriva~
+Elriva stands here mixing a draught.
+~
+A strong woman dressed in black, with long black hair. She mixes draughts
+for wounds, for sleep, and for forgetting.
+~
+blno 0 0 S
+35 10 0 1d1+30000 1d10+10
+1 2000
+8 8 2
+#5480
+braheem mage~
+Braheem~
+Braheem stands here talking to the walls.
+~
+A powerful mage, expelled from the war-college and slightly mad. The walls
+sometimes answer him.
+~
+blno 0 0 S
+35 -10 -10 1d1+30000 10d10+40
+1 2000
+8 8 1
+#5481
+priest high warden~
+the high priest~
+The High Warden kneels here, or was kneeling until you came in.
+~
+The High Warden of the Flame, a gaunt old man with a terrible temper. He
+does NOT look happy that you have disturbed him.
+~
+bgh dhk 1000 S
+17 16 8 10d5+1913 2d8+11
+721 158047
+8 8 1
+#5482
+guard royal elite~
+the Royal Guard~
+An elite Royal Guard stands here, watching the crowd.
+~
+One of the Royal Guard of New Thalos, who has served a term on the wall and
+come back harder.
+~
+abelmno dhk 1000 S
+19 16 8 5d20+1063 1d10+8
+536 40111
+8 8 1
+#5483
+patch bartender~
+Patch the bartender~
+A large half-orc with a patch over one eye pours drink behind the counter.
+~
+A really big man who lost an eye somewhere, and does not tell anyone where.
+~
+blno d -500 S
+35 0 -10 1d1+30000 3d8+10
+1 2000
+8 8 1
+#5484
+stitch leatherworker~
+Stitch the leatherworker~
+Stitch the leatherworker reclines in his chair.
+~
+A small halfling with his feet up on his desk, waiting for some fool, that
+is, customer, to come in.
+~
+blno d -500 S
+35 -10 -5 1d1+30000 3d6+6
+1 2000
+8 8 1
+#5485
+gardener elf~
+the gardener~
+A small elf stands here tending the garden.
+~
+A young elf in dirt-stained clothes, weeding the Sultan's garden, the only
+green place in the city.
+~
+b 0 0 S
+18 16 8 5d5+147 2d6+3
+143 4860
+8 8 1
+#5486
+nightmare horse~
+the nightmare~
+A huge horse, black as night, stands here.
+~
+The largest horse you have ever seen, ten feet at the shoulder, breathing
+flame from its nostrils. It leaps to attack.
+~
+blno dfghkps 1000 S
+18 16 8 3d9+440 2d12+6
+0 17820
+8 8 0
+#5487
+wolverine wolf~
+the wolverine~
+A large wolf-like creature leaps out of the darkness.
+~
+A half wolf, half man thing in a glove with long thin blades on it, kept
+locked away in the deepest cell.
+~
+bf kps -351 S
+19 16 8 10d2+272 2d10+13
+0 8022
+8 8 0
+#5488
+mimic painting~
+the mimic~
+You see an incredibly life-like painting of the Sultan's mother.
+~
+Boy, is she ugly.
+~
+b 0 0 S
+18 16 8 5d8+471 2d8+7
+0 19440
+8 8 1
+#5489
+mayor~
+the mayor~
+The Mayor of New Thalos stands here.
+~
+A plump, nervous man in his best coat, who keeps the tithe ledgers. His
+ledgers decide who goes west, and he sleeps very badly.
+~
+g 0 1000 S
+18 16 8 2d8+880 3d6+11
+444 50787
+8 8 1
+#5490
+chef cook~
+the chef~
+The chef stands here making dinner.
+~
+A very large man who cooks for the Palace and tastes everything twice, in
+case it is poisoned.
+~
+b 0 400 S
+19 16 8 10d2+6 2d7+3
+26 74
+8 8 1
+$

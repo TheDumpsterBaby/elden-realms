@@ -1,0 +1,792 @@
+#2500
+shade shadow guardian ward~
+the ward-shade~
+A ward-shade rises out of the mist with a shriek and attacks.
+~
+A shadow bound by the masters to walk the Mistwood and kill whatever strays
+from the path. It is made of nothing but darkness and an old, bitter order.
+~
+cfglmnopqr dfks -350 S
+20 15 8 9d9+151 3d4+3
+291 14791
+8 8 0
+#2501
+courier adventurer lost~
+the lost courier~
+An emaciated courier stumbles here, looking lost and hopeless.
+~
+A courier of the wall sent to the tower with letters weeks ago. The mist has
+had him ever since; his satchel is empty and his eyes do not quite focus.
+~
+ah k 400 S
+20 15 8 10d10+18 3d4+3
+259 5474
+6 8 1
+#2502
+edgar recruit levy~
+Edgar~
+Edgar, a levy recruit, stands here looking very lost.
+~
+A gangling farm boy in an oversized levy helmet, sent from the Recruit Yards
+with a message he has forgotten. Edgar says 'Pardon me, is this the way to
+the wall? They said follow the road west.'
+~
+ch k 1000 S
+18 16 8 3d9+31 2d6+3
+214 5978
+8 8 1
+#2503
+golem diamond warden~
+the diamond golem~
+A huge golem of cut diamond stands guard before the gate.
+~
+A gate-warden made of clear diamond, so hard that the fire of the west only
+polished it. It carries the key of the gate inside its chest.
+~
+beglnopqr dk 500 S
+23 15 8 23d23+230 3d10+8
+474 15000
+8 8 0
+#2504
+magus mage young war~
+the young war-magus~
+A young war-magus wanders by, lost in thought.
+~
+A novice in a grey robe a size too large, muttering the words of a ward. He
+has been told he will be posted west in the spring, and he is trying not to
+think about it.
+~
+agh dk 450 S
+20 15 8 10d10+158 3d4+3
+296 14000
+8 8 1
+#2505
+strick bartender barkeep~
+Strick the barkeep~
+Strick is here levitating cups to his customers.
+~
+A broad, quiet man who failed his last drill twenty years ago and stayed on
+to pour drinks. He looks harmless, but then so does a sleeping dragon.
+~
+b dk 750 S
+25 1 -6 1d1+30000 3d7+20
+2000 20000
+8 8 1
+#2506
+tatorious quartermaster wizard shopkeeper~
+Tatorious the quartermaster~
+Tatorious the quartermaster is here counting the day's takings.
+~
+A plump, cheerful war-magus who lost a leg on the march and now issues
+reagents and scrolls to those who still have both. He winks, and charges
+what he likes.
+~
+b dk 900 S
+25 0 -8 1d1+30000 3d7+21
+5000 24000
+8 8 1
+#2507
+ezmerelda cook~
+Ezmerelda~
+Ezmerelda the cook is here stirring a large pot of something.
+~
+A gaunt cook with ink-black nails and a mage's eyes. She feeds the college
+on what the supply road brings and what the laboratories do not want, and
+nobody asks which is in the pot.
+~
+ab dk -500 S
+23 15 8 20d20+222 3d4+9
+444 41394
+8 8 2
+#2508
+assistant cook mage~
+the cook's assistant~
+The cook's assistant is here, adding things to the pot.
+~
+A pale young man with burnt fingers who drops strange things into the pot
+without looking at them.
+~
+abghm dk -200 S
+20 15 8 11d11+165 3d4+3
+302 15207
+8 8 1
+#2509
+prisoner muzzled man~
+the muzzled prisoner~
+A muzzled prisoner hangs in his chains against the wall.
+~
+A man in the rags of a master's robe, with an iron muzzle locked over his
+mouth. He was a war-magus once, and went too far west; he came back speaking
+in a voice that was not his. The muzzle is so that nobody hears it.
+~
+bgh 0 100 S
+22 15 8 3d30+38 3d5+4
+0 3403
+8 8 1
+#2510
+jailor mage gaoler~
+the jailor~
+The jailor is here, enjoying a comfortable nap.
+~
+A dirty, heavy-lidded mage who keeps the undercroft. He sleeps a great deal,
+because the things in his cells do not last long.
+~
+ab dk 100 S
+22 15 8 17d17+205 3d5+13
+391 20097
+4 4 1
+#2511
+broom straw~
+the broom~
+A straw broom leans against the wall, twitching.
+~
+One of the enchanted brooms of the officers' wing, its spell gone sour with
+the years. The broom screams 'Take that, you lout!' and goes for your purse.
+~
+abefgnopqr dfk 50 S
+19 16 8 7d7+129 2d7+3
+0 11788
+8 8 0
+#2512
+hands lesser guardian warding~
+the warding hands~
+A pair of disembodied hands floats in the air here.
+~
+A pair of grey hands bound into the tower's service to guard its doors. They
+twitch, eager to close round a throat.
+~
+fgpqr dfk -400 S
+20 15 8 9d9+151 3d4+3
+0 14791
+8 8 0
+#2513
+eyes greater guardian warding~
+the warding eyes~
+A pair of disembodied eyes floats here, glaring at you.
+~
+A pair of eyes without a face, bound to watch the tower's halls. They
+smoulder with an old and patient hatred for anything that does not belong.
+~
+fgpq dfk -600 S
+21 15 8 15d15+191 3d4+11
+0 17836
+8 8 0
+#2514
+magus mage visitor officer~
+the visiting war-magus~
+A war-magus home from the wall is snoring here.
+~
+A war-magus on leave from the wall, too tired even to take off his boots. He
+mutters wards in his sleep.
+~
+abcgh dk 250 S
+21 15 8 12d12+176 3d5+3
+331 18988
+4 4 1
+#2515
+apprentice young novice~
+the young apprentice~
+A young apprentice is here, bent over her studies.
+~
+A thin girl from the refugee camps with ink on her fingers. She studies as
+if her life depended on it, which it does.
+~
+abcgh dk 400 S
+19 16 8 7d6+46 2d7+3
+239 8812
+6 6 2
+#2516
+apprentice young novice~
+the young apprentice~
+A young apprentice is here mumbling the words of a ward.
+~
+A boy repeating the same ward over and over, his lips moving, his eyes shut
+tight.
+~
+abcgh dk 380 S
+19 16 8 7d6+46 2d7+3
+239 8812
+8 8 1
+#2517
+apprentice young novice~
+the young apprentice~
+A young apprentice is sleeping here.
+~
+A novice asleep in his robe with a book on his chest. He twitches as he
+dreams.
+~
+abcgh dk 350 S
+19 16 8 7d6+46 2d7+3
+239 8812
+4 4 1
+#2518
+apprentice young cruel novice~
+the cruel apprentice~
+A young apprentice is here, tormenting a cornered kitten.
+~
+A sharp-faced boy who has learned that the college will forgive a great deal
+in a student who is good with fire.
+~
+abcgh dk -200 S
+19 16 8 7d6+46 2d7+3
+239 8812
+8 8 1
+#2519
+kitten cat small~
+the small kitten~
+A small kitten is here, mewing in terror.
+~
+A little ball of mottled fur, singed and burnt in patches. It shakes.
+~
+bcgh dk 500 S
+18 16 8 1d1+31 2d6+3
+0 3564
+8 8 2
+#2520
+student novice~
+the student~
+A student of the bolt is here, looking bored.
+~
+A student slumped at a desk, casting the same bolt of force for the
+hundredth time today. The student yawns.
+~
+abcgh dk 350 S
+20 15 8 8d8+143 3d4+3
+286 13424
+6 6 1
+#2521
+instructor teacher mage drill~
+the drill instructor~
+The drill instructor screams at the interruption and attacks you.
+~
+A hard-faced master with a burnt hand who has drilled a thousand novices in
+the bolt of force. He is furious at being interrupted.
+~
+abfh dk 300 S
+21 15 8 14d14+186 3d4+12
+344 23945
+8 8 1
+#2522
+student veil novice~
+the student of the veil~
+A student of the veil flickers in and out of sight here.
+~
+A student trying to master the veil of unseeing, blinking in and out of
+existence. The war-magi need it to cross the march unseen.
+~
+abcgh bdk 400 S
+20 15 8 8d8+143 3d4+3
+286 13424
+8 8 1
+#2523
+teacher mage master veil~
+the master of the veil~
+The master of the veil appears out of nowhere and attacks.
+~
+A thin, fierce master who teaches the veil, and who is rarely seen until it
+is too late.
+~
+abfh dk 300 S
+21 15 8 15d15+191 3d4+13
+351 25932
+8 8 1
+#2524
+student veil novice~
+the student of the veil~
+A student of the veil has fallen asleep at her desk here.
+~
+A student who has collapsed over her desk, worn out. Her hand is still half
+invisible.
+~
+abcgh dk 400 S
+20 15 8 9d9+151 3d4+3
+291 14791
+4 4 2
+#2525
+wizard speaker mage lecturer~
+the old lecturer~
+An old wizard is here, lecturing on the west.
+~
+A shrunken old man who looks as if he could be the oldest man alive. The
+magic of the west takes years from those who touch it, and he may in truth
+be no older than you.
+~
+abcgh dk 400 S
+22 15 8 18d18+209 3d4+10
+399 37947
+8 8 1
+#2526
+mage magus young~
+the young war-magus~
+A young war-magus is here learning to fight with a knife.
+~
+A confident young mage with a silvered dagger, sure he will never run out of
+spells. The battle mistress is trying to cure him of that.
+~
+abcgh dk 300 S
+20 15 8 9d9+151 2d4+6
+291 14791
+8 8 1
+#2527
+mistress battle~
+the battle mistress~
+The battle mistress is here, teaching the use of the dagger.
+~
+A scarred, rugged woman who looks more like a sergeant of the wall than a
+mage. She has been west three times and come back three times, and she
+teaches the young to do the same.
+~
+abfhlq dk 200 S
+22 15 8 17d17+205 3d5+10
+391 35328
+8 8 2
+#2528
+mage teacher master weary~
+the weary master~
+A weary master is here, resting with a cup of black tea.
+~
+A teacher worn thin by long drills, bad news and inattentive novices.
+~
+abg dk 200 S
+21 15 8 15d15+191 3d4+6
+351 25932
+5 5 1
+#2529
+wizard master aged~
+the aged master~
+An aged master is sleeping here.
+~
+A very old master of the college, sleeping uneasily. Dreams of fire and of
+the march pass behind his eyelids. Better not to wake him.
+~
+afgh dk 350 S
+23 15 8 20d20+222 3d4+10
+444 42500
+4 8 1
+#2530
+scribe mage map~
+the map-scribe~
+A scribe is here, copying out a map of the march.
+~
+A careful scribe redrawing the march from the latest reports, moving the
+line a little further east each time.
+~
+abcgh dk 400 S
+21 15 8 14d14+186 3d4+6
+344 23945
+8 8 1
+#2531
+scribe mage translator~
+the scribe~
+A scribe is here, working slowly on a translation.
+~
+A young scribe translating writing taken from the west. She works with her
+eyes half shut and stops often to rub them.
+~
+abcgh dk 500 S
+21 15 8 15d15+191 2d4+14
+351 25932
+8 8 2
+#2532
+master scribe~
+the Master Scribe~
+The Master Scribe is here, looking very put out.
+~
+A scribe so old his skin has folded into one great wrinkle. The Master
+Scribe screams 'How dare you interrupt my work? The wall is waiting for
+these!'
+~
+abfgh dk 100 S
+23 15 8 22d22+228 3d5+8
+463 32243
+8 8 1
+#2533
+assistant scribe~
+the scribe's assistant~
+The scribe's assistant is here, folding parchments.
+~
+A clerk not yet trusted with the sealed scrolls, folding and stacking the
+plain ones for the regiments.
+~
+abfgh dk 100 S
+22 15 8 16d16+201 3d4+8
+383 32858
+8 8 1
+#2534
+enchanter master mage~
+the Enchanter~
+The Enchanter is here, laying a ward-word on a fine sword.
+~
+The master of the college's forge, concentrating hard on a working that will
+either ruin the blade or make it bite the dead.
+~
+abfh dk -200 S
+23 15 8 23d23+230 3d5+6
+474 30500
+8 8 1
+#2535
+sword dancing~
+the dancing sword~
+A finely made sword lies on the work table here.
+~
+A blade the Enchanter woke and could not put back to sleep. It looks very
+sharp.
+~
+bfhlnopqr dk -500 S
+20 15 8 10d10+158 3d4+3
+0 16000
+8 8 0
+#2536
+alchemist mad~
+the Mad Alchemist~
+The Mad Alchemist babbles something and attacks.
+~
+Once the best maker of healing draughts in the east, he began testing brews
+made from things taken from the west, and tested them on himself. His eyes
+dart about, he drools, and he throws back his head and cackles.
+~
+abfgh dk 150 S
+24 14 7 24d24+240 3d5+10
+514 31500
+8 8 1
+#2537
+master summoner~
+the Master Summoner~
+The Master Summoner is here, holding a gate open to elsewhere.
+~
+The Summoner calls things through so the college can learn how to kill them.
+He is concentrating hard on keeping the gate in hand, before what is on the
+other side takes him instead.
+~
+abfgh dk -200 S
+23 15 8 22d22+228 3d5+6
+463 29565
+8 8 1
+#2538
+master charmer charm~
+the Master of Charm~
+The Master of Charm utters the words, 'uuuzzldctz'.
+~
+A smiling master who bends the wills of beasts and men for the college. He
+sizes you up, always looking for a new pet.
+~
+abf dk -400 S
+23 15 8 23d23+230 3d5+10
+474 31050
+8 8 1
+#2539
+golem wooden sentry~
+the wooden golem~
+A wooden golem stands a silent vigil here, guarding the stair.
+~
+A tall golem of seasoned oak, set to guard the stairs. It looks very
+flammable.
+~
+bfgmnopqr dk 100 S
+22 15 8 16d16+201 1d10+14
+383 32858
+8 8 0
+#2540
+master spellbinder binder~
+the Master Spellbinder~
+The Master Spellbinder is here, recharging a blackened wand.
+~
+A cold, hard master who binds spells into wood and metal for the war-magi.
+He does not like to be disturbed. He snarls and attacks.
+~
+abfgh dk -500 S
+23 15 8 23d23+230 3d5+8
+474 30500
+8 8 1
+#2541
+maker golem master~
+the Golem Maker~
+The Golem Maker is here, chiselling stone.
+~
+A fussy, meticulous master who makes golems to stand on the wall where there
+are no longer enough men.
+~
+abfh dk 300 S
+23 15 8 21d21+225 3d5+5
+453 32208
+8 8 1
+#2542
+golem granite~
+the granite golem~
+A granite golem stands here, waiting for orders.
+~
+It looks like a statue, until it shambles toward you.
+~
+bfgmnopqr dk 300 S
+23 15 8 20d20+222 4d5+12
+0 33856
+8 8 0
+#2543
+golem bronze~
+the bronze golem~
+A bronze golem stands here, shining dully.
+~
+A golem of polished bronze with a blank face. It looks very slow-witted.
+~
+bfgmnopqr dk 350 S
+22 15 8 18d18+209 4d5+6
+0 33387
+8 8 0
+#2544
+golem flesh~
+the flesh golem~
+A flesh golem stands guard here.
+~
+A golem stitched together from many bodies, some of them not human. The
+Golem Maker does not say where he gets the parts.
+~
+bfgmnopqr dk 200 S
+21 15 8 12d12+176 3d5+3
+0 20343
+8 8 0
+#2545
+golem cloth~
+the cloth golem~
+A cloth golem shuffles around here.
+~
+A heap of old rags stitched into the shape of a man. It is a wonder it can
+walk, and it is made from the robes of dead students.
+~
+bfgmnopqr dk 350 S
+20 15 8 8d8+143 3d4+2
+0 13125
+8 8 0
+#2546
+golem adamantite~
+the adamantite golem~
+An adamantite golem stands here, looking very dangerous.
+~
+A golem forged of dark adamantite from the dwarven halls. It is strong and
+very hard to hurt, and not at all clever.
+~
+bfgmnopqr dk 350 S
+24 14 7 25d25+242 3d7+3
+524 32855
+8 8 0
+#2547
+golem clay~
+the clay golem~
+A clay golem stands guard here.
+~
+A big golem of grey clay that looks almost like a heap of earth.
+~
+bfgmnopqr dk 200 S
+21 15 8 15d15+191 4d5+4
+0 25932
+8 8 0
+#2548
+master illusionist mage dragon~
+the Master of Illusions~
+An enormous many-coloured three-headed dragon growls at you.
+~
+The dragon flickers, and where it was stands a small, harmless-looking old
+man. He teaches the war-magi to hide a company in a fold of hillside.
+~
+abcgh dk 150 S
+23 15 8 21d21+225 3d5+5
+453 31728
+8 8 1
+#2549
+necromancer master~
+the Necromancer~
+The Necromancer is here, raising the dead.
+~
+Once a master of the war-college, who studied the dead of the west to learn
+to unmake them, and learned instead to make them. He is tall and gaunt, all
+in black, his eyes two embers in the shadow of his cowl. He shrieks and
+orders his dead to attack.
+~
+abfgh dk -950 S
+24 14 7 25d25+242 3d7+7
+524 32486
+8 8 1
+#2550
+skeleton undead~
+the animated skeleton~
+An animated skeleton screams silently and attacks.
+~
+The bones of a student who came looking for the Necromancer. It feels no
+pain, and hacks at you without mercy.
+~
+bfhnopr dk -500 S
+21 15 8 15d15+191 3d4+14
+0 25932
+8 8 0
+#2551
+giant undead~
+the undead giant~
+An undead giant lumbers toward you.
+~
+The rotting corpse of a hill giant brought back from the march for study,
+and raised. It is enormous, and it does not stop.
+~
+cfgnopr dk -500 S
+22 15 8 18d18+209 3d5+12
+0 32864
+8 8 0
+#2552
+seer witch faceless hag~
+the faceless seer~
+A faceless seer is here, scrying out the march.
+~
+A woman with no face at all, only blank skin; the seers give their eyes to
+the cauldron so they may watch the west. From where her mouth should be
+comes a soft, disgusting giggle.
+~
+acfg dk -450 S
+23 15 8 20d20+222 3d6+6
+444 35509
+8 8 2
+#2553
+librarian mage~
+the Librarian~
+The Librarian has fallen asleep at his desk here.
+~
+A peaceful old man who has kept the library for fifty years, and kept the
+chained books from getting loose.
+~
+abfgh dk 450 S
+23 15 8 23d23+230 3d6+5
+474 29500
+4 8 1
+#2554
+apprentice grey~
+the grey apprentice~
+The grey apprentice leaps to bar your way.
+~
+A powerful mage in his own right, who gave up his rank to serve the Master
+of the Grey Order and learn what cannot be learned alone.
+~
+abcfg dhk 0 S
+24 14 7 24d24+240 3d6+6
+514 30750
+8 8 1
+#2555
+cat grey familiar~
+the grey cat~
+A grey cat is lounging lazily here.
+~
+The familiar of the Grey Order's master. It cocks an ear toward you and
+purrs. It looks harmless, until you notice the size of its claws.
+~
+bg dks 0 S
+21 15 8 15d15+191 5d5+7
+0 25932
+8 8 2
+#2556
+master guildmaster grey~
+the Master of the Grey Order~
+The Master of the Grey Order is here, weighing reports from the wall.
+~
+A calm, tired man who keeps the wards of the college and the balance between
+the Black and the White. He looks peaceful, and very far away.
+~
+abcgijl dkh 0 S
+25 14 7 30d30+260 2d5+17
+609 83272
+8 8 1
+#2557
+apprentice black~
+the black-robed apprentice~
+A black-robed apprentice leaps from the shadows and attacks.
+~
+A woman with a wicked scar down one side of her face, a gift from the first
+west-spell she tried. She must once have been beautiful; now her scowl is
+permanent.
+~
+abcfg dk -750 S
+23 15 8 20d20+222 3d6+7
+444 36765
+8 8 2
+#2558
+cat black familiar~
+the black cat~
+A black cat with its fur on end hisses at you.
+~
+The familiar of the Black Order's master. Its eyes are faintly grey. Petting
+it is out of the question.
+~
+bg dks -800 S
+22 15 8 16d16+201 3d7+4
+0 32858
+8 8 0
+#2559
+master guildmaster black~
+the Master of the Black Order~
+The Master of the Black Order is here, plotting.
+~
+The master of the order that studies the sorcery of the west. The college
+needs what he knows. Whether he still works for the college is another
+question. He glares at you.
+~
+abcgjkl dkh -1000 S
+25 14 7 30d30+260 2d5+17
+609 83272
+8 8 1
+#2560
+apprentice white~
+the white-robed apprentice~
+A white-robed apprentice screams at your intrusion.
+~
+A fanatic in spotless white. The white-robed apprentice screams 'Thou art
+tainted! Thou art unworthy!'
+~
+abcfh dk 750 S
+23 15 8 20d20+222 3d6+7
+444 36832
+8 8 1
+#2561
+cat white familiar~
+the white cat~
+A white cat is here, preening its fur.
+~
+The familiar of the White Order's master: a large ball of white fluff with
+claws.
+~
+bg dks 800 S
+21 15 8 15d8+13 3d5+3
+0 6129
+8 8 0
+#2562
+master guildmaster white~
+the Master of the White Order~
+The Master of the White Order is here, frowning at your intrusion.
+~
+A cold, self-righteous zealot who would burn every tainted thing in the
+east, and every tainted mage with it. He keeps a list.
+~
+abcgikl dkh 1000 S
+25 14 7 30d30+260 2d5+17
+609 83272
+8 8 1
+#2563
+cat calico familiar~
+the calico cat~
+A great calico cat is lounging here.
+~
+The Archmagus' familiar, a giant of its kind, wearing a jewelled collar. It
+watches everything and forgets nothing.
+~
+bg dks 0 S
+24 14 7 25d25+242 5d5+10
+0 27648
+8 8 0
+#2564
+archmagus guildmaster grand mistress~
+the Archmagus~
+The Archmagus of the war-college sits here on her emerald throne.
+~
+The Grand Mistress of the High Tower, who commands the war-college for the
+wall. She looks young, kept so by strong magic, but her eyes are very old.
+She strokes her familiar and smiles at you.
+~
+abcgl dkh 0 S
+30 13 7 50d50+325 3d4+12
+1120 180000
+8 8 2
+$

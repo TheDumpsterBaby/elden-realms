@@ -1,0 +1,405 @@
+#21000
+The Shore of the Black Sea~
+   The tunnel opens onto a beach of black sand at the edge of an underground
+sea. The cavern above is so vast that its roof is lost in darkness, and the
+water stretches away into the dark, still and black as oil. Pale lights
+glimmer far out beneath the surface, in the shape of streets.
+~
+210 a 2
+D1
+~
+~
+0 -1 20915
+D3
+~
+~
+0 -1 21001
+S
+#21001
+The Black Shallows~
+   You wade out into water as cold as death. It closes over your waist, then
+your chest. The black sand shelves away beneath you toward the lights.
+Things brush against your legs in the dark, smooth and cold, and do not let
+go at once.
+~
+210 a 6
+D1
+~
+~
+0 -1 21000
+D2
+~
+~
+0 -1 21002
+D3
+~
+~
+0 -1 21004
+S
+#21002
+The Reef of Wrecks~
+   A reef of sunken boats rises out of the shallows: fishing skiffs, barges,
+a royal galley with a gilded prow. They were dragged down when the kingdom
+sank, with their crews still aboard. The crews are still aboard.
+~
+210 a 6
+D0
+~
+~
+0 -1 21001
+D5
+~
+~
+0 -1 21003
+S
+#21003
+The Hold of the Royal Galley~
+   You dive into the galley's flooded hold. Chests of the royal household
+float against the beams, and the rowers are still chained to their benches,
+pulling at oars that move only water. The galley's captain sits at the stern
+in his finery, bloated and white, and turns his head.
+~
+210 a 9
+D3
+~
+~
+0 -1 21016
+D4
+~
+~
+0 -1 21002
+S
+#21004
+Sinking into the Black~
+   The bottom falls away and you sink, down and down through black water,
+toward the drowned lights below. Your ears ache. Your lungs burn and then,
+strangely, stop burning, as if the water has decided to let you breathe it
+for now.
+~
+210 a 9
+D0
+~
+~
+0 -1 21023
+D1
+~
+~
+0 -1 21001
+D5
+~
+~
+0 -1 21005
+S
+#21005
+The Outer City~
+   Streets of white stone run between drowned houses, lit by pale fungus
+that grows on every wall. Drowned citizens walk them as if on dry land,
+going about errands a hundred years old, their hair drifting around their
+faces like weed.
+~
+210 a 9
+D0
+~
+~
+0 -1 21006
+D2
+~
+~
+0 -1 21007
+D3
+~
+~
+0 -1 21009
+D4
+~
+~
+0 -1 21004
+S
+#21006
+The Drowned Market~
+   Stalls stand in a drowned square, their wares floating: fish that have
+been dead for a century, bolts of rotted silk, jars of black pearls. The
+merchants call out their prices in bubbles. Grey sharks circle overhead like
+vultures.
+~
+210 a 9
+D0
+~
+~
+0 -1 21018
+D2
+~
+~
+0 -1 21005
+S
+#21007
+The Temple of the Tides~
+   A temple to the sea god, its columns cracked, its dome caved in. The
+god's statue lies face down on the floor, and over the altar hangs a grey
+spiral of woven weed. Tide-priests in robes of kelp chant before it in
+voices like the deep sea.
+~
+210 a 9
+D0
+~
+~
+0 -1 21005
+D5
+~
+~
+0 -1 21008
+S
+#21008
+The Kraken Grotto~
+   Beneath the temple, a cave opens into the sea floor. It is full of bones,
+ships' timbers and the rusting armour of a hundred knights. Something vast
+fills the back of the cave, coil upon coil of grey arm as thick as a tree,
+and an eye opens in the dark.
+~
+210 a 9
+D3
+~
+~
+0 -1 21019
+D4
+~
+~
+0 -1 21007
+S
+#21009
+The Avenue of Bone Coral~
+   A grand avenue leads toward the palace, lined with coral that has grown
+over the bodies of the kingdom's soldiers, standing where they drowned in
+ranks. Their faces show through the coral, white and staring. Abyssal
+knights patrol the avenue on the backs of great grey rays.
+~
+210 a 9
+D1
+~
+~
+0 -1 21005
+D3
+~
+~
+0 -1 21010
+S
+#21010
+The Palace of Coral and Pearl~
+   The royal palace rises before you, its towers encrusted with pearl and
+coral, its windows glowing with pale light. It was the most beautiful
+building in the world. It still is, in a way that makes you want to weep.
+The gate stands open, guarded by knights of the drowned court.
+~
+210 a 9
+D1
+~
+~
+0 -1 21009
+D3
+~
+~
+0 -1 21011
+S
+#21011
+The Hall of the Drowned Court~
+   A great hall where the drowned court still sits in session: lords and
+ladies in robes of rotted silk, a herald, a chancellor reading petitions
+from a scroll that dissolves as he reads. They turn as one to look at you, a
+living thing in their hall.
+~
+210 a 9
+D0
+~
+~
+0 -1 21012
+D1
+~
+~
+0 -1 21010
+D3
+~
+~
+0 -1 21013
+S
+#21012
+The Royal Crypt~
+   Beneath the hall lie the tombs of the kingdom's rulers, their lids cast
+aside. The kings and queens of a thousand years float above their coffins,
+wrapped in their burial robes, and they are the queen's honour guard now.
+~
+210 a 9
+D0
+~
+~
+0 -1 21020
+D2
+~
+~
+0 -1 21011
+S
+#21013
+The Chamber of Tides~
+   A round chamber at the heart of the palace where a great pearl the size
+of a man turns slowly in the water, glowing grey. It was the kingdom's heart
+once, the source of the tides. Nu'Groth poisoned it, and the kingdom sank.
+Beyond it, through an arch of black pearl, is the throne room.
+~
+210 a 9
+D1
+~
+~
+0 -1 21011
+D3
+~
+~
+0 -1 21014
+S
+#21014
+The Throne Beneath the Sea~
+   The queen's throne room, its walls of mother-of-pearl, its floor a mosaic
+of the kingdom as it was. On a throne of black coral sits the Queen Beneath,
+crowned in pearls, her hair a cloud of black weed. She chose to drown her
+people rather than see them hollowed. The West drowned them anyway, and made
+her its keeper.
+~
+210 a 9
+D1
+~
+~
+0 -1 21013
+D4
+~
+~
+0 -1 21015
+S
+#21015
+The Flooded Stair~
+   Behind the throne, a stair of white stone spirals upward through the
+water, out of the palace and up through the roof of the cavern itself. You
+climb. The water grows lighter, grey instead of black, and at last your head
+breaks the surface into grey daylight and the smell of rotting leaves.
+~
+210 a 9
+D0
+~
+~
+0 -1 21021
+D5
+~
+~
+0 -1 21014
+D4
+Above, grey daylight shows through the surface of a pool.
+~
+~
+0 -1 21100
+S
+#21016
+The Sunken Fleet~
+   Beyond the galley lies the whole fleet of the drowned kingdom, a hundred
+ships resting upright on the sea floor in their battle line, sails still set
+and swaying in the current. Their crews stand at the rails, and turn their
+heads to watch you.
+~
+210 0 9
+D1
+~
+~
+0 -1 21003
+D3
+~
+~
+0 -1 21017
+S
+#21017
+The Admiral's Cabin~
+   The great stern cabin of the flagship. Charts float in the water, and the
+admiral sits at his table with a spyglass to his eye, looking east, planning
+the attack he has been planning for three hundred years.
+~
+210 0 9
+D1
+~
+~
+0 -1 21016
+S
+#21018
+The Drowned Library~
+   North of the market stands the kingdom's great library, its shelves still
+full. The books have swollen and burst, and their ink has run out into the
+water in dark clouds that move against the current, and gather, and take
+shape.
+~
+210 0 9
+D2
+~
+~
+0 -1 21006
+S
+#21019
+The Ink-Black Depths~
+   West of the kraken's grotto the sea floor drops into a trench so deep and
+dark that your light is swallowed an arm's length away. Small lights move in
+the black, lures dangling in front of mouths you cannot see.
+~
+210 a 9
+D1
+~
+~
+0 -1 21008
+S
+#21020
+The Hall of Drowned Mirrors~
+   North of the royal crypt the queen's handmaidens kept her mirrors. The
+glass is still bright under the water, and in each mirror a pale woman combs
+her hair. When you pass, they put down their combs and step out.
+~
+210 0 9
+D2
+~
+~
+0 -1 21012
+S
+#21021
+The Tide Gardens~
+   Above the throne room the queen's gardens grow: forests of black kelp
+that sway like dancers, grey coral shaped like hands, and anemones that
+close on anything that swims too near. The kelp moves even when the water
+does not.
+~
+210 0 9
+D2
+~
+~
+0 -1 21015
+D3
+~
+~
+0 -1 21022
+S
+#21022
+The Pearl Vault~
+   A domed vault of mother-of-pearl where the kingdom kept its treasure. It
+is all still here, heaped on the floor, and coiled around it, sleeping, is a
+leviathan grown huge on three hundred years of guarding it.
+~
+210 0 9
+D1
+~
+~
+0 -1 21021
+S
+#21023
+The Whale-Fall~
+   North of the sinking water the skeleton of a whale larger than a
+cathedral lies on the sea floor, its ribs arching overhead. Eels by the
+thousand live in its bones, and they pour out of it like smoke when you come
+near.
+~
+210 0 9
+D2
+~
+~
+0 -1 21004
+S
+$

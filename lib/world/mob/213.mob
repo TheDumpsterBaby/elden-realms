@@ -1,0 +1,225 @@
+#21300
+thing unmade~
+an unmade thing~
+Something that was never properly made drifts toward you, changing shape.
+~
+It has not decided what it is yet. It would like to try being you.
+~
+dfg 0 -1000 E
+97 0 -2 24d10+596 10d6+18
+1811 112918
+8 8 0
+BareHandAttack: 8
+E
+#21301
+reflection false mirror~
+a false reflection~
+Your own reflection steps out of a mirror, wearing grey, smiling.
+~
+You, as Nu'Groth would have you. It knows every move you know.
+~
+dfg 0 -1000 E
+98 0 -2 24d10+1707 10d13+34
+2455 345754
+8 8 0
+BareHandAttack: 0
+E
+#21302
+eater memory~
+a memory eater~
+A tall thin shape with a mouth where its face should be gathers up memories and eats them.
+~
+It eats what the West takes, so that nothing is remembered. It would like to
+eat yours.
+~
+dbfl 0 -1000 E
+103 0 -2 25d10+6425 11d19+56
+4984 1273090
+8 8 0
+BareHandAttack: 4
+E
+#21303
+shard sky~
+a falling sky shard~
+A shard of broken sky drifts down toward you, edges sharp as nothing.
+~
+Where it touches, things stop being.
+~
+dfg 0 -1000 E
+98 0 -2 24d10+1707 10d13+34
+2455 345754
+8 8 0
+BareHandAttack: 3
+E
+#21304
+horror unmade~
+an unmade horror~
+A creature with too many hands and a wolf's head lurches out of its unfinished pose.
+~
+A draft of something Nu'Groth will send east next year.
+~
+dfg 0 -1000 E
+99 0 -2 24d10+1725 10d13+34
+2495 352846
+8 8 0
+BareHandAttack: 8
+E
+#21305
+wraith void~
+a void wraith~
+A shape of deeper darkness whispers your mother's name.
+~
+It speaks with the voices of the dead and it pulls you down into the dark.
+~
+dfg 0 -1000 E
+99 0 -2 24d10+1725 10d13+34
+2495 352846
+8 8 0
+BareHandAttack: 8
+E
+#21306
+keeper threshold~
+the Keeper of the Threshold~
+The Keeper of the Threshold unfolds before the door, taller than the hall, made of grey light and old silence.
+~
+It guarded the door before Nu'Groth came, and it guards it now for Nu'Groth.
+It is very tired, and very patient, and it has never yet let anyone pass.
+~
+dbfl q -1000 E
+105 0 -3 26d10+14857 11d29+81
+11995 3969010
+8 8 0
+BareHandAttack: 0
+E
+#21307
+spider glass~
+a glass spider~
+A spider of clear glass runs down a grey thread toward you.
+~
+You can see what it ate last through its body.
+~
+dfg 0 -800 E
+97 0 -2 24d10+1690 10d13+33
+2415 338734
+8 8 0
+BareHandAttack: 4
+E
+#21308
+sovereign mirror~
+the Mirror Sovereign~
+The Mirror Sovereign steps out of the shattered frame, a crown of glass on its stolen face.
+~
+All the faces the West has taken, wearing one another.
+~
+dbfl 0 -1000 E
+103 0 -2 25d10+6425 11d19+56
+4984 1273090
+8 8 0
+BareHandAttack: 0
+E
+#21309
+thing wearing face~
+something wearing a face~
+The thing at the hearth turns around, and the face it is wearing smiles too wide.
+~
+It wants you to come home.
+~
+dbfl 0 -1000 E
+98 0 -2 24d10+1707 10d13+34
+2455 345754
+8 8 0
+BareHandAttack: 8
+E
+#21310
+soldier unremembered~
+an unremembered soldier~
+A soldier of a kingdom that never was charges at you.
+~
+Dreamed by Nu'Groth, and fully, terribly real while the dream lasts.
+~
+dfg 0 -500 E
+97 0 -2 24d10+596 10d6+18
+1811 112918
+8 8 0
+BareHandAttack: 0
+E
+#21311
+titan half made~
+a half-made titan~
+A titan of stitched flesh and grey iron tears itself out of its pit.
+~
+Meant to march east next year and step over Midgaard's wall.
+~
+dbfl 0 -1000 E
+103 0 -2 25d10+6425 11d19+56
+4984 1273090
+8 8 0
+BareHandAttack: 6
+E
+#21312
+tender shape~
+a shape tender~
+The many-armed shape tender drops its poles and reaches for you.
+~
+It would like to see what shape you would be.
+~
+dbfl 0 -1000 E
+99 0 -2 24d10+1725 10d13+34
+2495 352846
+8 8 0
+BareHandAttack: 8
+E
+#21313
+eater star~
+a star-eater~
+A long dark shape at the edge of the sky turns its mouth from the stars to you.
+~
+There used to be more stars.
+~
+dfg 0 -1000 E
+99 0 -2 24d10+1725 10d13+34
+2495 352846
+8 8 0
+BareHandAttack: 4
+E
+#21314
+echo keeper~
+an echo of the Keeper~
+A faint grey echo of the Keeper rises from the chair.
+~
+What is left of the Keeper from before Nu'Groth: tired, grieving, and still
+bound to the door.
+~
+dbl 0 0 E
+99 0 -2 24d10+1725 10d13+34
+2495 352846
+8 8 0
+BareHandAttack: 0
+E
+#21315
+hero remade~
+a remade hero~
+A hero of the east, remade in grey, steps out of a cell with a familiar sword.
+~
+You may have known this one, once.
+~
+dfg 0 -1000 E
+100 0 -2 25d10+1738 11d12+35
+2535 360010
+8 8 0
+BareHandAttack: 0
+E
+#21316
+thing listening ear~
+the listening thing~
+The walls of ears all turn toward you, and the listening thing rises from among them.
+~
+It has heard every word you ever said in Midgaard. It knows your name.
+~
+dbfl 0 -1000 E
+103 0 -2 25d10+6425 11d19+56
+4984 1273090
+8 8 0
+BareHandAttack: 12
+E
+$

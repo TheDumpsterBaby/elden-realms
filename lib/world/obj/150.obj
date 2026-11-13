@@ -1,0 +1,248 @@
+#15000
+nothingness universal blade sword~
+a blade of grey nothing~
+There seems to be a blade of grey nothing here, though it is hard to be sure.~
+~
+5 bcg 8193
+0 2 4 1
+40 0 200000
+E
+nothingness universal blade sword~
+It is less a sword than a sword-shaped absence, grey and cold, that hurts
+the eye. Something is written along it.
+~
+E
+text writing inscription~
+It just says: "NOTHING". Not very enlightening.
+~
+A
+18 2
+A
+19 2
+#15001
+gold coins crowns~
+the crown's gold~
+A heap of the crown's gold is here.~
+~
+20 0 1
+32385 0 0 0
+0 32385 0
+#15002
+sceptre royal golden~
+a golden sceptre~
+A golden royal sceptre, topped with a stag, lies here.~
+~
+12 gk 16385
+0 0 0 0
+20 15000 3000
+A
+18 2
+#15003
+crown golden~
+a golden crown~
+A heavy jewelled golden crown has been left here.~
+~
+9 gk 17
+6 0 0 0
+40 12000 10000
+A
+12 30
+A
+3 1
+#15004
+apple golden~
+a golden apple~
+A golden apple, the King's token of plenty, lies here.~
+~
+1 gk 16385
+0 0 -1 0
+5 8000 400
+#15005
+telescope scope~
+a large telescope~
+A large brass telescope stands here, pointing at the western sky.~
+~
+12 0 0
+0 0 0 0
+0 0 0
+E
+telescope scope~
+A fine brass telescope. Its lens is trained on one patch of the western sky,
+and there is a scratch on the brass beside it: a small moth.
+~
+#15006
+sword training~
+a training sword~
+A blunt training sword leans against the wall.~
+~
+5 0 8193
+0 1 4 3
+7 300 5
+A
+18 -2
+#15007
+key huge treasury~
+a huge key~
+A huge, heavy iron key lies here.~
+~
+18 c 16385
+15007 0 0 0
+1 0 0
+#15008
+wormbane sword verminator~
+Wormbane~
+A black sword wreathed in a faint green glow lies here.~
+~
+5 adjmnoq 8193
+0 2 5 11
+2 1 4000
+E
+wormbane sword verminator~
+A sword of black metal with a sickly green glow around the blade. It was
+made somewhere far in the west. It is very good at killing.
+~
+#15009
+key butlers butler~
+the Butler's key~
+The Butler's key is here.~
+~
+18 c 16385
+15009 0 0 0
+3 0 0
+#15010
+key small~
+a small key~
+A small key lies here.~
+~
+18 c 16385
+15010 0 0 0
+1 0 100
+#15011
+chest wooden~
+a large wooden chest~
+A large wooden chest stands in a corner.~
+~
+15 0 1
+800 13 15010 0
+450 400 100
+E
+chest~
+The servants' common chest, with a small lock any thief could pick.
+~
+#15012
+vial large potion brown~
+a large vial~
+A large vial of brown liquid has been left here.~
+~
+10 g 1
+15 15 -1 -1
+14 2000 2000
+E
+vial large brown potion~
+It is filled with a thick brown liquid that smells of bitter herbs. The
+Astrologer swears it wards off the dark.
+~
+#15013
+banner royal standard~
+a royal banner~
+The royal banner of the stag is planted firmly here.~
+~
+12 0 0
+0 0 0 0
+0 0 0
+E
+banner royal standard~
+A great heavy banner on an iron pole. King Welmar's flag hangs from it,
+faded and wind-torn.
+~
+E
+flag~
+The flag of King Welmar's house: a white stag on green. The stag's eye has
+been stitched over, recently, in grey thread.
+~
+#15014
+key~
+a key~
+A key lies on the floor.~
+~
+18 c 1
+15014 0 0 0
+13 0 0
+E
+key~
+A fine key with a letter W carved on it: the King's own key.
+~
+#15015
+hauberk mail chain~
+a guard's chain mail hauberk~
+A Royal Guard's chain mail hauberk lies on the floor.~
+~
+9 0 9
+5 0 0 0
+60 2000 500
+#15016
+broadsword sword large~
+a large broadsword~
+A large broadsword lies here.~
+~
+5 0 8193
+0 2 5 3
+14 1300 3000
+#15017
+key cell~
+the cell key~
+An iron key lies on the floor.~
+~
+18 c 1
+15017 0 0 0
+3 0 0
+E
+key cell~
+The key to the cells under the castle.
+~
+#15018
+corpse body~
+a corpse~
+A corpse lies face down in the middle of the floor, toward the west.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#15019
+lobster~
+a glazed lobster~
+A glazed lobster lies here, absurdly rich.~
+~
+19 0 1
+7 0 0 0
+5 100 10
+#15020
+caviar roe~
+some sturgeon roe~
+A little silver dish of black sturgeon roe sits here.~
+~
+19 0 1
+2 0 0 0
+1 250 20
+#15021
+glow~
+the glow from the west~
+A strange green glow comes from the west.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+glow~
+The glow from the west is strong, but it lights nothing around you, and you
+cannot see where it comes from.
+~
+#15022
+wail sound~
+the wailing from the east~
+An eerie wailing comes from the house to the east.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+$

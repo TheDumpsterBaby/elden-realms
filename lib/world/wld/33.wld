@@ -1,0 +1,1404 @@
+#3300
+A Scraggly Trail~
+   A faint trail leaves the main road to the west and climbs east into rocky
+hill country. Grey stone and grey mountain grass make it hard to follow, and
+the refugees who come this way often lose it. A weathered signboard stands
+here, out of place in such rough country. The trail climbs east.
+~
+33 cg 5
+D1
+~
+~
+0 -1 3301
+D3
+~
+~
+0 -1 3500
+E
+sign signboard~
+A painted board, its paint cracking: "GABADIEL'S SMITHERY", with an arrow
+pointing east. Under it someone has nailed a smaller board: "Blades for the
+Three Swords only. No refugees. No credit."
+~
+S
+#3301
+A Scraggly Trail~
+   The trail tops a rise and looks down into a very small valley, where a
+stone cottage stands in a neat yard. Smoke does not rise from its forge
+chimney. The front door hangs open. The trail drops down into the valley,
+and runs back west toward the road.
+~
+33 0 5
+D3
+~
+~
+0 -1 3300
+D5
+~
+~
+0 -1 3302
+S
+#3302
+A Groomed Path~
+   The western end of a valley hardly big enough for the one house that
+stands to the east. A path between clipped shrubs leads up to it. The shrubs
+have been trampled flat in places, by more than one pair of boots in a
+hurry. The path ends here, by the climb back up into the hills.
+~
+33 0 5
+D1
+~
+~
+0 -1 3303
+D4
+~
+~
+0 -1 3301
+S
+#3303
+Outside The Smithery~
+   The path runs from the edge of the valley to the cottage's front door in
+the east. The house is silent. The anvil-sign over the door has been knocked
+down and trampled, and there is a dark stain on the step. The path leads
+back west across the valley.
+~
+33 0 2
+D1
+The smithery's front door, heavy oak bound with iron.
+~
+door front~
+1 -1 3304
+D3
+~
+~
+0 -1 3302
+E
+stain step~
+Dried blood, quite a lot of it, smeared toward the door as if something was
+dragged inside.
+~
+S
+#3304
+The Smithery~
+   Ruin greets you. The forge has been blasted apart, along with most of the
+back wall, and hammers, tongs and anvils lie scattered across the floor. The
+smith's bed still smoulders. This was done by more than one person, to judge
+by the tracks in the soot, and they took their time. A hole gapes in the
+east wall, and the front door is west.
+~
+33 d 0
+D1
+A ragged hole torn through the back wall leads out into a garden.
+~
+~
+0 -1 3305
+D3
+The smithery's heavy front door.
+~
+door front~
+1 -1 3303
+E
+bed~
+Lucky! Under the scorched pillow is a half-written letter, unaddressed. The
+words not burnt or smeared speak of the smith-mage Gabadiel's masterwork: a
+sword of unequalled power, and two blades that came before it, set aside as
+"not yet what I was working toward". The letter ends: "The company has
+offered again. I will not sell these to be thrown away on the wall." Looking
+around, you see no swords at all.
+~
+E
+tracks dust soot~
+Three sets of prints lead out through the hole where the back wall used to
+stand.
+~
+S
+#3305
+A Burnt Garden~
+   This was once a tidy herb garden. Somebody has burned it with fire that
+was not lit by any torch; the earth is glassy in places and the ashes are
+still warm. The remains of a trail lead east to the edge of the valley, and
+the hole into the smithery is west.
+~
+33 0 2
+D1
+~
+~
+0 -1 3306
+D3
+~
+~
+0 -1 3304
+E
+tracks track~
+They lead east.
+~
+S
+#3306
+The Mountain Ridge~
+   A bare ridge east of the little valley, where the wind never stops.
+Looking back you can see the smithery's broken roof. Sheer drops fall away
+to the north and east. The ridge runs south, and the garden lies west.
+~
+33 0 5
+D2
+~
+~
+0 -1 3307
+D3
+~
+~
+0 -1 3305
+E
+tracks track~
+The tracks lead south.
+~
+S
+#3307
+Along The Mountain Ridge~
+   The ridge runs north and widens to the south into a small plateau. The
+drops on either side are too steep to try. From here the whole country lies
+open: hill farms to the south and east, a small village in a valley, and
+westward a single tall peak, dark against the sky, that the farmers do not
+name.
+~
+33 0 5
+D0
+~
+~
+0 -1 3306
+D2
+~
+~
+0 -1 3308
+E
+tracks track~
+They lead south.
+~
+E
+peak~
+A black peak, taller than the rest. Smoke drifts from somewhere high on its
+side.
+~
+S
+#3308
+The Parting Of The Ways~
+   A small plateau at the southern end of the ridge, where gentle slopes run
+down east, south and west into different parts of the hills. The ridge leads
+north. The dark peak looms in the west, and the wind from that way is cold.
+Three sets of tracks cross the dust here and part.
+~
+33 0 5
+D0
+~
+~
+0 -1 3307
+D1
+~
+~
+0 -1 3341
+D2
+~
+~
+0 -1 3309
+D3
+~
+~
+0 -1 3359
+E
+tracks track~
+The three sets of tracks split up here: one west, one east, one south.
+Whoever they were, they did not trust each other enough to travel together.
+~
+S
+#3309
+A Steep Slope~
+   A slope runs down and west from the plateau above, into a deep bowl in
+the hills. For such wild country there is a great deal of traffic here: boot
+prints, the drag-marks of something heavy, a child's shoe. The plateau is
+back up to the north.
+~
+33 0 4
+D0
+~
+~
+0 -1 3308
+D3
+~
+~
+0 -1 3310
+D4
+~
+~
+0 -1 3308
+E
+signs tracks prints shoe~
+Boot prints, many of them, and among them the smaller bare prints of people
+who were made to walk. A child's shoe lies trodden into the dust.
+~
+S
+#3310
+A Small Plateau~
+   A narrow shelf of flat ground under a sheer wall of rock to the north.
+You can climb back up the slope to the east or follow the shelf west. A
+loose, unsafe slope drops away to the south.
+~
+33 0 4
+D1
+~
+~
+0 -1 3309
+D2
+~
+~
+0 -1 3314
+D3
+~
+~
+0 -1 3311
+S
+#3311
+The End Of The Shelf~
+   The shelf ends here at a steep drop to the south, under the same rock
+wall. The shelf runs back east, and a steep slope of shale climbs west. From
+the edge you can see down into the bowl, where a cave mouth shows dark
+against the rock, south and far below.
+~
+33 0 4
+D1
+~
+~
+0 -1 3310
+D3
+~
+~
+0 -1 3312
+S
+#3312
+A Shale Slope~
+   The shale here slides under every step, and you are nearly thrown off
+your feet. It looks steadier to the north, and the slope drops back east to
+the shelf. This is no place to be without a rope.
+~
+33 0 5
+D0
+~
+~
+0 -1 3313
+D1
+~
+~
+0 -1 3311
+S
+#3313
+The Overlook~
+   A point of rock with a long view north over the hill farms. Far below, a
+foot-path climbs toward the dark central peak. Half the farms you can see
+have no smoke at their chimneys; their sons went to the wall, and the rest
+went east. The only safe way off the point is south.
+~
+33 0 4
+D2
+~
+~
+0 -1 3312
+S
+#3314
+A Rocky Slope~
+   You slide your way across steep, broken ground, trying hard to keep your
+feet. A small plateau lies up to the north, and the floor of the bowl is
+down to the west. Neither way looks safe.
+~
+33 0 5
+D0
+~
+~
+0 -1 3310
+D3
+~
+~
+0 -1 3315
+S
+#3315
+The Floor Of The Bowl~
+   The floor of the bowl, ringed by sheer rock walls that make it a natural
+fortress. A small spring bubbles up here, and the ground around it is
+trampled to mud by many feet. Bits of rope and cut cord lie in the mud. A
+path runs south, and the rocky slope climbs east.
+~
+33 0 4
+D1
+~
+~
+0 -1 3314
+D2
+~
+~
+0 -1 3316
+E
+rope cord~
+Lengths of rough rope, cut, as if prisoners were untied here to drink.
+~
+S
+#3316
+Below The Cave~
+   The path runs north to the spring and east toward a great cave in the
+mountainside. Everything is quiet, much too quiet. There are fresh
+footprints, and nobody to make them.
+~
+33 0 4
+D0
+~
+~
+0 -1 3315
+D1
+~
+~
+0 -1 3317
+S
+#3317
+The Cave Mouth~
+   A cave leads into the heart of the mountain, lit by sconces on the walls.
+A big rock sits by a firepit, and the ground is littered with rabbit bones,
+a broken whetstone and a heap of worn-out shoes taken from captives. Many
+pairs of boots have beaten the earth bare. The cave leads east, and the path
+is west.
+~
+33 c 0
+D1
+~
+~
+0 -1 3318
+D3
+~
+~
+0 -1 3316
+E
+shoes heap~
+Shoes of every size, from refugees taken on the roads. The bandits take them
+so that nobody runs.
+~
+S
+#3318
+Inside The Cave Mouth~
+   Daylight comes in from the west and makes the sconce-flames gutter. The
+passage splits north and south. The north way is the more trodden.
+~
+33 d 0
+D0
+~
+~
+0 -1 3319
+D2
+~
+~
+0 -1 3331
+D3
+~
+~
+0 -1 3317
+S
+#3319
+A Sconce-Lit Bend~
+   The passage turns here, south toward the entrance and east deeper into
+the mountain. Voices echo from somewhere far ahead.
+~
+33 d 0
+D1
+~
+~
+0 -1 3320
+D2
+~
+~
+0 -1 3318
+S
+#3320
+The Echoing Passage~
+   A twisting passage runs east and west. Low voices come from the east, but
+the echoes play tricks and there is no telling how near they are.
+~
+33 d 0
+D1
+~
+~
+0 -1 3321
+D3
+~
+~
+0 -1 3319
+S
+#3321
+A Dark Corner~
+   One sconce here has burned out, leaving this corner black. Brighter light
+shows to the south. The passage runs back west.
+~
+33 d 0
+D2
+~
+~
+0 -1 3322
+D3
+~
+~
+0 -1 3320
+S
+#3322
+The Branching Passage~
+   The passage forks three ways. North leads back toward the entrance; west
+opens into a well-lit cave; east runs into the shadowed depths.
+~
+33 d 0
+D0
+~
+~
+0 -1 3321
+D1
+~
+~
+0 -1 3324
+D3
+~
+~
+0 -1 3323
+S
+#3323
+The Bandits' Armoury~
+   Sconces light weapon racks and chests of armour, kept neat and well-
+oiled. Most of the blades are cheap curved swords, but someone takes care of
+them. A tally chalked on the wall counts blades sold to the Three Swords.
+The only way out is east.
+~
+33 d 0
+D1
+~
+~
+0 -1 3322
+E
+tally wall chalk~
+Rows of chalk strokes under two headings: "BLADES TO THE COMPANY" and
+"HEADS". The second list is longer.
+~
+S
+#3324
+A Rubble-Strewn Passage~
+   Loose stones and rocks litter the floor, making the going slow in the dim
+sconce-light. The voices seem fainter here. The passage runs south and west.
+~
+33 d 0
+D2
+~
+~
+0 -1 3325
+D3
+~
+~
+0 -1 3322
+S
+#3325
+The Coiled Passage~
+   The cave coils round on itself like a snake, leading north and east. Iron
+rings are set into the walls at waist height, for chaining people.
+~
+33 d 0
+D0
+~
+~
+0 -1 3324
+D1
+~
+~
+0 -1 3326
+E
+rings ring~
+Iron rings sunk into the rock, worn bright by chains.
+~
+S
+#3326
+A Chill Turn~
+   Cold air breathes along this turn of the passage, which runs north and
+west. The voices grow louder from the north. Scratched low on the wall are
+the names of the people who were chained here.
+~
+33 d 0
+D0
+~
+~
+0 -1 3327
+D3
+~
+~
+0 -1 3325
+E
+names wall scratches~
+Names scratched into the rock with a nail or a fingernail: Ada of Ashford,
+Tam, Little Wenna, and many more, with no family names.
+~
+S
+#3327
+The Torn Silk~
+   The passage runs north toward the voices and south to another bend. A
+scrap of red silk is caught on a jag of rock here, torn from someone's good
+dress as she was dragged past.
+~
+33 d 0
+D0
+~
+~
+0 -1 3328
+D2
+~
+~
+0 -1 3326
+E
+silk cloth scrap red~
+A scrap of fine red silk, too good for these caves. A refugee family's best,
+carried out of the west and lost here.
+~
+S
+#3328
+The Guard Post~
+   Two large boulders, wiped clean, sit against the wall as seats. A greasy
+food wrapper is trodden into the floor. This is a guard post. The main
+passage runs south, and a smaller tunnel leads west.
+~
+33 d 0
+D2
+~
+~
+0 -1 3327
+D3
+~
+~
+0 -1 3329
+S
+#3329
+Before The Slaver's Door~
+   The tunnel ends to the north at a heavy wooden door set into the stone,
+finely made, too finely for these caves. The way back to the main passage is
+east. An echo makes you turn, but nothing is there.
+~
+33 d 0
+D0
+A sturdy wooden door, carved by a good craftsman for a different house.
+~
+door wooden~
+1 -1 3330
+D1
+~
+~
+0 -1 3328
+S
+#3330
+Duwick's Cavern~
+   A natural cavern made over into an office and storeroom. A brook rushes
+in through the south wall and out through a hole in the west. Crates are
+stacked against the walls, and a battered oak desk by the door is heaped
+with ledgers. Big lanterns keep it bright. The door leads south.
+~
+33 d 0
+D2
+A sturdy wooden door.
+~
+door wooden~
+1 -1 3329
+E
+desk ledgers ledger papers~
+Ledgers in an unsteady hand: names, ages, heights, prices. Most are sold as
+labour, "to the hill farms" or "to the company". A few, the youngest, are
+marked only with a small grey circle and a far higher price.
+~
+S
+#3331
+South Of The Mouth~
+   South of the cave mouth the passage is badly lit, a sconce every fifteen
+feet. A faint, steady thumping comes from somewhere deep below. The way runs
+north and south.
+~
+33 d 0
+D0
+~
+~
+0 -1 3318
+D2
+~
+~
+0 -1 3332
+S
+#3332
+The Southern Bend~
+   The passage bends east and north. The far-off pounding makes the rock
+seem to have a heartbeat.
+~
+33 d 0
+D0
+~
+~
+0 -1 3331
+D1
+~
+~
+0 -1 3333
+S
+#3333
+The U-Turn~
+   The passage doubles back sharply, north and west. The air is damp, and
+slime on the floor gives off a smell of rot.
+~
+33 d 0
+D0
+~
+~
+0 -1 3334
+D3
+~
+~
+0 -1 3332
+S
+#3334
+A Dismal Twist~
+   The tunnel twists south and east, bare and lifeless. The thumping sound
+seems to come from every wall at once.
+~
+33 d 0
+D1
+~
+~
+0 -1 3335
+D2
+~
+~
+0 -1 3333
+S
+#3335
+The Last Sconce~
+   The sconces stop here. West, the tunnels are lit; south is utter
+darkness. The thumping goes on, patient.
+~
+33 d 0
+D2
+~
+~
+0 -1 3336
+D3
+~
+~
+0 -1 3334
+S
+#3336
+The Black Tunnel~
+   A natural tunnel runs north toward the light and south into total dark.
+The thumping is louder. Somewhere a chain rattles.
+~
+33 ad 0
+D0
+~
+~
+0 -1 3335
+D2
+~
+~
+0 -1 3337
+S
+#3337
+A Dark Corner~
+   The passage turns north and east in deep gloom. As you round it, the
+pounding sounds as if it is right beside you.
+~
+33 ad 0
+D0
+~
+~
+0 -1 3336
+D1
+~
+~
+0 -1 3338
+S
+#3338
+The Weaving Tunnel~
+   Darkness nearly total. The tunnel weaves north and west. Ahead, metal
+rings against stone: picks, and the clink of chains between blows.
+~
+33 ad 0
+D0
+~
+~
+0 -1 3339
+D3
+~
+~
+0 -1 3337
+S
+#3339
+The Spoil Heaps~
+   Heaps of earth and broken rock crowd the tunnel, and you must pick your
+way through. Light glimmers to the east. South, the tunnel goes back into
+the dark.
+~
+33 ad 0
+D1
+~
+~
+0 -1 3340
+D2
+~
+~
+0 -1 3338
+S
+#3340
+The Fissure~
+   The tunnel stops at a fissure in the rock. Gravel and broken stone are
+heaped all around, dug out by hand to widen the crack into a passage through
+the mountain: a back door for the slavers, dug by their captives. The work
+is recent, and bloody. The only way back is west.
+~
+33 d 0
+D3
+~
+~
+0 -1 3339
+S
+#3341
+A Rocky Slope East~
+   A long, treacherous slope drops east toward a valley where a small
+village huddles. Smoke rises from some of its chimneys, though not from
+many. The slope climbs back west toward the plateau.
+~
+33 0 5
+D1
+~
+~
+0 -1 3342
+D3
+~
+~
+0 -1 3308
+S
+#3342
+The Foot Of The Slope~
+   You slither down the last of the slope. Below, a few people move in the
+village, slowly. The village road begins just to the east, and the slope
+climbs west, far up the mountain.
+~
+33 c 5
+D1
+~
+~
+0 -1 3343
+D3
+~
+~
+0 -1 3341
+S
+#3343
+The Main Road, West End~
+   The western end of Stanneg's main road. The people here go about their
+chores slowly, eyes down, as people do when every family has someone at the
+wall. Two shops of wood and stone stand north and south. The road runs east,
+and a slope climbs west. There is a small sign here.
+~
+33 0 1
+D0
+~
+~
+0 -1 3344
+D1
+~
+~
+0 -1 3346
+D2
+~
+~
+0 -1 3345
+D3
+~
+~
+0 -1 3342
+E
+sign~
+A board reads: "STANNEG BY THE MOUNTAINS. Population: 27." The 27 has been
+crossed out and rewritten several times, each time lower. The latest figure
+is 19.
+~
+S
+#3344
+The Mountain Tavern~
+   A tavern with no one in it. The tavern-keeper went west with the last
+levy, and nobody has opened the place since. Hunting trophies still hang on
+the walls: antlered heads, longbows, a boar's tusks, all of it gathering
+dust. The road is south.
+~
+33 d 0
+D2
+~
+~
+0 -1 3343
+E
+trophies heads bows~
+Old hunting trophies. Under one of the bows is a scrap of paper: "Back by
+harvest."
+~
+S
+#3345
+The General Store~
+   A small store of rope, candles, nails and pots. The shelves are half
+empty; anything worth having was bought by the Three Swords and sent to the
+front. The road is north.
+~
+33 d 0
+D0
+~
+~
+0 -1 3343
+S
+#3346
+The Main Road~
+   Little happens on this stretch of road. East lies the village crossroads,
+and the road runs back west. A fenced paddock to the south holds the village
+horses, those the company has not yet bought.
+~
+33 0 1
+D1
+~
+~
+0 -1 3348
+D2
+~
+~
+0 -1 3347
+D3
+~
+~
+0 -1 3343
+S
+#3347
+The Corral~
+   A grassy corral inside a stout wooden fence. The horses look up warily as
+you come in. They are good mountain stock, and every buyer for the front
+wants them. The road is north.
+~
+33 d 0
+D0
+~
+~
+0 -1 3346
+S
+#3348
+The Crossroads~
+   The only crossroads in Stanneg by the Mountains. Plain buildings stand to
+the north, south, east and west, and roads run off in all four directions. A
+muster notice is nailed to a post.
+~
+33 0 1
+D0
+~
+~
+0 -1 3349
+D1
+~
+~
+0 -1 3355
+D2
+~
+~
+0 -1 3353
+D3
+~
+~
+0 -1 3346
+E
+notice post~
+"The Three Swords are hiring. Good pay, good blades, good food. Ask for
+Captain Salle at the inn." Someone has scrawled underneath: "Ask where my
+brother is."
+~
+S
+#3349
+A Small Road~
+   A small road runs north through the village. To the west is an open-sided
+farmers' market. The road continues north, and the crossroads is just to the
+south.
+~
+33 0 1
+D0
+~
+~
+0 -1 3351
+D2
+~
+~
+0 -1 3348
+D3
+~
+~
+0 -1 3350
+S
+#3350
+The Farmers' Market~
+   An open-roofed market of empty stalls, save one. A farmer's wife waits by
+her baskets with what her family grew; half of it is owed in tithe to the
+wall, and she sells the rest. The road is east.
+~
+33 0 1
+D1
+~
+~
+0 -1 3349
+S
+#3351
+The North End Of The Road~
+   The small road ends here, curving into the front walk of a house to the
+east. The shutters are closed. The road runs south toward the middle of the
+village.
+~
+33 0 1
+D1
+A plain wooden front door. A ribbon of black cloth is tied to the latch.
+~
+door front~
+1 -1 3352
+D2
+~
+~
+0 -1 3349
+S
+#3352
+A Farmhouse~
+   A simple farmhouse with a ladder up to a sleeping loft. A wood-stove
+keeps it warm. A rocking chair stands in the corner, a shawl over its back,
+and on the table is a letter from the wall that nobody has had the heart to
+put away. The door is west.
+~
+33 d 0
+D3
+The front door is set in the western wall.
+~
+door front~
+1 -1 3351
+E
+letter table~
+A short letter from Midgaard, sealed with the garrison's mark, regretting to
+inform the family. The name has been read so often the ink is smudged.
+~
+S
+#3353
+A Small Road, South~
+   The road ends at a stone house to the south. Smoke pours from its chimney
+in a thick dark stream and the windows are fogged. The crossroads is north.
+~
+33 0 1
+D0
+~
+~
+0 -1 3348
+D2
+A wooden front door, warm to the touch.
+~
+door front~
+1 -1 3354
+S
+#3354
+The Hunter's House~
+   The house is unbearably hot. The fire is built up like a bonfire, with a
+huge stack of wood beside it. The furnishing is spare: a hill landscape on
+the wall, an old bow, a row of bounty-tags from the company nailed by the
+door. The door is north.
+~
+33 d 0
+D0
+A plain wooden front door.
+~
+door front~
+1 -1 3353
+E
+tags bounty~
+Wooden tags stamped with three crossed blades, each one paid for a bandit's
+head.
+~
+S
+#3355
+The Well~
+   The main road ends at a great well sunk deep into the earth. To the north
+is a large building, a sign of three crossed swords hung over its double
+doors. The crossroads lies west. All around is rock and mountain; there is
+nowhere else to go.
+~
+33 0 1
+D0
+A large pair of wooden double doors, the company's sign above them.
+~
+door doors double~
+1 -1 3356
+D3
+~
+~
+0 -1 3348
+E
+well~
+A deep stone well. The rope is new; the bucket comes up with clean, cold
+water.
+~
+E
+sign swords~
+Three crossed swords, newly painted over an older inn sign.
+~
+S
+#3356
+The Stanneg Inn~
+   The front room of the Stanneg Inn, now the hall of the Three Swords.
+Racks of blades bought for the front stand along the walls under guard. An
+arch to the west leads to the common room, and rickety stairs climb to the
+rooms. A threadbare rug lies on the floor, thick with cat hair. The double
+doors lead out south.
+~
+33 d 0
+D2
+A large pair of wooden double doors.
+~
+door doors double~
+1 -1 3355
+D3
+~
+~
+0 -1 3357
+D4
+~
+~
+0 -1 3358
+E
+racks blades rack~
+Swords of every make, bought cheap and sold dear to the quartermasters of
+Midgaard.
+~
+S
+#3357
+The Common Room~
+   A great fire fights the drafts from the windows on the west and north.
+Long benches and tables fill the room, where locals drink beside the
+company's hired blades and try not to be noticed. At the end of the room the
+Three Swords sign up new recruits. The arch leads east.
+~
+33 d 0
+D1
+~
+~
+0 -1 3356
+S
+#3358
+The Reception~
+   A short landing at the top of the stairs, lined with small brown doors,
+all of them shut and taken by the company's men. A table holds a ledger,
+almost unused; the company's blades sleep free. A painting of the mountains
+hangs above the stairs that lead back down to the inn.
+~
+33 d 0
+D5
+~
+~
+0 -1 3356
+S
+#3359
+A Gentle Slope~
+   A shallow slope of loose shale, easy enough to walk. East is the high
+plateau; west is a flat ledge where trails lead up and down into the hills.
+High above to the west the dark peak seems to give off a weight of
+hopelessness.
+~
+33 0 5
+D1
+~
+~
+0 -1 3308
+D3
+~
+~
+0 -1 3360
+S
+#3360
+A Ledge~
+   A ledge above a path that runs up and down. Below, a cottage sits on a
+flat stretch of ground with smoke rising from it. Above, the path climbs
+toward the dark peak. Boot-tracks lead down toward the cottage, and the
+slope runs back east.
+~
+33 0 4
+D1
+~
+~
+0 -1 3359
+D4
+~
+~
+0 -1 3363
+D5
+~
+~
+0 -1 3361
+E
+tracks~
+One set of boot-tracks, leading down. They do not come back up.
+~
+S
+#3361
+Outside A Burned Cottage~
+   Closer, you see that the smoke is not from the chimney but from the
+gutted cottage itself. Something torched it, thoroughly. There is no sign of
+life. A large hole in the wall to the west leads inside, and the path climbs
+back up.
+~
+33 0 4
+D3
+~
+~
+0 -1 3362
+D4
+~
+~
+0 -1 3360
+S
+#3362
+The Burned Cottage~
+   The whole cottage still smoulders. In the centre of the ruin lies the
+burned body of a man, stretched out and blackened, one hand reaching for an
+empty scabbard. Whatever burned this place did it from above, and did it
+well. The hole leads east.
+~
+33 0 1
+D1
+~
+~
+0 -1 3361
+E
+body man scabbard~
+A charred body. The scabbard at his belt is sized for a short sword, and it
+is empty. Huge claw marks score the ground around the cottage.
+~
+S
+#3363
+A Mountain Trail~
+   The trail climbs straight up into the hard mountains. High above, the
+dark peak seems to radiate dread, and the trail leads toward it. The trail
+climbs higher to the west and drops back down the mountain.
+~
+33 0 5
+D3
+~
+~
+0 -1 3364
+D5
+~
+~
+0 -1 3360
+S
+#3364
+A Cold Trail~
+   The trail climbs higher to the west. Cold mountain air washes over you,
+and your back prickles; nothing that lives up here is likely to be small.
+Back down the trail to the east looks very inviting.
+~
+33 0 5
+D1
+~
+~
+0 -1 3363
+D3
+~
+~
+0 -1 3365
+S
+#3365
+The Last Of The Trail~
+   The trail climbs the side of the tallest mountain in the range, which
+stands against the sky like a monument to futility. Safety lies back east;
+the trail climbs on to the west.
+~
+33 0 5
+D1
+~
+~
+0 -1 3364
+D3
+~
+~
+0 -1 3366
+S
+#3366
+Near The Peak~
+   This is as close to the summit as most will come. A tiny path leads up to
+the north toward a great cave hollowed in the mountainside, its inside pitch
+black. The trail drops east, and that looks the better way.
+~
+33 gj 5
+D0
+~
+~
+0 -1 3367
+D1
+~
+~
+0 -1 3365
+S
+#3367
+A Small, Dangerous Path~
+   The path climbs up the face of the mountain toward the black cave. It
+also drops south, which is safer. Footsteps, heavy ones, sound from the
+rocks above your head.
+~
+33 gj 5
+D2
+~
+~
+0 -1 3366
+D4
+~
+~
+0 -1 3368
+S
+#3368
+The Ambush Ledge~
+   Too late you see that this broad ledge before the dark cave is a perfect
+place for an ambush. Rocks the size of a man lie scattered about, thrown
+from above. The view of the range is breathtaking. The cave is north, and
+the path drops down.
+~
+33 gj 5
+D0
+~
+~
+0 -1 3369
+D5
+~
+~
+0 -1 3367
+S
+#3369
+The Great Cave~
+   The mouth of an enormous cave. Around it lie burnt bones and scraps of
+wood and iron, the remains of those who came to steal. Giant claw marks
+score the floor. Two tunnels lead off, one up and one down, and the claw
+marks lead both ways. The ledge is south.
+~
+33 adgj 4
+D2
+~
+~
+0 -1 3368
+D4
+~
+~
+0 -1 3370
+D5
+~
+~
+0 -1 3373
+S
+#3370
+A Sloping Tunnel~
+   The tunnel slopes up to the north into the mountain. A gusty wind tugs at
+your clothes from somewhere ahead. The claw marks continue up into the dark,
+and the tunnel leads back down.
+~
+33 adgj 0
+D0
+~
+~
+0 -1 3371
+D5
+~
+~
+0 -1 3369
+S
+#3371
+A Windy Tunnel~
+   The tunnel climbs on and the wind is stronger. The claw marks in the
+stone stop abruptly here, where heaps of dug earth and stone lie on the
+floor. The tunnel runs north and south. Something about this place is wrong.
+~
+33 adgj 4
+D0
+~
+~
+0 -1 3372
+D2
+~
+~
+0 -1 3370
+E
+dirt stone earth~
+It has been dug from somewhere, but where?
+~
+E
+claw claws track tracks mark marks~
+They stop very abruptly here, right where the heaps of earth begin.
+~
+E
+floor~
+The floor up ahead looks... strange. You do not think going ahead would be a
+good idea.
+~
+S
+#3372
+The Pit~
+   The floor ahead was an illusion, and you fall straight through it onto
+the poisoned spikes below. You die slowly, bleeding, your head twisted at an
+awkward angle.
+~
+33 bdgj 0
+D2
+~
+~
+0 -1 3371
+S
+#3373
+A Sloping Tunnel Down~
+   This tunnel slopes deep down into the heart of the mountain. The air is
+still and too warm, and a deep musky odour hangs in it. The giant claw marks
+lead down, and the cave mouth is up.
+~
+33 adgj 4
+D4
+~
+~
+0 -1 3369
+D5
+~
+~
+0 -1 3374
+S
+#3374
+Above The Lair~
+   A bright, warm light shines from the north, after the dark of the tunnel
+above. The heat makes you sweat, and the musk is so strong it is hard to
+breathe. Something in your gut knows what is ahead. The tunnel leads north
+and back up.
+~
+33 adgj 4
+D0
+~
+~
+0 -1 3375
+D4
+~
+~
+0 -1 3373
+S
+#3375
+Aglandiir's Lair~
+   An enormous hall, as it must be for a dragon's bulk. There is no heap of
+bones and gold here; instead it is hung with tapestries and drapes, rugs and
+other comforts taken from the farms below, and there is even a bed of dragon
+size. Aglandiir has lived a long time and likes his comforts. Everything
+that comes up his mountain, he keeps. The tunnel leads south.
+~
+33 dgj 4
+D2
+~
+~
+0 -1 3374
+E
+tapestries tapestry drapes rugs~
+Fine hangings, many of them from the hill farms and the old manors east of
+the march. Some are scorched at the edges.
+~
+S
+$

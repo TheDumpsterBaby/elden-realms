@@ -1,0 +1,59 @@
+#204
+Claude~
+The Barrow Hills~
+20400 20499 20 2
+M 0 20400 1 20400	barrow_wight
+M 0 20400 2 20401	barrow_wight
+M 0 20401 2 20402	tomb_crawler
+M 0 20400 1 20403	barrow_wight
+M 0 20402 1 20403	ghoul_pack
+M 0 20403 2 20404	cursed_robber
+E 1 20401 80 16	robbers_pick
+M 0 20403 1 20405	cursed_robber
+E 1 20401 80 16	robbers_pick
+M 0 20404 1 20406	spiral_queen
+E 1 20402 100 6	spiral_circlet
+G 1 20403 100	queen_torc
+M 0 20402 3 20407	ghoul_pack
+M 0 20405 1 20408	ghoul_patriarch
+G 1 20404 100	ghoul_claw
+M 0 20402 1 20408	ghoul_pack
+M 0 20400 1 20409	barrow_wight
+M 0 20406 2 20410	vigil_monk
+E 1 20405 100 16	vigil_staff
+O 0 20400 1 20411	monastery_well
+M 0 20406 1 20411	vigil_monk
+E 1 20405 100 16	vigil_staff
+M 0 20407 2 20411	hill_refugee
+M 0 20406 2 20412	vigil_monk
+E 1 20405 100 16	vigil_staff
+M 0 20408 1 20413	flame_keeper
+G 1 20406 100	flame_candle
+M 0 20409 1 20414	refectory_brother
+G 1 20407 100	barley_bread
+M 0 20407 2 20414	hill_refugee
+M 0 20410 1 20415	lamp_tender
+M 0 20411 1 20416	archivist_monk
+G 1 20408 100	rite_scroll
+M 0 20412 1 20418	abbess_ulla
+E 1 20409 100 16	abbess_mace
+M 0 20400 2 20419	barrow_wight
+M 0 20413 1 20420	barrow_guardian
+E 1 20410 100 16	bronze_spear
+M 0 20414 1 20421	bone_giant
+G 1 20411 100	giant_bracer
+M 0 20401 1 20421	tomb_crawler
+M 0 20400 2 20422	barrow_wight
+M 0 20415 1 20422	stone_watcher
+M 0 20416 2 20423	barrow_lord_guard
+E 1 20412 80 16	bronze_axe
+M 0 20416 2 20424	barrow_lord_guard
+E 1 20412 80 16	bronze_axe
+M 0 20401 1 20424	tomb_crawler
+M 0 20417 1 20425	barrow_king
+E 1 20413 100 6	barrow_crown
+E 1 20414 100 16	kings_bronze_blade
+G 1 20415 100	kings_torc
+M 0 20400 1 20426	barrow_wight
+S
+$

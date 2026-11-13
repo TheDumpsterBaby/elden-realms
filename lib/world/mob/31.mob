@@ -1,0 +1,185 @@
+#3100
+cook maid~
+the cook~
+The cook is ladling out stew.
+~
+A tired woman with a great ladle who feeds the lower ward on very little.
+~
+ablno d 1000 S
+33 0 -10 1d1+30000 1d8+22
+2000 80000
+8 8 2
+#3101
+gravedigger sexton~
+the gravedigger~
+The gravedigger leans on his shovel.
+~
+An old man with dirt under every nail, who digs from dawn to dark and never
+catches up.
+~
+b 0 800 S
+3 18 7 2d6+35 1d7+0
+12 128
+6 6 1
+#3102
+sergeant arms chief guard~
+the sergeant-at-arms~
+The sergeant-at-arms is bellowing orders.
+~
+The garrison's sergeant-at-arms, a bull-necked veteran with a voice that can
+be heard on the far wall.
+~
+bcf d 800 S
+17 3 1 1d12+210 1d8+18
+0 28000
+8 8 1
+#3103
+soldier weary cityguard~
+a weary soldier~
+A weary soldier is sitting with his head in his hands.
+~
+A soldier just back from the march, who has not yet stopped seeing it.
+~
+bcf 0 1000 S
+10 10 2 1d12+123 1d8+3
+0 9000
+8 8 1
+#3104
+adjutant secretary~
+the commander's adjutant~
+The commander's adjutant is sorting dispatches.
+~
+A neat young officer with ink-stained fingers, who reads every casualty list
+before the commander does, so he can soften it.
+~
+b 0 900 S
+12 9 2 1d12+148 2d7+1
+100 13000
+8 8 2
+#3105
+lord commander mayor~
+the Lord Commander~
+The Lord Commander of the wall stands here, grey-haired and straight-backed.
+~
+The commander of Midgaard and of the war, an old soldier who has held the
+west wall for twenty years and buried two sons in the march. He walks the
+fort every day so the soldiers can see him, and opens the gates himself.
+~
+ablno d 1000 S
+24 0 -4 6d10+790 1d8+18
+611 83590
+4 4 1
+#3106
+herald crier~
+the herald~
+The herald is reading out names from a long scroll.
+~
+The fort's herald, who reads the names of the dead at every crossroad, every
+morning. It takes longer every year.
+~
+h 0 900 S
+1 20 9 2d6+10 1d5+0
+2 32
+8 8 1
+#3107
+drillmaster drill master~
+the drillmaster~
+The drillmaster stands here with a cane under his arm.
+~
+The garrison drillmaster, who has turned farm boys into soldiers for twenty
+years. He lost his own boys in the Fens.
+~
+dbm 0 600 E
+20 15 8 5d10+163 3d4+3
+144 4810
+8 8 0
+BareHandAttack: 0
+E
+#3108
+burner corpse~
+a corpse-burner~
+A corpse-burner tends the pyre, his face wrapped in wet cloth.
+~
+A soot-black man who burns the dead of the west before they can be buried,
+because buried, they get up.
+~
+db 0 300 E
+12 17 9 3d10+118 2d4+2
+63 1738
+8 8 0
+BareHandAttack: 0
+E
+#3109
+mourner~
+a mourner~
+A mourner sits by a coffin, praying.
+~
+Someone keeping the last watch over a body with a nail through its coffin
+lid.
+~
+db 0 800 E
+2 20 10 1d10+14 1d2+0
+3 19
+8 8 0
+BareHandAttack: 0
+E
+#3110
+dead restless corpse~
+a restless dead~
+A dead soldier claws its way out of an open grave.
+~
+A soldier who died in the west and was buried without burning. The West is
+not finished with him.
+~
+df 0 -800 E
+12 17 9 3d10+118 2d4+2
+63 1738
+8 8 0
+BareHandAttack: 8
+E
+#3120
+swan black~
+a black swan~
+A black swan glides on the grey water.
+~
+A black swan, silent and graceful, on the dead pond.
+~
+b 0 1000 S
+1 20 9 2d6+10 1d5+0
+0 32
+8 8 0
+#3121
+duckling starving~
+a starving duckling~
+A starving duckling peeps miserably.
+~
+A thin duckling. There is nothing left in the pond to eat.
+~
+b 0 1000 S
+0 20 10 1d1+0 1d1+0
+0 1
+8 8 0
+#3122
+crow carrion~
+a carrion crow~
+A carrion crow sits on a marker, watching you.
+~
+A crow with a knowing black eye. The crows have grown fat since the war
+began.
+~
+gh 0 1000 S
+0 20 10 2d6+0 1d3+0
+0 21
+8 8 0
+#3123
+duck grey~
+a grey duck~
+A grey duck paddles slowly.
+~
+An old duck, its feathers gone grey like the water.
+~
+g 0 1000 S
+1 20 10 2d6+5 1d4+0
+0 22
+8 8 0
+$

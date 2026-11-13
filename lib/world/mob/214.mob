@@ -1,0 +1,177 @@
+#21400
+soul taken kneeling~
+a taken soul~
+One of the kneeling host rises and turns toward you with empty eyes.
+~
+Someone the West took, kept forever in the radiance.
+~
+dfg 0 -1000 E
+100 0 -2 25d10+1738 11d12+35
+2535 360010
+8 8 0
+BareHandAttack: 8
+E
+#21401
+herald voice nugroth~
+a voice of Nu'Groth~
+A tall figure of grey light speaks with a voice like the whole sky.
+~
+One of Nu'Groth's voices, given shape to speak to things too small to hear
+it directly.
+~
+dbfl h -1000 E
+103 0 -2 25d10+6425 11d19+56
+4984 1273090
+8 8 0
+BareHandAttack: 0
+E
+#21402
+servant chosen~
+a chosen servant~
+A remade archmage steps down from its pillar of grey light.
+~
+Too great to waste on the march east. Kept here, beside Nu'Groth, forever.
+~
+dflg h -1000 E
+103 0 -2 25d10+6425 11d19+56
+4984 1273090
+8 8 0
+BareHandAttack: 0
+E
+#21403
+shade unbecoming~
+an unbecoming shade~
+A half-unmade hero drifts out of the fog, reaching for you.
+~
+Once a hero. Now less every moment, and desperate to take you with it.
+~
+dflg 0 -1000 E
+103 0 -2 25d10+6425 11d19+56
+4984 1273090
+8 8 0
+BareHandAttack: 8
+E
+#21404
+nugroth groth entity dark~
+Nu'Groth~
+Nu'Groth turns the whole of its attention upon you.
+~
+The source of all evil in the realm. It has no name that a mortal tongue can
+hold, and no shape except the one your mind gives it. It has been patient
+for longer than the world has had a sun. It does not hate you. It simply
+intends that you, and everything you love, become part of it.
+~
+dbfl hq -1000 E
+110 0 -3 27d10+29852 12d34+100
+23997 8712010
+8 8 0
+BareHandAttack: 0
+E
+#21405
+eater name chisel~
+the eraser of names~
+A tall grey figure turns from the wall, chisel raised, and begins on your name.
+~
+When it has erased every name, nobody will remember there was ever anyone
+else.
+~
+dbfl 0 -1000 E
+100 0 -2 25d10+1738 11d12+35
+2535 360010
+8 8 0
+BareHandAttack: 14
+E
+#21406
+ferryman soul~
+the ferryman of souls~
+The ferryman of souls leans on his pole and holds out a bony hand for payment.
+~
+He takes everyone west. He would like to take you.
+~
+dbfl 0 -1000 E
+103 0 -2 25d10+6425 11d19+56
+4984 1273090
+8 8 0
+BareHandAttack: 0
+E
+#21407
+saint fallen~
+the Fallen Saint~
+The Fallen Saint opens her arms to you, her ash-grey halo burning.
+~
+She healed a thousand thousand, and then she came west to heal the West.
+~
+dbfl 0 -1000 E
+103 0 -2 25d10+6425 11d19+56
+4984 1273090
+8 8 2
+BareHandAttack: 12
+E
+#21408
+conqueror fallen~
+the Fallen Conqueror~
+The Fallen Conqueror steps down from his pillar, hefting an axe that broke a hundred kingdoms.
+~
+He thought he could rule the West. It let him think so for a little while.
+~
+dbfl 0 -1000 E
+103 0 -2 25d10+6425 11d19+56
+4984 1273090
+8 8 0
+BareHandAttack: 0
+E
+#21409
+hero first woman~
+the First Hero~
+The First Hero rises from her knees and raises her ancient sword.
+~
+She reached the Seat before there were kingdoms, and she has knelt here ever
+since, neither taken nor free. She will test you, to see if you are the one
+she has waited for.
+~
+dbfl 0 0 E
+103 0 -2 25d10+6425 11d19+56
+4984 1273090
+8 8 2
+BareHandAttack: 0
+E
+#21410
+root west guardian~
+the Root of the West~
+The roots of grey light knot together and rise into a shape.
+~
+The part of Nu'Groth that reaches east.
+~
+dbfl 0 -1000 E
+100 0 -2 25d10+1738 11d12+35
+2535 360010
+8 8 0
+BareHandAttack: 2
+E
+#21411
+hand left~
+the Left Hand of Nu'Groth~
+The Left Hand of Nu'Groth closes slowly around you.
+~
+The hand that takes.
+~
+dbfl 0 -1000 E
+103 0 -2 25d10+6425 11d19+56
+4984 1273090
+8 8 0
+BareHandAttack: 6
+E
+#21412
+hand right~
+the Right Hand of Nu'Groth~
+The Right Hand of Nu'Groth opens, offering, and then strikes.
+~
+The hand that offers.
+~
+dbfl 0 -1000 E
+103 0 -2 25d10+6425 11d19+56
+4984 1273090
+8 8 0
+BareHandAttack: 6
+E
+$

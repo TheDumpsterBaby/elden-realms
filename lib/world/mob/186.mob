@@ -1,0 +1,176 @@
+#18601
+beast pit~
+the pit beast~
+A pit beast snarls in the dark, chain rattling.
+~
+A mangy, many-toothed thing from the march, kept in the punishment pit to
+make sure nobody sleeps there.
+~
+6 0 -750 S
+5 19 10 4d6+42 1d5+0
+29 597
+8 8 0
+#18602
+recruit sparring~
+a sparring recruit~
+A sparring recruit swings a practice blade at the air.
+~
+A young recruit looking for someone to spar with, and not too particular
+about the rules.
+~
+68 0 0 S
+2 20 10 2d4+16 1d4+0
+6 35
+8 8 1
+#18603
+drake whelp dragon~
+a drake whelp~
+A drake whelp, the yards' mascot, snaps at your fingers.
+~
+A small grey drake found as an egg on the march and raised by the sergeants.
+It bites.
+~
+0 0 100 S
+4 19 10 1d4+50 1d3+0
+0 302
+8 8 1
+#18604
+sergeant yard guard~
+the yard sergeant~
+The yard sergeant watches you with folded arms.
+~
+A scarred, loud sergeant who has trained a thousand recruits and buried most
+of them. He looks at you as if counting.
+~
+2 0 0 S
+3 20 10 2d6+34 1d2+0
+12 125
+8 8 1
+#18605
+apothecary alchemist yard~
+the yard apothecary~
+The yard apothecary is mixing a poultice.
+~
+A brisk woman with stained fingers who patches recruits up after the pits
+and does not want to see them twice.
+~
+2 0 0 S
+5 19 10 4d6+38 1d5+0
+29 555
+8 8 0
+#18606
+crawler cellar~
+a cellar crawler~
+A cellar crawler skitters across the floor.
+~
+A many-legged thing the size of a cat.
+~
+64 0 -250 S
+1 20 10 1d4+8 1d2+0
+0 21
+8 8 0
+#18607
+dead man chained zombie~
+a chained dead man~
+A chained dead man lurches at the end of its chain.
+~
+A corpse from the march, still moving, kept on a chain for recruits to
+practise on. The sergeants say it is the kindest use for it.
+~
+100 0 -500 S
+4 19 10 1d8+46 1d3+0
+20 291
+8 8 0
+#18608
+imp captured quasit~
+a captured imp~
+A captured imp hisses and spits at you.
+~
+A small grey devil caught in the Hollow Wood. It knows dirty words in four
+languages.
+~
+228 0 -800 S
+3 20 10 1d10+30 1d2+0
+0 108
+8 8 1
+#18609
+minotaur pit massive~
+the pit minotaur~
+The pit minotaur paws the ground, horns lowered.
+~
+A huge bull-headed brute taken alive on the march, kept for the best
+recruits to face. Most of them lose.
+~
+1600 0 -1000 S
+7 19 10 3d5+85 1d5+1
+53 2506
+8 8 1
+#18610
+shade captive spectre~
+a captive shade~
+A captive shade flickers in a ring of salt.
+~
+A dead soldier's shade, bound with salt and iron. It does not know it is
+dead.
+~
+2122 524298 -850 S
+6 19 10 3d5+62 1d4+1
+0 1151
+8 8 0
+#18611
+recruit cocky~
+a cocky recruit~
+A cocky recruit sneers at you.
+~
+A young bully who thinks the march will be easy.
+~
+68 0 -500 S
+2 20 10 2d4+20 1d3+0
+6 42
+8 8 1
+#18612
+recruit clueless~
+a clueless recruit~
+A clueless recruit is holding his sword by the wrong end.
+~
+A recruit who will need a great deal of luck.
+~
+68 0 0 S
+1 20 10 1d1+19 1d2+0
+2 38
+8 8 1
+#18613
+recruit talkative~
+a talkative recruit~
+A talkative recruit wants to tell you all about the farm.
+~
+A recruit from the Granary Fields who will not stop talking about home.
+~
+64 0 100 S
+3 20 10 6d5+22 1d2+0
+12 122
+8 8 2
+#18614
+recruit lost~
+a lost recruit~
+A lost recruit is looking for the drill hall.
+~
+A recruit who has been lost in the barracks for two days.
+~
+64 0 300 S
+4 19 10 8d5+20 1d3+0
+20 253
+8 8 1
+#18615
+recruit sharp~
+a sharp recruit~
+A sharp-eyed recruit polishes her kit.
+~
+The best of this intake, quick and careful. She will make sergeant, if she
+lives.
+~
+68 0 500 S
+5 19 10 10d5+20 2d3+0
+29 533
+8 8 1
+$

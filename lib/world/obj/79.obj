@@ -1,0 +1,282 @@
+#7900
+key steel~
+a large steel key~
+A large steel key has been left here.~
+~
+18 c 16385
+7900 0 0 0
+2 0 0
+E
+steel key~
+A big key of solid steel, worn bright by an old man's thumb.
+~
+#7901
+key copper~
+a copper key~
+A copper key has been left on the floor.~
+~
+18 c 16385
+7901 0 0 0
+2 0 0
+E
+copper key~
+A small copper key on a loop of red cord.
+~
+#7902
+key brass~
+a small brass key~
+A small brass key lies here.~
+~
+18 c 16385
+7902 0 0 0
+1 10 4
+E
+key brass~
+A small, plain brass key with no marks of any kind.
+~
+#7903
+treasure coins pay~
+a captain's savings~
+A heap of a captain's saved pay is here.~
+~
+20 0 1
+7734 0 0 0
+5 7734 0
+E
+treasure~
+Thirty years of a captain's pay, in coins of the fort. Less than you would
+expect. Most of it went to the widows.
+~
+#7904
+chest wooden~
+a wooden chest~
+A sturdy wooden chest stands in the corner.~
+~
+15 0 0
+100 15 7902 0
+0 0 0
+E
+chest wooden~
+A soldier's chest of short heavy planks, pegged together and fitted with a
+simple brass lock.
+~
+#7905
+chest iron~
+an iron chest~
+A heavy iron chest sits in one corner of the room.~
+~
+15 f 0
+15 15 7902 0
+0 0 0
+#7906
+dagger plain black~
+a plain black dagger~
+A long, plain black dagger rests here.~
+~
+5 dfhn 8193
+0 2 5 11
+3 6500 15000
+A
+18 -3
+A
+19 -1
+#7907
+bracelet spiked~
+a large spiked bracelet~
+A large spiked bracelet has been left here.~
+~
+11 g 4097
+0 0 0 0
+1 1200 2000
+A
+17 -4
+#7908
+waybread bread march~
+a cake of march bread~
+Some hard march bread has been put here.~
+~
+19 0 1
+24 0 0 0
+1 50 50
+E
+waybread bread march~
+Hard, dense bread baked for the regiments, made to keep for a month in a
+pack. It is said one cake will carry a soldier through a day's march.
+~
+#7909
+ring gold goldring~
+a golden ring~
+A plain gold ring has been abandoned here.~
+~
+11 dfmpq 3
+0 0 0 0
+20 3500 2000
+A
+3 2
+#7910
+sword bastard~
+a huge bastard sword~
+A huge bastard sword with a white hilt lies here.~
+~
+5 gklmn 8193
+0 2 7 3
+18 1700 800
+E
+bastard sword~
+A heavy hand-and-a-half sword with a hilt of white bone. It has been to the
+west and back many times.
+~
+A
+19 3
+#7911
+helmet large~
+a large helmet~
+A large iron helmet lies on the floor.~
+~
+9 g 17
+6 0 0 0
+5 4500 1500
+E
+large helmet~
+Heavy protection for the head, dented from more than one blow.
+~
+#7912
+helmet chaos spiked western~
+a spiked western helm~
+A grim, spiked black helm lies on the floor.~
+~
+9 fgj 17
+6 0 0 0
+8 2300 1000
+E
+chaos helmet~
+A black helm with a crest of iron spikes, taken off a champion of the west
+that Redferne killed. It still feels warm inside.
+~
+A
+19 2
+A
+24 -2
+#7913
+sword two-handed~
+a two-handed sword~
+An enormous two-handed sword rests on the floor.~
+~
+5 gjkm 8193
+0 2 6 3
+22 3500 3500
+E
+two-handed sword~
+A great blade with runes and a pattern like flames running along its edge.
+~
+E
+runes~
+On the blade is written: "Burn bright, and they will see you coming."
+~
+A
+17 10
+A
+19 3
+#7914
+plate breast silvery silver~
+a silvered breast plate~
+A silvered breast plate lies on the floor.~
+~
+9 gkl 9
+10 7000 0 0
+70 20000 5000
+E
+plate breast silvery silver~
+A silvered breastplate with a large rose in relief: Redferne's own device.
+It is scored with many old cuts.
+~
+#7915
+plates leg silvery~
+some silvered leg plates~
+Some silvered leg plates lie on the floor.~
+~
+9 gkl 33
+6 7000 0 0
+40 12500 5000
+E
+leg plates silvery silver~
+Silvered leg plates marked with the outline of a rose.
+~
+#7916
+gloves silvery silver~
+a pair of silvered gloves~
+A pair of silvered mail gloves lies on the floor.~
+~
+9 gkl 129
+4 7000 0 0
+14 2500 2000
+E
+gloves silvery silver~
+Gloves of fine silvered mail, worn shiny at the grip.
+~
+A
+18 1
+#7917
+helmet silvery silver~
+a silvered helmet~
+A silvered helmet lies here.~
+~
+9 gkl 17
+6 7000 0 0
+35 9000 5000
+E
+helmet silvery silver~
+A silvered helmet with a white horsehair crest, gone yellow with age.
+~
+#7918
+shield rose~
+the shield of the rose~
+The shield of the rose rests on the floor.~
+~
+9 gkl 513
+8 7000 0 0
+60 15000 7500
+E
+shield rose~
+A dark red rose painted on a white field, chipped and repainted many times.
+There is an inscription.
+~
+E
+inscription~
+The inscription reads:
+Hold, and be held.
+~
+#7919
+boots heavy plated~
+a pair of heavy plated boots~
+A pair of heavy plated boots stands on the floor.~
+~
+9 gkl 65
+4 7000 0 0
+40 3500 3500
+E
+boots heavy plated~
+Heavy boots plated with silvered steel, made for standing a long time on a
+wall.
+~
+#7920
+plates arm silvery silver~
+some silvered arm plates~
+Some silvered arm plates lie on the floor.~
+~
+9 gkl 257
+5 7000 0 0
+40 12500 5000
+E
+plates arm silvery silver~
+Silvered arm plates marked with the outline of a rose.
+~
+#7921
+barrel water~
+a water barrel~
+A barrel of clean water stands here.~
+~
+17 0 1
+40 40 15 0
+45 60 20
+$

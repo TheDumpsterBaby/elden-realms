@@ -1,0 +1,62 @@
+#202
+Claude~
+Greywater Fens~
+20200 20299 20 2
+M 0 20200 2 20201	grey_light
+M 0 20201 2 20202	marsh_leech
+M 0 20200 1 20202	grey_light
+M 0 20202 3 20203	grey_heron
+M 0 20203 1 20204	fen_hag
+E 1 20201 100 16	hag_ladle
+G 1 20202 100	hag_charm
+M 0 20204 2 20205	drowned_villager
+M 0 20204 2 20206	drowned_villager
+M 0 20205 1 20206	drowned_fisher
+E 1 20203 100 16	eel_spear
+M 0 20206 2 20207	fen_eel_swarm
+M 0 20207 1 20208	marsh_harpy
+G 1 20204 100	soldiers_badge
+M 0 20208 1 20209	bog_wight
+M 0 20209 2 20210	stilt_militia
+E 1 20205 100 16	stilt_trident
+M 0 20210 2 20211	stilthold_townsfolk
+M 0 20211 1 20212	reeve
+E 1 20206 100 16	reeve_hammer
+O 0 20200 1 20213	stilt_rainbarrel
+M 0 20212 1 20213	landlady
+G 1 20207 100	eel_pie
+M 0 20213 1 20214	lamp_healer
+G 1 20208 100	burn_salve
+M 0 20214 1 20215	bell_ringer
+M 0 20208 2 20216	bog_wight
+M 0 20208 2 20217	bog_wight
+M 0 20215 1 20217	drowned_militia
+E 1 20205 60 16	stilt_trident
+M 0 20201 2 20218	marsh_leech
+M 0 20216 1 20218	leech_queen
+G 1 20209 100	leech_hide
+M 0 20200 2 20219	grey_light
+M 0 20217 1 20219	mist_wraith
+M 0 20218 2 20220	barrow_servant
+M 0 20219 1 20221	barrow_steward
+E 1 20210 100 6	bronze_crown
+E 1 20211 100 16	barrow_blade
+M 0 20218 1 20221	barrow_servant
+M 0 20220 1 20222	drowned_knight
+E 1 20212 80 16	fen_knight_sword
+E 1 20213 30 5	weedhung_mail
+M 0 20220 1 20223	drowned_knight
+E 1 20212 80 16	fen_knight_sword
+E 1 20213 30 5	weedhung_mail
+M 0 20200 1 20223	grey_light
+M 0 20204 2 20224	drowned_villager
+M 0 20220 2 20225	drowned_knight
+E 1 20212 80 16	fen_knight_sword
+E 1 20213 30 5	weedhung_mail
+M 0 20221 1 20226	drowned_lord
+E 1 20214 100 6	drowned_crown
+E 1 20215 100 16	tide_blade
+G 1 20216 100	mere_pearl
+M 0 20208 1 20227	bog_wight
+S
+$

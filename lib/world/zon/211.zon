@@ -1,0 +1,45 @@
+#211
+Claude~
+The Weeping Forest~
+21100 21199 20 2
+M 0 21100 1 21100	grasping_root
+M 0 21101 2 21101	bark_stalker
+M 0 21102 2 21102	fruit_swarm
+M 0 21103 1 21103	weeping_knight
+E 1 21100 100 16	silver_sword
+E 1 21101 100 5	pierced_plate
+M 0 21104 2 21104	sap_ooze
+M 0 21105 2 21105	thorn_wolf
+M 0 21106 1 21105	thornmother
+G 1 21102 100	thorn_crown
+M 0 21100 2 21106	grasping_root
+M 0 21107 2 21107	weeping_maiden
+M 0 21101 1 21108	bark_stalker
+M 0 21108 1 21108	whisper_shade
+M 0 21109 2 21109	root_horror
+M 0 21110 1 21110	weeping_mother
+G 1 21103 100	mother_seed
+G 1 21104 100	heartwood_bow
+M 0 21100 1 21111	grasping_root
+M 0 21111 2 21112	pool_wisp
+M 0 21104 2 21113	sap_ooze
+M 0 21102 1 21114	fruit_swarm
+M 0 21112 1 21114	orchard_keeper
+G 1 21105 40	orchard_scythe
+O 0 21106 1 21115	paladin_banner
+M 0 21113 2 21115	bound_squire
+M 0 21114 1 21116	lake_banshee
+G 1 21107 100	wedding_veil
+M 0 21105 1 21117	thorn_wolf
+M 0 21115 3 21117	thorn_pup
+M 0 21116 1 21118	vein_guardian
+G 1 21108 100	heartwood_shield
+M 0 21117 3 21119	absorbed_villager
+M 0 21118 2 21120	cocoon_sleeper
+M 0 21119 1 21120	cocoon_tender
+G 1 21109 40	cocoon_silk
+M 0 21120 2 21121	seed_horror
+M 0 21121 2 21122	bastion_scout
+M 0 21122 2 21123	siege_ghost
+S
+$

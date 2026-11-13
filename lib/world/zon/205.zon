@@ -1,0 +1,71 @@
+#205
+Claude~
+The Last Light~
+20500 20599 20 2
+M 0 20500 2 20501	grey_skirmisher
+E 1 20501 70 16	grey_javelin
+M 0 20501 2 20502	lastlight_soldier
+E 1 20502 100 16	lastlight_spear
+E 1 20503 40 11	lastlight_shield
+M 0 20502 1 20502	gate_sergeant
+O 0 20500 1 20503	fort_cistern
+M 0 20501 2 20503	lastlight_soldier
+E 1 20502 100 16	lastlight_spear
+E 1 20503 40 11	lastlight_shield
+M 0 20503 1 20503	fort_smith
+E 1 20504 100 16	fort_hammer
+M 0 20504 3 20504	lastlight_archer
+E 1 20505 100 16	longbow
+M 0 20505 2 20505	lastlight_officer
+M 0 20506 1 20506	lastlight_commander
+E 1 20506 100 16	lastlight_blade
+M 0 20507 1 20507	fort_quartermaster
+G 1 20507 100	salt_fish
+G 1 20508 100	field_kit
+M 0 20508 2 20507	grey_rat
+M 0 20509 1 20508	garrison_priest
+G 1 20509 100	rite_vial
+M 0 20501 1 20509	lastlight_soldier
+E 1 20502 100 16	lastlight_spear
+E 1 20503 40 11	lastlight_shield
+M 0 20510 1 20510	bridge_warden
+E 1 20510 100 16	warden_axe
+M 0 20500 2 20511	grey_skirmisher
+E 1 20501 70 16	grey_javelin
+M 0 20511 1 20512	bone_bridge_troll
+G 1 20511 100	troll_hide_belt
+M 0 20512 2 20513	river_drowned
+E 1 20501 40 16	grey_javelin
+M 0 20512 1 20514	river_drowned
+E 1 20501 40 16	grey_javelin
+M 0 20513 1 20515	grey_ferryman
+E 1 20512 100 16	ferry_pole
+G 1 20513 100	grave_coin
+M 0 20514 2 20516	grey_soldier
+E 1 20514 60 16	grey_iron_sword
+E 1 20515 25 5	grey_iron_mail
+M 0 20515 1 20516	dread_hound
+M 0 20514 3 20517	grey_soldier
+E 1 20514 60 16	grey_iron_sword
+E 1 20515 25 5	grey_iron_mail
+M 0 20516 2 20518	grey_captain
+E 1 20514 100 16	grey_iron_sword
+M 0 20517 1 20519	grey_priest
+E 1 20516 100 17	grey_censer
+M 0 20518 2 20519	caged_prisoner
+M 0 20519 1 20520	grey_overseer
+E 1 20517 100 16	grey_whip
+M 0 20520 2 20520	hollowed_slave
+M 0 20521 2 20521	tower_crew
+E 1 20501 50 16	grey_javelin
+M 0 20515 2 20522	dread_hound
+M 0 20522 1 20522	grey_champion
+E 1 20518 100 16	champion_glaive
+M 0 20523 1 20523	bridgebreaker
+E 1 20519 100 16	bridgebreaker_hammer
+E 1 20520 100 5	bolted_plates
+G 1 20521 100	siege_plans
+M 0 20500 1 20524	grey_skirmisher
+E 1 20501 70 16	grey_javelin
+S
+$

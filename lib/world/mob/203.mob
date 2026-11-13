@@ -1,0 +1,277 @@
+#20300
+vulture carrion~
+a carrion vulture~
+A carrion vulture as tall as a man hops toward you, wings spread.
+~
+Bald-headed and enormous, gorged on the field. It has learned that the
+living taste better.
+~
+dfg 0 -400 E
+45 9 5 11d10+305 5d6+8
+530 24310
+8 8 0
+BareHandAttack: 4
+E
+#20301
+soldier risen dead~
+a risen soldier~
+A risen soldier in rusted mail lifts a broken spear.
+~
+He died on this field a year ago, facing west. The West took his body and
+turned it around.
+~
+dfg 0 -900 E
+47 9 5 11d10+319 5d6+8
+568 26518
+8 8 0
+BareHandAttack: 0
+E
+#20302
+ghost follower woman~
+the ghost of a camp follower~
+A ghostly woman stirs a pot over a dead fire, weeping.
+~
+She followed her husband to war, cooked for his company, and died when the
+camp was overrun. She is still waiting for him to come back for supper.
+~
+db 0 -300 E
+47 9 5 11d10+887 5d12+16
+757 79534
+8 8 2
+BareHandAttack: 0
+E
+#20303
+officer ghost~
+a ghostly officer~
+A ghostly officer moves the pieces on the battle map, over and over.
+~
+He planned the battle. He has been trying for a year to find the plan that
+would have won. There was none.
+~
+db 0 -200 E
+49 8 4 12d10+916 5d13+17
+809 86446
+8 8 1
+BareHandAttack: 0
+E
+#20304
+dead waiting wounded~
+a dead soldier on a cot~
+A dead soldier sits up on his cot, holding his wound closed.
+~
+He waited for the surgeon until he died. He is still waiting, and he is
+angry now.
+~
+dfg 0 -800 E
+46 9 5 11d10+311 5d6+8
+549 25402
+8 8 0
+BareHandAttack: 0
+E
+#20305
+surgeon ghost~
+the surgeon's ghost~
+The surgeon's ghost moves between the cots with a bloody saw.
+~
+He could not save them then. Now he tries to save the living, and his cure
+is the saw.
+~
+dbf 0 -500 E
+48 8 4 12d10+898 5d13+16
+783 82954
+8 8 1
+BareHandAttack: 0
+E
+#20306
+sergeant risen~
+a risen sergeant~
+A risen sergeant bellows silent orders, dressing the ranks of the dead.
+~
+Even dead, he keeps his line straight.
+~
+dfg 0 -900 E
+49 8 4 12d10+916 5d13+17
+809 86446
+8 8 1
+BareHandAttack: 0
+E
+#20307
+dead shield wall~
+a dead shieldman~
+A dead shieldman locks his shield with those beside him.
+~
+The left flank held until the end. It holds still.
+~
+dfg 0 -900 E
+48 8 4 12d10+319 5d7+8
+587 27658
+8 8 0
+BareHandAttack: 0
+E
+#20308
+rider death cavalry~
+a death rider~
+A dead rider on a skeletal grey horse levels a broken lance.
+~
+The cavalry died charging. It charges still, through the living and the dead
+alike.
+~
+dfg 0 -900 E
+49 8 4 12d10+916 5d13+17
+809 86446
+8 8 0
+BareHandAttack: 0
+E
+#20309
+vulture matriarch~
+the vulture matriarch~
+A vulture as big as a horse rises on the highest ledge, hissing.
+~
+The oldest and fattest of them, her beak like a cleaver.
+~
+dbfl 0 -500 E
+52 7 4 13d10+3367 6d17+27
+1670 324490
+8 8 0
+BareHandAttack: 4
+E
+#20310
+engineer risen~
+a risen engineer~
+A risen engineer hauls on a rope, rebuilding the engine.
+~
+A siege crewman who died beneath his own trebuchet, still working.
+~
+dfg 0 -900 E
+47 9 5 11d10+319 5d6+8
+568 26518
+8 8 0
+BareHandAttack: 0
+E
+#20311
+engineer bone master~
+the bone engineer~
+A dead master engineer directs the bone engine, a measuring rod in hand.
+~
+In life he built the army's engines. In death he builds the West's, from the
+bodies of his friends.
+~
+dbfl 0 -1000 E
+52 7 4 13d10+3367 6d17+27
+1670 324490
+8 8 1
+BareHandAttack: 0
+E
+#20312
+risen grave dead~
+a grave-risen corpse~
+A corpse claws its way out of the mass grave.
+~
+Its friends buried it with honour. It has come back without any.
+~
+dfg 0 -900 E
+47 9 5 11d10+319 5d6+8
+568 26518
+8 8 0
+BareHandAttack: 8
+E
+#20313
+caller roll~
+the roll caller~
+A dead quartermaster reads names from a rotting roll.
+~
+He calls the company roll, and each name he calls rises. Stop him before he
+reaches the end.
+~
+dbfl 0 -1000 E
+52 7 4 13d10+3367 6d17+27
+1670 324490
+8 8 1
+BareHandAttack: 0
+E
+#20314
+soldier drowned~
+a drowned soldier~
+A drowned soldier in rusting armour rises from the ford.
+~
+He fled for the river and drowned under the weight of his mail.
+~
+dfg 0 -900 E
+48 8 4 12d10+319 5d7+8
+587 27658
+8 8 0
+BareHandAttack: 0
+E
+#20315
+guardian ford ghost~
+the guardian of the ford~
+A pale ghost in battered armour stands guard behind the wagon.
+~
+She held the ford until dusk with eleven others. She is not risen; she is
+simply refusing to leave. She will not fight the living unless they come at
+her.
+~
+db 0 600 E
+50 8 4 12d10+934 6d11+17
+836 90010
+8 8 2
+BareHandAttack: 0
+E
+#20316
+tender pyre~
+the pyre tender~
+A tall gaunt figure feeds bones into the grey flame.
+~
+A servant of Nu'Groth, flesh grey as ash, eyes burning with the same cold
+fire as the pyre.
+~
+dbf 0 -1000 E
+50 8 4 12d10+934 6d11+17
+836 90010
+8 8 0
+BareHandAttack: 0
+E
+#20317
+necromancer grey~
+the grey necromancer~
+A necromancer in robes of human skin chants over a heap of corpses.
+~
+One of Nu'Groth's high servants, sent east to raise the fallen army as a
+weapon against the living. She has raised a thousand already.
+~
+dbfl 0 -1000 E
+53 7 4 13d10+3429 6d18+28
+1721 337090
+8 8 2
+BareHandAttack: 0
+E
+#20318
+knight dead honour guard~
+a dead knight of the honour guard~
+A dead knight of the honour guard raises a notched sword.
+~
+Sworn to defend the royal standard to the death. They did, and they are
+defending it still, for a different master.
+~
+dfg 0 -900 E
+50 8 4 12d10+934 6d11+17
+836 90010
+8 8 1
+BareHandAttack: 0
+E
+#20319
+marshal fallen~
+the Fallen Marshal~
+The Fallen Marshal stands beneath the grey standard, sword raised to his dead army.
+~
+Marshal of the realm, hero of a dozen campaigns, he led the last army west
+to break the darkness and died with it on this hill. Nu'Groth raised him
+first of all, and gave him back his army, and pointed him east.
+~
+dbfl 0 -1000 E
+55 7 4 13d10+7929 6d26+40
+4262 1089010
+8 8 1
+BareHandAttack: 0
+E
+$

@@ -1,0 +1,577 @@
+#5000
+The Supply Road Below the East Gate~
+   The road leaves Midgaard's east gate and runs out across open country,
+churned to black mud by wagon wheels and the boots of marching columns. A
+wooden board nailed to a post lists the day's convoys in chalk, half of them
+crossed out. The fort's walls loom to the west.
+~
+50 0 2
+D1
+~
+~
+0 -1 5001
+D3
+~
+~
+0 -1 3053
+E
+board post chalk~
+Convoy names, dates and destinations. Beside three of them someone has
+written a single word: LOST.
+~
+S
+#5001
+The Supply Road, Rutted Stretch~
+   Ruts as deep as a man's shin score the road, filled with brown water that
+never quite dries. Broken spokes and a lost horseshoe lie in the verge.
+Fields stretch away on either side, empty of workers this far from the wall.
+~
+50 0 2
+D1
+~
+~
+0 -1 5002
+D3
+~
+~
+0 -1 5000
+S
+#5002
+The Supply Road, By a Milestone~
+   A squat milestone of grey granite marks the first league from Midgaard.
+Generations of travellers have scratched names and prayers into it, and
+newer hands have added the names of the dead. To the north the road widens
+into the yard of a caravan depot.
+~
+50 0 2
+D0
+~
+~
+0 -1 5003
+D1
+~
+~
+0 -1 5007
+D3
+~
+~
+0 -1 5001
+E
+milestone stone names prayers~
+MIDGAARD I LEAGUE. Below, hundreds of names. The freshest read: "Holt, Anna,
+the twins. Taken on the road. Pray for them."
+~
+S
+#5003
+The Caravan Depot Yard~
+   Wagons stand in rows inside a palisade of sharpened logs, their canvas
+covers patched and stained. Teamsters argue over loads while soldiers in
+Midgaard's grey watch every crate. Everything bound for the fort passes
+through this yard, and everything is counted twice.
+~
+50 c 1
+D0
+~
+~
+0 -1 5006
+D1
+~
+~
+0 -1 5005
+D2
+~
+~
+0 -1 5002
+D3
+~
+~
+0 -1 5004
+S
+#5004
+The Depot Stables~
+   Long stalls hold the depot's oxen and draught horses, thin from short
+rations. The smell of dung and wet straw is thick. A farrier's anvil stands
+by the door, and a row of hooks holds harness waiting for repair.
+~
+50 cd 0
+D1
+~
+~
+0 -1 5003
+S
+#5005
+The Depot Storehouse~
+   Sacks of grain, barrels of salt pork and crates stamped with Midgaard's
+seal are stacked to the rafters. A clerk's desk stands by the door with a
+ledger chained to it. Rats scratch somewhere behind the sacks, and nobody
+bothers to chase them any more.
+~
+50 cd 0
+D3
+~
+~
+0 -1 5003
+S
+#5006
+The Depot Master's Office~
+   A cramped room with a single shuttered window overlooking the yard. Maps
+of the road are pinned to the walls, marked in red where convoys were
+attacked. The marks cluster around the old bridge and the Wolf Wood, and
+there are more of them every week.
+~
+50 cd 0
+D2
+~
+~
+0 -1 5003
+E
+maps map marks red~
+The road east from Midgaard, drawn carefully. Red crosses crowd the old
+bridge, the deserters' camp, and the edge of the Wolf Wood.
+~
+S
+#5007
+The Supply Road, Beneath the Watch Hill~
+   The road skirts the foot of a steep grassy hill crowned with a signal
+tower. A path of trodden earth climbs toward it. From up there the garrison
+can see smoke from the Ironworks, the fort's walls, and anything moving on
+the road for leagues.
+~
+50 0 2
+D1
+~
+~
+0 -1 5009
+D3
+~
+~
+0 -1 5002
+D4
+~
+~
+0 -1 5008
+S
+#5008
+The Watch Hill Signal Tower~
+   A stone tower stands on the hilltop beside a great iron basket of pitch
+and timber, ready to be lit. The wind is constant up here. Far to the west,
+beyond Midgaard, the horizon is smudged with a darkness that is not cloud
+and never moves.
+~
+50 0 4
+D5
+~
+~
+0 -1 5007
+E
+basket pitch beacon~
+If the beacon is lit, every soldier between here and the fort will march. It
+has been lit twice this year.
+~
+E
+west horizon darkness~
+A low stain across the western sky, darker at the bottom. Looking at it too
+long makes your eyes ache.
+~
+S
+#5009
+The Supply Road, Gallows Corner~
+   The road bends around a gallows built where everyone must pass it. Three
+bodies turn slowly on their ropes, a placard hung around each neck. Crows
+have been at them. A rough track leads south through a hedge toward a thin
+column of cookfire smoke.
+~
+50 0 2
+D1
+~
+~
+0 -1 5014
+D2
+~
+~
+0 -1 5010
+D3
+~
+~
+0 -1 5007
+E
+placard placards bodies~
+Each placard reads DESERTER in black paint.
+~
+S
+#5010
+The Edge of the Deserters' Camp~
+   Beyond the hedge, lean-tos of stolen canvas crouch among the trees. Men
+in torn Midgaard grey squat around low fires, their eyes on the road.
+Discarded armour lies everywhere, the fort's sigil scratched out of every
+piece.
+~
+50 0 3
+D0
+~
+~
+0 -1 5009
+D1
+~
+~
+0 -1 5011
+D2
+~
+~
+0 -1 5012
+S
+#5011
+The Deserters' Picket Line~
+   A line of sharpened stakes faces the road, built by men who still
+remember their drill. A crude watch post overlooks the track, its lookout
+dozing on a stolen shield. Empty wine jars are stacked behind it like
+ammunition.
+~
+50 0 3
+D3
+~
+~
+0 -1 5010
+S
+#5012
+The Deserters' Camp~
+   The heart of the camp is a ring of tents around a fire pit. Loot from
+raided wagons is piled carelessly: grain sacks, a smashed harp, a child's
+shoe. The men here fled the wall, and they would rather kill than be dragged
+back to it.
+~
+50 0 3
+D0
+~
+~
+0 -1 5010
+D2
+~
+~
+0 -1 5013
+S
+#5013
+The Deserter Captain's Tent~
+   A command tent, taken whole from the garrison. A folding table holds a
+map of the road with the convoy times marked in a soldier's neat hand.
+Captured banners hang upside down. Whoever leads here was once a good
+officer, which makes him far more dangerous.
+~
+50 d 0
+D0
+~
+~
+0 -1 5012
+S
+#5014
+The Supply Road, The Thalos Fork~
+   A paved spur breaks south from the road toward the white walls of Thalos,
+an old city that has shut its great gate to all but carts of tribute. A
+weathered statue of a king points down the spur. Somebody has knocked off
+its head.
+~
+50 0 2
+D1
+~
+~
+0 -1 5015
+D2
+~
+~
+0 -1 5200
+D3
+~
+~
+0 -1 5009
+E
+statue king~
+A king in old-fashioned armour, one arm outstretched toward Thalos. The head
+lies in the ditch, face down.
+~
+S
+#5015
+The Supply Road, The Burned Wagon~
+   The blackened shell of a supply wagon lies on its side across the verge,
+its oxen long since butchered and eaten. Arrows still stand in the charred
+boards. Whoever drove it is not here, and nobody has come to bury them.
+~
+50 0 2
+D1
+~
+~
+0 -1 5016
+D3
+~
+~
+0 -1 5014
+E
+wagon arrows boards~
+Short black-fletched arrows, the kind bandits favour. A few are Midgaard
+militia shafts, fired back.
+~
+S
+#5016
+The Supply Road, The Old Bridge~
+   A humped stone bridge carries the road over a slow, brown river. Its
+parapets are cracked and one has fallen into the water. Muddy footprints
+lead off the road and down the bank to the dark space beneath the arch.
+~
+50 0 2
+D1
+~
+~
+0 -1 5022
+D3
+~
+~
+0 -1 5015
+D5
+~
+~
+0 -1 5017
+E
+footprints prints bank~
+Many boots, coming and going, all heading under the bridge.
+~
+S
+#5017
+Beneath the Old Bridge~
+   Under the arch the Dark River laps against a ledge of slick stone. The
+wall here has been chiselled open into a low tunnel, hung with a filthy
+curtain. Bones of small animals and a few that are not so small litter the
+ledge.
+~
+50 ad 0
+D0
+The Dark River flows away north into the hills.
+~
+~
+0 -1 5671
+D1
+~
+~
+0 -1 5018
+D4
+~
+~
+0 -1 5016
+S
+#5018
+The Bandit Tunnel~
+   A cramped tunnel dug through earth and old foundation stones, shored up
+with timbers stolen from wagons. Water drips constantly. It opens ahead into
+a wider space lit by stolen lanterns, where voices argue over shares.
+~
+50 ad 0
+D1
+~
+~
+0 -1 5019
+D3
+~
+~
+0 -1 5017
+S
+#5019
+The Bandits' Den~
+   A cellar of some long-gone house, widened and held up with timbers.
+Bedrolls ring the walls and a table is covered in dice and coin. An iron-
+bound door in the far wall is locked, and a heavier curtain hangs over an
+arch to the north.
+~
+50 d 0
+D0
+~
+~
+0 -1 5021
+D2
+An iron-bound door, locked.
+~
+door iron~
+1 5004 5020
+D3
+~
+~
+0 -1 5018
+S
+#5020
+The Bandits' Cache~
+   Crates and sacks from a dozen stolen convoys fill this narrow room, much
+of it Midgaard's own seal. The fort is going hungry so this can rot in a
+cellar. A strongbox sits on a crate beneath a guttering candle.
+~
+50 d 0
+D0
+~
+door iron~
+1 5004 5019
+S
+#5021
+The Bandit Lord's Hall~
+   A long room furnished with the best of everything stolen: a carved chair,
+tapestries, a rug from somewhere far to the east. The man who rules the road
+from here sits as if he were a lord in truth, and the fort's tithes pay for
+his wine.
+~
+50 d 0
+D2
+~
+~
+0 -1 5019
+S
+#5022
+The Supply Road, Edge of the Wolf Wood~
+   Dark pines crowd close on both sides of the road. Claw marks score the
+bark at shoulder height, and a torn cloak hangs from a branch. Convoys run
+this stretch at a gallop. A narrow game trail slips north among the trees.
+~
+50 0 3
+D0
+~
+~
+0 -1 5023
+D1
+~
+~
+0 -1 5025
+D3
+~
+~
+0 -1 5016
+S
+#5023
+The Wolf Wood, A Trampled Trail~
+   The trail winds between pines whose lowest branches are stripped bare.
+The ground is churned by many paws and stained in places. Somewhere ahead,
+too close, a wolf howls and others answer from all around.
+~
+50 0 3
+D0
+~
+~
+0 -1 5024
+D2
+~
+~
+0 -1 5022
+S
+#5024
+The Wolf Wood, The Den~
+   A hollow beneath the roots of a fallen giant pine, strewn with bones
+gnawed white. Some are cattle. Some wear the scraps of teamsters' leather.
+The pack has grown bold and huge, and its leader is larger than any wolf has
+a right to be.
+~
+50 0 3
+D2
+~
+~
+0 -1 5023
+S
+#5025
+The Supply Road, The Sinkhole~
+   Beside the road the earth has fallen away into a ragged sinkhole, and a
+rope ladder has been pegged to its lip. Cold air breathes up from below,
+smelling of stone and something sweet and rotten. The ladder descends toward
+Drow City, and the road continues east.
+~
+50 0 2
+D1
+~
+~
+0 -1 5026
+D3
+~
+~
+0 -1 5022
+D5
+~
+~
+0 -1 5100
+E
+ladder rope~
+Well made, and recently replaced. Someone down there trades with the
+surface.
+~
+S
+#5026
+The Supply Road, Before the Hills~
+   The road begins to climb into rolling hills. To the north, the southern
+gate of New Thalos rises above the slopes, its banners hanging limp.
+Merchants still come down that road with grain and steel for the fort,
+though fewer each season.
+~
+50 0 4
+D0
+~
+~
+0 -1 5411
+D1
+~
+~
+0 -1 5027
+D3
+~
+~
+0 -1 5025
+S
+#5027
+The Supply Road, The Miden'Nir Turning~
+   Here the road ends at a crossroads shrine where three tracks meet. The
+eastern track leads to Miden'Nir. The shrine's lamp has been kept lit by
+someone, and offerings of bread and salt sit before a carving of a weeping
+woman.
+~
+50 0 4
+D0
+~
+~
+0 -1 5028
+D1
+~
+~
+0 -1 3503
+D2
+~
+~
+0 -1 5029
+D3
+~
+~
+0 -1 5026
+E
+carving woman shrine lamp~
+The Mourning Mother, they call her. She is said to weep for every soul the
+West takes.
+~
+S
+#5028
+The Path to Miden'Nir's South Gate~
+   A narrow track climbs between hedges of thorn toward a squat stone
+gatehouse in Miden'Nir's outer wall. The gate stands open, but the arrow
+slits above it are manned, and the guards watch every face that comes up
+from the road.
+~
+50 0 4
+D1
+~
+~
+0 -1 3504
+D2
+~
+~
+0 -1 5027
+S
+#5029
+Beside the Roadside Shrine~
+   A small hollow behind the shrine is sheltered from the wind by a ring of
+standing stones. Travellers rest here, and the stones are warm to the touch
+even on cold nights. No beast has ever been seen to cross the ring.
+~
+50 ce 4
+D0
+~
+~
+0 -1 5027
+S
+$

@@ -1,0 +1,63 @@
+#209
+Claude~
+The Shattered Peaks~
+20900 20999 20 2
+M 0 20900 1 20900	grey_dwarf_scout
+E 1 20900 80 16	grey_crossbow
+M 0 20901 1 20901	rock_horror
+M 0 20902 2 20902	grey_wyvern
+M 0 20903 1 20903	iron_wyvern
+G 1 20901 100	wyvern_barb
+G 1 20902 100	iron_scale_bracers
+M 0 20901 1 20904	rock_horror
+M 0 20904 2 20905	magma_crawler
+M 0 20905 2 20906	grey_dwarf_warrior
+E 1 20903 70 16	grey_dwarf_axe
+E 1 20904 25 5	grey_dwarf_mail
+M 0 20905 2 20907	grey_dwarf_warrior
+E 1 20903 70 16	grey_dwarf_axe
+E 1 20904 25 5	grey_dwarf_mail
+M 0 20906 1 20907	grey_dwarf_thane
+E 1 20905 100 16	thane_hammer
+E 1 20906 40 6	horned_helm
+M 0 20905 3 20908	grey_dwarf_warrior
+E 1 20903 70 16	grey_dwarf_axe
+E 1 20904 25 5	grey_dwarf_mail
+M 0 20907 2 20909	grey_dwarf_smith
+E 1 20907 100 16	smith_hammer
+M 0 20908 1 20909	iron_golem
+M 0 20901 2 20910	rock_horror
+M 0 20909 2 20911	ore_elemental
+M 0 20908 1 20912	iron_golem
+M 0 20906 1 20912	grey_dwarf_thane
+E 1 20905 100 16	thane_hammer
+E 1 20906 40 6	horned_helm
+M 0 20910 1 20913	vault_golem
+G 1 20908 100	durhold_crown
+M 0 20911 1 20914	forge_king
+G 1 20909 100	forge_heart
+G 1 20910 100	kingsforge_hammer
+M 0 20904 1 20915	magma_crawler
+M 0 20912 2 20916	frost_giant
+M 0 20913 1 20917	sky_priest
+G 1 20911 70	sky_amulet
+M 0 20914 1 20918	chasm_horror
+M 0 20904 1 20919	magma_crawler
+M 0 20915 2 20919	fire_elemental
+M 0 20916 1 20920	armoury_warden
+E 1 20912 60 11	grey_shield
+M 0 20917 2 20921	crystal_golem
+G 1 20913 25	living_crystal
+M 0 20918 1 20922	mountain_heart
+G 1 20914 100	heartstone_ring
+M 0 20919 1 20923	slave_driver
+E 1 20915 50 16	slaver_whip
+M 0 20920 2 20923	chained_slave
+M 0 20921 2 20924	ore_hauler
+M 0 20905 1 20924	grey_dwarf_warrior
+E 1 20903 70 16	grey_dwarf_axe
+E 1 20904 25 5	grey_dwarf_mail
+O 0 20916 1 20925	grey_anvil
+M 0 20922 1 20925	forge_spirit
+S
+$

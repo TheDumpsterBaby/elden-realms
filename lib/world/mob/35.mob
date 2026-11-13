@@ -1,0 +1,102 @@
+#3500
+wyvern~
+the wyvern~
+A monstrous wyvern circles low over your head.
+~
+A huge winged beast down from the mountains, its barbed tail dripping with
+venom. It flaps and shrieks only feet above you. Since the goblins started
+leaving dead carters in the woods, the wyverns have grown fat.
+~
+bgjq 0 -700 S
+13 17 9 2d10+120 2d4+2
+0 9440
+8 8 0
+#3501
+goblin mountain raider~
+the goblin~
+A goblin raider creeps about, muttering to himself.
+~
+A small, twisted creature with knotted muscles and green skin, wearing a
+stolen army boot on one foot. The bands raid the wagons bound for the wall.
+~
+fglm k -250 S
+10 18 9 1d1+85 1d8+0
+91 3750
+8 8 1
+#3502
+goblin lieutenant~
+the goblin lieutenant~
+A goblin lieutenant stands here, trying to beat his band into order.
+~
+A bigger, angrier goblin with a stolen sword and a garrison helmet stuffed
+with rags to fit. He is looking for someone to beat, and you will do.
+~
+gjlm dk -600 S
+12 17 9 1d12+135 2d5+2
+129 5878
+8 8 1
+#3503
+goblin leader chief~
+the goblin leader~
+The goblin leader squats among his loot, surveying the den.
+~
+The chief of the Miden'Nir bands, scarred and cunning, with a purse of new
+silver at his belt that no goblin minted. He is not happy that you have
+found him. He grabs for his spear.
+~
+bcjlm dk -900 S
+14 17 9 1d12+157 2d5+3
+167 19358
+8 8 1
+#3504
+boy small carter~
+the small boy~
+A carter's boy sits here, nursing his wounds and crying.
+~
+A boy of ten or so, covered in cuts and scratches. He rode on the supply
+wagon with his father. He is the only one who got away from the ambush.
+~
+bh 0 500 S
+10 18 9 1d12+72 1d8+0
+0 3750
+5 5 1
+#3505
+innkeeper keeper woodsman~
+the Innkeeper~
+The Innkeeper stands here, cleaning cups and listening for the door.
+~
+A big, tired woodsman who keeps the Woodsman Inn. By day he waits for
+customers who seldom come; by night he sits up with his crossbow, watching
+for goblins. It used to be a happy house.
+~
+bglm 0 400 S
+15 17 9 1d12+258 2d8+2
+210 15750
+8 8 1
+#3506
+bard balladeer drunk~
+the bard~
+A sullen bard is here, drinking away his troubles.
+~
+A bard who used to sing in the halls of the east. He went west with a
+regiment to sing them into battle, and came back alone. He has been drinking
+ever since, and you can smell it across the room.
+~
+bglm d 600 S
+13 17 9 1d12+146 2d6+0
+147 9902
+6 6 1
+#3507
+horseman dark deserter rider~
+the dark horseman~
+A dark horseman sits his black horse here, a deserter's scowl on his face.
+~
+A deserter from the wall, his garrison tabard dyed black. He and his kind
+ride with the goblin bands and take the best of every wagon. He has no
+qualms about cutting you to pieces.
+~
+ghm sp -900 S
+13 17 9 1d12+129 2d4+2
+144 10562
+8 8 1
+$

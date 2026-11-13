@@ -1,0 +1,272 @@
+#4000
+adder snake large cave~
+the cave adder~
+A great cave adder lies coiled here, hissing at you.
+~
+A long, pale adder, blind from the dark and fat on what it kills. Its fangs
+drip.
+~
+abf dk -200 S
+14 17 9 5d10+58 2d5+2
+0 10138
+8 8 0
+#4001
+adder snake green~
+the green adder~
+A small green adder is here, and it does not look friendly.
+~
+A thin green snake that hunts kobold pups in the drifts. Small, but its bite
+burns.
+~
+ab 0 -100 S
+12 17 9 3d10+41 2d4+2
+0 6887
+8 8 0
+#4002
+centipede~
+the centipede~
+A small centipede is making its way across the floor.
+~
+A finger-long centipede, quite harmless, one of the few things down here
+that is.
+~
+b 0 100 S
+10 18 9 2d10+34 1d6+0
+0 3712
+8 8 0
+#4003
+kobold digger~
+the kobold digger~
+A kobold digger is here, scratching at the rock for something to eat.
+~
+A scrawny, scaly kobold with claws worn down from digging. They came first,
+tunnelling under the march at the bidding of things further west.
+~
+cg k -100 S
+10 18 9 2d10+62 1d8+2
+89 5000
+8 8 0
+#4004
+orc~
+the orc~
+An orc prowls the drift, looking for something to kill.
+~
+A squat, grey-skinned orc in scraps of dwarven mail. There is a mean, hungry
+look in its eyes.
+~
+cfg k -400 S
+11 18 9 2d10+90 2d4+0
+107 4356
+8 8 0
+#4005
+orc chieftain large~
+the orc chieftain~
+A large orc chieftain is here, looking very mean.
+~
+A huge, scarred orc who leads the warband in the upper workings. He wears a
+dwarf's ring on a thong around his thick neck, as a trophy.
+~
+cg k -500 S
+12 17 9 3d20+102 2d4+2
+127 8816
+8 8 1
+#4050
+warrior renegade scarred~
+the scarred renegade~
+A tall renegade is here, his body covered in more scars than you have ever seen.
+~
+A man who deserted the wall and went over to the west. He is strong and
+brainless, and he fights like he has nothing left to lose.
+~
+bcfg k -300 S
+14 17 9 10d10+55 2d5+2
+156 13043
+8 8 1
+#4051
+warrior renegade~
+the renegade~
+A tall renegade warrior is here.
+~
+A deserter from the march who now serves those who dig below. He knows his
+way with weapons and keeps his eyes from yours.
+~
+cfg k -400 S
+12 17 9 3d10+108 2d5+0
+126 7347
+8 8 1
+#4052
+hobgoblin~
+the hobgoblin~
+A small hobgoblin stands here.
+~
+A young hobgoblin, far from its band and quite lost in the dark drifts.
+~
+cg k -300 S
+12 17 9 3d8+102 2d4+0
+124 6000
+8 8 1
+#4053
+adder snake brown~
+the brown adder~
+A brown adder watches you from the rocks.
+~
+A thick-bodied brown snake with a mean, flat head.
+~
+abf k -600 S
+14 17 9 4d10+74 2d5+2
+0 11383
+8 8 0
+#4054
+centipede white~
+the white centipede~
+A white centipede crawls here.
+~
+A pale centipede that has never seen daylight. It does not seem to notice
+you.
+~
+b 0 -100 S
+11 18 9 1d10+75 1d7+0
+0 4840
+8 8 0
+#4055
+hobgoblin brute large~
+the hobgoblin brute~
+A large hobgoblin brute is here.
+~
+A broad, hulking hobgoblin wearing a necklace of dwarven teeth. It looks
+very dangerous.
+~
+cg k -500 S
+14 17 9 1d16+148 2d5+2
+165 18765
+8 8 1
+#4056
+orc cave~
+the cave orc~
+An orc is here, looking for something (or someone) to eat.
+~
+A lean cave orc with pale, hungry eyes. It is not friendly.
+~
+cfg k -800 S
+12 17 9 3d10+126 2d4+2
+129 9000
+8 8 1
+#4057
+lion mountain~
+the mountain lion~
+A mountain lion is here, growling at you viciously.
+~
+A lean, tawny lion of the high country, with huge claws and long teeth. Game
+is scarce in the hills now, and it is hungry.
+~
+fg k -100 S
+11 18 9 1d10+90 2d4+0
+0 4356
+8 8 1
+#4058
+giant hill~
+the hill giant~
+A hill giant is here, tossing rocks around.
+~
+A shaggy hill giant some nine feet tall. He is not clever, but he has
+learned that dwarves no longer come to drive him off.
+~
+gq k 0 S
+15 17 9 1d10+176 2d5+2
+189 21967
+8 8 1
+#4100
+mage sorcerer hedge~
+the hedge-sorcerer~
+A small, sharp-eyed sorcerer is standing here.
+~
+A thin man in a grey robe stitched with signs from the west. He came down
+from the march to study what the dwarves found below, and the magic he has
+learned is cruel.
+~
+abcf dk -100 S
+15 17 9 3d20+110 2d6+0
+180 18486
+8 8 1
+#4101
+troll cave~
+the cave troll~
+A huge, mean-looking cave troll is here.
+~
+A great grey troll set to guard the dwarves' sealed vault, and what was
+found in it. It looks very dangerous.
+~
+bcf k -800 S
+14 17 9 2d10+110 2d5+2
+158 14348
+8 8 1
+#4102
+snake serpent guardian green~
+the guardian serpent~
+A large green serpent is here, coiled like a guardian for some evil power.
+~
+A thick green serpent with eyes that are far too knowing. Something from the
+west has put a mind behind them.
+~
+abcf k -700 S
+14 17 9 6d10+62 2d5+2
+0 11265
+8 8 1
+#4103
+thief scavenger~
+the scavenger~
+A scavenger is here, all dressed in black.
+~
+A thin man in black who picks the dwarves' bones for coin. He is counting a
+handful of it now. Maybe you ought to count yours.
+~
+acg dkst -400 S
+12 17 9 1d10+126 2d5+2
+127 9000
+8 8 1
+#4104
+orc ugly~
+the ugly orc~
+An ugly orc is standing here.
+~
+A misshapen orc, disgusting to look at even by the standards of its kind.
+~
+cfgh dkp -200 S
+12 17 9 1d5+122 2d4+2
+126 6612
+8 8 1
+#4105
+centipede small~
+the centipede~
+A small, harmless centipede is here.
+~
+A tiny centipede that pays no attention to you whatsoever.
+~
+b 0 300 S
+12 17 9 3d10+73 1d8+2
+0 6000
+8 8 0
+#4106
+warrior sellsword renegade human~
+the renegade sellsword~
+A human sellsword is here, with an evil grin on his face.
+~
+A sellsword who sold his blade to the west instead of to the wall. He does
+not look friendly at all.
+~
+cfg k -300 S
+13 17 9 3d10+125 2d4+2
+145 16118
+8 8 1
+#4107
+kobold green~
+the green kobold~
+A green kobold is here.
+~
+A slimy green kobold from the deepest tunnels, smelling of the pit.
+~
+cfg k -100 S
+12 17 9 4d10+34 1d9+2
+47 6707
+8 8 1
+$

@@ -1,0 +1,111 @@
+#6300
+basin stone water~
+a stone basin~
+A stone basin of clear water stands among the herbs.~
+~
+23 0 0
+100 100 0 0
+2 11 1
+#6301
+poultice comfrey~
+a comfrey poultice~
+A comfrey poultice wrapped in linen lies here.~
+~
+10 0 1
+12 16 -1 -1
+1 78 7
+#6302
+draught poppy vial~
+a vial of poppy draught~
+A small vial of cloudy liquid lies here.~
+~
+10 0 1
+14 15 -1 -1
+1 98 9
+#6303
+saw bone~
+a surgeon's bone saw~
+A surgeon's bone saw lies here.~
+~
+5 0 8193
+0 1 7 3
+8 109 10
+#6304
+mace mortuary~
+a sister's mace~
+A plain iron mace lies here.~
+~
+5 i 8193
+0 1 7 5
+8 109 10
+A
+18 1
+#6305
+mattock~
+the sexton's mattock~
+A heavy grave-digging mattock lies here.~
+~
+5 0 8193
+0 2 5 6
+8 121 12
+A
+19 2
+#6306
+key crypt iron ring~
+a ring of crypt keys~
+A heavy iron ring of keys lies here.~
+~
+18 0 1
+0 0 0 0
+1 11 1
+#6307
+amulet bone~
+an amulet of knucklebones~
+An amulet of strung knucklebones lies here.~
+~
+11 0 5
+0 0 0 0
+2 121 12
+A
+5 1
+A
+20 -2
+#6308
+rosary beads~
+an abbot's rosary~
+A rosary of black beads lies here.~
+~
+11 0 5
+0 0 0 0
+2 133 13
+A
+4 1
+A
+12 20
+#6309
+crook abbess silver~
+the Abbess's silver crook~
+A tarnished silver crook lies here.~
+~
+5 0 8193
+0 1 8 5
+8 159 15
+A
+18 2
+A
+19 2
+A
+4 1
+#6310
+veil abbess~
+the Abbess's grave veil~
+A veil of yellowed lace lies here.~
+~
+9 0 17
+4 0 0 0
+10 159 15
+A
+24 -2
+A
+12 30
+$

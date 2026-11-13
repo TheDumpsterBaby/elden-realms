@@ -1,0 +1,38 @@
+# build output
+*.o
+bin/*
+!bin/README
+!bin/.cvsignore
+src/util/*
+!src/util/*.c
+!src/util/Makefile*
+!src/util/.cvsignore
+src/conf.h
+config.cache
+config.log
+config.status
+
+# runtime state (player data, logs, game clock)
+syslog
+syslog.*
+log/
+.fastboot
+.killscript
+pause
+lib/etc/players
+lib/etc/plrmail
+lib/etc/time
+lib/etc/hcontrol
+lib/house/*.house
+lib/plrobjs/
+lib/plralias/
+lib/plrlegacy/
+lib/misc/bugs
+lib/misc/ideas
+lib/misc/typos
+
+# tooling
+__pycache__/
+*.pyc
+.claude/
+src/players

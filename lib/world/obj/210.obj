@@ -1,0 +1,187 @@
+#21000
+cutlass barnacled~
+a barnacled cutlass~
+A cutlass crusted with barnacles lies here.~
+~
+5 0 8193
+0 3 7 3
+8 1802 180
+#21001
+rapier captain~
+a sea captain's rapier~
+A rapier with a gilded basket hilt lies here.~
+~
+5 0 8193
+0 3 7 11
+8 1915 191
+A
+18 4
+A
+2 1
+#21002
+coat admiral~
+a drowned admiral's coat~
+A heavy blue coat with gold braid lies here, still damp.~
+~
+9 0 1025
+9 0 0 0
+10 1915 191
+A
+13 50
+A
+14 40
+#21003
+trident coral~
+a coral trident~
+A trident of black coral lies here.~
+~
+5 0 8193
+0 3 7 11
+8 1877 187
+A
+12 40
+#21004
+beak kraken dagger~
+a kraken-beak dagger~
+A dagger carved from a kraken's beak lies here.~
+~
+5 0 8193
+0 3 7 11
+8 1953 195
+A
+18 4
+A
+19 4
+#21005
+lance coral~
+a coral lance~
+A long lance of black coral lies here.~
+~
+5 0 8193
+0 3 7 11
+8 1915 191
+A
+19 2
+#21006
+plate coral~
+coral-grown plate~
+A suit of plate grown over with black coral lies here.~
+~
+9 0 9
+18 0 0 0
+10 1915 191
+A
+13 40
+#21007
+scroll dissolving petition~
+a dissolving petition~
+A scroll that is slowly dissolving lies here.~
+~
+16 0 1
+0 0 0 0
+1 11 1
+E
+scroll petition~
+A petition to the queen from a fisherman, a hundred years old: PLEASE,
+MAJESTY, LET US GO UP. Granted, it says at the bottom, in a hand that
+shakes. Never.
+~
+#21008
+circlet pearl~
+a pearl circlet~
+A circlet of grey pearls lies here.~
+~
+9 0 17
+11 0 0 0
+10 1915 191
+A
+4 2
+A
+12 40
+#21009
+crown pearl~
+the pearl crown of the Queen Beneath~
+A crown of black and white pearls lies here.~
+~
+9 0 17
+11 0 0 0
+10 1992 199
+A
+13 70
+A
+4 2
+A
+24 -4
+#21010
+scepter sceptre tide~
+the sceptre of tides~
+A sceptre of mother-of-pearl, cold and wet, lies here.~
+~
+5 0 8193
+0 3 7 5
+8 1992 199
+A
+18 5
+A
+19 5
+A
+12 50
+#21015
+pearl black pendant~
+a black pearl pendant~
+A black pearl on a silver chain lies here.~
+~
+11 0 5
+0 0 0 0
+2 1953 195
+A
+3 2
+A
+5 2
+#21012
+cutlass drowned~
+a barnacled cutlass~
+A barnacled cutlass lies here.~
+~
+5 0 8193
+0 3 7 3
+8 1839 183
+A
+18 3
+#21013
+spyglass admiral~
+the Drowned Admiral's spyglass~
+A brass spyglass crusted with coral lies here.~
+~
+11 0 16385
+0 0 0 0
+2 1915 191
+A
+18 3
+A
+2 1
+#21014
+tome waterlogged book~
+a waterlogged tome~
+A swollen book lies here, dripping ink.~
+~
+11 0 16385
+0 0 0 0
+2 1877 187
+A
+12 50
+A
+3 1
+#21015
+pearl black ring~
+a ring set with a black pearl~
+A ring set with a black pearl lies here.~
+~
+11 0 3
+0 0 0 0
+2 1953 195
+A
+13 30
+A
+24 -3
+$

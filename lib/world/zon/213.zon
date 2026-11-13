@@ -1,0 +1,39 @@
+#213
+Claude~
+The Threshold~
+21300 21399 25 2
+M 0 21300 1 21300	unmade_thing
+M 0 21301 2 21301	false_reflection
+E 1 21300 100 16	mirror_shard
+M 0 21300 2 21302	unmade_thing
+M 0 21302 1 21302	memory_eater
+G 1 21301 100	locket_memory
+M 0 21303 2 21303	sky_shard
+M 0 21304 2 21304	unmade_horror
+M 0 21305 2 21305	void_wraith
+M 0 21306 1 21306	threshold_keeper
+G 1 21302 100	keeper_lantern
+G 1 21303 100	threshold_mantle
+M 0 21305 1 21307	void_wraith
+M 0 21307 2 21308	glass_spider
+M 0 21301 2 21309	false_reflection
+E 1 21300 100 16	mirror_shard
+M 0 21308 1 21310	mirror_sovereign
+G 1 21304 100	mirror_crown
+M 0 21309 1 21311	wearing_thing
+M 0 21310 3 21312	unremembered_soldier
+M 0 21304 1 21313	unmade_horror
+M 0 21311 1 21313	half_made_titan
+G 1 21305 100	titan_heart
+M 0 21312 1 21314	shape_tender
+M 0 21303 1 21315	sky_shard
+M 0 21313 1 21315	star_eater
+G 1 21306 30	star_shard
+M 0 21305 2 21316	void_wraith
+O 0 21308 1 21317	keeper_journal
+M 0 21314 1 21317	keeper_echo
+M 0 21315 2 21318	remade_hero
+G 1 21307 25	remade_greaves
+M 0 21316 1 21319	listening_thing
+S
+$

@@ -1,0 +1,500 @@
+#7900
+Outside Redferne's Residence~
+   You stand on the flat stone top of an old bastion tower, high above the
+roofs of the Lower Ward. A low parapet runs round the edge, and the fog and
+chimney smoke of the ward drift past below. Before you to the north stands
+Redferne's house, grey and narrow and plain, with a great arched gate of
+iron. The ladder and its chain go down over the parapet.
+~
+79 cj 0
+D0
+An enormous arched iron gate leads into the house.
+~
+gate huge arched~
+2 7901 7901
+D5
+The iron ladder and its heavy hand-chain drop away over the parapet toward
+the street.
+~
+~
+0 -1 7918
+E
+parapet~
+A waist-high parapet of old stone, its merlons chipped by arrows from some
+siege long before the war.
+~
+E
+house~
+A tall, narrow house of grey stone with small deep windows, built where the
+tower's war-engines used to stand.
+~
+S
+#7901
+The Southern End Of The Hall~
+   You stand in a long, dim hall. The light seems to come from the walls
+themselves, a soft old warmth that the paladin's prayers put there long ago.
+A large portrait hangs here. A wooden staircase climbs up into the house.
+East, a short passage ends at a tall oak door; west is a yellow-painted
+door. The hall runs on north, and south is the great iron gate, the only way
+out.
+~
+79 cdj 0
+D0
+The hall continues north. More doorways open under the staircase that way.
+~
+~
+0 -1 7904
+D1
+A tall oak door, tightly shut. Little runes are chiselled into the wood.
+~
+door oak tall~
+1 -1 7910
+D2
+Not a door so much as a gate: huge, iron, and barred. A plaque on it reads:
+NO RETREAT.
+~
+gate iron huge~
+2 7901 7900
+D3
+An ash-wood door painted a peculiar yellow. Small black letters are written
+on it.
+~
+door ashen ash yellow~
+1 -1 7902
+D4
+The staircase climbs up toward a bedroom at the top of the house.
+~
+~
+0 -1 7909
+E
+portrait~
+A young knight in silvered plate with a red rose on his shield: Redferne's
+son, Aldric, painted the spring he went west with the Second of the Wall. A
+black ribbon is tied across the frame.
+~
+E
+runes~
+Warding runes are chiselled into the oak door. Under them, in plain letters,
+is written: "Stay out, if you treasure your life."
+~
+E
+letters~
+They read: LIBRARY
+~
+S
+#7902
+Redferne's Library~
+   Books and scrolls fill every shelf of this room: drill manuals, campaign
+rolls, lives of the old captains, prayers. A large globe stands in the dim
+north-west corner. Two worn leather armchairs and a great oak desk fill the
+middle of the room, under a crystal chandelier. A tall window is set in the
+west wall. The yellow door is east.
+~
+79 cdj 0
+D1
+An old ash-wood door, painted yellow.
+~
+door ash ashen~
+1 -1 7901
+E
+globe world map~
+A big painted globe of the realm. Midgaard is marked in red. Everything to
+the west of it has been painted over in grey, and pins with little black
+flags crowd the edge of the grey.
+~
+E
+midgaard town city~
+On the globe Midgaard sits at the edge of the grey. East of it a thin road
+runs out to a castle, and a river winds down through the city.
+~
+E
+chairs leather armchairs chair armchair~
+Two matching armchairs of cracked old leather. One is worn soft from use.
+The other has not been sat in for years.
+~
+E
+window glass~
+A tall window, reaching almost from floor to ceiling. If you look out, you
+might see over the roofs.
+~
+E
+out outside beyond~
+Through the window you see the roofs of the Lower Ward under their smoke,
+and beyond them the long grey line of the west wall, with the haze of the
+march behind it.
+~
+E
+river~
+On the globe a winding river runs out of a great lake in the east, through
+the middle of Midgaard, and on west into the grey.
+~
+E
+desk~
+An oak desk covered with letters to the families of the men who died under
+Redferne's command. He still writes one a week.
+~
+S
+#7903
+The Reliquary~
+   A cold, dark room that faint light seeps into from nowhere. Here Redferne
+keeps what he carried back from the west and would not let anyone else keep:
+a broken standard, a grey stone that hums, a pair of small shoes. There is
+no furniture at all. The only way out is west, back through the low steel
+door of the safe.
+~
+79 cdj 0
+D3
+You see only the back of the safe's steel door.
+~
+door steel safe~
+2 7900 7910
+E
+standard stone shoes~
+A torn regimental standard, a stone the size of a fist that hums faintly
+when you come near, and a child's shoes, very small, from a village that no
+longer exists.
+~
+S
+#7904
+The Northern End Of The Hall~
+   The northern end of the hall, beneath the wooden staircase, where the
+light is dimmer. The kitchen lies north. To the east is a huge metal door
+barred from this side, and a foul stench seeps under it. To the west is a
+carved aspen-wood door. The hall runs back south.
+~
+79 cdj 0
+D0
+~
+~
+0 -1 7906
+D1
+A huge metal door, barred on this side. A foul stench seeps under it, and
+from behind it, very quietly, someone is saying "Father?"
+~
+door metal huge~
+2 -1 7913
+D2
+The rest of the hall lies that way, and so does the way out.
+~
+~
+0 -1 7901
+D3
+The door has SITTING ROOM carved on it. It is aspen wood, beautifully carved
+with stags and roses.
+~
+door aspen wood~
+1 -1 7905
+S
+#7905
+The Sitting Room~
+   A small, warm sitting room. Its walls are hung with portraits of the old
+captains of the wall, stern men and women in plate, every one of them dead.
+Pride of place goes to a portrait of a young knight in shining armour. An
+old armchair stands by the wall. The only exit is the aspen-wood door to the
+east.
+~
+79 cdj 0
+D1
+A very heavy door, carved from a single trunk of aspen.
+~
+door aspen heavy~
+1 -1 7904
+E
+chair armchair~
+An old armchair with a big cushion, turned to face the young knight's
+portrait.
+~
+E
+portraits paintings captains knight~
+The captains of the wall, one for every generation. The young knight is
+Aldric, Redferne's son. Someone has hung his sword beneath the frame.
+~
+S
+#7906
+The Kitchen~
+   A plain soldier's kitchen with a scrubbed table and a cold hearth. From
+behind the larder cupboard to the north comes the busy noise of rats
+feasting. East is the heavy door of the cold-room, which the old household
+always called the fridge. The hall lies south.
+~
+79 cdj 0
+D0
+The larder cupboard is dark inside, but the sounds of the rats are
+unmistakable.
+~
+larder wooden cupboard~
+1 -1 7907
+D1
+The cold-room door. Cold air breathes out around its edges.
+~
+fridge~
+1 -1 7908
+D2
+The northern end of the hall.
+~
+~
+0 -1 7904
+S
+#7907
+The Larder~
+   Sacks and shelves of food: hard bread, salt meat, march rations stocked
+as if for a siege. Huge rats have chewed into most of it, and scuttle about
+in the heaps. The cupboard door is south.
+~
+79 cdj 0
+D2
+~
+door wooden larder~
+1 -1 7906
+S
+#7908
+The Cold-Room~
+   A small room kept cold with ice packed into the walls. It is stocked with
+water barrels, small beer, and a cask of strong spirits that the old man no
+longer touches. The door is west.
+~
+79 cdj 0
+D3
+~
+door fridge~
+1 -1 7906
+S
+#7909
+On The Stairs~
+   The wooden staircase climbs and climbs through the narrow house. It seems
+to go on for ever in both directions. Up is Redferne's bedroom; down leads
+to the southern end of the hall.
+~
+79 cdj 0
+D4
+~
+~
+0 -1 7911
+D5
+~
+~
+0 -1 7901
+S
+#7910
+The Treasure Room~
+   A small, gloomy room. A huge iron safe is cemented into the east wall,
+and its steel door is the way on east. The way back is west, through the
+tall oak door.
+~
+79 cdj 0
+D1
+~
+safe steel~
+2 7900 7903
+D3
+A tall oak door leads back to the hall.
+~
+door oak tall~
+1 -1 7901
+E
+safe~
+A huge iron safe, set deep into the wall. The paladin-captain's pay of
+thirty years is in there, and other things.
+~
+S
+#7911
+Redferne's Bedroom~
+   A long, plain bedroom. A fire crackles in the big fireplace in the east
+wall, and a wide old bed takes up half the room, built for a big man and his
+wife, though he has slept in it alone for years. His armour stand stands
+empty beside it. Stairs lead down to the hall, and a pair of doors opens
+south onto a balcony.
+~
+79 cdj 0
+D2
+Through the doors, the balcony and the grey sky over the ward.
+~
+doors~
+1 -1 7912
+D5
+~
+~
+0 -1 7909
+E
+fireplace fire~
+A big fire of good logs. The old man keeps it burning all night.
+~
+E
+bed~
+A wide bed with a soldier's grey blanket folded square on it.
+~
+E
+stand armour~
+An empty armour stand. He wears the armour.
+~
+S
+#7912
+Redferne's Balcony~
+   A narrow balcony on the south face of the house, very high up. The whole
+of Midgaard lies spread below: the Lower Ward, the temple, the river, and in
+the west the long grey wall with its fires. Far below you is the yard on the
+tower top. The doors to the bedroom are north.
+~
+79 cj 0
+D0
+The plain bedroom of the old captain.
+~
+doors~
+1 -1 7911
+D5
+A very long way down: the tower top, and the roofs and lanes of the Lower
+Ward far beneath it.
+~
+~
+0 -1 -1
+S
+#7913
+The Monster Pen~
+   A cage of iron bars and stone, built for something big and very
+dangerous. The walls are gouged deep with claw marks and the straw is black
+with old blood. The thing kept here was brought back from the march, alive.
+The only way out is the metal door to the west.
+~
+79 dj 0
+D3
+The metal door of the pen, the only way out.
+~
+door cage metal pen~
+1 -1 7904
+E
+walls marks claw~
+Deep gouges in the stone. Among them, scratched small and careful, a single
+word: ALDRIC.
+~
+S
+#7914
+On The Iron Ladder~
+   You cling to the iron ladder bolted to the face of the old bastion tower,
+a heavy hand-chain running beside it. Below you lies the Road Crossing of
+the Lower Ward, with its signpost and carts. The only ways to go are up and
+down, unless you mean to let go.
+~
+79 c 5
+D4
+The ladder and chain climb up the tower face into the smoke.
+~
+~
+0 -1 7915
+D5
+Below, the ladder is bolted to the street at the Road Crossing of the Lower
+Ward.
+~
+~
+0 -1 3120
+S
+#7915
+Where The Wind Catches The Ladder~
+   Here the tower sticks up above the roofs and the wind from the west hits
+it full on. The ladder judders and the chain whips about. The rungs below
+you have rusted loose and swing free. There is no going down from here, only
+up. Do not try to go down.
+~
+79 c 5
+D4
+The only way off this stretch is up.
+~
+~
+0 -1 7916
+D5
+DOWN IS DEATH. The loose rungs below are swinging free in the wind, and the
+chain thrashes like a snake. There is nothing to hold.
+~
+~
+0 -1 7920
+S
+#7916
+Halfway Up The Bastion~
+   You are halfway up the old tower, the ladder cold and wet under your
+hands. One slip and you will fall. The ladder goes on up. Below you the
+loose stretch swings in the wind; you would not want to climb back down it.
+~
+79 c 5
+D4
+There is only one way from here, and that is up.
+~
+~
+0 -1 7918
+D5
+The ladder below is swinging back and forth in the wind. Going down would be
+very risky.
+~
+~
+0 -1 7915
+S
+#7917
+The Chain Down The Back Of The Tower~
+   On this side of the tower, out of the wind, a second chain has been hung
+for the way down, with iron footholds hammered into the stone. It is a long
+way, but it is safe. Scratched into the stone beside one foothold is a
+message: "Go carefully. Come back if you are needed. R." The chain goes on
+down toward the street.
+~
+79 c 5
+D4
+Above, the old footholds are rusted away to nothing.
+~
+~
+0 -1 -1
+D5
+Down the safe side, toward the ladder above the street.
+~
+~
+0 -1 7914
+S
+#7918
+Beneath The Parapet~
+   The ladder ends just beneath the parapet of the tower top, and from here
+you can see over the whole ward: the smoke, the roofs, the temple, and in
+the west the wall. Hand-holds lead up over the parapet. A second chain runs
+down the sheltered side of the tower.
+~
+79 c 5
+D4
+Over the parapet lies the tower top, and Redferne's grey house beyond it.
+~
+~
+0 -1 7900
+D5
+The sheltered chain goes down the back of the tower, into the smoke.
+~
+~
+0 -1 7917
+S
+#7920
+The Fall~
+   You fall. The tower face rushes past, then the roofs, then the street of
+the Road Crossing comes up to meet you, and there is a short, ugly noise,
+and then nothing at all.
+~
+79 bd 0
+D0
+~
+~
+0 -1 7914
+D1
+~
+~
+0 -1 7915
+D2
+~
+~
+0 -1 7916
+D3
+~
+~
+0 -1 7917
+D4
+~
+~
+0 -1 7918
+D5
+~
+~
+0 -1 3120
+S
+$

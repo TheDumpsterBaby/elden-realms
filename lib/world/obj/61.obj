@@ -1,0 +1,134 @@
+#6100
+cauldron cauldrons iron~
+an iron cauldron~
+A row of iron cauldrons, scraped empty, stands here.~
+~
+15 0 0
+0 0 -1 0
+5 11 1
+#6101
+well~
+the camp well~
+The camp well stands here, surrounded by churned mud.~
+~
+23 0 0
+100 100 0 0
+2 11 1
+#6102
+knife camp~
+a sharpened kitchen knife~
+A sharpened kitchen knife lies here.~
+~
+5 0 8193
+0 1 6 11
+8 37 3
+#6103
+cudgel club~
+a heavy cudgel~
+A heavy wooden cudgel lies here.~
+~
+5 0 8193
+0 1 6 5
+8 51 5
+#6104
+falchion~
+a stolen army falchion~
+An army falchion lies here.~
+~
+5 0 8193
+0 1 7 3
+8 78 7
+A
+19 1
+#6105
+jerkin padded~
+a padded jerkin~
+A thick padded jerkin lies here.~
+~
+9 0 9
+6 0 0 0
+10 68 6
+#6106
+pouch rings~
+a pouch of stolen rings~
+A leather pouch of rings lies here.~
+~
+8 0 1
+0 0 0 0
+1 400 40
+#6107
+tract pamphlet grey~
+a grey tract~
+A grey pamphlet lies trampled in the mud.~
+~
+16 0 1
+0 0 0 0
+1 11 1
+E
+tract pamphlet grey~
+THE WALL IS A LIE. The West is not death but change. Those who welcome the
+grey will be spared when the fort falls. Seek the Choir.
+~
+#6108
+knife ritual~
+a grey ritual knife~
+A thin knife with a grey stone handle lies here.~
+~
+5 0 8193
+0 1 6 11
+8 60 6
+#6109
+herbs bundle healer~
+a bundle of healer's herbs~
+A bundle of dried herbs lies here.~
+~
+10 0 1
+10 16 -1 -1
+1 60 6
+#6110
+blade hooked~
+a hooked grey blade~
+A wicked hooked blade lies here.~
+~
+5 0 8193
+0 1 7 3
+8 78 7
+#6111
+staff prophet grey~
+the Grey Prophet's staff~
+A staff of grey wood carved with spirals lies here.~
+~
+5 0 8193
+0 1 7 5
+8 88 8
+A
+12 25
+A
+3 1
+A
+18 1
+#6112
+robe grey~
+a robe of grey sackcloth~
+A grey sackcloth robe lies here.~
+~
+9 0 1025
+3 0 0 0
+10 88 8
+A
+24 -2
+A
+4 1
+#6113
+vial grain grey~
+a vial of whispering grain~
+A stoppered vial of grey grain lies here.~
+~
+8 0 1
+0 0 0 0
+1 100 10
+E
+vial grain~
+The grain inside presses against the glass, always toward the west.
+~
+$

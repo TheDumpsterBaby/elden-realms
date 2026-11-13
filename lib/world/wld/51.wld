@@ -1,0 +1,987 @@
+#5100
+The City Entrance~
+   A rope ladder drops from a crack in the cavern roof, where a little grey
+daylight leaks down from the Supply Road above. Below it the cave widens
+into a forecourt before a great gate of dark adamantite set into the rock to
+the west. The ground is scuffed by many feet, and wagon wheels lie stacked
+against the wall, taken from the road.
+~
+51 acd 0
+D3
+A huge adamantite gate opens to the west into the city.
+~
+gate~
+1 -1 5101
+D4
+A rope ladder climbs to daylight and the Supply Road.
+~
+~
+0 -1 5025
+E
+gate~
+A great gate of black adamantite, worked with spider emblems. Newer, cruder
+marks have been scratched over them: a grey shape like a door standing ajar.
+~
+E
+wheels wagon~
+Wagon wheels, axles and broken tailboards, some still painted with the mark
+of the Midgaard quartermaster. Wagons that never reached the wall.
+~
+S
+#5101
+A City Street~
+   A street of smooth black stone, carved with endless spider webs, runs
+north and south just inside the city gate, which lies east. Faint violet
+lamps burn in niches along the walls. To the west a low building gives off a
+smell of straw and fear.
+~
+51 ad 0
+D0
+~
+~
+0 -1 5123
+D1
+~
+gate~
+1 -1 5100
+D2
+~
+~
+0 -1 5102
+D3
+~
+~
+0 -1 5122
+S
+#5102
+A City Street~
+   The street bends here, running north toward the gate and west into the
+city. A drow sits at a little table in a niche, copying a letter by violet
+light; the broken seal beside it is a Midgaard seal.
+~
+51 ad 0
+D0
+~
+~
+0 -1 5101
+D3
+~
+~
+0 -1 5103
+E
+letter seal table~
+A dispatch from the Lord Commander to the castle of King Welmar, asking for
+more levies. The drow is copying it word for word before it goes back into
+the courier's bag.
+~
+S
+#5103
+A City Street~
+   An ornate street running east and west between carved housefronts. To the
+south stands the house of the Third House, its doorway hung with spider
+silk. Somewhere above, through the rock, you can hear the faint rumble of a
+wagon passing on the road.
+~
+51 ad 0 
+D1
+~
+~
+0 -1 5102
+D2
+~
+~
+0 -1 5104
+D3
+~
+~
+0 -1 5106
+S
+#5104
+The 3rd House~
+   The courtyard of the Third House, decorated well enough by drow standards
+with statues and murals. The newest mural shows a column of drow walking
+east out of the dark toward a walled city, cloaked as human merchants. The
+street lies north, and a door leads south.
+~
+51 ad 0
+D0
+~
+~
+0 -1 5103
+D2
+~
+door~
+1 -1 5105
+E
+mural murals~
+Drow in the cloaks and hats of eastern merchants pass through a city gate.
+Behind them, painted very small, a grey shadow follows.
+~
+S
+#5105
+The Throne Room~
+   The throne room of the Third House, plain but for a blood-covered altar
+in the middle of the floor. Around it lie the things the house has taken
+from the east: a cavalry pennant, a merchant's ledger, a child's doll. The
+door is north.
+~
+51 ad 0
+D0
+~
+door~
+1 -1 5104
+E
+altar pennant ledger doll~
+Trophies. The pennant is from a Midgaard horse troop; the ledger belonged to
+a grain factor of New Thalos. The doll belonged to somebody.
+~
+S
+#5106
+A City Street~
+   An ornate street running east and west. North stands a squat building
+that rings with the clash of practice blades. Lamps of violet glass hang
+from chains overhead, and a drow patrol has marked each one with a tally of
+raids.
+~
+51 ad 0
+D0
+~
+~
+0 -1 5118
+D1
+~
+~
+0 -1 5103
+D3
+~
+~
+0 -1 5107
+S
+#5107
+A City Street~
+   The street turns north toward the great gate of the First House and runs
+east back into the city. South lies the very large house of the Second
+House, its doorposts carved as two rearing spiders.
+~
+51 ad 0
+D0
+~
+~
+0 -1 5110
+D1
+~
+~
+0 -1 5106
+D2
+~
+~
+0 -1 5108
+S
+#5108
+The 2nd House~
+   The courtyard of the Second House, crowded with statues of spiders and
+hung with murals. A long table is covered in maps of the eastern roads, with
+every wagon station and well marked in a neat drow hand. The street is
+north, and a door leads west.
+~
+51 ad 0
+D0
+~
+~
+0 -1 5107
+D3
+~
+door~
+1 -1 5109
+E
+maps table~
+Maps of the Supply Road and the roads around Midgaard, with the times of the
+wagon convoys written beside each station.
+~
+S
+#5109
+The Throne Room~
+   The throne room of the Second House, a little more richly done than its
+courtyard, with an altar in the middle of the room. The altar is draped with
+a grey cloth that seems to drink the lamplight. The door is east.
+~
+51 ad 0
+D1
+~
+door~
+1 -1 5108
+E
+altar cloth~
+Under the grey cloth the spider carving of the altar has been chiselled
+away.
+~
+S
+#5110
+The Main Gate~
+   You stand before the gate of the First House, almost as tall and fine as
+the city gate itself. Two great spiders in adamantite rear above it, and
+between them hangs a new banner of plain grey. The gate is to the west; the
+street runs north and south.
+~
+51 ad 0
+D0
+~
+~
+0 -1 5114
+D2
+~
+~
+0 -1 5107
+D3
+A large gate of adamantite lies to the west.
+~
+gate~
+1 -1 5111
+E
+banner grey spiders~
+The grey banner has no device at all. The drow salute it as they pass.
+~
+S
+#5111
+The 1st House~
+   The great courtyard of the First House, the largest and finest in the
+city. Murals cover the walls, showing old battles in the deep places and the
+Spider Queen enthroned. The last panel shows the Matron Mother kneeling
+before a door of grey light. The gate is east, and the throne room west.
+~
+51 ad 0
+D1
+~
+gate~
+1 -1 5110
+D3
+~
+~
+0 -1 5112
+E
+mural murals paintings~
+The old murals are of drow wars under the earth, of exile and a long march
+upward. The newest panel, still bright, shows the Matron Mother on her knees
+before a grey door, and a voice coming out of it as a long line of silver
+words.
+~
+S
+#5112
+The Throne Room~
+   The throne room of the First House is, in one word, awful. It is so
+horrifying that it is almost beautiful: webs of spun silver, thrones of
+bone, and a floor of polished black glass in which the room seems to go down
+forever. A door leads north, and the courtyard is east.
+~
+51 ad 0
+D0
+~
+door~
+1 -1 5113
+D1
+~
+~
+0 -1 5111
+S
+#5113
+The Main Chamber~
+   The council chamber of the Matron Mother herself. A huge table stands in
+the middle, surrounded by high chairs. Spread across it is a map of the west
+wall of Midgaard, stone by stone, with the guard changes marked in red. This
+is where the pact is kept. The door is south.
+~
+51 ad 0
+D2
+~
+door~
+1 -1 5112
+E
+map table~
+A map of the west wall of Midgaard, so exact that it must have been drawn by
+someone who walked along it. Every postern and drain is marked. In the
+margin, in a different and very old hand: "When I call."
+~
+S
+#5114
+A City Street~
+   A broad street of black stone running north and south, with a branch
+going east toward the temple. A drow crier stands on a block reading out the
+names of eastern officers in a flat voice; the listeners take notes. The
+First House lies south.
+~
+51 ad 0
+D0
+~
+~
+0 -1 5115
+D1
+~
+~
+0 -1 5117
+D2
+~
+~
+0 -1 5110
+S
+#5115
+A City Street~
+   The street ends here against the cavern wall. West stands the clerics'
+academy, its doors carved with spiders and something newer and greyer. The
+street runs back south.
+~
+51 ad 0
+D2
+~
+~
+0 -1 5114
+D3
+~
+~
+0 -1 5116
+S
+#5116
+The Clerics' Academy~
+   The most lavish of the academies, for it trains the priestesses. Silk
+hangings cover the walls, and the reading desks hold scrolls of prayer to
+the Spider Queen, and newer ones written in a script that hurts the eyes.
+The way out is east.
+~
+51 ad 0
+D1
+~
+~
+0 -1 5115
+E
+scrolls desks script~
+The new scrolls are prayers, but not to the Spider Queen. The letters crawl
+when you look away from them.
+~
+S
+#5117
+A City Street~
+   The street runs east and west beneath the bulk of the temple, which fills
+the cavern to the north. Its gates are tall, ornate and shut. Pilgrims of
+the city leave offerings at their foot: small bones, and coins of eastern
+mint.
+~
+51 ad 0
+D0
+Great ornamental gates bar the entrance to the temple of the Spider Queen.
+~
+gates gate~
+1 -1 5119
+D1
+~
+~
+0 -1 5121
+D3
+~
+~
+0 -1 5114
+E
+offerings bones coins~
+Bird bones and silver crowns of Midgaard, laid out together in neat rows.
+~
+S
+#5118
+The Warriors' Academy~
+   More a barracks than a school. Practice dummies stand in rows, and each
+one wears a real Midgaard tabard, stitched where the blades went in. The
+drow here learn to fight the way the wall fights. The street is south.
+~
+51 ad 0
+D2
+~
+~
+0 -1 5106
+E
+dummies tabards dummy~
+Grey tabards of the Midgaard garrison, taken from the dead. Every one is
+slashed in the same places.
+~
+S
+#5119
+The Entrance To The Temple Of The Spider Queen~
+   The temple is the largest building in the city, and even its doors are
+beyond belief. Inside the entrance the walls are sheathed in gold and
+adamantite, and a wide stair goes down into the dark below. The gates to the
+street are south.
+~
+51 ad 0
+D2
+~
+gates gate~
+1 -1 5117
+D5
+~
+~
+0 -1 5126
+S
+#5120
+The Mages' Academy~
+   The mages' academy is richly furnished; the drow prize magic far above
+strength. In the middle of the room stands a basin of black water used for
+scrying, and the students take turns watching the west wall of Midgaard in
+it. The street is south.
+~
+51 ad 0
+D2
+~
+~
+0 -1 5121
+E
+basin water~
+In the still black water a stretch of wall appears, seen from above:
+sentries walking, a brazier, a gate. One of the sentries looks up, as if he
+felt it.
+~
+S
+#5121
+A City Street~
+   An ornate street running east and west. North stands the mages' academy,
+where violet light flickers behind the windows. A drow sits on a step here
+teaching a slave to speak like a Midgaard carter.
+~
+51 ad 0
+D0
+~
+~
+0 -1 5120
+D1
+~
+~
+0 -1 5123
+D3
+~
+~
+0 -1 5117
+S
+#5122
+The Slave Chamber~
+   The room is in shambles. Straw is strewn everywhere as bedding for the
+unhappy creatures the drow have taken: goblins mostly, and now and then a
+carter or a refugee taken off the Supply Road. Names are scratched in the
+wall above the straw. The street is east.
+~
+51 ad 0
+D1
+~
+~
+0 -1 5101
+E
+names wall~
+Names in a dozen hands and two languages, some with a village after them.
+Ashford, Riversmeet, Thalos.
+~
+S
+#5123
+A City Street~
+   An ornate street leading west into the city and south toward the gate. To
+the north is the small house of the Fourth House, its gate kept shut. Of all
+the houses it has the least, and its warriors go east most often.
+~
+51 ad 0
+D0
+~
+gate~
+1 -1 5124
+D2
+~
+~
+0 -1 5101
+D3
+~
+~
+0 -1 5121
+S
+#5124
+The 4th House~
+   The courtyard of the Fourth House, small and dull by drow standards. Its
+walls are bare, but piled in one corner are cloaks, hats and boots of
+eastern make, ready for the house's agents to put on. The gate is south and
+the throne room east.
+~
+51 ad 0
+D1
+~
+~
+0 -1 5125
+D2
+~
+gate~
+1 -1 5123
+E
+cloaks hats boots corner~
+Merchants' cloaks, carters' hats, pilgrims' boots. Disguises for the road
+east. Some are stained.
+~
+S
+#5125
+The Throne Room~
+   The throne room of the Fourth House is hardly grander than its courtyard.
+A small throne stands behind the altar, and that is all, save a stack of
+sealed letters waiting to go east. The courtyard is west.
+~
+51 ad 0
+D3
+~
+~
+0 -1 5124
+E
+letters stack~
+Letters sealed with plain grey wax, addressed to a chandler in New Thalos
+and a clerk in King Welmar's castle.
+~
+S
+#5126
+The Entrance Hall~
+   The stair from the temple doors comes down into this entrance hall, which
+opens north into a long hallway running east and west. Small statues of
+spiders line the walls, each with its eyes picked out in grey stone.
+~
+51 ad 0
+D0
+~
+~
+0 -1 5127
+D4
+~
+~
+0 -1 5119
+S
+#5127
+A Hallway~
+   A long hallway lined with adamantite, carved with pictures of drow and
+spiders. It runs east and west, and one or two figures can be seen moving
+away down it. North an obsidian stairway climbs, and south lies the entrance
+hall.
+~
+51 ad 0
+D0
+~
+~
+0 -1 5135
+D2
+~
+~
+0 -1 5126
+D1
+~
+~
+0 -1 5128
+D3
+~
+~
+0 -1 5131
+S
+#5128
+A Long Hallway~
+   The hallway runs east and west. The carvings here tell of the exile: drow
+driven upward out of the deep cities by their own kin, carrying their young.
+A figure slips out of sight ahead of you.
+~
+51 ad 0
+D1
+~
+~
+0 -1 5129
+D3
+~
+~
+0 -1 5127
+S
+#5129
+A Long Hallway~
+   The hallway runs east and west past a door to the north, finer than the
+others, carved with crossed blades. The sound of a blade cutting air comes
+from behind it, steady as breathing.
+~
+51 ad 0
+D0
+~
+door~
+1 -1 5150
+D1
+~
+~
+0 -1 5130
+D3
+~
+~
+0 -1 5128
+S
+#5130
+A Long Hallway~
+   The hallway turns here, running east and west. The carvings show the
+exiles' hungry years on the surface, burned by the sun and hunted by
+everyone. Somebody has scratched over the faces of the hunters.
+~
+51 ad 0
+D1
+~
+~
+0 -1 5134
+D3
+~
+~
+0 -1 5129
+S
+#5131
+A Long Hallway~
+   The hallway runs east and west. The carvings here are newer and rougher:
+a grey door in the far west, and drow kneeling before it, and a road running
+east from their hands.
+~
+51 ad 0
+D1
+~
+~
+0 -1 5127
+D3
+~
+~
+0 -1 5132
+E
+carvings door~
+The grey door is carved very deep. The drow before it are offering their
+eyes.
+~
+S
+#5132
+A Long Hallway~
+   The hallway runs east and west, with a plain door to the south. The
+adamantite on the walls is scratched at knee height, where the warriors lean
+their spears on the way to bed.
+~
+51 ad 0
+D1
+~
+~
+0 -1 5131
+D2
+~
+door~
+1 -1 5133
+D3
+~
+~
+0 -1 5134
+S
+#5133
+The Warriors' Barracks~
+   The room is a complete mess. None of the cots are made, and clothes and
+gear lie all over the floor, among them a good deal of loot from the road: a
+cooking pot, a carter's whip, a bundle of letters. A door leads north.
+~
+51 ad 0
+D0
+~
+door~
+1 -1 5131
+S
+#5134
+A Long Hallway~
+   The far end of the hallway loop, quiet and dim, running east and west. A
+single lamp burns low, and the carvings beneath it show the Spider Queen
+weeping.
+~
+51 ad 0
+D1
+~
+~
+0 -1 5132
+D3
+~
+~
+0 -1 5130
+E
+carvings queen~
+The Spider Queen is carved turning away, her face in her hands. Nobody seems
+to have noticed what the carver meant.
+~
+S
+#5135
+The Grand Stairway~
+   You stand at the foot of a vast stairway of obsidian and adamantite, its
+edges trimmed with gold. It climbs up into the higher temple. The hallway
+lies south.
+~
+51 ad 0
+D2
+~
+~
+0 -1 5127
+D4
+~
+~
+0 -1 5136
+S
+#5136
+The Grand Hallway~
+   The middle of a grand hallway of the purest adamantite trimmed with gold.
+Mosaics of spiders and webs cover the walls. A door leads east, the hallway
+continues north, and the stairway goes back down.
+~
+51 ad 0
+D0
+~
+~
+0 -1 5138
+D1
+~
+door~
+1 -1 5137
+D5
+~
+~
+0 -1 5135
+S
+#5137
+The Mages' Barracks~
+   The mages' quarters are clean but for a few used component jars. Cots
+line the floor, and above each one is pinned a scrap of map: every mage has
+a stretch of the east to watch. The only door is to the west.
+~
+51 ad 0
+D3
+~
+door~
+1 -1 5136
+E
+map maps scraps~
+Scraps of map, each a different stretch of road or wall: the Woodsman Inn,
+the Granary Fields, the Midgaard west gate.
+~
+S
+#5138
+The Grand Hallway~
+   The grand hallway ends here in adamantite and gold. A door leads west,
+the hallway runs back south, and a stair goes down again into the heart of
+the temple, toward a cold draught and a smell of blood.
+~
+51 ad 0
+D2
+~
+~
+0 -1 5136
+D3
+~
+door~
+1 -1 5139
+D5
+~
+~
+0 -1 5140
+S
+#5139
+The Clerics' Barracks~
+   A bedchamber bright with spider statues and murals, its large beds soft
+with silk. The priestesses sleep well. On a stand by the door lie grey veils
+they have lately begun to wear. The door is east.
+~
+51 ad 0
+D1
+~
+door~
+1 -1 5138
+E
+veils stand~
+Veils of fine grey gauze. They are cold to the touch, and through them the
+room looks further away.
+~
+S
+#5140
+The Grand Stairway~
+   You are on a stair of obsidian between walls of adamantite. It climbs up
+toward the grand hallway, and at its foot to the north stand a pair of tall
+golden doors.
+~
+51 ad 0
+D0
+~
+doors door golden gold~
+1 -1 5141
+D4
+~
+~
+0 -1 5138
+S
+#5141
+The Main Chamber~
+   The southern side of a great hall where the priestesses hold their rites.
+In its centre gapes a wide sacrificial pit, and beyond it rises the altar.
+The golden doors are south, and the hall opens east and west around the pit.
+~
+51 ad 0
+D1
+~
+~
+0 -1 5142
+D2
+~
+doors door golden gold~
+1 -1 5140
+D3
+~
+~
+0 -1 5144
+S
+#5142
+The Eastern Side Of The Main Chamber~
+   You are on the eastern side of the great hall, looking down into the pit.
+The rim is worn smooth by the feet of those who were pushed. A door leads
+east, the altar stands to the north, and the hall runs south.
+~
+51 ad 0
+D0
+~
+~
+0 -1 5145
+D1
+~
+door~
+1 -1 5146
+D2
+~
+~
+0 -1 5141
+S
+#5143
+The Sacrificial Pit~
+   As you climb down into the pit, thousands of spiders pour over you and
+tear your body to shreds. High above, the priestesses sing, and their hymn
+is for the Spider Queen and for the grey thing in the west together.
+~
+51 bd 0
+S
+#5144
+The Western Side Of The Main Chamber~
+   You are on the western side of the great hall, above the sacrificial pit.
+The rustling from below never stops. The altar stands to the north, and the
+hall runs back south.
+~
+51 ad 0
+D0
+~
+~
+0 -1 5145
+D2
+~
+~
+0 -1 5141
+S
+#5145
+The Altar~
+   You stand before an altar, thickly and freshly stained with blood. On its
+top is carved a great spider with a human head, and over the carving someone
+has set a slab of grey stone that is cold as winter. Below the altar the
+sacrificial pit seethes with spiders. A dais rises north, and the hall runs
+east and west.
+~
+51 ad 0
+D0
+~
+~
+0 -1 5148
+D1
+~
+~
+0 -1 5142
+D3
+~
+~
+0 -1 5144
+D5
+Thousands of spiders eye you with undisguised hunger.
+~
+~
+0 -1 5143
+E
+slab stone grey~
+A slab of grey stone that did not come from this cavern. It is so cold your
+breath frosts over it, and there is a faint sense of something listening on
+the other side.
+~
+S
+#5146
+The Slave Cells~
+   The guardroom of the cells where slaves are kept for the pit. There are
+no guards; the drow do not think anyone would come for a slave. A cell door
+is north, and a door leads west.
+~
+51 ad 0
+D0
+~
+cell~
+1 -1 5147
+D3
+~
+door~
+1 -1 5142
+S
+#5147
+The Slave Pen~
+   Rotten meat and bread lie on the floor and shackles hang empty from the
+walls. The room reeks of death. Scratched on the wall at child height is a
+small picture of a house with a road running from it. Whoever was kept here
+is gone. The cell door is south.
+~
+51 ad 0
+D2
+~
+cell~
+1 -1 5146
+S
+#5148
+The Dias~
+   You stand on a dais behind the altar. Above you hangs a vast illusion of
+a drow woman turning into a giant spider and back again; but at each change,
+for a moment, she is neither, only a grey shape like an open door. A heavy
+door leads west, and the altar lies south.
+~
+51 ad 0
+D2
+~
+~
+0 -1 5145
+D3
+~
+door~
+2 5115 5149
+E
+illusion~
+Woman, spider, woman, spider... and for a heartbeat between them, nothing
+but a grey door, ajar. Each time, it stays a little longer.
+~
+S
+#5149
+The Treasury~
+   The temple treasury is nearly bare: what comes in goes out again quickly,
+as bribes for clerks and sentries in the east. What remains is in eastern
+coin. The heavy door is east.
+~
+51 ad 0
+D1
+~
+door~
+2 5115 5148
+S
+#5150
+The Weaponsmaster's Chamber~
+   An elegant bedchamber for one. Its owner is held in high regard: the
+weaponsmaster who trains the city's knives before they go east. A rack on
+the wall holds a row of plain human daggers, the kind that leave no drow
+mark. The door is south.
+~
+51 ad 0
+D2
+~
+door~
+1 -1 5129
+E
+rack daggers~
+Plain iron daggers of eastern make. A knife from the Midgaard armoury leaves
+no question about who killed a sentry.
+~
+S
+$

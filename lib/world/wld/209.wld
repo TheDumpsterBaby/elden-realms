@@ -1,0 +1,438 @@
+#20900
+The Mountain Path~
+   A path climbs from the barrow-lands into the mountains, cut into the rock
+by dwarven hands long ago. The peaks above are split and jagged, as if
+something vast struck them from the sky. Cold wind howls down the path,
+carrying the distant ring of hammers from deep inside the stone.
+~
+209 0 5
+D1
+~
+~
+0 -1 20816
+D4
+~
+~
+0 -1 20901
+S
+#20901
+The Split Pass~
+   The path enters a cleft where a whole mountain has been split in two, its
+halves standing apart like the pages of a book. The cliffs on either side
+rise sheer for a thousand feet. High above, dark shapes circle against the
+grey sky, screaming.
+~
+209 0 5
+D0
+~
+~
+0 -1 20902
+D3
+~
+~
+0 -1 20904
+D5
+~
+~
+0 -1 20900
+S
+#20902
+The Wyvern Ledges~
+   A narrow ledge climbs the face of the split mountain toward a line of
+caves. The rock is white with droppings and littered with bones: goats,
+dwarves, a horse. Wyverns perch on every outcrop, grey-scaled and barb-
+tailed, and they have seen you.
+~
+209 0 5
+D2
+~
+~
+0 -1 20901
+D4
+~
+~
+0 -1 20903
+S
+#20903
+The Iron Eyrie~
+   A great cave high on the cliff, its mouth ringed with broken iron. A
+wyvern larger than any other sleeps on a hoard of armour and weapons stolen
+from the dwarves. Its scales have grown over with grey iron where the West's
+smiths armoured it.
+~
+209 0 5
+D4
+~
+~
+0 -1 20916
+D5
+~
+~
+0 -1 20902
+S
+#20904
+The Bridge over the Abyss~
+   A stone bridge with no rail spans a chasm so deep that its bottom is lost
+in darkness. Hot air rises from below, smelling of sulphur. Halfway across,
+the bridge is cracked through, and the crack widens a little every time
+someone crosses.
+~
+209 0 5
+D1
+~
+~
+0 -1 20901
+D3
+~
+~
+0 -1 20906
+D5
+~
+~
+0 -1 20905
+S
+#20905
+A Ledge in the Abyss~
+   You climb down onto a narrow ledge below the bridge. The heat is intense
+and the rock trembles. Far below, a red glow pulses like a heartbeat.
+Something lives on this ledge: a nest of bones and slag, and claw marks deep
+in the stone.
+~
+209 a 5
+D4
+~
+~
+0 -1 20904
+D5
+~
+~
+0 -1 20918
+S
+#20906
+The Gate of Durhold~
+   A gate of black iron fifty feet high is set into the mountain's face,
+carved with kings and anvils. One leaf hangs broken. The dwarves who guarded
+it stand in their places still, grey-skinned, grey-bearded, their eyes
+black, and they raise their axes as you approach.
+~
+209 0 5
+D1
+~
+~
+0 -1 20904
+D3
+~
+~
+0 -1 20907
+S
+#20907
+The Great Hall of Durhold~
+   A hall carved from the living rock, so vast its roof is lost in darkness.
+Great pillars carved as dwarven kings hold up the mountain. The tables where
+a thousand dwarves feasted are overturned and covered with grey dust. The
+ring of hammers is very loud here.
+~
+209 d 0
+D0
+~
+~
+0 -1 20908
+D1
+~
+~
+0 -1 20906
+D2
+~
+~
+0 -1 20910
+D3
+~
+~
+0 -1 20909
+S
+#20908
+The Clan Barracks~
+   Long halls of stone bunks where the warriors of the clans slept. They are
+full again, with grey dwarves lying in them with open eyes, waiting to be
+called. Their weapons lie beside them, newly forged, the metal grey and
+dull.
+~
+209 d 0
+D0
+~
+~
+0 -1 20920
+D2
+~
+~
+0 -1 20907
+S
+#20909
+The Forge Halls~
+   A hall of a hundred forges, all burning. Grey dwarves beat out armour and
+blades in grey iron, stacking them in racks for the West's armies. They work
+without speaking, without pausing. Iron golems carry the finished pieces
+down a ramp toward the deep.
+~
+209 d 0
+D1
+~
+~
+0 -1 20907
+D3
+~
+~
+0 -1 20912
+S
+#20910
+The Great Shaft~
+   A shaft drops into the mountain's heart, with a stair spiralling down its
+walls. The dwarves dug too deep here, the legends said, and woke something.
+Grey iron ore glistens in the walls. It is warm to the touch, and it pulses.
+~
+209 ad 0
+D0
+~
+~
+0 -1 20907
+D5
+~
+~
+0 -1 20911
+S
+#20911
+The Living Vein~
+   At the bottom of the shaft, a vein of grey ore as wide as a river runs
+through the rock, and it is alive: it moves, slowly, like a muscle, and it
+whispers. The dwarves mined it to make their iron. The iron carries its
+whisper into everyone who wears it.
+~
+209 ad 0
+D3
+~
+~
+0 -1 20921
+D4
+~
+~
+0 -1 20910
+E
+vein ore grey~
+The ore whispers in the voice of Nu'Groth. Every blade and helm forged from
+it carries a little of that voice to its wearer.
+~
+S
+#20912
+The Deep Ramp~
+   A broad ramp descends into the depths of the hold, worn smooth by iron
+carts. The heat grows with every step. Statues of the dwarven kings line it,
+and every one has had its face struck off and replaced with a grey iron
+mask.
+~
+209 d 0
+D1
+~
+~
+0 -1 20909
+D3
+~
+~
+0 -1 20913
+D5
+~
+~
+0 -1 20914
+S
+#20913
+The Plundered Treasury~
+   The treasury of Durhold, its great vault door torn open. Most of the gold
+is gone, melted for the West. What remains is heaped carelessly: crowns,
+cups, ancient armour. An iron golem stands guard over it, very old, very
+large.
+~
+209 d 0
+D1
+~
+~
+0 -1 20912
+S
+#20914
+The Forge of the King~
+   The deepest hall of Durhold, a cavern around a forge as big as a house,
+burning with grey fire. The Forge-King stands in the fire itself, his body
+fused with the furnace, his beard a cascade of molten iron. He forges with
+his bare hands, and every blade he makes is a blade for Nu'Groth.
+~
+209 d 0
+D0
+~
+~
+0 -1 20925
+D3
+~
+~
+0 -1 20915
+D4
+~
+~
+0 -1 20912
+S
+#20915
+The Western Tunnel~
+   Behind the king's forge a tunnel leads west through the roots of the
+mountains, long and dark and dripping. The air grows cold and wet. Far
+ahead, you hear water: the slow lap of a vast underground sea against a
+stone shore.
+~
+209 ad 0
+D0
+~
+~
+0 -1 20923
+D1
+~
+~
+0 -1 20914
+D2
+~
+~
+0 -1 20924
+D3
+West, the tunnel opens onto the shore of a black underground sea.
+~
+~
+0 -1 21000
+S
+#20916
+The Storm Summit~
+   Above the wyvern eyrie the mountain ends in a summit of shattered stone
+where grey lightning strikes without pause. The air tastes of iron. A giant
+crouches among the rocks, frost in its beard, and it is not a giant of the
+mountains any more.
+~
+209 0 5
+D3
+~
+~
+0 -1 20917
+D5
+~
+~
+0 -1 20903
+S
+#20917
+The Shrine of the Old Sky~
+   A small round shrine on the summit, open to the storm, where the dwarves
+once prayed to the sky. The altar has been split by lightning, and a grey
+priest kneels at it, praying now to something else.
+~
+209 0 0
+D1
+~
+~
+0 -1 20916
+S
+#20918
+The Floor of the Chasm~
+   The bottom of the chasm, a mile below the bridge. It is utterly dark, and
+the floor is a field of broken bodies, everything that ever fell from the
+bridge above. Something large moves among them, feeding.
+~
+209 a 0
+D3
+~
+~
+0 -1 20919
+D4
+~
+~
+0 -1 20905
+S
+#20919
+The River of Fire~
+   A river of molten rock runs through the roots of the mountain, lighting
+the cavern red. The heat is terrible. Shapes of living fire rise from it and
+walk on its banks.
+~
+209 0 0
+D1
+~
+~
+0 -1 20918
+S
+#20920
+The Grey Armoury~
+   Behind the barracks lies the armoury of the grey dwarves, rack upon rack
+of grey iron weapons and armour waiting to be sent east to the legions.
+Every blade hums faintly with the voice of Nu'Groth.
+~
+209 0 0
+D2
+~
+~
+0 -1 20908
+S
+#20921
+The Crystal Cavern~
+   West of the living vein the ore gives way to a cavern of grey crystal
+that grows as you watch, spreading across the walls like frost. Figures of
+crystal stand in it, dwarves who stood too long and were grown over.
+~
+209 0 0
+D1
+~
+~
+0 -1 20911
+D3
+~
+~
+0 -1 20922
+S
+#20922
+The Heart of the Mountain~
+   At the centre of the crystal is the heart of the mountain: a vast slow-
+beating stone, the spirit the dwarves once worshipped. The grey has reached
+it. Its beat is wrong, and it has woken, and it is in pain.
+~
+209 0 0
+D1
+~
+~
+0 -1 20921
+S
+#20923
+The Slave Pens~
+   Iron cages line the tunnel, full of dwarves and men taken in raids on the
+east, worked in the mines until they hollow. A driver walks the cages with a
+whip.
+~
+209 0 0
+D2
+~
+~
+0 -1 20915
+S
+#20924
+The Ore Road~
+   A wide tunnel with iron rails where carts of grey ore rumble toward the
+forges. Hollowed haulers push them without rest.
+~
+209 0 0
+D0
+~
+~
+0 -1 20915
+S
+#20925
+The Anvil of Grey Iron~
+   North of the king's forge stands the great anvil where the first grey
+iron was beaten, an anvil of black stone the size of a house. A spirit of
+the forge burns above it, still working, still shaping.
+~
+209 0 0
+D2
+~
+~
+0 -1 20914
+S
+$

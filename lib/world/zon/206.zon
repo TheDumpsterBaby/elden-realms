@@ -1,0 +1,53 @@
+#206
+Claude~
+The Ashen Waste~
+20600 20699 20 2
+M 0 20600 1 20600	ash_drifter
+M 0 20600 2 20601	ash_drifter
+M 0 20601 1 20601	blight_worm
+M 0 20602 2 20602	stone_scavenger
+M 0 20603 3 20603	ash_eater
+E 1 20600 70 16	bone_club
+M 0 20604 1 20604	ash_chief
+E 1 20601 100 16	chief_spear
+G 1 20602 100	stone_finger_necklace
+M 0 20603 1 20604	ash_eater
+E 1 20600 70 16	bone_club
+M 0 20603 1 20605	ash_eater
+E 1 20600 70 16	bone_club
+M 0 20601 2 20606	blight_worm
+M 0 20605 1 20607	worm_mother
+G 1 20603 100	glass_scale_shield
+M 0 20601 1 20607	blight_worm
+M 0 20606 1 20608	glass_shade
+M 0 20607 2 20609	stone_stalker
+M 0 20607 1 20610	stone_stalker
+M 0 20608 1 20611	blight_basilisk
+G 1 20604 100	basilisk_eye
+M 0 20606 2 20612	glass_shade
+M 0 20609 2 20613	ash_storm
+M 0 20610 1 20614	obelisk_warden
+E 1 20605 100 16	warden_pike
+M 0 20600 1 20614	ash_drifter
+M 0 20609 1 20615	ash_storm
+M 0 20601 1 20616	blight_worm
+M 0 20600 1 20616	ash_drifter
+M 0 20611 1 20617	ashen_wyrm
+G 1 20606 100	wyrm_heart
+G 1 20607 100	wyrm_scale_mail
+M 0 20600 1 20618	ash_drifter
+M 0 20606 2 20619	glass_shade
+M 0 20612 1 20620	glass_magister
+G 1 20608 100	glass_staff
+M 0 20613 2 20621	well_thing
+M 0 20614 2 20622	dune_strider
+M 0 20615 1 20623	ash_prophet
+G 1 20609 60	ash_beads
+M 0 20616 3 20624	grey_pilgrim
+O 0 20612 1 20625	scorched_standard
+M 0 20617 2 20625	ash_revenant
+E 1 20610 40 16	scorched_blade
+M 0 20618 2 20626	salt_wight
+G 1 20611 30	salt_crown
+S
+$

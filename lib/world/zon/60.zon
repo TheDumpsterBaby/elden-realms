@@ -1,0 +1,50 @@
+#60
+Claude~
+The Granary Fields~
+6000 6099 15 2
+M 0 6000 2 6000	farmhand
+O 0 6000 1 6002	trough
+M 0 6001 2 6002	ox
+M 0 6002 1 6004	requisition_officer
+E 1 6005 100 16	officers_baton
+M 0 6003 2 6004	requisition_soldier
+E 1 6006 80 16	short_spear
+M 0 6004 1 6005	chained_dog
+M 0 6005 3 6005	chicken
+M 0 6006 1 6006	farmwife
+G 1 6004 100	turnip_soup
+M 0 6007 2 6006	farm_child
+O 0 6002 1 6007	pitchfork
+M 0 6008 3 6007	field_rat
+M 0 6009 1 6008	runaway_conscript
+E 1 6007 100 16	rusty_shortsword
+O 0 6001 1 6009	farm_well
+M 0 6008 2 6010	field_rat
+M 0 6010 2 6010	crow
+M 0 6011 3 6011	scarecrow
+G 1 6008 30	straw_hat
+M 0 6010 2 6012	crow
+O 0 6003 3 6013	apple
+M 0 6012 1 6013	wasp_swarm
+M 0 6008 2 6014	field_rat
+M 0 6013 1 6015	hedge_witch
+E 1 6009 100 16	witch_sickle
+G 1 6010 100	straw_doll
+M 0 6014 1 6017	mad_miller
+E 1 6011 100 16	miller_cleaver
+M 0 6015 3 6018	rotgrub
+M 0 6016 2 6019	granary_guard
+E 1 6006 100 16	short_spear
+D 0 6019 0 1
+M 0 6017 3 6020	blight_rat
+D 0 6020 2 1
+M 0 6017 2 6021	blight_rat
+M 0 6015 2 6021	rotgrub
+M 0 6017 2 6022	blight_rat
+M 0 6018 1 6023	rat_king
+G 1 6012 100	rat_crown
+G 1 6013 100	grey_grain
+M 0 6019 1 6024	hedge_sentry
+E 1 6006 100 16	short_spear
+S
+$

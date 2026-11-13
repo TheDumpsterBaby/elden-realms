@@ -1,0 +1,1213 @@
+#5200
+The Grand Gate Of Thalos~
+   You stand beneath the great arch of Thalos, the first city of the east
+and the first to fall. Its two steel gates were forced inward long ago and
+have rusted where they hang, bent like paper. The names of the founding
+houses are cut into the keystone, chipped almost smooth. A cold wind blows
+past you into the dead city to the west; north, a track climbs back to the
+Supply Road.
+~
+52 0 1
+D3
+Main Street runs west into the ruin, between houses with no roofs.
+~
+~
+0 -1 5201
+D0
+North of the gate a rutted track climbs to the Supply Road.
+~
+~
+0 -1 5014
+E
+gates gate steel~
+The gates were not battered down. They were bent inward from the middle, as
+if something had leaned on them until they gave.
+~
+E
+keystone names arch~
+The names of the houses of Thalos run around the keystone. Somebody has
+scratched a small mark beside each one, the way the priests of Midgaard mark
+the rolls of the dead.
+~
+S
+#5201
+Main Street~
+   The great street of Thalos runs west from the gate between the shells of
+tall houses. Weeds grow in the cracks of its paving, and the wind has heaped
+grey dust in every doorway. South stands a squat guard house, and north a
+dark alley slips between two fallen walls; the gate is back east. Somewhere
+deeper in the city something howls, and something else answers it.
+~
+52 0 1
+D0
+A narrow alley, black with shadow, runs north between fallen walls.
+~
+~
+0 -1 5239
+D1
+The broken gate of the city stands to the east.
+~
+~
+0 -1 5200
+D2
+The guard house to the south still has its roof, though little else.
+~
+~
+0 -1 5235
+D3
+Main Street runs on westward toward the domed temple.
+~
+~
+0 -1 5202
+S
+#5202
+Main Street~
+   Main Street widens here before the city hall, whose charred doorway gapes
+to the south. To the north a house has been blown apart, its stones flung
+far across the road. West the street gives onto the overgrown garden path
+that rings the temple, whose great dome still rises intact above the ruin.
+The gate lies back to the east.
+~
+52 0 1
+D0
+Little remains to the north but a crater and scattered stone.
+~
+~
+0 -1 5236
+D1
+~
+~
+0 -1 5201
+D2
+The scorched doorway of the city hall opens to the south.
+~
+~
+0 -1 5232
+D3
+A withered garden path curves around the temple to the west.
+~
+~
+0 -1 5203
+E
+dome temple~
+The dome of the temple of Thalos stands whole while everything around it
+lies broken. Nothing in the city looks less safe.
+~
+S
+#5203
+A Garden Path~
+   You stand on the eastern arc of the garden path that rings the temple.
+Once these beds were the pride of Thalos; now the flowers are grey stalks
+and the trees are bare, and thorny vines climb the temple wall and catch at
+your ankles. The path curves away north and south, the temple doors stand
+open to the west, and Main Street lies east. A howl rises and breaks off.
+~
+52 0 1
+D0
+The garden path curves north around the temple.
+~
+~
+0 -1 5204
+D1
+Main Street leads back east toward the gate.
+~
+~
+0 -1 5202
+D2
+The garden path curves south around the temple.
+~
+~
+0 -1 5206
+D3
+The east doors of the temple stand open. Thin shafts of daylight fall
+inside.
+~
+~
+0 -1 5250
+E
+vines vine~
+The vines are grey and leafless, but they are still growing. They have
+pulled stones out of the temple wall.
+~
+S
+#5204
+A Garden Path~
+   The northern arc of the garden path. A row of stone planters has been
+knocked over, and the soil that spilled from them is full of small bones. A
+side street leads away north into the poorer quarter, the path bends east
+and west around the temple, and the temple's north door stands open to the
+south.
+~
+52 0 1
+D0
+A side street leads north into the common quarter.
+~
+~
+0 -1 5211
+D1
+The garden path curves east around the temple.
+~
+~
+0 -1 5203
+D2
+The north door of the temple opens to the south.
+~
+~
+0 -1 5250
+D3
+The garden path curves west around the temple.
+~
+~
+0 -1 5205
+E
+bones planters soil~
+Bird bones, lizard bones, and a few that are neither. Something eats here.
+~
+S
+#5205
+A Garden Path~
+   The western arc of the garden path, where the vines are thickest. A stone
+bench stands here, half swallowed by them, and someone has laid a ring of
+pale pebbles on its seat. The path curves north and south, the temple's west
+door is to the east, and the old market place spreads out to the west.
+~
+52 0 1
+D0
+The garden path curves north around the temple.
+~
+~
+0 -1 5204
+D1
+The west door of the temple stands open to the east.
+~
+~
+0 -1 5250
+D2
+The garden path curves south around the temple.
+~
+~
+0 -1 5206
+D3
+The market place opens out to the west, full of overturned stalls.
+~
+~
+0 -1 5207
+E
+bench pebbles ring~
+The pebbles are arranged with care. Nobody living has come this way in
+years, but the ring is neat and free of dust.
+~
+S
+#5206
+A Garden Path~
+   The southern arc of the garden path. A fallen statue of a woman lies face
+down across the way, its arms broken off at the elbow. The temple's south
+door is to the north; the path curves east and west, and a side street runs
+south into what was once the quarter of guilds and counting-houses.
+~
+52 0 1
+D0
+The south door of the temple stands open to the north.
+~
+~
+0 -1 5250
+D1
+The garden path curves east around the temple.
+~
+~
+0 -1 5203
+D2
+A side street runs south toward the old business quarter.
+~
+~
+0 -1 5212
+D3
+The garden path curves west around the temple.
+~
+~
+0 -1 5205
+E
+statue woman~
+The statue lies face down. You could turn it over, if you had the strength
+and wished to see its face. Nobody in New Thalos would advise it.
+~
+S
+#5207
+The Market Place~
+   The great market of Thalos, where the whole east once came to trade.
+Carts and baskets and stalls stand where their owners left them in the last
+days, some still holding goods gone to dust and rust. A jeweller's table
+lies toppled to the north and a produce cart rots to the south. The market
+runs on west, and the temple garden lies east.
+~
+52 0 1
+D0
+A jeweller's table lies on its side to the north, its trinkets spilled
+across the stones.
+~
+~
+0 -1 5225
+D1
+The garden path around the temple lies to the east.
+~
+~
+0 -1 5205
+D2
+A produce cart stands to the south under a cloud of flies.
+~
+~
+0 -1 5220
+D3
+The market place continues west.
+~
+~
+0 -1 5208
+E
+carts baskets stalls~
+Many of the stalls are still laid out, as if their keepers stepped away for
+a moment and meant to come back.
+~
+S
+#5208
+The Market Place~
+   The western end of the market square, where the dearer stalls stood.
+Bolts of cloth have rotted on their poles and the awnings hang in strips. A
+tapestry stall stands to the north, and to the south the reek of the meat
+stand hangs in the air. The centre of the market lies back east.
+~
+52 0 1
+D0
+Heaps of tattered carpets and silks lie by a stall to the north.
+~
+~
+0 -1 5222
+D1
+The centre of the market lies to the east.
+~
+~
+0 -1 5207
+D2
+The stench of the old meat stand comes from the south.
+~
+~
+0 -1 5217
+S
+#5209
+A Side Street~
+   A narrow street at the top of the common quarter, so choked with fallen
+stone that you must climb as much as walk. Back alleys lead off east and
+west, and the street runs on south toward the temple. The howling is louder
+here, and closer.
+~
+52 0 1
+D1
+~
+~
+0 -1 5243
+D2
+~
+~
+0 -1 5210
+D3
+~
+~
+0 -1 5228
+S
+#5210
+A Side Street~
+   The heart of the common quarter, where the poor of Thalos lived in houses
+of clay and fieldstone. Most are heaps of rubble now. To the east one house
+still stands with its door in its frame, and to the west a small clay
+dwelling sags on its beams. The street runs north and south.
+~
+52 0 1
+D0
+~
+~
+0 -1 5209
+D1
+A narrow doorway leads into a house that is somehow still standing.
+~
+~
+1 -1 5244
+D2
+~
+~
+0 -1 5211
+D3
+A small clay dwelling sits to the west, its roof fallen in.
+~
+~
+0 -1 5226
+S
+#5211
+A Side Street~
+   A side street leading north from the temple garden into the common
+quarter, lined with rubble that was once the homes of weavers and porters.
+East a tall house looms over everything near it; west a thatched stone
+cottage has folded in on itself. The street runs north, and the garden path
+lies south.
+~
+52 0 1
+D0
+~
+~
+0 -1 5210
+D1
+A tall dwelling stands to the east, leaning a little toward the street.
+~
+~
+0 -1 5237
+D2
+The garden path around the temple lies to the south.
+~
+~
+0 -1 5204
+D3
+A small stone house with a fallen thatched roof sits to the west.
+~
+~
+0 -1 5227
+S
+#5212
+A Side Street~
+   The street runs south from the temple into the quarter of guilds and
+counting-houses. These buildings were made of good dressed stone, and they
+fell all the same. The wall of the city hall to the east has a great hole
+torn in it, and a smithy stands open to the west. The garden path is north
+and the street continues south.
+~
+52 0 1
+D0
+The garden path around the temple lies to the north.
+~
+~
+0 -1 5206
+D1
+A hole torn in the city hall wall leads east into its reception hall.
+~
+~
+0 -1 5232
+D2
+~
+~
+0 -1 5213
+D3
+Through the smithy door you can see anvils, tongs and a cold forge.
+~
+~
+0 -1 5221
+S
+#5213
+A Side Street~
+   Broken pillars line this stretch of street, the fronts of buildings that
+were grand once. West stands the old guild house, darker than the ruins
+around it, and east the doorway of a tavern whose upper floor has fallen in.
+The street runs north and south.
+~
+52 0 1
+D0
+~
+~
+0 -1 5212
+D1
+The doorway of a two-storey tavern opens to the east. There is sky where its
+roof should be.
+~
+~
+0 -1 5230
+D2
+~
+~
+0 -1 5214
+D3
+The guild house stands to the west. Its doorway is very dark.
+~
+~
+0 -1 5219
+S
+#5214
+A Side Street~
+   The street ends here at a crossing with a long back alley that runs east
+and west. A heap of rubble to the east hides a shop doorway, if you look for
+it. The street leads north again toward the centre of the dead city.
+~
+52 0 1
+D0
+~
+~
+0 -1 5213
+D1
+~
+~
+0 -1 5229
+D3
+~
+~
+0 -1 5218
+S
+#5215
+Under A Ruined Watchtower~
+   The south-west watchtower rises above you, a tall shaft of grey stone
+that was built to watch the western road. Its base is scarred with old
+burns. A worn stair climbs up inside it. An alley runs north behind the
+market and another leads east.
+~
+52 0 1
+D0
+~
+~
+0 -1 5216
+D1
+~
+~
+0 -1 5218
+D4
+~
+~
+0 -1 5247
+E
+burns scars stone~
+The stone is blackened in long streaks, as if fire had climbed the tower
+from the outside.
+~
+S
+#5216
+A Back Alley~
+   A filthy alley behind the market, where the butchers of Thalos threw what
+they could not sell. The ground is soft and dark underfoot and the smell is
+very bad. North is the back of the meat stand; south stands the watchtower.
+~
+52 0 1
+D0
+The back of the meat stand lies to the north.
+~
+~
+0 -1 5217
+D2
+The south-west watchtower stands a silent vigil to the south.
+~
+~
+0 -1 5215
+S
+#5217
+The Meat Stand~
+   A butcher's stall of hooks and racks. Its meat should have rotted away
+generations ago, but there are fresh scraps on the hooks, and fresh blood in
+the gutter beneath them. Something keeps a larder here. The market is north,
+the produce cart east, and an alley runs off south.
+~
+52 0 1
+D0
+The market place lies to the north.
+~
+~
+0 -1 5208
+D1
+A cart of rotted fruit and vegetables stands to the east.
+~
+~
+0 -1 5220
+D2
+~
+~
+0 -1 5216
+E
+hooks racks scraps~
+The scraps on the hooks are fresh. Some of them are lizard. Some of them are
+not.
+~
+S
+#5218
+A Back Alley~
+   A narrow alley between blind walls. Scratches run along both sides at
+shoulder height, as if something wide had squeezed through here many times.
+The alley opens onto a side street to the east and reaches the south-west
+watchtower to the west.
+~
+52 0 1
+D1
+A side street crosses the end of the alley to the east.
+~
+~
+0 -1 5214
+D3
+The south-west watchtower stands a silent vigil to the west.
+~
+~
+0 -1 5215
+S
+#5219
+The Guild House~
+   The guild house of Thalos, where its fighters and adventurers once
+mustered. Tables and benches have been smashed to kindling and broken
+weapons lie everywhere, as if the last stand of the city was made in this
+room. Draped along the back wall is a tattered black banner that does not
+belong to Thalos. The only way out is east.
+~
+52 d 1
+D1
+A side street runs past the guild house to the east.
+~
+~
+0 -1 5213
+E
+banner black~
+The banner is black, and bears no device but a long grey stain shaped like a
+door left ajar. The old men of New Thalos say it was carried in by the
+things that took the city. Nobody has ever been willing to take it down.
+~
+S
+#5220
+The Produce Stand~
+   A great cart heaped with fruit and vegetables that turned to black mush
+long ago and have somehow never finished rotting. Flies swarm over it in a
+droning cloud. The market lies north and the meat stand west.
+~
+52 0 1
+D0
+The deserted market place lies to the north.
+~
+~
+0 -1 5207
+D3
+A strong stench drifts from the meat stand to the west.
+~
+~
+0 -1 5217
+S
+#5221
+The Smithy~
+   The smithy of Thalos, its forge cold for generations. The racks on the
+walls were stripped bare in the last days, when every blade in the city was
+carried to the gate, and only a few unfinished pieces remain. Hammers still
+lie by the anvils where the smiths put them down. The street is east.
+~
+52 d 1
+D1
+A side street runs past the smithy to the east.
+~
+~
+0 -1 5212
+E
+anvils hammers forge~
+The hammers lie neatly by the anvils. The smiths put them down and went to
+the gate, and did not come back for them.
+~
+S
+#5222
+The Tapestry Stand~
+   Rugs and tapestries lie heaped in great soft piles, torn and stained, and
+fine robes have been dragged off their poles into the heaps. Looking longer,
+you see that the piles are hollowed in the middle and lined with hair. They
+are nests. The jewellery stand is east, the market south, and an alley leads
+north.
+~
+52 0 1
+D0
+~
+~
+0 -1 5223
+D1
+A jewellery stand lies in ruin to the east.
+~
+~
+0 -1 5225
+D2
+The deserted market place lies to the south.
+~
+~
+0 -1 5208
+E
+piles nests rugs tapestries~
+Each heap has a hollow pressed into it, large enough for a body with four
+legs, and lined with long dark hair.
+~
+S
+#5223
+A Back Alley~
+   A narrow alley runs north from the tapestry stand toward the north-west
+watchtower. A child's shoe lies in the middle of it, small and stiff, and
+nobody has moved it in a very long time.
+~
+52 0 1
+D0
+The north-west watchtower stands a silent vigil to the north.
+~
+~
+0 -1 5224
+D2
+~
+~
+0 -1 5222
+E
+shoe~
+A small leather shoe, gone hard as wood. It points north, toward the tower,
+as if its owner had been running there.
+~
+S
+#5224
+Under The Watchtower~
+   You stand at the foot of the north-west watchtower. Its door was barred
+from the inside once, and something tore the bar out of the wall. A stair
+winds up inside. Alleys lead away east and south.
+~
+52 0 1
+D1
+~
+~
+0 -1 5228
+D2
+~
+~
+0 -1 5223
+D4
+A narrow stair winds up into the north-west watchtower.
+~
+~
+0 -1 5246
+S
+#5225
+The Jewellery Stand~
+   A jeweller's table has been tipped over and its stock lies scattered in
+the dust: tarnished chains, cracked settings, beads gone dull. The looters
+took nothing. Nobody who fled Thalos stopped to carry jewels. The market
+lies south and the tapestry stand west.
+~
+52 0 1
+D2
+The deserted market place lies to the south.
+~
+~
+0 -1 5207
+D3
+A stand heaped with ruined rugs and cloth lies to the west.
+~
+~
+0 -1 5222
+E
+chains settings beads trinkets~
+Cheap things and fine things lie together, all equally worthless now. A
+betrothal ring still has a name engraved inside it.
+~
+S
+#5226
+A Ruined Clay Dwelling~
+   A plain one-room house of clay with a few broken chairs and a bed. The
+fireplace is cold and full of ash so old it has set like stone. Scratched
+into the hearthstone are tally marks, rows of them, counting days. The
+street is east.
+~
+52 d 1
+D1
+The side street lies outside to the east.
+~
+~
+0 -1 5210
+E
+marks tally hearthstone~
+Forty-one marks. Then nothing.
+~
+S
+#5227
+A Collapsed Stone Dwelling~
+   This little stone house has fallen in upon itself. A few rafters still
+stand with blackened thatch hanging from them, and the wind moves through
+the gaps with a sound like someone breathing. The street is east.
+~
+52 0 1
+D1
+A small side street runs past the house to the east.
+~
+~
+0 -1 5211
+S
+#5228
+A Back Alley~
+   A crooked alley between the backs of houses. Every doorway along it has
+been nailed shut from the outside, long ago. The alley leads west to the
+north-west watchtower and east to a side street.
+~
+52 0 1
+D1
+~
+~
+0 -1 5209
+D3
+~
+~
+0 -1 5224
+E
+doorways doors nails~
+The nails are driven in from the alley side. Whoever did it wanted to keep
+something in, not out.
+~
+S
+#5229
+An Abandoned Shop~
+   From the street this looks like nothing but a heap of rubble, but inside
+is a cramped shop that once sold arms, armour and travelling gear. Its
+shelves are bare except for dust. A small wooden sign still hangs by one
+nail and turns slowly in the draught. The street is west.
+~
+52 d 1
+D3
+A small side street runs past the shop to the west.
+~
+~
+0 -1 5214
+E
+sign~
+The paint is almost gone, but you can read: "Blades, mail, rope and lamps.
+Bought and sold. No credit." Below it, in a different hand: "Gone to the
+gate."
+~
+S
+#5230
+The Tavern Of The Sun~
+   The Tavern of the Sun was the brightest house in Thalos. Now its tables
+lie broken and its glasses crushed into the floor, and a little stage is
+buried under the beams. Instruments lie in the wreckage beside the
+belongings of people who are not there. The upper floor and roof have fallen
+in, and grey sky shows through the hole. The street is west.
+~
+52 0 1
+D3
+A small side street runs past the tavern to the west.
+~
+~
+0 -1 5213
+E
+stage instruments~
+The players left their instruments on the stage when the bells rang. The
+instruments are still there.
+~
+S
+#5231
+The South Wing Of The City Hall~
+   A large chamber at the end of the hall, where the council of Thalos once
+received petitioners. Its pillars have fallen and its treasures were carried
+off, but a few chairs survive, and a great curved desk. A vine-hung archway
+to the east opens on a private courtyard. The reception hall is north.
+~
+52 d 1
+D0
+A long hallway leads back north to the reception hall.
+~
+~
+0 -1 5232
+D1
+~
+~
+0 -1 5234
+E
+chairs pillars~
+The chairs are arranged in a half circle, facing the desk, as though the
+council was still sitting when the end came.
+~
+S
+#5232
+The City Hall~
+   The reception hall of the city hall of Thalos. Its walls are charred and
+scored with long gouges, and debris lies from wall to wall. A great hole has
+been torn in the west wall, through which you can see the side street. Main
+Street lies north through the doorway, and a hallway runs south.
+~
+52 d 1
+D0
+Main Street runs past the city hall to the north.
+~
+~
+0 -1 5202
+D2
+A hallway leads south to the south wing.
+~
+~
+0 -1 5231
+D3
+~
+~
+0 -1 5212
+E
+gouges walls~
+Long parallel gouges run across the plaster, four at a time, as high as a
+man can reach.
+~
+S
+#5233 
+The East Wing Of The City Hall~
+   The office of the last Warden of Thalos, who gave the order to abandon
+the city and stayed behind. Withered plants stand in their pots and the
+furniture is broken, but a tall glass cabinet stands intact against one
+wall. A hallway leads west, and an ivy-covered archway south.
+~
+52 d 1
+D2
+~
+~
+0 -1 5234
+D3
+~
+~
+0 -1 5232
+E
+cabinet glass~
+A tall cabinet of thick old glass with a small lock shaped like an ivory
+seal.
+~
+S
+#5234
+The Private Gardens And Courtyard Of Thalos~
+   The council's private garden was the loveliest place in the city. Its
+trees have been smashed flat and its benches flung through the walls, but a
+great marble fountain still stands in the middle of it, cracked through and
+running red. The stump of a watchtower rises above the wall. An archway to
+the west leads back into the city hall.
+~
+52 0 1
+D3
+~
+~
+0 -1 5231
+E
+watchtower stump~
+The broken top of the north-east watchtower rises over the wall. Its ladder
+looks rotten even from here.
+~
+S
+#5235
+A Small Guard House~
+   The guard house of the city watch, a stout stone hut that still has its
+roof. Its weapon racks are empty and its single cot is collapsed. On the
+wall the watch kept a duty roster, and the last day on it was never
+finished. Main Street is north.
+~
+52 d 1
+D0
+Main Street runs by the guard house to the north.
+~
+~
+0 -1 5201
+E
+roster wall~
+A painted duty roster lists the watch by name. The last column is half
+filled in, and the brush stroke trails off down the wall.
+~
+S
+#5236
+A Collapsed Home~
+   Nothing of this house remains but scattered stones and a deep blast
+crater, glassy at the bottom. Whoever lived here was important enough to be
+killed first. A shrieking howl carries across the rubble. Main Street lies
+south.
+~
+52 0 1
+D2
+Main Street runs past the ruined house to the south.
+~
+~
+0 -1 5202
+E
+crater~
+The bottom of the crater has run like glass. Nothing natural burns that hot.
+~
+S
+#5237
+A Tall Dwelling~
+   The tallest building left in Thalos, once an inn of some kind. Its back
+wall has been knocked out, opening onto a shack to the east through a second
+broken wall, with boulders and craters between. An old wooden stair climbs
+to a creaking upper floor that sags visibly. The street is west.
+~
+52 d 1
+D1
+~
+~
+0 -1 5238
+D3
+A small side street winds past the dwelling to the west.
+~
+~
+0 -1 5211
+D4
+The stair and the whole upper floor look badly rotted. You would be wise to
+stay off them.
+~
+~
+0 -1 5245
+E
+stair stairs floor~
+The stair is old and the floor above it bows downward in the middle.
+Something heavy walks up there, or used to.
+~
+S
+#5238
+A Small Shack~
+   A cramped shack that must once have been the city's apothecary. Shelves
+and workbenches lie broken, and vials and pouches have spilled their powders
+across the floor in faded colours. Its front door is blocked solid with
+rubble, so the only way out is back west through the broken wall.
+~
+52 d 1
+D3
+~
+~
+0 -1 5237
+E
+vials pouches powders shelves~
+Most of the vials are smashed or empty. The labels that remain are in the
+old script of Thalos, which few in New Thalos can still read.
+~
+S
+#5239
+A Back Alley~
+   A narrow alley running north from Main Street toward the north-east
+watchtower. The walls lean together overhead, and it is darker here than the
+sky allows. A great chorus of howls goes up somewhere ahead and stops all at
+once.
+~
+52 0 1
+D0
+~
+~
+0 -1 5240
+D2
+Main Street runs past the mouth of the alley to the south.
+~
+~
+0 -1 5201
+S
+#5240
+A Back Alley~
+   The alley narrows between two windowless walls. Dark hair is caught on
+the rough stone on either side, and the dust is full of prints that are not
+feet and not hooves. It leads north to the watchtower and south toward Main
+Street.
+~
+52 0 1
+D0
+The north-east watchtower stands a silent vigil to the north.
+~
+~
+0 -1 5241
+D2
+~
+~
+0 -1 5239
+E
+hair prints~
+Long dark hair, like a woman's, caught at shoulder height. The prints
+beneath it have four legs.
+~
+S
+#5241
+Under A Watchtower~
+   You stand beneath the north-east watchtower, the tallest of the four. Its
+stair is gone and only a rickety ladder leads up into it. Alleys run south
+and west. From somewhere close comes the sound of many voices, hungry and
+almost human, whispering to one another.
+~
+52 0 1
+D2
+~
+~
+0 -1 5240
+D3
+~
+~
+0 -1 5243
+D4
+Wind howls high above in the tower. The ladder looks weak, and old.
+~
+~
+0 -1 5248
+S
+#5242
+A Bath House~
+   The public bath house of Thalos, built over a hot spring. Steaming water
+still wells up through a hole in the floor and fills the old pool, and the
+air is thick and warm and smells of rot. Something pale turns slowly in the
+water. The west wall has collapsed into the house next door, and an alley
+lies north.
+~
+52 d 1
+D0
+~
+~
+0 -1 5243
+D3
+The wall has collapsed onto the adjoining house, opening a way west.
+~
+~
+0 -1 5244
+E
+water pool body~
+A body floats in the pool, turning slowly in the current from the spring.
+The heat has taken its skin away. It has been floating here far longer than
+any body should last.
+~
+S
+#5243
+A Back Alley~
+   A narrow alley, damp and warm, where steam rolls out of the bath house to
+the south and beads on the walls. The alley leads west to a side street and
+east to the north-east watchtower.
+~
+52 0 1
+D1
+The north-east watchtower stands a silent vigil to the east.
+~
+~
+0 -1 5241
+D2
+~
+~
+0 -1 5242
+D3
+A side street runs by the end of the alley to the west.
+~
+~
+0 -1 5209
+S
+#5244
+An Upright House~
+   Almost the only house in Thalos still standing whole. The table is laid
+for four, the chairs pushed back, the windows unbroken. Only the east wall
+is gone, smashed through into the bath house, and steam drifts in through
+the hole. The street door is west.
+~
+52 d 1
+D1
+Steam pours through a great hole in the east wall from the bath house
+beyond.
+~
+~
+0 -1 5242
+D3
+A small side street runs past the house to the west.
+~
+~
+0 -1 5210
+E
+table chairs~
+Four places are laid. The bowls are full of dust. The chairs were pushed
+back in a hurry.
+~
+S
+#5245
+On The Second Floor~
+   The moment you step onto this floor you know it was a mistake. The rotten
+boards give way all at once and you plunge through, down onto the jagged
+timbers below. The last thing you hear is the city howling.
+~
+52 bd 1
+S
+#5246
+The North-West Watchtower~
+   You stand atop the north-west watchtower. From here the whole dead city
+lies spread below you, and beyond it the road runs west toward the far
+mountains, the way the darkness came the first time. The stone warden of
+this tower still faces west. A stair leads back down.
+~
+52 0 1
+D5
+The ruined city lies below.
+~
+~
+0 -1 5224
+E
+mountains west road~
+The western road runs straight toward the mountains. The wardens of Thalos
+watched it for a hundred years, and saw it coming, and it made no
+difference.
+~
+S
+#5247
+The South-West Watchtower~
+   You stand atop the south-west watchtower. The western mountains are a
+grey line on the horizon, and to the south the desert stretches away under a
+white sky. The parapet is scored with deep claw marks. A stair leads back
+down into the city.
+~
+52 0 1
+D5
+The ruined city lies below.
+~
+~
+0 -1 5215
+E
+parapet marks claw~
+Something climbed the outside of this tower to reach the top. The claw marks
+go all the way down.
+~
+S
+#5248
+The North-East Watchtower~
+   You stand atop the north-east watchtower, the highest point in Thalos.
+The desert sand runs to the horizon and the wind never stops. The ladder you
+came up looks far worse from above: several rungs are cracked through and
+the uprights are soft with rot.
+~
+52 c 1
+D5
+The city lies below... far, far below.
+~
+~
+0 -1 5249
+E
+ladder rungs~
+Climbing back down that ladder would be a gamble. It is a very long way to
+the street.
+~
+S
+#5249
+Under A Watchtower~
+   As you start down the ladder, the rotten rungs snap one after another and
+you fall, a long way, onto the stones of the street below. Thalos takes one
+more.
+~
+52 bd 1
+S
+#5250
+The Temple Of Thalos~
+   You stand beneath the great dome of the temple of Thalos, once the
+holiest place in the east. Long benches lie toppled and the altar has been
+defiled. Stone has fallen from the roof, and thin shafts of daylight cut
+down through the dust. Old books lie open on the floor. Four archways lead
+out to the garden path: north, east, south and west. Under the dome,
+something watches.
+~
+52 cdh 1
+D0
+The north archway opens onto the garden path and the common quarter beyond.
+~
+~
+0 -1 5204
+D1
+The east archway opens onto the garden path and Main Street.
+~
+~
+0 -1 5203
+D2
+The south archway opens onto the garden path and the old guild quarter.
+~
+~
+0 -1 5206
+D3
+The west archway opens onto the garden path and the market place.
+~
+~
+0 -1 5205
+E
+books book~
+The books are prayer rolls of Thalos, written in the old script. Every page
+has been torn through the middle, very carefully, one at a time.
+~
+E
+altar~
+The altar has been split in two and something has been written across both
+halves in a dark stain. The letters are not any you know, and they are hard
+to look at.
+~
+S
+$

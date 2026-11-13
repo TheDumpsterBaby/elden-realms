@@ -1,0 +1,261 @@
+#3300
+farmer hill~
+a hill farmer~
+A hill farmer trudges by, looking for work that needs doing.
+~
+A tired farmer of Stanneg, grey before his time. His sons went to the wall
+and his fields are too big for him alone.
+~
+cgh 0 500 S
+13 17 9 3d5+118 2d4+2
+142 7760
+8 8 1
+#3301
+storekeeper shopkeeper~
+the storekeeper~
+The storekeeper waits behind half-empty shelves.
+~
+A thin, worried man who sells what the company leaves him. He watches your
+weapons more than your coin.
+~
+b 0 750 S
+17 16 8 3d5+218 2d6+3
+239 28900
+8 8 1
+#3302
+cowgirl warden horsewarden woman~
+the horse-warden~
+A horse-warden stands here, ready to defend her horses.
+~
+A hard-faced woman with a crook and a knife. She has seen off company
+buyers, requisition men and bandits from this corral, and she will see you
+off too.
+~
+blm dst 750 S
+17 16 8 3d5+218 2d6+3
+239 28900
+8 8 2
+#3303
+horse mountain~
+a mountain horse~
+A shaggy mountain horse grazes here.
+~
+A sure-footed hill horse with soft brown eyes. The front wants every one of
+them.
+~
+b 0 250 E
+12 17 9 1d10+95 2d4+0
+0 5760
+8 8 1
+BareHandAttack: 4
+E
+#3304
+farmer's wife woman~
+the farmer's wife~
+A farmer's wife offers you some of her harvest.
+~
+A careworn woman with baskets of roots and fruit. Half of what she grows
+goes to the wall in tithe; she sells the rest and does not smile.
+~
+b 0 500 S
+17 16 8 3d5+218 2d6+3
+239 28900
+8 8 2
+#3305
+aglandiir dragon prince~
+Aglandiir~
+The old dragon Aglandiir lies here, watching you curiously.
+~
+Aglandiir is a prince of his kind and very old. He takes no side in the war
+of the west and wants none; he only keeps what comes up his mountain, and
+burns what tries to leave with it.
+~
+beflnopqr dh 750 E
+20 15 8 1d1+1095 8d5+3
+564 95479
+8 8 1
+BareHandAttack: 8
+Str: 25
+Int: 25
+Wis: 25
+Dex: 25
+Con: 25
+Cha: 16
+E
+#3306
+cyclops giant~
+the cyclops~
+A cyclops crouches here, hefting a rock.
+~
+A one-eyed hill giant that throws rocks at anything on the ledge. With one
+eye it often misses, and it growls each time it does.
+~
+bcflnq 0 -500 E
+16 16 8 3d5+295 2d8+2
+240 24000
+8 8 1
+BareHandAttack: 13
+E
+#3307
+salle woman captain~
+Salle~
+A woman ignores you completely, so intent is she upon her sword.
+~
+Salle, captain of the Three Swords: tawny-skinned and tawny-haired, dressed
+in brown leather, with cold blue eyes that weigh you as a buyer weighs a
+horse. She sells blades and blades-for-hire to the front, and she does not
+ask where either came from.
+~
+bm 0 -600 S
+15 17 9 3d5+200 2d6+3
+195 24000
+8 8 2
+#3308
+duwick man slaver~
+Duwick~
+A truly immense man laughs at you, and draws his knife!
+~
+Duwick, master of the slavers in these caves: seven feet tall and three
+hundred pounds, mostly muscle. He buys and sells refugees off the roads like
+cattle. An ornate scabbard hangs at his side with a silvered knife in it, a
+tiny weapon for such a huge man.
+~
+bm 0 -900 S
+17 16 8 3d5+331 3d6+8
+272 41798
+8 8 1
+#3309
+receptionist clerk~
+the receptionist~
+A receptionist offers you a room.
+~
+A retired farmer keeping the inn's ledger for the company. He would rather
+be keeping sheep.
+~
+b 0 400 S
+14 17 9 3d5+155 2d5+2
+167 10889
+8 8 1
+#3310
+innkeeper keeper~
+the innkeeper~
+An aged innkeeper greets you as you enter.
+~
+An old, grey innkeeper in a thick woollen sweater who let his inn to the
+Three Swords because the alternative was losing it. His eyes take in your
+weapons without much surprise.
+~
+b 0 750 S
+14 17 10 3d5+148 2d6+1
+165 17640
+8 8 1
+#3311
+hunter hill~
+a hill hunter~
+A hill hunter walks the street, bow on his back.
+~
+A hard, weathered man with cold dark eyes. These days he hunts bandits for
+the company's bounty more often than he hunts deer.
+~
+cgm 0 500 S
+14 17 9 3d5+155 2d6+3
+167 17818
+8 8 1
+#3312
+waiter~
+a waiter~
+A waiter rushes by, intent on his business.
+~
+A harried young man running drinks to the company's blades. He does not look
+at you; it is safer not to.
+~
+b 0 0 S
+12 17 10 3d5+95 2d4+0
+123 4896
+8 8 1
+#3313
+waitress~
+a waitress~
+A waitress rushes by, intent on her business.
+~
+A harried young woman carrying drink and stew, who keeps out of reach of the
+company's men.
+~
+b 0 0 S
+12 17 10 3d5+95 2d4+0
+123 4896
+8 8 2
+#3314
+bartender barkeep~
+a bartender~
+A bartender polishes a clean glass here.
+~
+A heavy, quiet man who polishes the same clean glass over and over and hears
+everything said at the tables.
+~
+b 0 200 S
+15 17 10 3d5+180 2d5+2
+190 21000
+8 8 1
+#3315
+bandit slaver~
+a slaver bandit~
+A slaver bandit springs into action at the sight of you.
+~
+A filthy bandit, grimed from head to foot, who preys on the refugees fleeing
+the west. Only his curved sword is clean.
+~
+chjk 0 -500 S
+16 16 8 3d5+195 2d8+3
+213 25000
+8 8 1
+#3316
+bandit guard slaver~
+a bandit guard~
+A bandit guard stands at attention here.
+~
+A dirty, disciplined bandit with a scimitar and a coil of rope. Someone
+keeps these men in line, and it is not by kindness.
+~
+bjk 0 -500 S
+16 16 8 3d5+202 3d6+2
+215 25284
+8 8 1
+#3317
+slave miner worker refugee~
+a chained refugee~
+A chained refugee is digging out a new passage here.
+~
+A thin refugee from the west, chained at the ankles, who looks up at you
+with pleading eyes. He walked a hundred miles to get away from the march and
+ended here.
+~
+bh 0 1000 S
+12 17 10 3d5+102 1d8+2
+0 6000
+8 8 1
+#3318
+farmer hill~
+a hill farmer~
+A hill farmer sits over a cup, looking at nothing.
+~
+A farmer of Stanneg drinking away the evening. He keeps glancing at the
+company's recruiting table.
+~
+bcgh 0 500 S
+13 17 9 3d5+118 2d4+2
+142 7760
+8 8 1
+#3319
+hunter hill~
+a hill hunter~
+A hill hunter drinks alone by the fire.
+~
+A hard, weathered hunter who has just been paid a bounty. He is not
+celebrating.
+~
+bcgm 0 500 S
+14 17 9 3d5+155 2d6+3
+167 17818
+8 8 1
+$

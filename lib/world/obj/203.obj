@@ -1,0 +1,202 @@
+#20300
+plan battle map~
+a bloodstained battle plan~
+A bloodstained battle plan lies here.~
+~
+16 0 1
+0 0 0 0
+1 11 1
+E
+plan battle map~
+Every unit marked, every manoeuvre timed. In the margin, in a shaking hand:
+IT DOES NOT TIRE. IT DOES NOT BREAK. IT DOES NOT DIE.
+~
+#20301
+longsword sword rusted~
+a rusted longsword~
+A rusted longsword lies here.~
+~
+5 0 8193
+0 2 7 3
+8 705 70
+#20302
+mail rusted~
+a coat of rusted mail~
+A coat of rusted mail lies here.~
+~
+9 0 9
+12 0 0 0
+10 705 70
+#20303
+saw ghost bone~
+a cold bone saw~
+A bone saw, cold as ice, lies here.~
+~
+5 0 8193
+0 2 7 3
+8 731 73
+A
+18 2
+#20304
+halberd~
+a sergeant's halberd~
+A long halberd lies here.~
+~
+5 0 8193
+0 3 5 3
+8 757 75
+A
+19 2
+#20305
+shield tower dented~
+a dented tower shield~
+A tall, dented shield lies here.~
+~
+9 0 513
+10 0 0 0
+10 731 73
+#20306
+lance cavalry~
+a broken cavalry lance~
+A broken cavalry lance lies here.~
+~
+5 0 8193
+0 2 7 11
+8 757 75
+#20307
+cloak vulture feather~
+a cloak of vulture feathers~
+A cloak of dark feathers lies here.~
+~
+9 0 1025
+6 0 0 0
+10 757 75
+A
+14 30
+A
+2 1
+#20308
+maul engineer~
+an engineer's maul~
+A heavy wooden maul lies here.~
+~
+5 0 8193
+0 2 7 7
+8 731 73
+#20309
+lens engineer glass~
+an engineer's sighting lens~
+A brass sighting lens lies here.~
+~
+11 0 16385
+0 0 0 0
+2 757 75
+A
+18 3
+A
+3 1
+#20310
+roll company~
+a rotting company roll~
+A rotting company roll lies here.~
+~
+16 0 1
+0 0 0 0
+1 11 1
+E
+roll company names~
+Two hundred names, every one marked DEAD. Some have been marked a second
+time: RISEN.
+~
+#20311
+sword ford~
+the sword of the ford~
+A notched sword with a hilt wrapped in blue cloth lies here.~
+~
+5 0 8193
+0 2 7 3
+8 783 78
+A
+18 2
+A
+19 2
+#20312
+hook pyre~
+a pyre hook~
+A long iron hook black with soot lies here.~
+~
+5 0 8193
+0 2 7 11
+8 783 78
+#20313
+robe skin~
+a robe of stitched skin~
+A robe of stitched human skin lies here.~
+~
+9 0 1025
+6 0 0 0
+10 809 80
+A
+12 50
+A
+24 -3
+#20314
+wand raising bone~
+a wand of finger bones~
+A wand made of finger bones lies here.~
+~
+11 0 16385
+0 0 0 0
+2 809 80
+A
+3 2
+A
+12 30
+#20315
+blade honour~
+an honour guard's blade~
+A fine notched blade lies here.~
+~
+5 0 8193
+0 2 7 3
+8 783 78
+A
+18 1
+#20316
+sword marshal~
+the Marshal's sword~
+A long sword with a gold-wired hilt lies here.~
+~
+5 0 8193
+0 2 7 3
+8 836 83
+A
+18 3
+A
+19 4
+#20317
+plate marshal~
+the Marshal's plate~
+A suit of fine plate, dented and grey, lies here.~
+~
+9 0 9
+13 0 0 0
+10 836 83
+A
+13 40
+A
+5 1
+#20318
+standard royal banner~
+the royal standard~
+A tattered royal standard lies here.~
+~
+8 0 1
+0 0 0 0
+6 2000 200
+E
+standard banner~
+The royal arms, torn and grey. The quartermasters at Midgaard would weep to
+see it brought home.
+~
+$

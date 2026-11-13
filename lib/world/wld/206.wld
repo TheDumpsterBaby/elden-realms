@@ -1,0 +1,487 @@
+#20600
+The Threshold of the Waste~
+   The last grey grass gives out and the ground turns to ash, fine and deep
+as snow. The sky is the colour of slate and the sun is a dull coin behind
+it. There is no sound at all. Every step leaves a print that the wind fills
+in behind you within moments.
+~
+206 0 2
+D1
+~
+~
+0 -1 20524
+D3
+~
+~
+0 -1 20601
+S
+#20601
+The Ash Dunes~
+   Dunes of grey ash roll away to the horizon, rippled by the wind. You sink
+to the ankle with every step. Things are buried in the dunes: the top of a
+wagon wheel, the tip of a spire, a hand reaching up out of the ash, grey and
+perfectly still.
+~
+206 0 2
+D0
+~
+~
+0 -1 20609
+D1
+~
+~
+0 -1 20600
+D2
+~
+~
+0 -1 20602
+D3
+~
+~
+0 -1 20612
+S
+#20602
+The Last Caravan~
+   A caravan of a dozen wagons lies half buried in the ash, its oxen turned
+to grey stone in their traces. The drivers sit on their benches, also stone,
+their faces frozen in the moment they looked west and saw what was coming.
+The cargo has been looted by something with claws.
+~
+206 0 2
+D0
+~
+~
+0 -1 20601
+D3
+~
+~
+0 -1 20603
+E
+drivers stone faces~
+Each face is frozen mid-scream. They looked west, and the Blight looked
+back.
+~
+S
+#20603
+The Camp of the Ash-Eaters~
+   Low shelters of bone and hide crouch in a hollow between dunes. The tribe
+that lives here eats ash, because there is nothing else, and it has changed
+them: grey-skinned, black-eyed, their teeth worn to stumps. They worship the
+thing beneath the dead lake.
+~
+206 0 2
+D1
+~
+~
+0 -1 20602
+D2
+~
+~
+0 -1 20605
+D3
+~
+~
+0 -1 20604
+S
+#20604
+The Ash-Chief's Hut~
+   A hut of whale-sized bones roofed with grey hide. Inside, a fire of bones
+burns without smoke. The ash-chief squats beside it, painted in white ash, a
+necklace of stone fingers around her throat. Offerings for the Wyrm are
+heaped against the walls.
+~
+206 d 0
+D1
+~
+~
+0 -1 20603
+S
+#20605
+The Feeding Pit~
+   A pit dug in the ash where the tribe throws its sacrifices for the Wyrm.
+The bottom is out of sight, and warm air rises from it, smelling of embers.
+Now and then the ash at the bottom heaves, and something vast turns over far
+below.
+~
+206 0 2
+D0
+~
+~
+0 -1 20603
+D5
+~
+~
+0 -1 20606
+S
+#20606
+The Worm Tunnels~
+   A round tunnel bored through packed ash and stone, its walls glazed
+smooth by the heat of whatever made it. It is wide enough for a wagon. The
+air is hot and the walls tremble. Smaller tunnels branch off in every
+direction, and things move in them.
+~
+206 ad 0
+D0
+~
+~
+0 -1 20608
+D3
+~
+~
+0 -1 20607
+D4
+~
+~
+0 -1 20605
+S
+#20607
+The Worm Nest~
+   A cavern full of eggs, each one the size of a man, ribbed and grey and
+warm. Worms the length of a horse coil among them, guarding. The largest,
+its body ringed with plates of fused glass, rears up and opens a mouth lined
+with rows of teeth.
+~
+206 ad 0
+D1
+~
+~
+0 -1 20606
+S
+#20608
+The Glazed Tunnel~
+   The tunnel climbs, its walls glazed to black glass by enormous heat. Your
+own reflection follows you in the walls, distorted. Sometimes the reflection
+does not move when you do. The tunnel climbs out onto the shore of the dead
+lake.
+~
+206 ad 0
+D2
+~
+~
+0 -1 20606
+D4
+~
+~
+0 -1 20615
+S
+#20609
+The Edge of the Stone Forest~
+   A forest stands here, every tree turned to grey stone, every leaf, every
+bird on every branch. The stone trees creak in the wind as though they still
+remember being wood. A deer stands frozen mid-leap in a clearing, and its
+stone eyes follow you.
+~
+206 0 3
+D2
+~
+~
+0 -1 20601
+D3
+~
+~
+0 -1 20610
+S
+#20610
+The Heart of the Stone Forest~
+   In the heart of the petrified forest, a village of woodcutters was caught
+in the moment the Blight passed over it: a woman with a bucket, children
+chasing a dog, a man splitting logs, all grey stone. Their stone faces are
+turned west, and all of them are weeping.
+~
+206 0 3
+D1
+~
+~
+0 -1 20609
+D3
+~
+~
+0 -1 20611
+E
+villagers stone faces weeping~
+Stone tears on stone cheeks. If you touch them, they are wet.
+~
+S
+#20611
+The Grove of Stone Eyes~
+   A grove where the stone trees grow in a ring around a pool of grey water.
+Figures of every kind stand frozen around the pool: soldiers, beasts, a
+knight on horseback. The thing that made them lives in the pool, and it is
+rising, and you must not look at its face.
+~
+206 0 3
+D1
+~
+~
+0 -1 20610
+S
+#20612
+The Glass Plain~
+   The ash gives way to a plain of black glass, fused by some fire so hot it
+melted the earth itself. It stretches for leagues, cracked and jagged. The
+sun glares off it. Shapes are trapped in the glass beneath your feet:
+people, horses, a whole marching column, frozen running.
+~
+206 0 2
+D0
+~
+~
+0 -1 20619
+D1
+~
+~
+0 -1 20601
+D2
+~
+~
+0 -1 20613
+D3
+~
+~
+0 -1 20614
+S
+#20613
+The Storm Flats~
+   A flat plain where the ash storms are born. Pillars of whirling grey ash
+walk across it like giants, crackling with lightning. When one passes close,
+the air is full of stinging grit and voices, the screaming of everyone the
+Blight has burned.
+~
+206 0 2
+D0
+~
+~
+0 -1 20612
+D2
+~
+~
+0 -1 20622
+D3
+~
+~
+0 -1 20615
+S
+#20614
+The Bone Obelisks~
+   A line of obelisks marches across the waste, each one built of fused
+bones and taller than a tower. They mark the road the West's armies march
+east. Grey fire burns at the top of each, and as you pass beneath them, you
+feel them looking down at you.
+~
+206 0 2
+D1
+~
+~
+0 -1 20612
+D2
+~
+~
+0 -1 20615
+D3
+~
+~
+0 -1 20618
+S
+#20615
+The Shore of the Dead Lake~
+   A lake once lay here, wide and blue. Now it is a basin of grey cracked
+mud and salt, ringed by the bleached skeletons of boats. In the centre of
+the basin the ground has collapsed into a vast crater, and a column of black
+smoke rises from it, unmoving in the wind.
+~
+206 0 2
+D0
+~
+~
+0 -1 20614
+D1
+~
+~
+0 -1 20613
+D3
+~
+~
+0 -1 20616
+D5
+~
+~
+0 -1 20608
+S
+#20616
+The Dead Lake Bed~
+   You walk out across the cracked lake bed toward the crater. The heat
+rises through your boots. Bones of fish as big as boats lie half buried in
+the salt. The crater's edge is close now, and you can hear breathing from
+it, slow and vast, like a bellows.
+~
+206 0 2
+D1
+~
+~
+0 -1 20615
+D2
+~
+~
+0 -1 20626
+D5
+~
+~
+0 -1 20617
+S
+#20617
+The Crater of the Ashen Wyrm~
+   You descend into the crater, a pit of glazed rock and hot ash a hundred
+paces across. Coiled in its depths, its body as thick as a tower and grey as
+the waste, lies the Ashen Wyrm. It burned the lake dry when it came, and the
+waste is its breath. One eye opens, as big as a door, burning grey.
+~
+206 0 0
+D4
+~
+~
+0 -1 20616
+S
+#20618
+The Army Road~
+   A road beaten flat by the march of countless feet runs west between the
+obelisks. The ash on it is trodden hard as stone. Ahead, on the horizon,
+rise the black walls and broken towers of a great city, and over it hangs a
+cloud of flies so thick it looks like smoke.
+~
+206 0 2
+D0
+~
+~
+0 -1 20624
+D1
+~
+~
+0 -1 20614
+D2
+~
+~
+0 -1 20625
+D3
+The army road leads west to the black walls of Vel'Morrow.
+~
+~
+0 -1 20700
+S
+#20619
+The Glass Ruins of Sarn~
+   North of the glass plain rise the ruins of Sarn, a city that stood here
+when the waste was farmland. Whatever came out of the West melted it where
+it stood. Towers lean like candles left too near a fire, and the streets are
+rivers of black glass with shapes trapped inside them, people caught in mid-
+stride.
+~
+206 0 2
+D0
+~
+~
+0 -1 20621
+D2
+~
+~
+0 -1 20612
+D3
+~
+~
+0 -1 20620
+S
+#20620
+The Melted Spire~
+   Inside the tallest of Sarn's towers the stairs have run together into a
+smooth glass ramp that spirals up into darkness. The walls are clear as
+water, and through them you see the waste outside bent and wrong. Someone
+still lives here, at the top of the ramp, among books fused into bricks of
+glass.
+~
+206 0 0
+D1
+~
+~
+0 -1 20619
+S
+#20621
+The Dry Wells of Sarn~
+   A square of public wells, every one of them choked with ash. Ropes still
+hang down into them, and when the wind blows the ropes sway as if something
+at the bottom were tugging. Something is.
+~
+206 0 2
+D2
+~
+~
+0 -1 20619
+S
+#20622
+The Bone Dunes~
+   South of the storm flats the wind has heaped the ash into dunes, and the
+dunes are full of bones: cattle, horses, men, whole herds and armies,
+scoured white and stacked by the wind into shapes like waves. Tall things
+stride along the dune crests on stilt-thin legs.
+~
+206 0 2
+D0
+~
+~
+0 -1 20613
+D3
+~
+~
+0 -1 20623
+S
+#20623
+A Half-Buried Shrine~
+   The roof of a shrine pokes out of the ash, and you climb down through a
+broken window into its nave. The god on the altar has had its face chiselled
+off, and a grey sun has been painted in its place. A gaunt man in ash-grey
+rags preaches to an audience of skulls set in rows on the pews.
+~
+206 0 0
+D1
+~
+~
+0 -1 20622
+S
+#20624
+The Pilgrim Cairns~
+   Beside the western road stand hundreds of small cairns, each topped with
+a grey stone. Pilgrims from the east built them on their way west to give
+themselves to the Nu'Groth, and some of them are still walking, grey-robed
+and barefoot, singing one long note.
+~
+206 0 2
+D2
+~
+~
+0 -1 20618
+S
+#20625
+A Scorched Army Camp~
+   Rows of burned tents mark where the last army the east sent west made
+camp. It got this far. The tents are ash, the wagons are iron hoops, and the
+soldiers are still at their posts, black and cracked, their weapons in their
+hands. Some of them turn their heads as you pass.
+~
+206 0 2
+D0
+~
+~
+0 -1 20618
+S
+#20626
+The Salt Caves~
+   Beneath the dry lake bed the old lake left caves of white salt that
+glitter in your light. The air is so dry it cracks your lips. Salt-crusted
+figures stand in the side passages, the dead of the lake, preserved and
+watching.
+~
+206 a 0
+D0
+~
+~
+0 -1 20616
+S
+$

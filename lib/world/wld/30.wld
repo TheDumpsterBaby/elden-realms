@@ -1,0 +1,1382 @@
+#3000
+The Reading Room~
+   A narrow stone room off the temple hall, lined with benches and plain
+wooden desks. Here the priests copy out the rolls of the fallen, name after
+name in small careful letters, and here soldiers come to read the lists
+before they go west. It is very quiet. East lies the temple hall.
+~
+30 cdeh 0
+D1
+You see the Temple of Midgaard.
+~
+~
+0 -1 3001
+S
+#3001
+The Temple Of Midgaard~
+   You stand at the southern end of the great temple hall. The marble walls
+were painted long ago with gods and giants; now they are hung with the
+shields of the fallen, hundreds of them, row above row up into the dark of
+the roof. Wounded soldiers lie on pallets along the walls, and the air
+smells of candle smoke and blood.
+   This is where the dead come back. Those who fall on the march wake here,
+before the altar to the north, cold and weak and alive. The great doors lead
+down the steps to the temple square in the south; the reading room is west,
+and the donation alcove east.
+~
+30 cdeh 0
+D0
+At the northern end of the temple hall is a statue and a huge altar.
+~
+~
+0 -1 3054
+D1
+In the east, you see a small alcove with a rickety wooden sign which
+reads "Midgaard Donation Room."
+~
+~
+0 -1 3063
+D2
+You look down the huge stone steps at the temple square below.
+~
+~
+0 -1 3005
+D3
+You see the Reading Room.
+~
+~
+0 -1 3000
+D5
+You see the temple square.
+~
+~
+0 -1 3005
+S
+#3002
+The Clerics' Inner Sanctum~
+   A small chapel lit by a single lamp, where the clerics of the fort pray
+through the night for the men on the wall. The floor is worn hollow before
+the shrine. A trapdoor in the corner leads down to the cisterns; the clerics
+go down sometimes to bless the water, and come back up pale. The bar lies
+east.
+~
+30 cd 0
+D1
+You see your favorite place, the bar of divination.
+~
+~
+0 -1 3003
+D5
+You can't see what is down there, it is too dark.  Looks like it would be
+impossible to climb back up.
+~
+~
+0 -1 7026
+S
+#3003
+The Bar Of Divination~
+   The clerics' common room, low and smoky, its tables scratched with the
+names of priests who went west with the regiments and did not come back.
+Those who remain drink quietly here and speak of omens: grey birds, bad
+water, dreams of a door. The guild entrance is south, the sanctum west.
+~
+30 cdh 0
+D2
+You see the entrance.
+~
+~
+0 -1 3004
+D3
+You see the inner sanctum.
+~
+~
+0 -1 3002
+E
+sign~
+Scratched into the board above the bar: "Pray for the wall."
+~
+S
+#3004
+The Entrance To The Clerics' Guild~
+   The entrance hall of the clerics' guild, where healers are trained in
+haste and sent to the front with a satchel of bandages and a holy symbol. A
+templar stands guard at the inner door. The temple square is east; the bar
+lies north.
+~
+30 d 0
+D0
+You see the bar, richly decorated with really stylish furniture.
+~
+~
+0 -1 3003
+D1
+You see the Temple Square.
+~
+~
+0 -1 3005
+S
+#3005
+The Temple Square~
+   A broad square of cracked flagstones before the temple steps. The
+fountain in its centre still runs, and soldiers fill their canteens here
+before the march. Carts of the wounded come up from the west gate and unload
+at the steps. The temple rises north; the clerics' guild is west, the
+Grunting Boar east, and the market square lies south.
+~
+30 0 1
+D0
+You see the temple.
+~
+~
+0 -1 3001
+D1
+You see the good old Grunting Boar Inn.
+~
+~
+0 -1 3006
+D2
+You see the Market Square.
+~
+~
+0 -1 3014
+D3
+You see the entrance to the Clerics' Guild.
+~
+~
+0 -1 3004
+S
+#3006
+The Entrance Hall Of The Grunting Boar Inn~
+   The entrance hall of the Grunting Boar, the fort's oldest inn, now half
+barracks. Bedrolls are laid in rows on the floor and kit is hung from every
+beam. The common room is east, the courier office north, and stairs lead up
+to the rooms. The temple square is west.
+~
+30 d 0
+D0
+You see the Midgaard Post Office.
+~
+~
+0 -1 3062
+D1
+Surprise!  You see the bar.
+~
+~
+0 -1 3007
+D3
+You see the temple square.
+~
+~
+0 -1 3005
+D4
+You see the reception.
+~
+~
+0 -1 3008
+S
+#3007
+The Grunting Boar~
+   The common room of the Grunting Boar is loud, crowded and smells of wet
+wool. Off-duty soldiers drink watered ale and play at dice, and nobody talks
+about the west. Someone has carved the names of the regiments into the bar.
+The entrance hall is west.
+~
+30 dh 0
+D3
+You see the exit to the entrance hall.
+~
+~
+0 -1 3006
+E
+sign~
+The board behind the bar reads: "One cup a man. By order of the Lord
+Commander."
+~
+E
+writing carving carvings symbols symbol~
+Regiment names are carved into the bar, many of them struck through with a
+single line: the Ashford Levy, the Riversmeet Foot, the Second of the Wall.
+~
+S
+#3008
+The Reception~
+   A small room at the top of the stairs where the innkeeper keeps the
+ledger of beds. Every bed in the fort is spoken for, but a soldier's coin
+still buys a place. The stairs lead down; the cold-store is north.
+~
+30 d 0
+D0
+You see the Cryogenic Center.
+~
+~
+0 -1 3064
+D5
+You see the entrance hall.
+~
+~
+0 -1 3006
+E
+sign~
+Beds are let by the night. Those who do not come back forfeit their kit to
+the quartermaster.
+~
+S
+#3009
+The Bakery~
+   The ovens here never go cold. The baker turns out hard ration bread by
+the cartload for the regiments, and the whole room is grey with flour and
+heat. Sacks from the Granary Fields are stacked to the ceiling. Main Street
+is south.
+~
+30 dh 0
+D2
+You see the main street.
+~
+~
+0 -1 3013
+E
+sign~
+Ration bread, hardtack and travelling cakes. Ask the baker what is in stock.
+~
+E
+danish pastry~
+There is no time for pastry any more. The baker makes one a week, for the
+Lord Commander.
+~
+S
+#3010
+The General Store~
+   The fort provisioner's store: torches, lanterns, sacks and boxes,
+everything a soldier needs on the march and nothing he wants. Every item is
+stamped with the mark of the garrison. Main Street is south.
+~
+30 dh 0
+D2
+You see the main street.
+~
+~
+0 -1 3015
+E
+note~
+A note pinned to the counter: "No credit to men posted west. Pay first."
+~
+S
+#3011
+The Weapon Shop~
+   The weaponsmith's shop is hung with blades from the Ironworks: plain
+swords, spears, axes and hammers, made fast and made many. A grindstone
+screams in the back room. Main Street is south.
+~
+30 dh 0
+D2
+You see the main street.
+~
+~
+0 -1 3016
+E
+note~
+A note on the wall: "All arms are the property of the fort. Lose it in the
+west, pay for it in the east."
+~
+S
+#3012
+Main Street~
+   The western end of Main Street, where the road from the west gate enters
+the fort. The houses here are shuttered and empty, their owners long fled
+east, and soldiers are billeted in them. The magic shop is north, the mages'
+guild south; the inner west gate lies west and Main Street runs east.
+~
+30 0 1
+D0
+You see the magic shop.
+~
+~
+0 -1 3033
+D1
+You see the main street.
+~
+~
+0 -1 3013
+D2
+You see the entrance to the Guild of Magic Users.
+~
+~
+0 -1 3017
+D3
+You see the city gate.
+~
+~
+0 -1 3040
+S
+#3013
+Main Street~
+   Main Street runs between tall stone houses whose lower windows have been
+bricked up against the day the wall falls. Supply carts grind past toward
+the west gate. The bakery is north and the armoury south; the street runs
+east and west.
+~
+30 0 1
+D0
+You see the bakery.
+~
+~
+0 -1 3009
+D1
+You see the market square.
+~
+~
+0 -1 3014
+D2
+You see the armory.
+~
+~
+0 -1 3020
+D3
+You see the main street.
+~
+~
+0 -1 3012
+S
+#3014
+Market Square~
+   The old market square of Midgaard, where merchants once sold silks and
+spices. Now it is a muster ground, and the stalls sell boots, oil and dried
+meat. A tall statue stands in the centre, hung with black ribbons. The
+temple square is north and the common square south; Main Street runs east
+and west.
+~
+30 0 1
+D0
+You see the temple square.
+~
+~
+0 -1 3005
+D1
+You see the main street.
+~
+~
+0 -1 3015
+D2
+You see the common square.
+~
+~
+0 -1 3025
+D3
+You see the main street.
+~
+~
+0 -1 3013
+E
+statue~
+The statue shows the first Lord Commander of the wall, sword raised toward
+the west. Black ribbons are tied to his blade, one for each regiment lost.
+There are a great many ribbons.
+~
+S
+#3015
+Main Street~
+   Main Street near the market. A crier's post stands here, plastered with
+notices: rations, curfews, names of deserters. The general store is north
+and the kennels south; the street runs east and west.
+~
+30 0 1
+D0
+You see the general store.
+~
+~
+0 -1 3010
+D1
+You see the main street.
+~
+~
+0 -1 3016
+D2
+You see the Pet Shop.
+~
+~
+0 -1 3031
+D3
+You see the market square.
+~
+~
+0 -1 3014
+S
+#3016
+Main Street~
+   The eastern end of Main Street. The road widens toward the east gate, and
+wagons wait in a long line to be unloaded. The weapon shop is north and the
+swordsmen's guild south; the inner east gate lies east.
+~
+30 0 1
+D0
+You see the weapon shop.
+~
+~
+0 -1 3011
+D1
+You see the city gate.
+~
+~
+0 -1 3041
+D2
+You see the swordsmen's guild.
+~
+~
+0 -1 3021
+D3
+You see the main street leading to the market square.
+~
+~
+0 -1 3015
+S
+#3017
+The Entrance To The Mages' Guild~
+   The entrance to the mages' guild, its doors scorched black from an
+accident nobody will explain. The mages of the fort study the West's sorcery
+so they can turn it back, and some of them study it too closely. Main Street
+is north; the guild bar lies south.
+~
+30 d 0
+D0
+You see the main street.
+~
+~
+0 -1 3012
+D2
+You see your favorite place, the Mages' Bar.
+~
+~
+0 -1 3018
+S
+#3018
+The Mages' Bar~
+   A dim room where the guild's mages drink and argue in low voices over
+charts of the march. One wall is covered in drawings of a grey radiance,
+made by an apprentice who has since been locked away. The entrance is north
+and the laboratory east.
+~
+30 cdh 0
+D0
+You see the lobby.
+~
+~
+0 -1 3017
+D1
+You see the laboratory.
+~
+~
+0 -1 3019
+S
+#3019
+The Mages' Laboratory~
+   The laboratory stinks of sulphur and old blood. Jars on the shelves hold
+things brought back from the west: a hand of ash, a grey eye, a moth that
+will not die. A grate in the floor leads down into the cisterns. The bar is
+west.
+~
+30 cd 0
+D3
+You see the bar.
+~
+~
+0 -1 3018
+D5
+You can't see what is down there, it is too dark.  Looks like it would be
+impossible to climb back up.
+~
+~
+0 -1 7017
+S
+#3020
+The Armory~
+   The armourer's shop, hot and loud. Breastplates, mail shirts and shields
+hang in rows, and the dented ones that came back from the west are piled in
+a corner for mending. Some of them still have holes in them. Main Street is
+north.
+~
+30 dh 0
+D0
+You see the main street.
+~
+~
+0 -1 3013
+E
+note~
+A note by the door: "Armour returned from the dead is sold at half price. It
+brought nobody luck the first time."
+~
+S
+#3021
+The Entrance Hall To The Guild Of Swordsmen~
+   The entrance hall of the swordsmen's guild, its walls hung with the arms
+of warriors who held the wall. A knight stands at the inner door. Main
+Street is north; the guild bar lies east.
+~
+30 d 0
+D0
+You see the main street.
+~
+~
+0 -1 3016
+D1
+You see the swordsmen's bar, many noises comes from there.
+~
+~
+0 -1 3022
+S
+#3022
+The Bar Of Swordsmen~
+   The swordsmen's bar is a rough hall of benches and long tables where
+veterans drink, and young warriors listen to them. The talk is all of the
+march: of Ashford burning, of the Fens, of what waits in the hills. The yard
+is south, the hall west.
+~
+30 cdh 0
+D2
+You see the practice yard.
+~
+~
+0 -1 3023
+D3
+You see the entrance hall to the warriors' guild.
+~
+~
+0 -1 3021
+S
+#3023
+The Tournament And Practice Yard~
+   A walled yard of packed earth where the swordsmen drill from dawn to
+dark. Straw men stand in rows, hacked to pieces and stuffed again, and a
+grate in the corner leads down to the cisterns. The bar is north.
+~
+30 cd 0
+D0
+You see the bar.
+~
+~
+0 -1 3022
+D5
+You can't see what is down there, it is too dark.  Looks like it would be
+impossible to climb back up.
+~
+~
+0 -1 7048
+S
+#3024
+The Eastern End Of Poor Alley~
+   Poor Alley ends here in a huddle of lean-tos built from broken carts. The
+poorest of the fort live here: widows, cripples, men too broken for the
+wall. The common square is east, the Grubby Inn south, and the alley runs
+west.
+~
+30 0 1
+D1
+You see the common square.
+~
+~
+0 -1 3025
+D2
+You see the Inn.
+~
+~
+0 -1 3048
+D3
+You see the poor alley.
+~
+~
+0 -1 3044
+S
+#3025
+The Common Square~
+   A small square where the common folk of the fort gather, few as they are
+now. A memorial post stands here, its sides covered with scratched names and
+tied tokens: a child's shoe, a ribbon, a wooden horse. Women come to stand
+by it and say nothing. The market is north, the dump south, Poor Alley west
+and the dark alley east.
+~
+30 0 1
+D0
+You see the market square.
+~
+~
+0 -1 3014
+D1
+You see the dark alley.
+~
+~
+0 -1 3026
+D2
+You see the city dump.
+~
+~
+0 -1 3030
+D3
+You see Poor Alley.
+~
+~
+0 -1 3024
+S
+#3026
+The Dark Alley~
+   A narrow alley in permanent shadow between the backs of tall houses. The
+gutters here run grey, and people who sleep here wake up tired. The thieves'
+guild is south; the common square west and the levee alley east.
+~
+30 0 1
+D1
+The alley continues east.
+~
+~
+0 -1 3045
+D2
+You see the entrance to the thieves' guild.
+~
+~
+0 -1 3027
+D3
+You see the common square.
+~
+~
+0 -1 3025
+E
+guild~
+The sign over the door to the south shows a black glove. Nobody in the fort
+admits to knowing what it means.
+~
+S
+#3027
+The Entrance Hall To The Guild Of Thieves~
+   A bare room with a single door. The fort pretends the thieves' guild does
+not exist, and the guild pretends to be a warehouse; both find the other
+useful when there is smuggling to be done, or a deserter to be found. The
+alley is north and the bar east.
+~
+30 d 0
+D0
+You see the alley.
+~
+~
+0 -1 3026
+D1
+You see the thieves bar, where everything disappears.
+~
+~
+0 -1 3028
+S
+#3028
+The Thieves' Bar~
+   A low cellar bar. Smugglers, cut-purses and quiet men from the Supply
+Road drink here and trade in what the quartermaster does not sell. The
+secret yard is south and the entrance hall west.
+~
+30 cdh 0
+D2
+You see the secret yard.
+~
+~
+0 -1 3029
+D3
+You see the entrance hall to the thieves' guild.
+~
+~
+0 -1 3027
+E
+furniture~
+The tables and chairs are all from the fort stores, still stamped with the
+garrison mark.
+~
+S
+#3029
+The Secret Yard~
+   A walled yard hidden behind the guild, stacked with crates that did not
+come through the east gate. A hatch in the ground leads down into the
+sewers, the smugglers' road under the city. The bar is north.
+~
+30 cd 0
+D0
+You see the bar.
+~
+~
+0 -1 3028
+D5
+You can't see what is down there, it is too dark.  Looks like it would be
+impossible to climb back up.
+~
+~
+0 -1 7043
+S
+#3030
+The Dump~
+   The fort's midden, a reeking pit where broken kit, spoiled meal and worse
+is tipped. Carrion birds pick over it, and the mud at its bottom moves
+slowly when nothing is touching it. A drain leads down into the sewers. The
+common square is north.
+~
+30 c 2
+D0
+You see the common square.
+~
+~
+0 -1 3025
+D5
+You see the sewers.
+~
+grate~
+2 3005 7030
+S
+#3031
+The Pet Shop~
+   The kennels of the fort, where hounds are bred and sold for the march:
+trackers, ratters and great war-mastiffs that can bring down a ghoul. The
+noise is deafening. Main Street is north.
+~
+30 cdh 0
+D0
+You see the main street.
+~
+~
+0 -1 3015
+E
+sign~
+Hounds for the march. Trained, fed and wormed. They will not run.
+~
+S
+#3032
+Pet Shop Store~
+   The back kennels, a row of cages where the dogs wait to be sold. They are
+lean and quiet and watch the door.
+~
+30 dk 0
+S
+#3033
+The Magic Shop~
+   A narrow shop crammed with scrolls, potions and wands, sold to soldiers
+by a war-magus who has been west and come back. Wards are chalked on the
+floor in a circle around his counter. Main Street is south.
+~
+30 dh 0
+D2
+You see the main street.
+~
+~
+0 -1 3012
+S
+#3040
+Inside The West Gate Of Midgaard~
+   You stand inside the great west gate, the only gate in the only wall
+between the West and everything else. The doors are oak bound in iron,
+scarred with old burns, and they are kept shut and barred except to let the
+regiments out and the wounded in. Crossbowmen watch from the towers. Through
+the gate lies the march; Main Street runs east, and the wall road follows
+the wall south.
+~
+30 0 1
+D1
+You see Main Street.
+~
+~
+0 -1 3012
+D2
+You see the road running along the inner side of the city wall.  You notice
+that it is called Wall Road.
+~
+~
+0 -1 3042
+D3
+The city gate is to the west.
+~
+gate~
+1 3112 3052
+E
+gate~
+Oak doors as thick as a man is tall, bound in iron and scored with burns and
+claw marks. Someone has painted on the inside, in letters a foot high:
+NOTHING COMES BACK THROUGH THIS GATE THAT DID NOT LEAVE BY IT.
+~
+E
+bridge footbridge~
+A covered footbridge joins the two gate towers above the doors. Crossbowmen
+pace it day and night.
+~
+E
+tower towers~
+Two squat towers of grey stone flank the gate, their arrow slits facing
+west.
+~
+E
+wall~
+The west wall is forty feet of grey stone, blackened along its face by fire.
+The march begins at its foot.
+~
+S
+#3041
+Inside The East Gate Of Midgaard~
+   The inner side of the east gate, where everything the fort needs comes
+in: grain, iron, men, and the dead to be buried. Clerks with ledgers count
+every cart. Through the gate lie the Supply Road and the support camps; Main
+Street runs west, and the water shop is south.
+~
+30 0 1
+D1
+You see the city gate.
+~
+gate~
+1 3112 3053
+D2
+You see the water shop.
+~
+~
+0 -1 3058
+D3
+You see Main Street.
+~
+~
+0 -1 3016
+E
+gate~
+Heavy doors bound with iron. The east gate is opened at dawn and shut at
+dusk, and never otherwise.
+~
+E
+bridge footbridge~
+A footbridge joins the gate towers high above.
+~
+E
+tower towers~
+The east towers are lit all night, beacons for the supply wagons on the
+road.
+~
+E
+wall~
+Grey stone, tall and well kept. The east wall has never been tested, and
+everybody in the fort prays that it never will be.
+~
+S
+#3042
+Wall Road~
+   The wall road runs along the inside of the west wall, a narrow lane
+between the stone and the backs of the barracks. Stairs climb to the wall
+walk every hundred paces, and sentries call to one another overhead. The
+gate is north; the road continues south.
+~
+30 0 1
+D0
+You see the city gate.
+~
+~
+0 -1 3040
+D2
+The road continues further south.
+~
+~
+0 -1 3043
+E
+wall~
+The inner face of the west wall is covered in scratched tallies: days on the
+wall, men lost, things killed.
+~
+S
+#3043
+Wall Road~
+   A bend in the wall road where Poor Alley runs off east. Someone has
+painted words on the wall in big uneven letters. The road runs north toward
+the gate and south toward the river.
+~
+30 0 1
+D0
+The road continues further north.
+~
+~
+0 -1 3042
+D1
+Poor Alley leads east.
+~
+~
+0 -1 3044
+D2
+The road continues further south.
+~
+~
+0 -1 3047
+E
+wall writing letters~
+Painted in red: "IT IS NOT A WAR. IT IS A TIDE." Someone has tried to scrub
+it off.
+~
+E
+wall~
+The wall is grey stone, high and very old.
+~
+S
+#3044
+Poor Alley~
+   A muddy alley of shacks where the families of soldiers live in two rooms
+to a household. Laundry hangs between the eaves, and children play at
+soldiers in the mud, and lose. The alley runs east; the wall road is west.
+~
+30 0 1
+D1
+The alley leads east.
+~
+~
+0 -1 3024
+D3
+The alley leads west.
+~
+~
+0 -1 3043
+S
+#3045
+The Dark Alley At The Levee~
+   The dark alley ends at the river levee. The air is damp and cold, and the
+smell of the river is rank: the water comes down from the west now. The
+levee lies south, and the alley runs east and west.
+~
+30 0 1
+D1
+The alley leads east.
+~
+~
+0 -1 3046
+D2
+You see the levee.
+~
+~
+0 -1 3049
+D3
+The alley leads west.
+~
+~
+0 -1 3026
+S
+#3046
+The Eastern End Of The Alley~
+   A dead end of the alley, walled in by the back of an old warehouse. Rats
+move along the gutters in a slow grey line. The warehouse is south; the
+alley runs back west.
+~
+30 0 1
+D2
+You see the warehouse.
+~
+~
+0 -1 3050
+D3
+You see the alley.
+~
+~
+0 -1 3045
+S
+#3047
+Wall Road~
+   The southern stretch of the wall road, where the wall comes down to meet
+the river. A watch-fire burns in an iron basket, and the sentries here watch
+the water as much as the west. The road continues north, and a bridge
+crosses the river to the south.
+~
+30 0 1
+D0
+You see the road.
+~
+~
+0 -1 3043
+D2
+You see the bridge.
+~
+~
+0 -1 3051
+E
+wall~
+Where the wall meets the river, iron grates are sunk into the water to stop
+anything coming down it.
+~
+S
+#3048
+Grubby Inn~
+   The Grubby Inn is the worst drinking hole in the fort, and the cheapest.
+The floor is sticky, the ale is brewed from the sweepings of the granary,
+and the landlord asks no questions of deserters. Poor Alley is north.
+~
+30 dh 0
+D0
+You see the alley.
+~
+~
+0 -1 3024
+S
+#3049
+The Levee~
+   A stone levee above the river where the fort's boats are moored. The
+water is dark and slow and smells of rot, and things float down it from the
+west that the ferrymen pull out with hooks and do not talk about. The alley
+is north; the river lies south.
+~
+30 h 1
+D0
+You see the alley.
+~
+~
+0 -1 3045
+D2
+You see the river flowing west.
+~
+~
+0 -1 3203
+S
+#3050
+The Deserted Warehouse~
+   An empty warehouse at the end of the alley, its roof half fallen in. Old
+nets and broken oars lie in heaps, and a boatman sleeps among them. The
+alley is north.
+~
+30 d 0
+D0
+You see the alley.
+~
+~
+0 -1 3046
+S
+#3051
+On The Bridge~
+   A stone bridge crosses the river where the wall meets the water. To the
+north lies the upper fort with its gates and guilds; to the south, the lower
+ward with the garrison headquarters, the parade and the graves. The water
+runs dark beneath you.
+~
+30 0 1
+D0
+You see the road.
+~
+~
+0 -1 3047
+D2
+You see the Concourse.
+~
+~
+0 -1 3100
+E
+bridge~
+An old stone bridge, its parapet chipped by arrows from some siege before
+anyone now living was born.
+~
+E
+opening~
+Under the bridge the river runs into an iron grate set in the wall.
+~
+E
+wall~
+The west wall comes right down into the river here.
+~
+S
+#3052
+Outside The West Gate Of Midgaard~
+   You stand outside Midgaard's west gate, between two squat towers joined
+by a footbridge high above the heavy wooden doors. Soldiers on the wall
+watch the west without blinking. Beyond the gate the road runs out into the
+Burned Marches, a grey country of ash and blackened stubble that was
+farmland a year ago. This is where the war begins.
+~
+30 0 1
+D1
+The city gate is to the east.
+~
+gate~
+1 3112 3040
+D3
+The west road runs out into the Burned Marches.
+~
+~
+0 -1 20000
+E
+gate~
+The west gate is shut and barred from the inside. Its outer face is gouged
+with claw marks and blackened with fire.
+~
+E
+bridge footbridge~
+Crossbowmen on the footbridge between the towers watch you, and the road
+behind you.
+~
+E
+tower towers~
+Two squat towers of grey stone, their faces scorched, their arrow slits
+facing west.
+~
+E
+wall~
+Forty feet of grey stone, blackened by fire. Bodies hang from the
+battlements as a warning to the West, which has never cared.
+~
+S
+#3053
+Outside The East Gate Of Midgaard~
+   You stand outside Midgaard's east gate, where the fort turns its back on
+the war and faces the lands that feed it. The gate towers are lit day and
+night, and soldiers count every wagon that passes. The Supply Road runs east
+between deep ruts, a muddy lane leads north toward the Granary Fields, and
+the clang of hammers drifts up from the Ironworks to the south.
+~
+30 0 1
+D3
+You see the city gate.
+~
+gate~
+1 3112 3041
+D0
+A muddy lane leads north toward the Granary Fields.
+~
+~
+0 -1 6000
+D1
+The Supply Road runs east into the countryside.
+~
+~
+0 -1 5000
+D2
+A cinder road leads south toward the Ironworks.
+~
+~
+0 -1 6200
+E
+gate~
+The east gate stands open by day. Clerks at a table beside it count every
+wagon.
+~
+E
+bridge footbridge~
+A footbridge joins the gate towers high above.
+~
+E
+tower towers~
+The east towers burn beacons all night for the supply wagons.
+~
+E
+wall~
+Grey stone, tall and well kept.
+~
+S
+#3054
+By The Temple Altar~
+   You stand before the great altar at the north end of the temple hall.
+This is where the fallen wake: one moment dead in the west, the next lying
+on the cold stone here, gasping, while the priests of the last breath kneel
+over them. Behind the altar a statue of the old god holds out empty hands.
+The hall is south; a passage east leads out to the Hospice of the Last
+Rites, and the way behind the altar is north.
+~
+30 de 0
+D0
+You see the vast Midgaard countryside.
+~
+~
+0 -1 3059
+D2
+You see the southern end of the temple.
+~
+~
+0 -1 3001
+D1
+An arched passage leads east to the Hospice of the Last Rites.
+~
+~
+0 -1 6300
+E
+altar~
+A great slab of white marble, worn smooth by the bodies of the returned. The
+stone is always cold.
+~
+E
+statue odin king god~
+An old god in a crown, holding out empty hands. The priests say he gives
+back what the West takes, at a price. Every soldier in the fort has touched
+his feet before going west.
+~
+S
+#3055
+Odin's Store~
+   A sealed storeroom behind the temple where the priests keep what the dead
+leave behind.
+~
+30 dj 0
+S
+#3058
+Ye Olde Water Shoppe~
+   The fort's water-seller works from a cool stone room by the east gate,
+selling clean water from the deep wells to soldiers bound west. The water of
+the river and the cisterns is not to be trusted any more. The gate is north.
+~
+30 dh 0
+D0
+You see the East Gate.
+~
+~
+0 -1 3041
+S
+#3059
+Behind The Temple Altar~
+   A narrow passage behind the altar where the priests keep their lamps and
+oils. A door at the north end opens onto the muster field behind the temple.
+The altar is south.
+~
+30 0 1
+D0
+You see the lush, green countryside of Midgaard.
+~
+~
+0 -1 3060
+D2
+You see the Temple Altar.
+~
+~
+0 -1 3054
+S
+#3060
+The Muster Field~
+   A wide field behind the temple, trampled to mud by drilling feet.
+Regiments form up here before they march to the west gate, and the field is
+ringed with stakes hung with banners. The temple lies south; the field runs
+north.
+~
+30 0 1
+D0
+You see more of the path through the Great Field.
+~
+~
+0 -1 3061
+D2
+You see the path which goes back to Midgaard.
+~
+~
+0 -1 3059
+S
+#3061
+The Muster Field~
+   The middle of the muster field. A recruiting sergeant's table stands here
+under an awning, and a line of ragged young men and women waits in front of
+it. East, a gate in the palisade opens onto the Recruit Yards; west, a dirt
+path leads to the gallows. The field runs north and south.
+~
+30 c 1
+D0
+The path continues northwards bringing you ever closer to the Dragonhelm
+Mountains.
+~
+~
+0 -1 3065
+D1
+There is a strange structure to the east on the edge of the trail.
+~
+~
+0 -1 18600
+D2
+You see more of the Field.
+~
+~
+0 -1 3060
+D3
+There is a strange path leading towards a rusty gate to the west.
+~
+~
+0 -1 3066
+S
+#3062
+The Post Office~
+   The courier office, where letters from the front are sorted and carried
+east. Many letters come back unopened, and they are kept in a box by the
+door that nobody likes to look at. The entrance hall is south.
+~
+30 deh 1
+D2
+You see the entrance to the Grunting Boar Inn and Tavern.
+~
+~
+0 -1 3006
+E
+sign~
+Letters east carried weekly. Letters west carried when the road is open.
+~
+E
+letters envelopes assorted~
+Bundles of letters wait to be carried. A great many are addressed to
+Ashford, which no longer exists.
+~
+E
+cobwebs~
+Grey cobwebs in the corners. They are thicker than they should be.
+~
+E
+crates opened large~
+Crates of letters that could not be delivered, because there was nobody left
+to deliver them to.
+~
+E
+WANTED posters poster wall~
+WANTED: deserters from the Second of the Wall. Reward on return, alive or
+not.
+~
+S
+#3063
+The Midgaard Donation Room~
+   A small alcove off the temple where those who have more than they need
+leave it for those going west. Soldiers coming back leave the kit of friends
+who did not. The temple hall is west.
+~
+30 cde 1
+D3
+The busy temple is back west.
+~
+~
+0 -1 3001
+S
+#3064
+The Cryogenic Center~
+   A cold room beneath the inn where those who must leave the fort for a
+long time may sleep in ice until they are needed. The cryogenicist keeps the
+sleepers' names in a long ledger. The stairs lead south.
+~
+30 d 1
+D2
+The Reception is to the south.
+~
+~
+0 -1 3008
+S
+#3065
+The Muster Field~
+   The northern end of the muster field, where the ground rises to a
+palisade of sharpened stakes. Beyond it the old north road is gone: the
+bridge over the gorge was pulled down when the war began, so that the only
+road west is the one through the gate. The field runs south.
+~
+30 0 2
+D0
+The palisade, and beyond it the gorge where the north bridge used to be.
+~
+~
+0 -1 -1
+D2
+The muster field runs south toward the temple.
+~
+~
+0 -1 3061
+E
+palisade stakes gorge bridge~
+The broken stumps of the north bridge stand on either side of a deep gorge.
+It was torn down on the Lord Commander's orders, to give the West only one
+door.
+~
+S
+#3066
+The Gallows Path~
+   A dirt path at the edge of the muster field ends at a gallows of black
+timber. Deserters hang here, and the occasional spy from the West: they are
+not hard to tell, because the spies do not rot. The field is east.
+~
+30 0 2
+D1
+The path meets up with a larger path just to the east.
+~
+~
+0 -1 3061
+S
+$

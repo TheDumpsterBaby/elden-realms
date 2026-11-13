@@ -1,0 +1,45 @@
+#201
+Claude~
+The Hollow Wood~
+20100 20199 20 2
+M 0 20100 1 20101	quiet_stalker
+M 0 20101 2 20102	hollow_forester
+E 1 20100 80 16	forester_axe
+M 0 20101 1 20103	hollow_forester
+E 1 20100 80 16	forester_axe
+M 0 20102 3 20104	sap_crawler
+M 0 20103 1 20105	thornback_boar
+G 1 20101 40	boar_tusk
+M 0 20104 3 20106	hollow_deer
+M 0 20104 2 20107	hollow_deer
+M 0 20105 1 20108	moss_lurker
+M 0 20106 3 20109	greyweb_spider
+M 0 20107 1 20110	brood_mother
+G 1 20102 100	spider_silk_cloak
+M 0 20106 2 20110	greyweb_spider
+M 0 20100 1 20111	quiet_stalker
+M 0 20108 1 20112	bone_keeper
+G 1 20103 100	bone_spiral_charm
+M 0 20109 1 20113	stream_wight
+M 0 20101 2 20114	hollow_forester
+E 1 20100 80 16	forester_axe
+M 0 20110 1 20115	mad_forester
+E 1 20104 100 16	carving_knife
+G 1 20105 100	wooden_figure
+M 0 20105 1 20116	moss_lurker
+M 0 20111 2 20117	grey_owl
+M 0 20112 1 20118	elder_owl
+G 1 20106 100	owl_feather_cap
+M 0 20103 1 20119	thornback_boar
+G 1 20101 40	boar_tusk
+M 0 20100 1 20119	quiet_stalker
+M 0 20113 1 20120	heartwood_sentinel
+M 0 20114 3 20121	thornling
+M 0 20115 1 20122	grey_dryad
+G 1 20107 100	dryad_tear
+M 0 20116 1 20123	antlered_hollow
+E 1 20108 100 6	antler_crown
+G 1 20109 100	heartwood_staff
+M 0 20104 1 20124	hollow_deer
+S
+$

@@ -1,0 +1,439 @@
+#20800
+The Road of Open Graves~
+   The road from Vel'Morrow runs west between graves, rows upon rows of them
+on both sides, every one dug open from beneath. Their headstones lean like
+bad teeth. The names on them are in a hundred languages, from a hundred
+kingdoms the West has swallowed.
+~
+208 0 4
+D1
+~
+~
+0 -1 20718
+D3
+~
+~
+0 -1 20801
+S
+#20801
+The Sea of Graves~
+   Graves cover the grey hills from horizon to horizon like the waves of a
+frozen sea. Here and there a skeletal hand reaches from the earth, or a
+skull turns to follow you. Wind moans over the stones. You could walk for
+days and never see the end of them.
+~
+208 0 4
+D0
+~
+~
+0 -1 20802
+D1
+~
+~
+0 -1 20800
+D2
+~
+~
+0 -1 20805
+D3
+~
+~
+0 -1 20807
+S
+#20802
+The Row of Mausoleums~
+   A row of great stone tombs for the kings and generals of fallen realms,
+each one carved with its owner's deeds. The doors have been broken outward.
+Their occupants have been raised to lead the West's legions, and they took
+their grave goods with them.
+~
+208 0 4
+D0
+~
+~
+0 -1 20803
+D2
+~
+~
+0 -1 20801
+D3
+~
+~
+0 -1 20804
+S
+#20803
+The Tomb of a Forgotten King~
+   The largest mausoleum, its walls painted with a kingdom that no one
+remembers: blue rivers, white cities, a king with a sun on his shield. The
+king himself sits on his sarcophagus, risen and armoured, waiting for the
+Gravelord's command to ride east.
+~
+208 ad 0
+D0
+~
+~
+0 -1 20824
+D2
+~
+~
+0 -1 20802
+S
+#20804
+The Charnel House~
+   A long stone hall where bodies are sorted. Grey servants strip the dead
+on long tables: the good bones to the legions, the broken ones to the mill,
+the flesh to the hounds. The work never stops. The piles never shrink.
+~
+208 d 0
+D1
+~
+~
+0 -1 20802
+S
+#20805
+The Bone Mill~
+   A great mill turned by hollowed slaves walking a wheel, its stones
+grinding bones to grey powder. The powder is packed into moulds and fired
+into the blocks that build the obelisks of the army road. The noise is a
+constant grinding crunch.
+~
+208 d 0
+D0
+~
+~
+0 -1 20801
+D2
+~
+~
+0 -1 20806
+S
+#20806
+The Bone Pits~
+   Pits as wide as lakes are filled with bones awaiting the mill. They shift
+and slide and settle, and in places they have begun to assemble themselves,
+skull to spine to rib, into things that were never alive in any shape.
+~
+208 0 2
+D0
+~
+~
+0 -1 20805
+D2
+~
+~
+0 -1 20817
+S
+#20807
+The Muster Field~
+   A vast flat field where the risen legions stand in ranks, rank after rank
+of skeletons in rusting armour, utterly still, waiting. There are tens of
+thousands of them. When the order comes, they will march east, and nothing
+the living have can stop them.
+~
+208 0 2
+D1
+~
+~
+0 -1 20801
+D2
+~
+~
+0 -1 20808
+D3
+~
+~
+0 -1 20809
+S
+#20808
+The Titan's Hollow~
+   A great hollow between hills where the bones of giants have been
+assembled into a titan taller than a tower, still being built. Grey servants
+climb over it on ladders, binding bones with wire and black rope. Its skull,
+a giant's skull as big as a house, turns toward you.
+~
+208 0 4
+D0
+~
+~
+0 -1 20807
+D2
+~
+~
+0 -1 20819
+S
+#20809
+The Gate of the Necropolis~
+   At the heart of the Bone Fields stands a city built entirely of bone:
+walls of femurs, towers of skulls, gates of ribcages. Grey fire burns in
+every empty eye socket. Two dread knights on skeletal horses guard the gate.
+~
+208 0 1
+D0
+A path skirts the bone walls and climbs toward the broken mountains.
+~
+~
+0 -1 20816
+D1
+~
+~
+0 -1 20807
+D3
+~
+~
+0 -1 20810
+S
+#20810
+The Street of Skulls~
+   A street paved with skulls, set close like cobbles, every one grinning up
+at you. The buildings on either side are built of long bones, roofed with
+shoulder blades. Bone-weavers sit in the doorways, working bones into new
+shapes with their hands.
+~
+208 0 1
+D0
+~
+~
+0 -1 20811
+D1
+~
+~
+0 -1 20809
+D3
+~
+~
+0 -1 20812
+S
+#20811
+The Hall of Weavers~
+   A great hall where the bone-weavers practice their art, making servants,
+beasts and engines from the dead. Works hang half finished from the rafters.
+At the centre, the Matron of the Weavers is shaping something huge out of
+the bones of a dragon.
+~
+208 d 0
+D0
+~
+~
+0 -1 20825
+D2
+~
+~
+0 -1 20810
+S
+#20812
+The Temple of Bones~
+   A temple whose pillars are spines and whose dome is a single colossal
+skull. Rows of skeletal priests kneel before an altar on which a grey flame
+burns. A stair behind the altar descends into the catacombs beneath the
+city.
+~
+208 d 0
+D1
+~
+~
+0 -1 20810
+D3
+~
+~
+0 -1 20814
+D5
+~
+~
+0 -1 20813
+S
+#20813
+The Deep Catacombs~
+   Tunnels lined with bones run beneath the necropolis in every direction,
+deeper than anyone has mapped. The dead here are the oldest, from before the
+first kingdoms of men. They are restless, and they whisper in languages that
+died with them.
+~
+208 ad 0
+D0
+~
+~
+0 -1 20820
+D4
+~
+~
+0 -1 20812
+S
+#20814
+Before the Sanctum~
+   A door of fused black bone, carved with the face of the Gravelord, bars
+the way to his sanctum. Before it stand his honour guard, the risen
+champions of a dozen fallen realms, each in the armour they died in.
+~
+208 d 0
+D1
+~
+~
+0 -1 20812
+D3
+A door of black bone carved with a skull-faced king.
+~
+door bone~
+1 -1 20815
+S
+#20815
+The Gravelord's Sanctum~
+   A round chamber at the heart of the necropolis, its walls lined with the
+crowns of every king the West has buried. In its centre, on a throne of
+skulls, sits the Gravelord, who raises the West's armies from the dead. He
+was the first mortal to bow to Nu'Groth, and he has been dead for longer
+than Midgaard has stood.
+~
+208 d 0
+D1
+~
+door bone~
+1 -1 20814
+S
+#20816
+The Western Barrow-Lands~
+   Beyond the necropolis the graves thin out at last, and the land rises
+toward a wall of broken mountains, their peaks split and jagged against the
+dark sky. A path climbs toward a great gate cut into the rock, and from it
+comes the distant ring of hammers.
+~
+208 0 4
+D0
+~
+~
+0 -1 20822
+D2
+~
+~
+0 -1 20809
+D3
+A path climbs west into the Shattered Peaks.
+~
+~
+0 -1 20900
+S
+#20817
+The Ossuary Cliffs~
+   South of the bone pits the land drops away in white cliffs made entirely
+of packed bone, ground fine and set hard as chalk by centuries of rain. The
+cliff face is riddled with holes, and great bald vultures sit in them,
+watching the mill.
+~
+208 0 4
+D0
+~
+~
+0 -1 20806
+D3
+~
+~
+0 -1 20818
+S
+#20818
+The Caves of Teeth~
+   A cave cut into the bone cliffs, its walls studded with teeth, millions
+of them, pressed into the bone in spiralling patterns. Someone is still
+adding to them: a thin grey figure crouches at the back of the cave with a
+sack, setting them one by one.
+~
+208 a 0
+D1
+~
+~
+0 -1 20817
+S
+#20819
+The Graves of Giants~
+   Beyond the titan's hollow lie the graves of the giants who fought for the
+east in the first war, each mound a hundred paces long. The mounds have
+split open. Rib cages like the frames of ships stand out of the earth, and
+some of them are breathing.
+~
+208 0 4
+D0
+~
+~
+0 -1 20808
+S
+#20820
+The Deep Catacombs~
+   The catacombs go down and down beneath the temple, older with every
+level, until the niches hold bones too large or too strange to have been
+men. Ghasts squat in the niches, gnawing, and the stench of them is a
+physical thing.
+~
+208 a 0
+D0
+~
+~
+0 -1 20821
+D2
+~
+~
+0 -1 20813
+S
+#20821
+The Hall of Forgotten Kings~
+   A long hall of thrones, each with a crowned skeleton seated on it, kings
+of kingdoms nobody remembers, all of them taken by the West in ages past. At
+the end of the hall the oldest king rises from his throne, and his crown is
+the only thing about him that is not dust.
+~
+208 0 0
+D2
+~
+~
+0 -1 20820
+S
+#20822
+The Tower of Skulls~
+   A tower built of skulls mortared with grave-dirt stands on the western
+hills, every skull facing east. Inside, a stair of thighbones spirals up
+past niches where skeletal sentinels stand guard.
+~
+208 0 0
+D2
+~
+~
+0 -1 20816
+D4
+~
+~
+0 -1 20823
+S
+#20823
+Atop the Tower of Skulls~
+   The top of the tower is a ring of skulls open to the sky. From here the
+necromancer who raises the bone armies looks east over the fields, counting
+her soldiers. There are a very great many of them.
+~
+208 0 0
+D5
+~
+~
+0 -1 20822
+S
+#20824
+The Tomb Treasury~
+   Behind the risen king's tomb lies the treasure he was buried with: gold,
+jewels, the arms of his bodyguard. He has no use for it now, but the thing
+that guards it does not know that.
+~
+208 0 0
+D2
+~
+~
+0 -1 20803
+S
+#20825
+The Bone-Silk Loft~
+   Above the weavers' hall, a loft hung with sheets of white silk spun from
+ground bone. Spiders the size of dogs work the silk, and things wrapped in
+it hang from the rafters, some of them still moving.
+~
+208 0 0
+D2
+~
+~
+0 -1 20811
+S
+$

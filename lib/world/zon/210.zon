@@ -1,0 +1,52 @@
+#210
+Claude~
+The Drowned Kingdom~
+21000 21099 20 2
+M 0 21000 2 21000	black_crab
+M 0 21001 2 21001	black_eel
+M 0 21002 2 21002	drowned_sailor
+E 1 21000 70 16	barnacled_cutlass
+M 0 21003 1 21003	galley_captain
+E 1 21001 100 16	captains_rapier
+G 1 21002 100	admiral_coat
+M 0 21002 1 21003	drowned_sailor
+E 1 21000 70 16	barnacled_cutlass
+M 0 21004 1 21004	abyssal_jelly
+M 0 21005 3 21005	drowned_citizen
+M 0 21005 2 21006	drowned_citizen
+M 0 21006 2 21006	grey_shark
+M 0 21007 2 21007	tide_priest
+E 1 21003 100 16	coral_trident
+M 0 21008 1 21008	grey_kraken
+G 1 21004 100	kraken_beak
+M 0 21009 2 21009	abyssal_knight
+E 1 21005 80 16	coral_lance
+E 1 21006 25 5	coral_plate
+M 0 21009 2 21010	abyssal_knight
+E 1 21005 80 16	coral_lance
+E 1 21006 25 5	coral_plate
+M 0 21010 3 21011	drowned_courtier
+M 0 21011 1 21011	drowned_chancellor
+G 1 21007 100	dissolving_scroll
+M 0 21012 2 21012	drowned_monarch
+G 1 21008 30	pearl_circlet
+M 0 21013 1 21013	pearl_guardian
+M 0 21014 1 21014	queen_beneath
+E 1 21009 100 6	pearl_crown
+E 1 21010 100 16	tide_scepter
+G 1 21015 100	black_pearl
+M 0 21001 1 21015	black_eel
+M 0 21015 3 21016	drowned_marine
+E 1 21012 15 16	drowned_cutlass
+M 0 21016 1 21017	drowned_admiral
+G 1 21013 100	admiral_spyglass
+M 0 21017 1 21018	ink_horror
+G 1 21014 40	waterlogged_tome
+M 0 21018 2 21019	deep_angler
+M 0 21019 2 21020	drowned_handmaiden
+M 0 21020 3 21021	kelp_strangler
+M 0 21021 1 21022	pearl_leviathan
+G 1 21015 100	black_pearl
+M 0 21022 2 21023	bone_eels
+S
+$

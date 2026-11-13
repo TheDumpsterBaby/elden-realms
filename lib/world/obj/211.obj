@@ -1,0 +1,122 @@
+#21100
+sword silver paladin~
+a paladin's silver sword~
+A silver sword, tarnished and wrapped in vines, lies here.~
+~
+5 i 8193
+0 4 5 3
+8 2109 210
+A
+18 5
+A
+19 4
+#21101
+plate pierced silver~
+pierced silver plate~
+A suit of silver plate, holed by branches, lies here.~
+~
+9 0 9
+19 0 0 0
+10 2109 210
+A
+13 50
+A
+24 -3
+#21102
+crown thorn~
+a crown of black thorns~
+A crown of black thorns lies here.~
+~
+9 0 17
+11 0 0 0
+10 2109 210
+A
+1 2
+A
+19 3
+#21103
+seed mother~
+a seed of the Weeping Mother~
+A seed the size of a fist, warm and faintly pulsing, lies here.~
+~
+11 0 5
+0 0 0 0
+2 2189 218
+A
+13 60
+A
+5 2
+A
+4 2
+#21104
+bow heartwood~
+a bow of weeping heartwood~
+A pale bow that drips sap like tears lies here.~
+~
+5 0 8193
+0 4 6 11
+8 2189 218
+A
+18 6
+A
+19 5
+#21105
+scythe orchard~
+the orchard keeper's scythe~
+A long scythe with a bark handle lies here.~
+~
+5 0 8193
+0 4 6 3
+8 2031 203
+A
+19 4
+#21106
+banner paladin rotting~
+a paladin's rotting banner~
+A paladin's rotting banner hangs from a branch.~
+~
+8 0 1
+0 0 0 0
+2 6000 600
+E
+banner~
+A silver sword on blue, the arms of the knight who hangs in the glade. Bring
+it east and someone in Midgaard will weep for it.
+~
+#21107
+veil wedding white~
+a white wedding veil~
+A white wedding veil lies here, wet with tears.~
+~
+11 0 1025
+0 0 0 0
+2 2109 210
+A
+4 2
+A
+12 50
+A
+24 -3
+#21108
+shield heartwood~
+a heartwood shield~
+A shield of living heartwood lies here, faintly pulsing.~
+~
+9 0 513
+15 0 0 0
+10 2149 214
+A
+13 40
+#21109
+silk cocoon cloak~
+a cloak of cocoon silk~
+A grey cloak of cocoon silk lies here.~
+~
+9 0 1025
+9 0 0 0
+10 2070 207
+A
+13 30
+A
+24 -2
+$

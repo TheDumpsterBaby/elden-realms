@@ -1,0 +1,197 @@
+#20700
+syringe grey~
+a syringe of grey fluid~
+A brass syringe of grey fluid lies here.~
+~
+5 0 8193
+0 3 6 11
+8 1313 131
+#20701
+mask beaked~
+a beaked plague mask~
+A beaked leather mask lies here.~
+~
+9 0 17
+9 0 0 0
+10 1313 131
+A
+20 -4
+A
+5 1
+#20702
+jar grain~
+a jar of whispering grain~
+A jar of grey grain lies here, whispering.~
+~
+8 0 1
+0 0 0 0
+2 50 5
+#20703
+needle tailor bone~
+the Flesh Tailor's bone needle~
+A bone needle as long as a dagger lies here.~
+~
+5 0 8193
+0 3 6 11
+8 1379 137
+A
+18 4
+A
+2 1
+#20704
+gloves stitched~
+a pair of stitched gloves~
+A pair of finely stitched gloves lies here. You try not to think about what they are made of.~
+~
+9 0 129
+6 0 0 0
+10 1379 137
+A
+2 2
+A
+18 2
+#20705
+flail zealot~
+a zealot's flail~
+A spiked flail lies here.~
+~
+5 0 8193
+0 3 6 5
+8 1313 131
+#20706
+staff spiral~
+the spiral staff~
+A staff topped with a grey stone spiral lies here.~
+~
+5 0 8193
+0 3 7 5
+8 1413 141
+A
+12 60
+A
+4 2
+A
+19 3
+#20707
+mitre bishop~
+a grey bishop's mitre~
+A tall grey mitre lies here.~
+~
+9 0 17
+9 0 0 0
+10 1379 137
+A
+24 -4
+A
+12 40
+#20708
+tail rat whip~
+a whip made from the rat lord's tail~
+A long, scaly whip lies here.~
+~
+5 0 8193
+0 3 6 2
+8 1346 134
+A
+19 3
+#20709
+rapier~
+a noble's rapier~
+A slender rapier with a jewelled guard lies here.~
+~
+5 0 8193
+0 3 6 11
+8 1313 131
+#20710
+blade plague~
+a plague knight's blade~
+A sword crusted with grey lies here.~
+~
+5 0 8193
+0 3 6 3
+8 1379 137
+A
+18 2
+#20711
+plate swollen~
+stretched plate armour~
+A suit of plate, warped as if something inside it swelled, lies here.~
+~
+9 0 9
+16 0 0 0
+10 1379 137
+#20712
+crown ducal~
+the ducal crown of Vel'Morrow~
+A crown of tarnished gold, sticky with something, lies here.~
+~
+9 0 17
+10 0 0 0
+10 1447 144
+A
+13 60
+A
+6 2
+A
+24 -3
+#20713
+mantle fly~
+a mantle of iridescent wings~
+A mantle woven from thousands of fly wings lies here, shimmering.~
+~
+9 0 1025
+8 0 0 0
+10 1447 144
+A
+2 2
+A
+14 50
+A
+20 -3
+#20714
+rosary mera~
+Saint Mera's rosary~
+A rosary of small grey beads lies here.~
+~
+11 0 5
+0 0 0 0
+2 1379 137
+A
+4 2
+A
+13 20
+#20715
+bloom grey flower~
+a grey bloom~
+A pale grey flower lies here, still breathing.~
+~
+11 0 16385
+0 0 0 0
+2 1346 134
+A
+12 25
+#20716
+bell cracked handbell~
+a cracked handbell~
+A cracked iron handbell lies here.~
+~
+11 0 16385
+0 0 0 0
+2 1313 131
+A
+12 30
+A
+6 -1
+#20717
+mask plague beaked~
+a beaked plague mask~
+A beaked leather plague mask lies here.~
+~
+9 0 17
+9 0 0 0
+10 1346 134
+A
+20 -2
+A
+13 15
+$

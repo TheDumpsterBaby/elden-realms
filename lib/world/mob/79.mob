@@ -1,0 +1,41 @@
+#7900
+redferne paladin knight captain grand~
+Redferne, the old paladin-captain~
+Redferne, the old paladin-captain of the wall, stands here in silvered armour.
+~
+A huge old man in silvered plate with a red rose on his shield, white-haired
+and badly scarred, who held the wall at Midgaard for thirty years. He cannot
+march any more, but he keeps his armour on, and he still stands ready to
+help anyone who needs it.
+~
+abcilno dhk 1000 S
+24 14 7 10d8+517 2d6+15
+522 57935
+8 8 1
+#7901
+rat large~
+the large rat~
+A large rat is here, gnawing through the stores.
+~
+A rat two feet long with claws like fingers, come up from the cisterns of
+the Lower Ward. Its eyes are a little too pale.
+~
+bf k -800 S
+16 16 8 1d10+181 2d6+2
+208 23111
+8 8 0
+#7902
+cleaver thing creature~
+the Cleaver~
+The Cleaver crouches here, watching you hungrily.
+~
+A huge spidery thing from the march, with four long arms that end in
+cleaver-like talons. Redferne caught it on his last patrol. Sometimes, at
+night, it speaks in his dead son's voice, and so he cannot bring himself to
+kill it.
+~
+efglnopqr dhkp 0 S
+21 15 8 5d8+353 3d9+7
+374 32507
+8 8 0
+$

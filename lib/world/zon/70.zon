@@ -1,0 +1,41 @@
+#70
+None.~
+The Cisterns Under Midgaard~
+7000 7099 15 2
+*
+* Mobiles
+M 0 7001 9 7041         The Mean Bat
+M 0 7001 9 7025         The Mean Bat
+M 0 7001 9 7004         The Mean Bat
+M 0 7001 9 7004         The Mean Bat
+M 0 7002 3 7049         The Sewer Rat
+M 0 7002 3 7031         The Sewer Rat
+M 0 7003 8 7039         The Small Hairy Spider
+M 0 7003 8 7039         The Small Hairy Spider
+M 0 7003 8 7039         The Small Hairy Spider
+M 0 7003 8 7037         The Small Hairy Spider
+M 0 7003 8 7037         The Small Hairy Spider
+M 0 7003 8 7050         The Small Hairy Spider
+* Doors
+D 0 7047 1 1            South End Of The Grand Sewer
+D 0 7053 3 1
+* 
+M 0 7011 4 7039	*rt
+G 1 7212 50	*rt
+M 0 7011 4 7045	*rt
+M 0 7011 4 7045	*rt
+G 1 7212 50	*rt
+M 0 7011 4 7009	*rt
+M 0 7012 1 7046	*rt
+E 1 7213 100 16	*rt
+E 1 7218 100 12	*rt
+M 0 7013 1 7015	*rt
+M 0 7014 2 7021	*rt
+M 0 7014 2 7056	*rt
+M 0 7007 1 7057	*rt
+M 0 7008 1 7022	*rt
+M 0 7009 1 7069	*rt
+M 0 7002 6 7030	*rt
+M 0 7000 4 7030	*rt
+S
+$

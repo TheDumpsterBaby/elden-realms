@@ -1,0 +1,366 @@
+#6100
+The Gap in the Hedge~
+   You squeeze through the hacked gap in the hawthorn and the smell of the
+camps rolls over you: smoke, sewage, sickness and too many people. Behind
+you lie the Granary Fields. Ahead, a sea of tents and lean-tos stretches to
+the horizon under a pall of grey smoke.
+~
+61 0 2
+D1
+~
+~
+0 -1 6101
+D3
+~
+~
+0 -1 6024
+S
+#6101
+The Mud Road~
+   A road of trampled mud winds into the camps, lined on both sides with
+shelters made of anything at hand: wagon covers, doors, blankets on sticks.
+Hollow-eyed faces watch from every opening. A woman holds out an empty bowl
+to you without a word.
+~
+61 0 2
+D0
+~
+~
+0 -1 6102
+D1
+~
+~
+0 -1 6110
+D2
+~
+~
+0 -1 6105
+D3
+~
+~
+0 -1 6100
+S
+#6102
+The Northern Tent Rows~
+   Tents stand in rows so tight that the guy-ropes cross and tangle. Washing
+hangs grey between them. Families from a dozen burned villages huddle
+together, speaking dialects from the far west that you have never heard, all
+of them describing the same darkness.
+~
+61 0 2
+D0
+~
+~
+0 -1 6103
+D1
+~
+~
+0 -1 6104
+D2
+~
+~
+0 -1 6101
+S
+#6103
+The Northern Edge of the Camps~
+   The tents thin out at the foot of a low rise. At its top stands the grey
+stone bulk of the Hospice of the Last Rites, its bell tower dark against the
+sky. A line of stretcher-bearers trudges up the slope, and another line,
+carrying shrouded shapes, comes down it.
+~
+61 0 2
+D2
+~
+~
+0 -1 6102
+D0
+Up the slope stands the gate of the Hospice of the Last Rites.
+~
+~
+0 -1 6304
+S
+#6104
+The Soup Line~
+   A queue hundreds long shuffles toward a row of iron cauldrons, where
+soldiers ladle out thin grey broth. When the cauldrons run dry, the soldiers
+simply walk away, and the people at the back of the line sit down in the mud
+and wait for tomorrow.
+~
+61 0 2
+D1
+~
+~
+0 -1 6111
+D3
+~
+~
+0 -1 6102
+S
+#6105
+The Southern Tent Rows~
+   The tents here are older, patched many times, and the people in them have
+given up waiting to be let into the fort. Children with distended bellies
+play a game with stones and chalk. An old man sits outside his tent
+sharpening a kitchen knife, over and over.
+~
+61 0 2
+D0
+~
+~
+0 -1 6101
+D1
+~
+~
+0 -1 6109
+D2
+~
+~
+0 -1 6106
+S
+#6106
+The Scrap Market~
+   A muddy clearing where refugees trade what little they have left: a
+wedding ring for a loaf, a sword for a blanket, a daughter's hair for a pot
+of lard. Bargaining is quiet and bitter. Thugs move through the crowd taking
+a share of every trade.
+~
+61 0 2
+D0
+~
+~
+0 -1 6105
+D1
+~
+~
+0 -1 6107
+S
+#6107
+Thieves' Alley~
+   A narrow lane between leaning shacks where the camp's predators gather.
+Nobody walks here alone if they can help it. A body lies face down in a
+puddle, stripped of its boots. Nobody has moved it, and nobody will.
+~
+61 0 2
+D1
+~
+~
+0 -1 6108
+D3
+~
+~
+0 -1 6106
+S
+#6108
+The Gang Boss's Shack~
+   A shack built from the timbers of a wrecked barn, warmer and drier than
+anything else in the camps. Stolen food is stacked against the walls. The
+man who runs the camps' black market sits here, feet up, counting other
+people's rings.
+~
+61 d 0
+D3
+~
+~
+0 -1 6107
+S
+#6109
+The Camp Well~
+   A single well serves the whole camp, and the queue for it never ends. The
+mud around it is churned into a stinking slurry. A soldier keeps order with
+a cudgel, and the rope has been cut and retied so many times it is more knot
+than rope.
+~
+61 0 2
+D0
+~
+~
+0 -1 6110
+D1
+~
+~
+0 -1 6114
+D3
+~
+~
+0 -1 6105
+S
+#6110
+The Bonfire Square~
+   At the heart of the camps a great bonfire burns night and day, fed with
+broken furniture and worse. People crowd around it for warmth. On an
+upturned cart beside it a gaunt preacher in grey shouts that the fort is
+doomed and that only surrender to the West will save them.
+~
+61 0 2
+D0
+~
+~
+0 -1 6111
+D1
+~
+~
+0 -1 6116
+D2
+~
+~
+0 -1 6109
+D3
+~
+~
+0 -1 6101
+S
+#6111
+The Livestock Pens~
+   Pens of hurdles hold the last few beasts the refugees drove east with
+them: a lame horse, goats, a handful of sheep. Men with clubs guard them day
+and night. The bones of the ones that were stolen lie in a heap beside the
+fence.
+~
+61 0 2
+D1
+~
+~
+0 -1 6112
+D2
+~
+~
+0 -1 6110
+D3
+~
+~
+0 -1 6104
+S
+#6112
+The Sick Tents~
+   Long canvas tents hold rows of pallets, and on every pallet someone is
+coughing, sweating or simply lying very still. Grey blotches spread over
+their skin. A single healer moves among them with a bucket and a cloth, and
+her face is grey with exhaustion.
+~
+61 0 2
+D1
+A tent flap tied shut, painted with a grey cross.
+~
+flap tent~
+1 -1 6113
+D3
+~
+~
+0 -1 6111
+S
+#6113
+The Quarantine Tent~
+   The sick who were moved here do not come out. The air is close and sweet.
+Some of the shapes on the pallets are moving in ways that sick people do not
+move, and the grey has spread over them completely. Their eyes are open.
+~
+61 d 0
+D3
+~
+flap tent~
+1 -1 6112
+S
+#6114
+The Burial Pits~
+   Long trenches have been dug at the camp's edge, and they are filling
+faster than they can be dug. Bodies wrapped in sacking lie in rows waiting
+their turn. Lime is shovelled over each layer. Gravediggers work with rags
+tied over their faces and will not meet your eye.
+~
+61 0 2
+D0
+~
+~
+0 -1 6115
+D3
+~
+~
+0 -1 6109
+S
+#6115
+The Ruined Wayside Chapel~
+   A tiny stone chapel stood here before the camps came, and its walls still
+stand though its roof is gone. The altar has been smashed. Someone has
+painted a grey spiral over the old saints on the walls, the same spiral
+flattened into the wheat of the Granary Fields.
+~
+61 d 0
+D2
+~
+~
+0 -1 6114
+E
+spiral grey paint~
+A spiral of grey paint, drawn with great care, winding inward to a single
+black dot.
+~
+S
+#6116
+The Tent of the Grey Choir~
+   A large tent of grey canvas where the preacher's followers gather to
+sing. Their hymn has no words, only a long falling note that makes your
+teeth ache. Benches face a lectern carved with a spiral. A rug at the back
+of the tent does not quite lie flat.
+~
+61 d 0
+D3
+~
+~
+0 -1 6110
+D5
+Under the rug, a wooden trapdoor.
+~
+rug trapdoor~
+1 -1 6117
+E
+rug~
+Beneath the edge of the rug you can feel the outline of a trapdoor.
+~
+S
+#6117
+A Stair Beneath the Camps~
+   Earthen steps lead down beneath the camp into an old root cellar from the
+farm that once stood here. The walls have been dug out further, and the
+falling hymn rises from below, louder and clearer, carried by many voices.
+~
+61 ad 0
+D4
+~
+rug trapdoor~
+1 -1 6116
+D5
+~
+~
+0 -1 6118
+S
+#6118
+The Hall of Surrender~
+   A low chamber lit by grey candles, packed with kneeling cultists in
+sacking robes. They face west. Every one of them has a grey blotch somewhere
+on their skin, and they wear it proudly, like a brand. An arch at the far
+end opens onto a smaller, darker room.
+~
+61 ad 0
+D3
+~
+~
+0 -1 6119
+D4
+~
+~
+0 -1 6117
+S
+#6119
+The Shrine of the Grey Prophet~
+   A round chamber whose walls are painted entirely grey. In its centre a
+pit is filled with soft grey grain, the same rot that is eating the fort's
+stores, and it whispers. Over it stands the Grey Prophet, arms raised,
+listening to the voice from the West that only he can hear.
+~
+61 ad 0
+D1
+~
+~
+0 -1 6118
+S
+$

@@ -1,0 +1,256 @@
+#20400
+wight barrow~
+a barrow wight~
+A barrow wight in rotted burial finery stalks between the mounds.
+~
+An ancient dead noble of the hill-folk, gold torcs on its withered neck,
+grey fire in its eyes.
+~
+dfg 0 -900 E
+52 7 4 13d10+343 6d6+9
+668 32458
+8 8 0
+BareHandAttack: 8
+E
+#20401
+crawler tomb~
+a tomb crawler~
+A many-legged thing of bone and grave-wax crawls along the ceiling.
+~
+Made from the bones of a dozen burial-servants, fused together into
+something that scuttles.
+~
+dfg 0 -800 E
+51 8 4 12d10+340 6d6+9
+647 31222
+8 8 0
+BareHandAttack: 4
+E
+#20402
+ghoul ghouls pack~
+a pack of hill ghouls~
+A pack of pale ghouls lopes toward you on all fours.
+~
+Naked, hairless and grey, they hunt like wolves and their claws carry a
+numbing rot.
+~
+dfg 0 -900 E
+52 7 4 13d10+343 6d6+9
+668 32458
+8 8 0
+BareHandAttack: 8
+E
+#20403
+robber cursed grave~
+a cursed grave robber~
+A grave robber with grey skin digs frantically with bleeding hands.
+~
+He came to loot the barrows. The barrows took him instead. He digs forever
+now, searching for something he cannot remember.
+~
+dfg 0 -700 E
+53 7 4 13d10+349 6d6+9
+688 33718
+8 8 1
+BareHandAttack: 0
+E
+#20404
+queen spiral mummy~
+the Spiral Queen~
+A jewelled mummy sits on the edge of her coffin, combing her hair.
+~
+A queen of the hill-folk, buried with a hundred servants. She remembers
+everything, and she is lonely, and she would like you to stay forever.
+~
+dbfl 0 -1000 E
+57 6 3 14d10+3667 6d19+30
+1934 389890
+8 8 2
+BareHandAttack: 0
+E
+#20405
+patriarch ghoul~
+the ghoul patriarch~
+An enormous ghoul looks up from a thighbone, marrow dripping from its jaws.
+~
+The father of every ghoul in the hills, swollen to the size of a bear on the
+dead of three thousand years.
+~
+dbfl 0 -1000 E
+57 6 3 14d10+3667 6d19+30
+1934 389890
+8 8 0
+BareHandAttack: 8
+E
+#20406
+monk vigil~
+a vigil monk~
+A monk in grey chants steadily, a torch in one hand and a staff in the other.
+~
+The monks keep the vigil in shifts. If the chant stops, the walls will not
+hold.
+~
+dbm 0 900 E
+54 7 4 13d10+999 6d12+18
+946 104986
+8 8 1
+BareHandAttack: 0
+E
+#20407
+refugee hill~
+a refugee from the hills~
+A refugee from the hills huddles against the wall.
+~
+Shepherds and farmers from the hill villages, sheltered here when the
+barrows opened.
+~
+db 0 400 E
+50 8 4 12d10+54 1d2+0
+543 6010
+8 8 0
+BareHandAttack: 0
+E
+#20408
+keeper flame~
+the keeper of the flame~
+An old monk kneels before the flame, feeding it with prayer.
+~
+He has knelt here for sixty years. The flame lives on his prayer, and he is
+very tired.
+~
+db 0 1000 E
+58 6 3 14d10+3729 6d20+30
+1988 403690
+8 8 1
+BareHandAttack: 0
+E
+#20409
+brother reader monk~
+the reading brother~
+A monk reads names aloud from a lectern.
+~
+Every name must be read so the dead remember who they were. If they
+remember, they rest.
+~
+db 0 800 E
+52 7 4 13d10+53 1d2+0
+578 6499
+8 8 1
+BareHandAttack: 0
+E
+#20410
+tender lamp monk~
+the lamp tender~
+An old monk refills the grave lamps with careful hands.
+~
+He has lost count of the lamps. He has not lost count of the ones that went
+out.
+~
+db 0 900 E
+52 7 4 13d10+53 1d2+0
+578 6499
+8 8 1
+BareHandAttack: 0
+E
+#20411
+archivist monk~
+the archivist~
+A monk copies a scroll in desperate haste.
+~
+Ink to the elbows. He is trying to copy every rite before the library burns,
+because he is sure that it will.
+~
+db 0 800 E
+53 7 4 13d10+55 1d2+0
+596 6751
+8 8 1
+BareHandAttack: 0
+E
+#20412
+abbess~
+the Abbess of the Flame~
+The Abbess stands at the window, watching the grey light in the west.
+~
+A hard-faced woman in grey with a soldier's bearing. She was a knight before
+she was a monk. She knows the King beneath the Great Mound will come for the
+flame, and she means to meet him at the door.
+~
+db 0 1000 E
+58 6 3 14d10+3729 6d20+30
+1988 403690
+8 8 2
+BareHandAttack: 0
+E
+#20413
+guardian barrow~
+a barrow guardian~
+A huge skeleton in bronze stands in the barrow door, spear raised.
+~
+A champion's bodyguard, buried at the door of his tomb. He has guarded it
+for three thousand years.
+~
+dbf 0 -900 E
+55 7 4 13d10+1016 6d12+19
+974 108910
+8 8 0
+BareHandAttack: 0
+E
+#20414
+giant bone~
+a bone giant~
+A giant skeleton in bronze armour rises, a cart-length sword in its hands.
+~
+A champion of the hill-folk, twice a man's height in life, and no smaller in
+death.
+~
+dbfl 0 -1000 E
+58 6 3 14d10+3729 6d20+30
+1988 403690
+8 8 0
+BareHandAttack: 6
+E
+#20415
+watcher stone~
+a stone watcher~
+A standing stone turns its blank face toward you and steps out of line.
+~
+The stones of the avenue guard the way to the king. The grey light has woken
+them.
+~
+dfg 0 -700 E
+54 7 4 13d10+999 6d12+18
+946 104986
+8 8 0
+BareHandAttack: 6
+E
+#20416
+guard barrow lord~
+a barrow lord's huscarl~
+A dead huscarl in a bronze mask raises an axe.
+~
+The king's sworn warriors, buried with him to fight for him in death. They
+keep their oath.
+~
+dfg 0 -1000 E
+55 7 4 13d10+1016 6d12+19
+974 108910
+8 8 1
+BareHandAttack: 0
+E
+#20417
+king barrow~
+the Barrow King~
+The Barrow King rises from his stone throne, grey fire blazing in his eyes.
+~
+First lord of the hill-folk, three thousand years dead, a tall withered
+shape in gold and bronze. In life he made the spiral the sign of his people.
+In death he has heard Nu'Groth's voice and found it familiar, and he means
+to lead every dead thing in the hills against the monastery's flame.
+~
+dbfl 0 -1000 E
+60 5 3 15d10+8618 7d25+44
+4899 1296010
+8 8 1
+BareHandAttack: 0
+E
+$

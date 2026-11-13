@@ -1,0 +1,159 @@
+#6500
+key treasury~
+the key of the Queen's treasury~
+The key of the Queen's treasury is lying here.~
+~
+18 c 16385
+6500 0 0 0
+1 0 0
+#6501
+gold treasure coins hoard~
+the hoard of Orrund~
+A great heap of dwarven gold lies here: the last hoard of Orrund.~
+~
+20 0 1
+65000 0 0 0
+20 65000 0
+#6502
+key mine iron~
+an iron mine key~
+An iron key to the mine door is lying here.~
+~
+18 c 16385
+6502 0 0 0
+1 0 0
+#6503
+key bright gold golden~
+a bright golden key~
+A bright golden key, stamped with the Queen's mark, is lying here.~
+~
+18 c 16385
+6503 0 0 0
+1 0 0
+#6504
+hammer dwarven war~
+a dwarven hammer~
+A heavy dwarven war-hammer, stamped with the anvil-mark, lies here.~
+~
+5 0 8193
+0 2 6 7
+13 5500 1000
+#6505
+plate dwarven mail~
+a suit of dwarven plate mail~
+A suit of dwarven plate mail lies here, black with forge-scale.~
+~
+9 0 9
+6 0 0 0
+80 4500 300
+#6506
+staff stick black long healer~
+a long black healer's staff~
+A long black healer's staff lies here.~
+~
+4 q 16385
+4 2 2 28
+1 100 6000
+E
+staff stick black long healer~
+A staff of black stone-wood carved with runes of mending. The runes are worn
+nearly smooth.
+~
+#6507
+stick black long glowstone rod~
+a black glowstone rod~
+A long black rod tipped with a glowstone is propped here.~
+~
+1 q 16385
+0 0 0 0
+1 100 6000
+#6508
+club dwarven cudgel~
+a dwarven club~
+An iron-banded dwarven club lies here.~
+~
+5 0 8193
+0 2 3 3
+12 3000 300
+#6509
+axe two-handed dwarven~
+a two-handed dwarven axe~
+A great two-handed dwarven axe is here.~
+~
+5 g 8193
+0 2 7 3
+14 5000 3000
+A
+18 2
+A
+1 2
+#6510
+helmet helm dwarven~
+a dwarven helmet~
+A dented dwarven helmet is here.~
+~
+9 0 17
+4 0 0 0
+4 2500 500
+#6511
+ring gold golden dwarven~
+a golden dwarven ring~
+A golden dwarven ring, engraved with a house-mark, is lying here.~
+~
+11 g 3
+0 0 0 0
+1 10000 10000
+A
+18 1
+A
+19 1
+#6512
+gloves gauntlets dwarven~
+a pair of dwarven gauntlets~
+A pair of thick dwarven gauntlets lie here.~
+~
+9 0 129
+1 0 0 0
+2 4000 200
+A
+5 1
+A
+2 1
+#6513
+coal chunk~
+a chunk of coal~
+A chunk of poor, crumbling coal lies here.~
+~
+13 0 16385
+0 0 0 0
+100 0 0
+#6514
+pick mining~
+a mining pick~
+A worn mining pick is here.~
+~
+5 i 8193
+0 2 3 11
+9 300 10
+E
+pick mining~
+The haft is carved with old miners' warding runes, the kind they cut in the
+old mine. They look almost blessed.
+~
+#6515
+key deep green~
+a deep green key~
+A deep green key to the gate of Orrund is lying here.~
+~
+18 c 16385
+6515 0 0 0
+10 0 0
+#6516
+key old maze~
+an old key~
+Someone seems to have dropped an old key.~
+~
+18 c 16385
+6516 0 0 0
+1 0 0
+$

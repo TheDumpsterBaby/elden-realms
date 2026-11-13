@@ -1,0 +1,419 @@
+#21200
+The Outer Gate of the Bastion~
+   A gate a hundred feet high, of black iron studded with skulls, stands
+open in the fortress wall. Its towers are lost in mist. An endless column of
+grey soldiers marches out through it, east, toward the living. Nobody stops
+you as you walk in against the stream; nobody has ever walked in before.
+~
+212 0 1
+D0
+~
+~
+0 -1 21210
+D1
+~
+~
+0 -1 21111
+D2
+~
+~
+0 -1 21212
+D3
+~
+~
+0 -1 21201
+S
+#21201
+The Killing Yard~
+   A vast yard of black flagstones inside the gate, ringed by walls with
+archers on every merlon. Grey legions drill here in silence, thousands at a
+time. The flagstones are stained in patterns, the marks of every test the
+Bastion's soldiers must pass.
+~
+212 0 1
+D0
+~
+~
+0 -1 21202
+D1
+~
+~
+0 -1 21200
+D2
+~
+~
+0 -1 21203
+D3
+~
+~
+0 -1 21204
+S
+#21202
+The War-Forge~
+   A forge so large it has its own weather: hot winds, a rain of sparks, a
+thunder of hammers. Grey iron from the Shattered Peaks is forged here into
+the armour of the dread legions. The Forge-General oversees it from a
+platform of black iron, and every blade is tested on a prisoner.
+~
+212 d 0
+D0
+~
+~
+0 -1 21214
+D2
+~
+~
+0 -1 21201
+S
+#21203
+The Beast Pens~
+   Cages of black iron hold the war-beasts of the West: dread hounds,
+wyverns, things that have no names. The air stinks of musk and blood. The
+Beastmaster walks among the cages with a whip of chains, and the beasts
+flinch from him.
+~
+212 d 0
+D0
+~
+~
+0 -1 21201
+D2
+~
+~
+0 -1 21215
+S
+#21204
+The Inner Court~
+   A courtyard of black stone at the heart of the Bastion, overlooked by a
+tower that rises out of sight. Statues of Nu'Groth's generals stand around
+it, each one a monument to a kingdom destroyed. The newest plinth stands
+empty, waiting. Its inscription reads MIDGAARD.
+~
+212 0 1
+D0
+~
+~
+0 -1 21205
+D1
+~
+~
+0 -1 21201
+D2
+~
+~
+0 -1 21206
+D3
+~
+~
+0 -1 21207
+D4
+~
+~
+0 -1 21208
+E
+plinth inscription midgaard~
+An empty plinth of black stone. Carved in its face: MIDGAARD. Beneath: TO BE
+RAISED IN THE SPRING.
+~
+S
+#21205
+The Prison of Heroes~
+   Cells line a long black gallery, and in each one is a hero of the living:
+a paladin, a queen, a wizard, a knight, all taken alive in battle. They are
+not hollowed. They are kept, and every day the Warden of Chains asks each of
+them to kneel. Most of them still refuse.
+~
+212 ad 0
+D0
+~
+~
+0 -1 21217
+D2
+~
+~
+0 -1 21204
+D3
+~
+~
+0 -1 21218
+S
+#21206
+The Chapel of the West~
+   A chapel with no altar, only a window facing west, filled with a darkness
+that moves. Nu'Groth's priests kneel before it, faces pressed to the floor.
+The darkness in the window looks back at you, and for a moment you feel the
+full weight of its attention, and your knees begin to bend.
+~
+212 ad 0
+D0
+~
+~
+0 -1 21204
+D2
+~
+~
+0 -1 21219
+E
+window darkness west~
+You look into the darkness and something vast looks back. It does not hate
+you. It does not think of you at all. That is worse.
+~
+S
+#21207
+The War Room~
+   A great hall around a table carved as a map of the whole realm. Grey
+figures representing armies are placed upon it: the Last Light encircled,
+the fens overrun, the Marches burning, Midgaard surrounded. The generals of
+the West stand around the table, moving the pieces, and they look up as one.
+~
+212 d 0
+D0
+~
+~
+0 -1 21221
+D1
+~
+~
+0 -1 21204
+D3
+~
+~
+0 -1 21209
+E
+table map pieces~
+The whole realm in black stone. The grey armies have already been placed
+around Midgaard. The plan is finished; only the marching remains.
+~
+S
+#21208
+The Herald's Tower~
+   At the top of the tower, in a hall open to the sky on the western side,
+stands the Iron Herald, voice and general of Nu'Groth, armoured in black
+iron fused to its body. It was the first and greatest of Nu'Groth's
+champions, and it speaks with Nu'Groth's voice.
+~
+212 d 0
+D4
+~
+~
+0 -1 21220
+D5
+~
+~
+0 -1 21204
+S
+#21209
+The Inner Gate~
+   At the western end of the Bastion a narrow gate of black stone opens onto
+nothing: a grey haze, a sense of distance that does not match the space. The
+air ripples like heat. The soldiers do not use this gate. Beyond it,
+Nu'Groth's will is felt in every breath.
+~
+212 0 1
+D0
+~
+~
+0 -1 21222
+D1
+~
+~
+0 -1 21207
+D2
+~
+~
+0 -1 21223
+D3
+Through the inner gate, a stair of glass climbs into grey nothing.
+~
+~
+0 -1 21300
+S
+#21210
+The North Rampart~
+   A wall walk along the Bastion's northern rampart, wide enough for four to
+march abreast. Black-fletched archers line the battlements, and the stone is
+pocked with the scars of a siege that ended before Midgaard had a wall.
+~
+212 0 1
+D2
+~
+~
+0 -1 21200
+D3
+~
+~
+0 -1 21211
+S
+#21211
+The Siege Engines~
+   Great engines of black timber and grey iron stand in a row on a platform
+behind the rampart: trebuchets, bolt-throwers, a ram as long as a ship. They
+are being made ready to roll east. Crews of hollowed men work them under a
+master's eye.
+~
+212 0 1
+D1
+~
+~
+0 -1 21210
+S
+#21212
+The South Rampart~
+   The southern rampart of the Bastion looks down over the burnt siegeworks
+and the edge of the Weeping Forest. Archers watch the treeline, and every so
+often loose a black arrow at something moving there.
+~
+212 0 1
+D0
+~
+~
+0 -1 21200
+D3
+~
+~
+0 -1 21213
+S
+#21213
+The Gibbet Walk~
+   A stretch of wall hung with iron gibbets, each holding a body: heroes of
+the east who came this far. Their names are painted on the cages in the
+Bastion's script. Grey crows sit on the cages and argue over what is left.
+~
+212 0 1
+D1
+~
+~
+0 -1 21212
+S
+#21214
+The Smelting Pits~
+   North of the war-forge, pits of molten grey iron glow in the dark, and
+thralls carry crucibles along narrow walkways above them. When a thrall
+falls, nobody stops working. Something made of slag rises from the deepest
+pit.
+~
+212 0 0
+D2
+~
+~
+0 -1 21202
+S
+#21215
+The Drake Stalls~
+   South of the beast pens, vaulted stalls hold the Bastion's war-drakes,
+grey and wingless, bred for pulling engines and breaking walls. Each stall
+is scorched black inside.
+~
+212 0 0
+D0
+~
+~
+0 -1 21203
+D3
+~
+~
+0 -1 21216
+S
+#21216
+The Brood Pen~
+   A vast pen strewn with broken eggshell and bones, where the drakes are
+bred. The brood-mother lies coiled around her clutch, larger than any of her
+children, and she opens one eye as you enter.
+~
+212 0 0
+D1
+~
+~
+0 -1 21215
+S
+#21217
+The Oubliette~
+   A pit beneath the prison where prisoners are dropped and forgotten. It is
+utterly dark. The forgotten are still down here, those who did not die, and
+they have been alone in the dark so long they have forgotten what they were.
+~
+212 a 0
+D2
+~
+~
+0 -1 21205
+S
+#21218
+The Hall of Questions~
+   A long hall of chains and tables where the Bastion's inquisitor asks
+prisoners about the east: its roads, its walls, its weak places. A map of
+Midgaard is pinned to the wall. It is very accurate.
+~
+212 0 0
+D1
+~
+~
+0 -1 21205
+E
+map midgaard~
+A map of Midgaard drawn in a careful hand, every gate and tower marked,
+every street named. The west gate is circled. Someone inside the fort has
+been telling them everything.
+~
+S
+#21219
+The Altar of the Void~
+   Below the dark chapel, an altar stands over a hole in the floor that has
+no bottom and gives off a cold grey light. Acolytes kneel around it, feeding
+it offerings that drop into the light and are not heard to land.
+~
+212 0 0
+D0
+~
+~
+0 -1 21206
+S
+#21220
+The Top of the Herald's Tower~
+   The roof of the herald's tower, high above the Bastion, swept by a wind
+that never stops. From here you can see west into the Threshold, where the
+land thins into grey nothing. Harpies roost on the tower's horns.
+~
+212 0 5
+D5
+~
+~
+0 -1 21208
+S
+#21221
+The Map Vault~
+   North of the war room, a vault of shelves full of rolled maps: every
+road, river and wall in the east, gathered over centuries by spies and the
+tortured. A staff officer sits at a table, updating them.
+~
+212 0 0
+D2
+~
+~
+0 -1 21207
+S
+#21222
+The Officers' Quarters~
+   Plain stone rooms behind the inner gate where the Bastion's dread
+officers sleep, if they sleep. Their armour stands on racks by their beds,
+and some of the armour is standing by itself.
+~
+212 0 0
+D2
+~
+~
+0 -1 21209
+S
+#21223
+The Legion Barracks~
+   A long hall of iron bunks where the legion musters. There are bunks
+enough for ten thousand, and most of them are empty, because most of the
+legion is already marching east.
+~
+212 0 0
+D0
+~
+~
+0 -1 21209
+S
+$

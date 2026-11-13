@@ -1,0 +1,98 @@
+#3500
+sword small~
+a small sword~
+A small, notched sword lies here.~
+~
+5 0 8193
+0 1 6 11
+3 60 10
+#3501
+sword long fine~
+a fine long sword~
+A fine long sword has been left here.~
+~
+5 an 8193
+0 1 9 3
+8 600 10
+A
+19 2
+#3502
+club wooden~
+a wooden club~
+A crude wooden club, studded with nails, lies here.~
+~
+5 0 8193
+0 1 3 7
+3 12 10
+#3503
+jacket studded leather~
+a studded leather jacket~
+A studded leather jacket, dyed black, lies on the ground.~
+~
+9 0 9
+5 0 0 0
+20 500 10
+#3504
+spear small~
+a small spear~
+A small goblin spear with a jagged head lies here.~
+~
+5 m 8193
+0 5 1 11
+15 500 120
+#3505
+corpse mutilated carter~
+a carter's mutilated corpse~
+A carter's mutilated corpse lies on the ground here.~
+~
+15 0 0
+20 0 -1 0
+25 0 0
+E
+corpse mutilated carter~
+A carter, torn open by something huge. His lips are blue.
+~
+#3506
+corpse mutilated officer~
+a mutilated officer's corpse~
+An officer's mutilated corpse lies on the ground here.~
+~
+15 0 0
+20 0 -1 0
+25 0 0
+E
+corpse mutilated officer~
+A young officer of the escort, in a torn grey tabard. He died with his hand
+on his belt, as if reaching for something.
+~
+#3507
+dagger ornate~
+an ornate dagger~
+A beautiful dagger is stuck in the ground.~
+~
+5 dfghkmnpq 8193
+0 1 9 11
+4 1000 500
+E
+dagger ornate~
+The hilt is two snakes twined together, with a small red ruby at the end. An
+officer's dagger, too fine for the escort of a supply wagon.
+~
+A
+18 5
+A
+19 -3
+#3508
+top toy gyroscope spinning~
+a painted spinning top~
+A small painted top spins about on the ground here.~
+~
+9 b 16387
+1 0 0 0
+1 25 600
+E
+top toy gyroscope spinning~
+A child's spinning top, painted with red and green rings. As it spins round
+and round, it is hard to look away.
+~
+$

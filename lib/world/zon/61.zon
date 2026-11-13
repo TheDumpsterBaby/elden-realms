@@ -1,0 +1,71 @@
+#61
+Claude~
+The Refugee Camps~
+6100 6199 15 2
+M 0 6100 2 6100	refugee
+M 0 6100 3 6101	refugee
+M 0 6103 1 6101	cutpurse
+E 1 6102 100 16	camp_knife
+M 0 6100 3 6102	refugee
+M 0 6102 1 6102	sick_refugee
+M 0 6104 2 6103	stretcher_bearer
+O 0 6100 1 6104	cauldron
+M 0 6105 2 6104	ration_soldier
+E 1 6103 100 16	soldier_cudgel
+M 0 6100 2 6104	refugee
+M 0 6100 2 6105	refugee
+M 0 6101 2 6105	refugee_child
+M 0 6106 2 6106	camp_thug
+E 1 6103 60 16	soldier_cudgel
+M 0 6107 1 6106	scrap_trader
+M 0 6103 1 6106	cutpurse
+E 1 6102 100 16	camp_knife
+M 0 6106 2 6107	camp_thug
+E 1 6103 60 16	soldier_cudgel
+M 0 6103 2 6107	cutpurse
+E 1 6102 100 16	camp_knife
+M 0 6108 1 6108	gang_boss
+E 1 6104 100 16	boss_falchion
+E 1 6105 100 5	padded_jerkin
+G 1 6106 100	ring_pouch
+M 0 6106 1 6108	camp_thug
+E 1 6103 60 16	soldier_cudgel
+O 0 6101 1 6109	camp_well
+M 0 6109 1 6109	camp_warden
+E 1 6103 100 16	soldier_cudgel
+M 0 6100 2 6109	refugee
+M 0 6110 1 6110	grey_preacher
+G 1 6107 100	grey_tract
+M 0 6100 3 6110	refugee
+M 0 6111 1 6110	cult_acolyte
+E 1 6108 50 16	ritual_knife
+M 0 6112 2 6111	pen_guard
+E 1 6103 100 16	soldier_cudgel
+M 0 6113 2 6111	feral_dog
+M 0 6102 3 6112	sick_refugee
+M 0 6114 1 6112	camp_healer
+G 1 6109 100	healer_herbs
+D 0 6112 1 1
+M 0 6115 3 6113	greyblight_victim
+D 0 6113 3 1
+M 0 6116 2 6114	gravedigger
+M 0 6117 1 6114	pit_ghoul
+M 0 6111 2 6115	cult_acolyte
+E 1 6108 50 16	ritual_knife
+M 0 6111 2 6116	cult_acolyte
+E 1 6108 50 16	ritual_knife
+M 0 6118 2 6116	choir_singer
+D 0 6116 5 1
+M 0 6119 1 6117	cult_guard
+E 1 6110 100 16	hooked_blade
+D 0 6117 4 1
+M 0 6111 3 6118	cult_acolyte
+E 1 6108 50 16	ritual_knife
+M 0 6119 1 6118	cult_guard
+E 1 6110 100 16	hooked_blade
+M 0 6120 1 6119	grey_prophet
+E 1 6111 100 16	prophet_staff
+E 1 6112 100 12	grey_robe
+G 1 6113 100	grey_grain_vial
+S
+$

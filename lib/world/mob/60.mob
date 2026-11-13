@@ -1,0 +1,276 @@
+#6000
+farmhand worker~
+a gaunt farmhand~
+A gaunt farmhand trudges past with a sack on his back.
+~
+Too old or too young for the wall, he does the work of three men on half a
+ration.
+~
+dg 0 300 E
+3 20 10 1d10+16 1d2+0
+6 31
+8 8 1
+BareHandAttack: 0
+E
+#6001
+ox oxen~
+a draught ox~
+A draught ox drinks from the trough.
+~
+A huge, patient beast with its ribs showing.
+~
+db 0 0 E
+4 19 10 1d10+73 1d3+0
+11 202
+8 8 0
+BareHandAttack: 6
+E
+#6002
+officer requisition~
+the requisition officer~
+The requisition officer watches the scale with narrowed eyes.
+~
+A severe woman in a clean grey uniform. She has hanged hoarders and she
+would do it again; the fort must eat.
+~
+db 0 0 E
+10 18 9 2d10+289 2d6+3
+63 3610
+8 8 2
+BareHandAttack: 0
+E
+#6003
+soldier requisition~
+a requisition soldier~
+A requisition soldier leans on his spear.
+~
+A bored young soldier, relieved to be guarding sacks instead of the wall.
+~
+dmg 0 100 E
+7 19 10 1d10+93 1d5+1
+26 598
+8 8 1
+BareHandAttack: 0
+E
+#6004
+dog chained hound~
+a chained farm dog~
+A farm dog on a chain watches you without barking.
+~
+A scarred brindle hound. It stopped barking a long time ago; there was no
+point.
+~
+db 0 0 E
+4 19 10 1d10+73 1d3+0
+11 202
+8 8 0
+BareHandAttack: 4
+E
+#6005
+chicken hen~
+a scrawny hen~
+A scrawny hen scratches in the dirt.
+~
+There is hardly any meat on her. That is the only reason she is still alive.
+~
+db 0 0 E
+1 20 10 1d10+12 1d2+0
+1 12
+8 8 0
+BareHandAttack: 4
+E
+#6006
+farmwife woman mother~
+the farmwife~
+A hollow-eyed farmwife stirs a pot of thin soup.
+~
+She was handsome once. Now she counts turnips at night and listens for
+soldiers at the door.
+~
+db 0 500 E
+5 19 10 1d10+20 1d2+0
+13 70
+8 8 2
+BareHandAttack: 0
+E
+#6007
+child farm~
+a farm child~
+A farm child stares at you from behind the table.
+~
+Thin, silent and watchful. Children do not play much in the Granary Fields
+any more.
+~
+db 0 600 E
+1 20 10 1d10+12 1d2+0
+1 12
+8 8 0
+BareHandAttack: 0
+E
+#6008
+rat field~
+a field rat~
+A field rat as big as a cat scurries through the grain.
+~
+Too big, too bold, and its fur is patchy and grey with mould.
+~
+dfg 0 -100 E
+3 20 10 1d10+66 1d2+0
+6 118
+8 8 0
+BareHandAttack: 4
+E
+#6009
+conscript runaway boy~
+a runaway conscript~
+A boy in a too-big uniform cowers in the hay.
+~
+He ran from his first march west. If the requisition soldiers find him, he
+will hang beside the hoarders.
+~
+db 0 200 E
+5 19 10 1d10+80 1d5+0
+15 310
+8 8 1
+BareHandAttack: 0
+E
+#6010
+crow~
+a crow~
+A crow picks at the grey wheat.
+~
+Even the crows look thin.
+~
+dg 0 0 E
+2 20 10 1d10+14 1d2+0
+3 19
+8 8 0
+BareHandAttack: 4
+E
+#6011
+scarecrow straw~
+a scarecrow in a soldier's uniform~
+A scarecrow in an old Midgaard uniform turns its sackcloth head toward you.
+~
+Straw and rags and a soldier's coat, stitched together around something that
+was once a man. It does not breathe.
+~
+dbf 0 -600 E
+8 18 9 2d10+254 1d12+2
+44 2314
+8 8 0
+BareHandAttack: 8
+E
+#6012
+wasps swarm~
+a swarm of wasps~
+A swarm of wasps drones angrily over the rotting apples.
+~
+Hundreds of fat yellow wasps, drunk on rotten fruit and furious about it.
+~
+dbf 0 0 E
+6 19 10 1d10+87 1d4+1
+21 442
+8 8 0
+BareHandAttack: 1
+E
+#6013
+witch hedge old woman~
+the hedge witch~
+An old woman in a shawl of grey feathers ties a straw doll to the tree.
+~
+She smiles with too many teeth. She says the Weather in the west is coming
+for everyone, and that the clever ones are making friends with it early.
+~
+dbl 0 -700 E
+11 18 9 2d10+916 2d8+4
+139 14530
+8 8 2
+BareHandAttack: 0
+E
+#6014
+miller mad~
+the miller~
+The miller works the stones, muttering to someone who is not there.
+~
+White with grey flour from head to foot. His eyes are bloodshot and he has
+not slept. "It whispers in the grain," he tells you. "It says it is hungry."
+~
+db 0 -200 E
+9 18 9 2d10+271 1d12+3
+53 2926
+8 8 1
+BareHandAttack: 0
+E
+#6015
+rotgrub grub~
+a pale rotgrub~
+A pale grub as long as your hand burrows through the grain.
+~
+A soft, eyeless thing with a ring of tiny teeth. Where it has eaten, the
+grain turns grey.
+~
+dfg 0 -300 E
+5 19 10 1d10+80 1d5+0
+15 310
+8 8 0
+BareHandAttack: 4
+E
+#6016
+guard granary soldier~
+a granary guard~
+A granary guard stands well back from the doors, sweating.
+~
+He has heard the sounds inside at night. He has asked for a transfer to the
+wall.
+~
+dbm 0 200 E
+8 18 9 2d10+95 1d6+1
+33 778
+8 8 1
+BareHandAttack: 0
+E
+#6017
+rat blight grey~
+a blight rat~
+A grey rat with weeping eyes hisses from the grain.
+~
+Swollen and hairless in patches, its bite leaves wounds that turn grey at
+the edges.
+~
+dflg 0 -500 E
+7 19 10 1d10+93 1d5+1
+26 598
+8 8 0
+BareHandAttack: 4
+E
+#6018
+king rat mass knot~
+the Rat King~
+A writhing knot of fused rats, larger than a man, heaves itself toward you.
+~
+Dozens of rats bound at the tails into one creature, every mouth chewing,
+every eye red. The rot that is eating the fort's grain begins here, and
+something far to the west is feeding it.
+~
+dbfl 0 -900 E
+15 17 9 3d10+2384 2d16+8
+533 81010
+8 8 0
+BareHandAttack: 4
+E
+#6019
+sentry hedge soldier~
+a hedge sentry~
+A sentry stands by the gap in the hedge, watching the camps.
+~
+Her orders are to keep the refugees out of the fields. She lets the children
+through when no one is looking.
+~
+db 0 100 E
+9 18 9 2d10+102 1d7+1
+40 982
+8 8 2
+BareHandAttack: 0
+E
+$

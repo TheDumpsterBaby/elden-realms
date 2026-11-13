@@ -1,0 +1,63 @@
+#212
+Claude~
+The Black Bastion~
+21200 21299 20 2
+M 0 21200 2 21200	bastion_legionary
+E 1 21200 60 16	legion_blade
+E 1 21201 25 5	legion_plate
+M 0 21200 2 21201	bastion_legionary
+E 1 21200 60 16	legion_blade
+E 1 21201 25 5	legion_plate
+M 0 21201 1 21201	legion_centurion
+E 1 21202 100 16	centurion_staff
+M 0 21202 1 21202	forge_general
+G 1 21203 100	forge_general_gauntlets
+M 0 21203 2 21202	forge_thrall
+E 1 21204 70 16	forge_hammer
+M 0 21204 1 21203	beastmaster
+E 1 21205 100 16	chain_whip
+M 0 21205 2 21203	war_beast
+M 0 21206 2 21204	dread_guard
+E 1 21206 80 16	dread_glaive
+M 0 21207 1 21205	warden_of_chains
+G 1 21207 100	prison_keys
+G 1 21208 100	chain_mantle
+M 0 21208 2 21205	captive_hero
+M 0 21209 2 21206	void_priest
+E 1 21209 100 16	void_rod
+M 0 21210 2 21207	dread_general
+E 1 21210 100 16	general_sword
+E 1 21211 30 5	general_plate
+M 0 21211 1 21208	iron_herald
+E 1 21212 100 16	herald_blade
+E 1 21213 100 5	herald_plate
+G 1 21214 100	herald_sigil
+M 0 21206 1 21209	dread_guard
+E 1 21206 80 16	dread_glaive
+M 0 21212 2 21210	bastion_archer
+G 1 21215 20	archer_bracer
+M 0 21213 2 21211	siege_crew
+M 0 21214 1 21211	engine_master
+M 0 21212 2 21212	bastion_archer
+G 1 21215 20	archer_bracer
+M 0 21215 3 21213	gibbet_crow
+M 0 21203 2 21214	forge_thrall
+E 1 21204 70 16	forge_hammer
+M 0 21216 1 21214	slag_elemental
+M 0 21217 2 21215	grey_drake
+M 0 21218 1 21216	drake_broodmother
+G 1 21216 100	drake_scale_mail
+M 0 21219 3 21217	forgotten_prisoner
+M 0 21220 1 21218	inquisitor
+G 1 21217 100	inquisitor_brand
+M 0 21221 2 21219	void_acolyte
+G 1 21218 20	void_censer
+M 0 21222 2 21220	storm_harpy
+O 0 21219 1 21221	war_map
+M 0 21223 1 21221	staff_officer
+M 0 21224 2 21222	dread_officer
+M 0 21200 3 21223	bastion_legionary
+E 1 21200 60 16	legion_blade
+E 1 21201 25 5	legion_plate
+S
+$

@@ -1,0 +1,408 @@
+#15000
+gwydion guard royal jailer~
+Gwydion~
+Gwydion the Royal Guard is here, keeping watch on the cells.
+~
+A grey-bearded guard in chain mail who has kept the dungeon for ten years.
+He is the only man who talks to Ergan, and he does not like what Ergan says.
+~
+abg 0 800 S
+16 16 8 3d6+166 1d8+4
+206 23273
+8 8 1
+#15001
+king welmar~
+King Welmar~
+King Welmar is here, old and grey, his eyes always on the doors.
+~
+Welmar is old now, his beard white, his big frame gone gaunt. He was once a
+wise and well-loved king. Now he barely sleeps, eats only what his taster
+has eaten, and sends every son and sheaf his realm can spare to the wall,
+because he knows what will come east if Midgaard falls. He trusts no one at
+his court, and he is right not to.
+~
+ab dh 1000 S
+22 15 8 3d60+1074 4d8+11
+654 119496
+6 8 1
+#15002
+ghost horrible villager wailing~
+the horrible ghost~
+A horrible ghost drifts toward you, wailing without end.
+~
+The ghost of a woman of Townsbridge, torn and translucent, her mouth open in
+a scream that has not stopped for ten years.
+~
+bcefnopqr dks -700 S
+18 16 8 9d6+170 2d6+3
+251 26903
+8 8 0
+#15003
+jim guard royal~
+Jim~
+Jim the Royal Guard stands here on duty, hand on his sword.
+~
+A young guard in the chain mail of the Royal Guard. He came to the castle to
+escape the levy, and has started to wonder whether he chose well.
+~
+ag 0 800 S
+16 16 8 3d6+166 1d8+4
+206 23273
+8 8 1
+#15004
+brian guard royal~
+Brian~
+Brian the Royal Guard is here, sparring with the Master.
+~
+A broad, sweating guard in chain mail, working through the drills again and
+again. They train for real now.
+~
+abg 0 800 S
+16 16 8 3d6+166 1d8+6
+206 23273
+8 8 1
+#15005
+mick guard royal~
+Mick~
+Mick the Royal Guard is here, sparring with the Master.
+~
+A wiry guard in chain mail, quick on his feet. His brother was taken by the
+levy and sent to Midgaard.
+~
+abg 0 800 S
+16 16 8 3d6+166 1d8+6
+206 23273
+8 8 1
+#15006
+matt guard royal~
+Matt~
+Matt the Royal Guard stands here on duty.
+~
+A steady guard in chain mail, his eyes moving over every courtier who
+passes.
+~
+ag 0 800 S
+16 16 8 3d6+166 1d8+4
+206 23273
+8 8 1
+#15007
+jochem guard royal~
+Jochem~
+Jochem the Royal Guard sits here, off duty, sharpening a knife.
+~
+A scarred veteran in chain mail who has fought in the west and come back. He
+does not talk about it. He longs, oddly, to go back.
+~
+ag 0 900 S
+17 16 8 3d6+180 1d8+6
+229 26406
+6 6 1
+#15008
+anne guard royal~
+Anne~
+Anne the Royal Guard is here on duty.
+~
+A tall guardswoman in chain mail, well trained and watchful. She keeps a
+list of which courtiers go out at night.
+~
+ag 0 900 S
+17 16 8 3d6+180 1d8+6
+229 26406
+8 8 2
+#15009
+andrew guard royal~
+Andrew~
+Andrew the Royal Guard is here on duty.
+~
+A seasoned guard in chain mail, who moves like a man who has seen real
+battle and has not slept well since.
+~
+ag 0 900 S
+17 16 8 3d6+180 1d8+6
+229 26406
+8 8 1
+#15010
+bertram bert guard royal~
+Bertram~
+Bertram the Royal Guard stands here on duty.
+~
+A big, scarred guard in chain mail. There is a small grey moth tattooed on
+the inside of his wrist, and he keeps his sleeve pulled over it.
+~
+ag 0 900 S
+18 16 8 3d6+199 1d8+6
+254 28189
+8 8 1
+#15011
+jeanette guard royal~
+Jeanette~
+Jeanette the Royal Guard stands here on duty.
+~
+A hard-faced guardswoman in chain mail, carrying her scars with pride. She
+could be very dangerous if she wished.
+~
+ag 0 900 S
+18 16 8 3d6+199 1d8+6
+254 28189
+8 8 2
+#15012
+peter captain guard royal~
+Peter, the Captain of the Royal Guard~
+Peter, the Captain of the Royal Guard, walks the castle, inspecting his men.
+~
+The Captain of the Royal Guard is huge and moves with a cat's grace. He is
+utterly loyal to the King, and he knows there is rot in the castle. He
+inspects his guards twice a day now, and he is not looking at their boots.
+~
+ag 0 900 S
+18 16 8 3d6+231 2d6+4
+263 31413
+8 8 1
+#15013
+master trainingmaster training~
+the Training Master~
+The Training Master is here, supervising the drill.
+~
+An old swordsman who has mastered nearly every weapon there is. He used to
+train guards for show. Now he trains them to kill.
+~
+abg 0 950 S
+18 16 8 2d6+220 1d8+6
+259 30000
+8 8 1
+#15014
+herald royal~
+the Royal Herald~
+The Royal Herald stands here with a sheaf of proclamations.
+~
+A young, broad-chested man with a great voice, whose work these days is
+reading out new levies and new taxes. He is hated in every village he
+visits.
+~
+0 0 800 S
+18 16 8 3d6+220 2d6+3
+260 30000
+8 8 1
+#15015
+ergan murderer~
+Ergan the Murderer~
+Slumped in a corner is Ergan, the Murderer of Townsbridge, smiling.
+~
+Ten years ago Ergan killed every soul in Townsbridge, two hundred and
+seventy-six of them, in one night, and laid them face down toward the west.
+He says he was asked to. He says it was a gift. He was a great warrior once,
+and he is still dangerous, and someone at court keeps him fed and warm.
+~
+acefhno sp -1000 S
+17 16 8 3d6+186 2d6+3
+0 27407
+6 6 1
+#15016
+butler james~
+James the Butler~
+James the Butler stands here, looking pompous.
+~
+The perfect butler: stout, balding, impeccable. He knows every secret in the
+castle and sells the best of them.
+~
+ag 0 500 S
+16 16 8 1d6+153 1d9+4
+201 15000
+8 8 1
+#15017
+woman cleaning~
+the Cleaning Woman~
+A Cleaning Woman is here, scrubbing and trying not to be noticed.
+~
+A thin, nervous woman with raw red hands. She scrubs chalk circles off the
+floors every morning and has learned never to ask who draws them.
+~
+ag 0 800 S
+14 17 9 4d6+3 1d5+0
+141 3510
+8 8 2
+#15018
+cockroach roach~
+the cockroach~
+A huge cockroach scuttles along the wall.
+~
+A cockroach as long as your forearm, which crawled in through the hole in
+the cell wall. They say these are very hard to kill. They have been eating
+something down there.
+~
+eqr 0 -250 S
+15 17 9 2d6+238 1d3+0
+41 10547
+8 8 0
+#15019
+astrologer star reader~
+the Astrologer~
+The Astrologer sits here, poring over a chart of the stars.
+~
+An old white-bearded star-reader who sells his scrolls and potions to
+frightened courtiers along with their fortunes. Lately the stars tell him
+only one thing, and he will not say what.
+~
+abelno 0 900 S
+23 0 -2 1d1+30000 3d8+30
+2000 80000
+6 6 1
+#15020
+tim guard lifeguard~
+Tim, the King's Lifeguard~
+Tim, the King's Lifeguard, stands here, watching every hand.
+~
+Tim looks exactly like his twin, Tom. The twins taste the King's food, sleep
+across his door, and would die for him without a thought. They are the only
+two men in the castle the King still trusts.
+~
+ab d 900 S
+18 16 8 3d6+213 1d8+6
+258 30463
+8 8 1
+#15021
+tom guard lifeguard~
+Tom, the King's Lifeguard~
+Tom, the King's Lifeguard, stands here, watching every hand.
+~
+Tom looks exactly like his twin, Tim. The twins taste the King's food, sleep
+across his door, and would die for him without a thought. They are the only
+two men in the castle the King still trusts.
+~
+ab d 900 S
+18 16 8 3d6+213 1d8+6
+258 30463
+8 8 1
+#15022
+chef cook~
+the Chef~
+The Chef is here, bellowing orders at the cooks.
+~
+A great fat foreign chef who has tasted too much of his own cooking. He
+feeds the court on lobster and roe while the realm eats bran, and he has
+never once asked why.
+~
+behlno 0 500 S
+18 16 8 2d6+1234 4d4+13
+535 35900
+8 8 1
+#15023
+cook~
+the cook~
+A cook is here, busy with a pot.
+~
+A junior cook, eager and sweaty, terrified of the Chef.
+~
+bh 0 300 S
+15 17 9 2d7+91 1d8+0
+171 8438
+8 8 1
+#15024
+david man guard~
+David~
+David, a huge, mean-looking man, stands here guarding the treasury door.
+~
+He is very big and very loyal to the King's silver. He would not take kindly
+to anyone trying to get past.
+~
+ab d 250 S
+18 16 8 2d6+226 1d7+6
+261 31413
+8 8 1
+#15025
+dick man guard~
+Dick~
+Dick, a huge, mean-looking man, stands here guarding the treasury door.
+~
+David's brother, just as big. He sleeps against the treasury door at night.
+~
+ab d 250 S
+18 16 8 2d6+226 1d7+6
+261 31413
+8 8 1
+#15026
+jerry guard royal~
+Jerry~
+Jerry the Royal Guard is here off duty, throwing dice.
+~
+A guard in chain mail who gambles away his pay every week. Lately he has
+been winning, and paying his debts in coins with a moth on them.
+~
+ag 0 800 S
+16 16 8 3d6+166 1d8+4
+206 23273
+5 5 1
+#15027
+michael guard royal~
+Michael~
+Michael the Royal Guard is here off duty, throwing dice.
+~
+A guard in chain mail, dicing to forget the levy lists. He has lost three
+cousins to the wall.
+~
+ag 0 800 S
+16 16 8 3d6+166 1d8+4
+206 23273
+5 5 1
+#15028
+hans guard royal~
+Hans~
+Hans the Royal Guard stands here on duty.
+~
+A guard in chain mail who has seen more than one battle, and keeps the
+dancers out of the gardens at night.
+~
+ag 0 900 S
+17 16 8 3d6+180 1d8+6
+229 26406
+8 8 1
+#15029
+boris guard royal~
+Boris~
+Boris the Royal Guard stands here on duty.
+~
+A big, scarred guard in chain mail, posted at the foot of the old tower to
+see who goes up at night. He has stopped writing down the names.
+~
+ag 0 900 S
+18 16 8 3d6+199 1d8+6
+254 28189
+8 8 1
+#15030
+zombie villager~
+the zombie~
+A zombie shambles silently among the corpses here.
+~
+A dead villager of Townsbridge, grey and bloated, still in the rags of a
+farmer's smock. It does not rest because something will not let it.
+~
+befnpr dfks 0 S
+16 16 8 4d4+121 2d6+2
+0 18497
+8 8 0
+#15031
+skeleton villager~
+the skeleton~
+A skeleton clatters about here, climbing over the corpses.
+~
+The bones of a Townsbridge villager, held together by nothing at all,
+turning its skull always toward the west.
+~
+befnpr dfk 0 S
+16 16 8 4d4+108 2d6+2
+0 16662
+8 8 0
+#15032
+fiend demon pit pool~
+the fiend of the black pool~
+A great burning shape rises out of the black pool.
+~
+It is what answers when the cult calls into the pool: a towering thing of
+ash and flame with blood-red eyes and long talons. It came a long way from
+the west to be here, and it is glad to see you.
+~
+abeflnopqr dfhk -1000 S
+22 15 8 3d60+1074 4d8+11
+654 119496
+6 8 1
+$

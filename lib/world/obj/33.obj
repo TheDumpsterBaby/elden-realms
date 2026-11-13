@@ -1,0 +1,295 @@
+#3300
+turnip orange~
+a turnip~
+A muddy turnip lies on the ground here.~
+~
+19 0 1
+8 0 0 0
+1 8 8
+E
+turnip orange~
+A hard hill turnip. Most of them go west to the wall in sacks.
+~
+#3301
+bale wheat~
+a bale of wheat~
+There is a bale of wheat here.~
+~
+19 0 1
+24 0 0 0
+100 1000 1000
+E
+bale wheat~
+It does not look appetising to you, but a horse might enjoy it. It is
+stamped with the tithe-mark of the wall.
+~
+#3302
+zither golden~
+a great golden zither~
+A huge golden zither rests in the corner.~
+~
+8 0 1
+0 0 0 0
+40 200000 20000
+E
+zither golden~
+Someone truly huge, with very big claws, might be able to play this. You
+cannot.
+~
+#3303
+barrel perfume~
+a barrel of perfume~
+You can smell a barrel of perfume from across the room.~
+~
+8 0 1
+0 0 0 0
+20 100000 10000
+E
+barrel perfume~
+A cask of rich scent, taken from some merchant's wagon on the roads. It
+smells of roses and money.
+~
+#3304
+statue golden~
+a golden statue of Aglandiir~
+A statue of Aglandiir stands here, made of solid gold.~
+~
+8 0 1 
+0 0 0 0
+30 150000 15000
+E
+statue golden~
+A striking likeness of the dragon, cast from the melted gold of many hoards.
+~
+#3305
+halberd runed~
+a runed halberd~
+A runed halberd lies on the ground here.~
+~
+5 g 8193
+0 1 12 3
+16 10000 3000
+E
+halberd runed~
+The runes glow with a bright light. Whoever owned this came up the mountain
+armed, and did not go down again.
+~
+A 
+18 5
+#3306
+potion protection dun vial~
+a potion of protection~
+A vial of dun fluid is here.~
+~
+10 a 1
+20 36 1 3
+1 10000 2000
+E
+potion protection dun vial~
+Thick and brownish-grey. It smells of earth.
+~
+#3307
+crown dragon~
+a dragon's crown~
+Aglandiir's crown sits here, wrapped in a shimmering ward.~
+~
+8 a 0
+0 0 0 0
+400 0 0
+E
+crown dragon~
+The ward pushes you back. You wonder how you could ever lay hands on such a
+great, valuable mass of gold.
+~
+#3308
+apple~
+an apple~
+A scrawny red apple sits here.~
+~
+19 0 1
+4 0 0 0
+1 5 2
+E
+apple~
+It is not wormy... yet.
+~
+#3309
+bread loaf rye~
+a loaf of rye bread~
+A loaf of dark rye bread lies here.~
+~
+19 0 1
+12 0 0 0
+1 10 5
+E
+bread loaf rye~
+Dark, heavy hill bread.
+~
+#3310
+melon marrow~
+a marrow~
+A big marrow sits here, discarded.~
+~
+19 0 1
+8 0 0 0
+3 8 3
+E
+melon marrow~
+A great green marrow, the only thing in the hills that grew well this year.
+~
+#3311
+knife gabadiel silvered~
+Gabadiel's knife~
+An exquisitely crafted silvered knife rests here.~
+~
+5 dn 24577
+0 2 4 11
+8 1000000 20000
+E
+knife gabadiel silvered~
+The craftsmanship takes your breath away. This knife was forged by the
+smith-mage Gabadiel, the first of his last three blades. It must be worth a
+fortune.
+~
+A
+18 3
+A
+2 2
+#3312
+sword long gabadiel~
+Gabadiel's long sword~
+A superb long sword sticks in the earth.~
+~
+5 dmn 24577
+0 2 4 3
+15 750000 15000
+E
+sword long gabadiel~
+The sword is light and perfectly balanced. Only the smith-mage Gabadiel
+could have made it: the second of his last three blades, and worth a
+fortune.
+~
+A
+18 2
+A
+1 1
+#3313
+sword short gabadiel~
+Gabadiel's short sword~
+A short sword lies here, a work of art.~
+~
+5 adimn 24577
+0 2 5 3
+10 10000000 30000
+E
+sword short gabadiel~
+It brings tears to your eyes. This was Gabadiel's masterwork, his last
+blade, the one he would not sell to be thrown away on the wall. Beyond
+price.
+~
+A
+18 3
+A
+2 2
+#3314
+corpse body smith~
+the burnt body of the smith~
+The dismembered and burnt body of the smith lies on the floor here.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+E
+corpse body smith~
+Gabadiel, or what is left of him. He is still smouldering a little; his
+killers cannot be far off.
+~
+#3315
+scimitar sword curved~
+a scimitar~
+A curved scimitar as long as your arm lies here.~
+~
+5 0 8193
+0 1 7 3
+10 500 50
+E
+scimitar sword curved~
+A cheap curved blade of the kind the bandits buy by the dozen. It is not of
+high quality.
+~
+#3316
+crate~
+a crate~
+A crate is stacked here.~
+~
+15 0 1
+200 5 0 0
+50 100 20
+E
+crate~
+A plain wooden crate stencilled with three crossed swords.
+~
+#3317
+bow hunting~
+a hunting bow~
+A hunting bow lies here, unwanted.~
+~
+5 0 8193
+0 1 5 11
+6 400 40
+E
+bow hunting~
+A bow for deer and rabbits, not for battle. Lately it has been used for
+bandits.
+~
+A
+19 1
+#3318
+vest leather runed~
+a runed leather vest~
+A fine leather vest lies here.~
+~
+9 g 9
+6 0 0 0
+6 5000 500
+E
+vest leather runed~
+The seams are sewn with a rune-worked thread, the kind Gabadiel used.
+~
+#3319
+glass beer~
+a glass of beer~
+A glass of beer sits forgotten here.~
+~
+17 0 16385
+1 1 1 0
+2 5 1
+E
+glass beer~
+Thin home-brewed beer, with not too much floating in it.
+~
+#3320
+glass mead ale~
+a glass of mead~
+A big glass of mead sits here.~
+~
+17 0 16385
+1 1 3 0
+2 8 3
+E
+glass mead ale~
+Hill mead, sweet and strong.
+~
+#3321
+shot whisky~
+a shot of whisky~
+A shot of whisky is sitting here.~
+~
+17 0 16385
+1 1 5 0
+1 10 5
+E
+shot whisky~
+Potent stuff, distilled in a barn somewhere.
+~
+$

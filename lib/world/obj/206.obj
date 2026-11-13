@@ -1,0 +1,150 @@
+#20600
+club bone~
+a bone club~
+A heavy club of bone lies here.~
+~
+5 0 8193
+0 3 5 5
+8 1124 112
+#20601
+spear chief glass~
+a glass-tipped spear~
+A spear tipped with black glass lies here.~
+~
+5 0 8193
+0 3 5 11
+8 1217 121
+A
+18 3
+A
+19 2
+#20602
+necklace stone fingers~
+a necklace of stone fingers~
+A necklace of grey stone fingers lies here.~
+~
+11 0 5
+0 0 0 0
+2 1217 121
+A
+4 2
+A
+20 -4
+#20603
+shield glass scale~
+a shield of glass scales~
+A shield of fused glass scales lies here.~
+~
+9 0 513
+12 0 0 0
+10 1217 121
+A
+13 30
+#20604
+eye basilisk~
+a basilisk's eye~
+A grey eye, hard as stone, lies here, staring.~
+~
+11 0 16385
+0 0 0 0
+2 1217 121
+A
+3 2
+A
+12 50
+#20605
+pike warden bone~
+a bone pike~
+A long pike of fused bone lies here.~
+~
+5 0 8193
+0 3 6 11
+8 1217 121
+A
+19 3
+#20606
+heart wyrm ember~
+the heart of the Ashen Wyrm~
+A grey ember the size of a fist, still beating, lies here.~
+~
+11 0 16385
+0 0 0 0
+2 1281 128
+A
+1 2
+A
+5 2
+A
+13 50
+#20607
+mail scale wyrm~
+a coat of ashen wyrm scales~
+A coat of grey dragon scales lies here.~
+~
+9 0 9
+15 0 0 0
+10 1281 128
+A
+13 40
+A
+24 -3
+#20608
+staff glass~
+a staff of black glass~
+A staff of black glass lies here, something dark moving inside it.~
+~
+5 0 8193
+0 3 7 5
+8 1249 124
+A
+12 40
+A
+3 2
+#20609
+beads prayer ash~
+a string of ash prayer beads~
+A string of grey prayer beads lies here.~
+~
+11 0 5
+0 0 0 0
+2 1155 115
+A
+4 1
+A
+24 -2
+#20610
+blade scorched sword~
+a scorched sword~
+A blackened army sword lies here.~
+~
+5 0 8193
+0 3 5 3
+8 1186 118
+A
+18 3
+#20611
+crown salt~
+a crown of salt crystal~
+A crown of white salt crystal lies here.~
+~
+9 0 17
+9 0 0 0
+10 1186 118
+A
+13 25
+A
+5 1
+#20612
+standard banner scorched~
+a scorched regimental standard~
+A scorched regimental standard leans against a burned wagon.~
+~
+8 0 1
+0 0 0 0
+2 3000 300
+E
+standard banner~
+The banner of the Third of the East, burned to a rag. Midgaard would pay to
+have it home.
+~
+$

@@ -1,0 +1,335 @@
+#21200
+legionary bastion~
+a Bastion legionary~
+A legionary in black iron marches past, eyes burning grey.
+~
+The elite of the West's armies, armoured in grey iron from the Shattered
+Peaks.
+~
+dfg 0 -1000 E
+92 0 -1 23d10+567 10d6+17
+1664 101578
+8 8 0
+BareHandAttack: 0
+E
+#21201
+centurion legion~
+a legion centurion~
+A centurion in a crested helm drills the ranks with a black staff.
+~
+It has drilled ten thousand soldiers for the march on Midgaard.
+~
+dfg 0 -1000 E
+94 0 -1 23d10+1644 10d12+32
+2296 318106
+8 8 0
+BareHandAttack: 0
+E
+#21202
+general forge~
+the Forge-General~
+The Forge-General turns from the platform, a red-hot blade in each hand.
+~
+Master of the war-forges, who arms every legion the West sends east. Its
+arms are black iron to the shoulder.
+~
+dbfl 0 -1000 E
+98 0 -2 24d10+6124 10d20+53
+4603 1152490
+8 8 1
+BareHandAttack: 0
+E
+#21203
+thrall forge~
+a forge thrall~
+A forge thrall hammers grey iron, burned all over.
+~
+Hollowed smiths from a dozen fallen kingdoms.
+~
+dfg 0 -800 E
+91 0 -1 22d10+565 10d6+16
+1635 99382
+8 8 0
+BareHandAttack: 0
+E
+#21204
+beastmaster master beast~
+the Beastmaster~
+The Beastmaster cracks a whip of chains, and every beast in the pens cowers.
+~
+She breeds the war-beasts of the West from things captured and things made.
+She has wanted to see what is inside a hero for a long time.
+~
+dbfl 0 -1000 E
+98 0 -2 24d10+6124 10d20+53
+4603 1152490
+8 8 2
+BareHandAttack: 0
+E
+#21205
+beast war~
+a war-beast~
+A war-beast with too many eyes throws itself against its cage.
+~
+Part hound, part wyvern, part something else.
+~
+dfg 0 -900 E
+93 0 -1 23d10+1626 10d12+32
+2257 311374
+8 8 0
+BareHandAttack: 8
+E
+#21206
+guard dread~
+a dread guard~
+A dread guard in black plate stands motionless, a glaive in hand.
+~
+The Herald's own guard. They have not moved in a hundred years except to
+kill.
+~
+dfg 0 -1000 E
+94 0 -1 23d10+1644 10d12+32
+2296 318106
+8 8 0
+BareHandAttack: 0
+E
+#21207
+warden chains~
+the Warden of Chains~
+The Warden of Chains turns from a cell, chains rattling around its body.
+~
+Wrapped in the chains of every prisoner it has broken. It asks you to kneel.
+It asks very politely.
+~
+dbfl 0 -1000 E
+98 0 -2 24d10+6124 10d20+53
+4603 1152490
+8 8 0
+BareHandAttack: 0
+E
+#21208
+hero captive prisoner~
+a captive hero~
+A captive hero in rags grips the bars of a cell.
+~
+A legend of the living, taken alive. They have not knelt. They will not
+kneel. They ask you, if you can, to tell Midgaard that they did not kneel.
+~
+db 0 900 E
+90 0 -1 22d10+83 1d2+0
+1392 19450
+8 8 0
+BareHandAttack: 0
+E
+#21209
+priest void~
+a void priest~
+A priest of Nu'Groth rises from the floor, its face a smooth blank.
+~
+It has stared into the western window so long that its face has worn away.
+~
+dfg 0 -1000 E
+94 0 -1 23d10+1644 10d12+32
+2296 318106
+8 8 0
+BareHandAttack: 0
+E
+#21210
+general dread~
+a dread general~
+A dread general looks up from the war table, grey fire in its eyes.
+~
+Each of the generals has destroyed a kingdom. Each has been promised
+Midgaard.
+~
+dfg 0 -1000 E
+98 0 -2 24d10+6124 10d20+53
+4603 1152490
+8 8 0
+BareHandAttack: 0
+E
+#21211
+herald iron~
+the Iron Herald~
+The Iron Herald turns from the western sky, and when it speaks, Nu'Groth speaks through it.
+~
+The first champion of Nu'Groth, so old that no one remembers what it was
+before. Its armour has grown into its flesh, and its voice is the voice of
+the West. "You have come so far," it says. "It changes nothing."
+~
+dbfl 0 -1000 E
+100 0 -2 25d10+14163 11d27+77
+11094 3600010
+8 8 0
+BareHandAttack: 0
+E
+#21212
+archer bastion~
+a Bastion archer~
+A Bastion archer turns from the battlements and draws a black arrow.
+~
+A hollowed bowman of the Bastion, who never misses and never tires.
+~
+dfg 0 -1000 E
+92 0 -1 23d10+567 10d6+17
+1664 101578
+8 8 0
+BareHandAttack: 11
+E
+#21213
+crew siege thrall~
+a siege crewman~
+A hollowed siege crewman drops his rope and comes at you.
+~
+A thrall worked hollow at the engines.
+~
+dfg 0 -800 E
+91 0 -1 22d10+565 10d6+16
+1635 99382
+8 8 0
+BareHandAttack: 13
+E
+#21214
+master engine~
+the engine master~
+The engine master looks up from his plans, a hammer in his iron hand.
+~
+The engineer who builds the engines that will break Midgaard's wall.
+~
+dbfl 0 -1000 E
+94 0 -1 23d10+1644 10d12+32
+2296 318106
+8 8 0
+BareHandAttack: 7
+E
+#21215
+crow gibbet grey~
+a gibbet crow~
+A grey crow as big as a dog flaps down from a gibbet.
+~
+Fat on heroes.
+~
+dfg 0 -600 E
+92 0 -1 23d10+567 10d6+17
+1664 101578
+8 8 0
+BareHandAttack: 11
+E
+#21216
+elemental slag~
+a slag elemental~
+A shape of molten slag heaves itself out of the pit.
+~
+The waste of the grey iron, given a shape and a temper.
+~
+dfg 0 -800 E
+94 0 -1 23d10+1644 10d12+32
+2296 318106
+8 8 0
+BareHandAttack: 6
+E
+#21217
+drake grey war~
+a grey war-drake~
+A wingless grey war-drake lunges against its chain.
+~
+Bred to pull engines and break walls.
+~
+dfg 0 -700 E
+94 0 -1 23d10+1644 10d12+32
+2296 318106
+8 8 0
+BareHandAttack: 4
+E
+#21218
+broodmother drake mother~
+the drake brood-mother~
+The drake brood-mother uncoils from her clutch, fire in her throat.
+~
+The mother of every war-drake in the Bastion, huge and ancient.
+~
+dbfl 0 -800 E
+98 0 -2 24d10+6124 10d20+53
+4603 1152490
+8 8 2
+BareHandAttack: 4
+E
+#21219
+prisoner forgotten~
+a forgotten prisoner~
+A pale thing that was a prisoner crawls toward your light.
+~
+Alone in the dark so long that it has forgotten everything but hunger.
+~
+dfg 0 -300 E
+91 0 -1 22d10+565 10d6+16
+1635 99382
+8 8 0
+BareHandAttack: 8
+E
+#21220
+inquisitor~
+the Inquisitor~
+The Inquisitor sets down a hot iron and smiles at you.
+~
+The Bastion's questioner. Everyone answers him in the end.
+~
+dbfl 0 -1000 E
+98 0 -2 24d10+6124 10d20+53
+4603 1152490
+8 8 0
+BareHandAttack: 14
+E
+#21221
+acolyte void~
+a void acolyte~
+A void acolyte rises from the altar, grey light pouring from its mouth.
+~
+A priest of the hole in the floor.
+~
+dfg 0 -1000 E
+93 0 -1 23d10+575 10d6+17
+1693 103798
+8 8 0
+BareHandAttack: 12
+E
+#21222
+harpy storm~
+a storm harpy~
+A storm harpy shrieks and dives from the tower's horn.
+~
+A grey-winged hag of the high winds.
+~
+dfg 0 -900 E
+93 0 -1 23d10+1626 10d12+32
+2257 311374
+8 8 2
+BareHandAttack: 8
+E
+#21223
+officer staff~
+a staff officer~
+A staff officer in black looks up from the maps and draws his sword.
+~
+He knows the east better than anyone living in it.
+~
+dbfl 0 -1000 E
+93 0 -1 23d10+1626 10d12+32
+2257 311374
+8 8 0
+BareHandAttack: 0
+E
+#21224
+officer dread~
+a dread officer~
+A dread officer rises from his bunk, already armoured.
+~
+An officer of the legion, dead and tireless.
+~
+dfg 0 -1000 E
+94 0 -1 23d10+1644 10d12+32
+2296 318106
+8 8 0
+BareHandAttack: 0
+E
+$

@@ -1,0 +1,117 @@
+#21300
+shard mirror~
+a shard of mirror~
+A long shard of mirror lies here, reflecting someone who is not you.~
+~
+5 0 8193
+0 4 6 3
+8 2437 243
+A
+18 4
+#21301
+locket memory~
+a locket of remembered faces~
+A small silver locket lies here.~
+~
+11 0 5
+0 0 0 0
+2 2521 252
+E
+locket~
+Inside, a tiny painting of faces you almost recognise. Holding it, you
+remember everyone you have lost, clearly, and it hurts, and it is good.
+~
+A
+4 3
+A
+3 2
+A
+24 -4
+#21302
+lantern keeper grey~
+the Keeper's lantern~
+A lantern burning with grey light that shows true things lies here.~
+~
+1 a 16385
+0 0 -1 0
+2 2564 256
+A
+18 4
+A
+19 4
+A
+12 60
+#21303
+mantle threshold silence~
+a mantle of old silence~
+A grey mantle that makes no sound lies here.~
+~
+9 0 1025
+10 0 0 0
+10 2564 256
+A
+13 90
+A
+2 2
+A
+20 -5
+#21304
+crown mirror glass~
+a crown of mirror-glass~
+A crown of mirror-glass lies here, reflecting faces.~
+~
+9 0 17
+12 0 0 0
+10 2521 252
+A
+18 5
+A
+3 2
+#21305
+heart titan~
+a titan's iron heart~
+A great iron heart lies here, still beating.~
+~
+11 0 16385
+0 0 0 0
+2 2564 256
+A
+13 70
+#21306
+shard star~
+a shard of a dead star~
+A sliver of cold white light lies here.~
+~
+5 0 8193
+0 4 6 11
+8 2479 247
+A
+18 4
+A
+19 3
+#21307
+greaves remade grey~
+a pair of remade greaves~
+A pair of grey greaves lies here.~
+~
+9 0 33
+12 0 0 0
+10 2521 252
+A
+13 40
+#21308
+journal keeper book~
+the Keeper's journal~
+A thin journal lies open on the table.~
+~
+12 0 1
+0 0 0 0
+2 10 1
+E
+journal~
+The last entry, in a hand that shakes: "It came to the door today and asked
+to pass. I said no, as I have said to all. It did not argue. It simply
+waited, and I am so tired, and it is so patient. If you read this, I am
+still at the door. Kill me if you can. I would like to rest."
+~
+$

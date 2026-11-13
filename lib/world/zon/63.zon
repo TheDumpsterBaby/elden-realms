@@ -1,0 +1,41 @@
+#63
+Claude~
+The Hospice of the Last Rites~
+6300 6399 15 2
+M 0 6300 2 6301	wounded_soldier
+M 0 6301 1 6301	nursing_sister
+O 0 6300 1 6302	holy_basin
+M 0 6302 1 6302	herb_sister
+G 1 6301 100	comfrey_poultice
+M 0 6303 1 6303	orderly
+M 0 6304 1 6304	gate_sister
+M 0 6305 1 6305	rite_priest
+M 0 6300 3 6306	wounded_soldier
+M 0 6301 2 6306	nursing_sister
+M 0 6306 1 6307	physician
+E 1 6303 100 16	bone_saw
+M 0 6307 1 6309	bell_ringer
+M 0 6308 3 6310	belfry_bat
+M 0 6309 1 6311	apothecary
+G 1 6302 100	poppy_draught
+M 0 6310 1 6312	mortuary_sister
+E 1 6304 100 16	mortuary_mace
+M 0 6311 2 6312	shrouded_dead
+D 0 6312 1 2
+M 0 6312 1 6313	sexton
+E 1 6305 100 16	sexton_mattock
+G 1 6306 100	crypt_key
+D 0 6314 3 2
+M 0 6313 3 6315	risen_dead
+M 0 6314 2 6316	bone_swarm
+M 0 6315 1 6316	ossuary_guardian
+G 1 6307 50	bone_amulet
+M 0 6316 2 6317	drowned_dead
+M 0 6317 2 6318	risen_monk
+E 1 6308 40 3	abbots_rosary
+M 0 6318 1 6319	unquiet_abbess
+E 1 6309 100 16	abbess_crook
+E 1 6310 100 6	abbess_veil
+G 1 6306 100	crypt_key
+S
+$

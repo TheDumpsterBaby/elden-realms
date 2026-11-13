@@ -1,0 +1,1858 @@
+#15000
+The King's Road~
+   The King's Road begins here, broad and dead straight, its fitted stones
+laid by masons whose skill nobody can match now. The levy carts have worn
+two deep ruts down the middle of it. A tired carter trudges past toward the
+west, his wagon full of tithe-grain, and does not look up. The road runs
+east toward the castle and west to the lanes of Miden'Nir; a small overgrown
+trail slips away south through the undergrowth.
+~
+150 c 1
+D1
+The King's Road runs straight east toward a pale castle.
+~
+~
+0 -1 15001
+D2
+A small trail, almost grown over, leads south through the undergrowth.
+~
+~
+0 -1 15061
+D3
+The King's Road narrows into a lane to the west.
+~
+~
+0 -1 3502
+E
+traveller carter wagon~
+A thin carter with a tithe-collector's token on his hat. He nods when you
+greet him but keeps walking. "Grain for the wall," he mutters. "Always grain
+for the wall."
+~
+S
+#15001
+The King's Road~
+   The middle of the King's Road. The road runs east and west as straight as
+a drawn line. Every half mile a post has been set up by the verge, and on
+every post is nailed the same notice: a new levy, a new tax, in the King's
+name and sealed with his stag.
+~
+150 0 1
+D1
+The King's Road continues in a straight line to the east.
+~
+~
+0 -1 15002
+D3
+The King's Road runs west toward the lanes and, far beyond, Midgaard.
+~
+~
+0 -1 15000
+E
+notice post~
+By order of King Welmar: one son in four to the wall at Midgaard; one sheaf
+in three to the King's barns. Those who hide either will hang.
+~
+S
+#15002
+The King's Road~
+   The road runs on east and west, perfectly level. A gibbet stands on the
+verge here, empty now, its chain creaking. Ahead in the east the towers of
+the castle rise pale above the trees, with banners on every one.
+~
+150 0 1
+D1
+In the east rise the pale towers of a castle.
+~
+~
+0 -1 15003
+D3
+The King's Road continues in a straight line to the west.
+~
+~
+0 -1 15001
+E
+gibbet chain~
+A tall gibbet of black wood. A board nailed to it reads "LEVY-DODGER". The
+cage is empty; the crows have finished with him.
+~
+S
+#15003
+On The King's Road Outside A Castle~
+   The road ends before King Welmar's castle. It was built for beauty, not
+for war: white stone, slim towers, carved windows. Lately someone has tried
+to make up for that. The windows have been narrowed to arrow slits with raw
+new masonry, and the moat has been dug deeper. A drawbridge crosses the moat
+to the north; the road leads back west.
+~
+150 0 1
+D0
+The drawbridge crosses the moat to the castle gate.
+~
+~
+0 -1 15004
+D3
+The King's Road continues in a straight line to the west.
+~
+~
+0 -1 15002
+S
+#15004
+On The Drawbridge~
+   You stand on the drawbridge before the castle gate, a huge double door
+carved with stags and vines. Crossbowmen watch you from the slits above. The
+moat below is black and still, except for slow whirls that rise and fade on
+its surface. The road lies south.
+~
+150 c 1
+D0
+The gate is a great double door of carved oak on huge hinges. It was made to
+be admired; now it is barred every night.
+~
+gate door~
+1 -1 15007
+D2
+The King's Road leads away south.
+~
+~
+0 -1 15003
+E
+whirls whirl moat~
+Something large turns slowly under the black water. The guards say it is
+only the old pike. They do not say it as if they believe it.
+~
+E
+gate stags carvings~
+The carvings show stags running through vines. Someone has scratched a tiny
+moth into the corner of one panel, and someone else has tried to scrape it
+off.
+~
+S
+#15005
+The Kitchen~
+   The castle kitchen roars with heat. Spits turn, pots boil and a swarm of
+cooks run at the Chef's shouts. Here, while Midgaard eats ration bread, the
+court still feasts: lobster, roe, sugared fruit, swans glazed in honey.
+Shelves of copper pans line every wall. Narrow passages lead north and east.
+~
+150 d 0
+D0
+You see a small, dimly lit passage.
+~
+~
+0 -1 15010
+D1
+You see a small, dimly lit passage.
+~
+~
+0 -1 15006
+E
+shelves pans copper~
+Rows of polished copper pans, worth more than a village pays in tithe.
+~
+S
+#15006
+A Small Passage~
+   A narrow, dim passage for servants, so that the court need never see the
+food being carried. The floor is greasy and the walls are stained with
+smoke. The kitchen lies west, and a small door leads east.
+~
+150 d 0
+D1
+The door is small and uninteresting.
+~
+door small~
+1 -1 15007
+D3
+You hear pots clanging and smell roasting meat.
+~
+~
+0 -1 15005
+S
+#15007
+The Entrance Hall~
+   The entrance hall of the castle, tall and white, hung with portraits of
+Welmar's ancestors. Every one of them has been turned a little to face the
+door, as if keeping watch. Courtiers wait here in silk and whisper behind
+their hands. The Great Hall opens north, a guard room lies east, the gate is
+south and a small door leads west.
+~
+150 d 0
+D0
+You see the King's Great Hall.
+~
+~
+0 -1 15012
+D1
+There seems to be a small guard room to the east.
+~
+~
+0 -1 15008
+D2
+To the south, there is a gate, that leads to the Drawbridge.
+~
+gate~
+1 -1 15004
+D3
+The door is small and uninteresting.
+~
+door small~
+1 -1 15006
+E
+portraits portrait ancestors~
+Kings and queens of the stag. The oldest have calm faces. The newest,
+Welmar's own, was painted with his hand on his sword and his eyes on the
+west.
+~
+S
+#15008
+The Guard Room~
+   A small, stuffy room where guards off duty wait for their next watch. A
+table is ringed with dice-cups and empty cups, and someone has chalked a
+tally of wagers on the wall. The only way out is west, to the entrance hall.
+~
+150 d 0
+D3
+You see the Castle Entrance.
+~
+~
+0 -1 15007
+E
+tally wall chalk~
+Names and sums. Beside one name someone has drawn a little grey moth instead
+of a number.
+~
+S
+#15009
+Under The Tower~
+   You are beneath the south-east tower, in a part of the castle that nobody
+uses. Dust lies thick, but there are fresh footprints in it, going up the
+stairs and coming down again, always at night. Stairs lead up into the tower
+and a passage runs north.
+~
+150 cd 0
+D0
+You see a small, dimly lit passage.
+~
+~
+0 -1 15014
+D4
+The old stairs lead up into the tower.
+~
+~
+0 -1 15034
+E
+stairs~
+Old stairs in good repair. The dust on the treads is scuffed by many feet.
+~
+E
+footprints prints dust~
+Soft shoes, not guards' boots. Courtiers' slippers, a great many of them.
+~
+S
+#15010
+The Small Passage~
+   A cramped passage behind the walls, used by the servants to come and go
+unseen. Spy-holes have been bored through the panelling here and there, by
+whom nobody knows. It runs north and south; the kitchen noise comes from the
+south.
+~
+150 d 0
+D0
+You see a small, dimly lit passage.
+~
+~
+0 -1 15015
+D2
+You hear pots clanging and smell roasting meat.
+~
+~
+0 -1 15005
+E
+spy holes spyholes panelling~
+Small holes, each at eye height, looking into the Great Hall. Some have been
+stopped with wax. Others have been opened again.
+~
+S
+#15011
+The Great Hall~
+   The south-west corner of the Great Hall, a hall so vast that its roof
+seems as far away as the sky. Long tables stand ready for tonight's feast,
+laid with silver for three hundred. Musicians tune in a corner and a lady
+laughs too loudly at nothing. The hall continues north and east.
+~
+150 d 0
+D0
+You see the King's Great Hall.
+~
+~
+0 -1 15016
+D1
+You see the King's Great Hall.
+~
+~
+0 -1 15012
+E
+roof paintings paint~
+The painted roof once showed the heroes of the crown riding west. Painters
+on scaffolds are slowly covering the western half in black, by order of
+someone at court; nobody will say whose order.
+~
+E
+tables silver~
+Silver plates, silver cups. Every week a few pieces go missing, and every
+week they are quietly replaced.
+~
+S
+#15012
+The Great Hall~
+   The southern end of the Great Hall. Courtiers drift across the polished
+floor in twos and threes, never more, and fall silent whenever a guard walks
+past. North, at the far end of the hall, stands King Welmar's ivory throne.
+The hall spreads east and west, and the entrance hall lies south.
+~
+150 d 0
+D0
+You see the part of the Great Hall where the throne is.
+~
+~
+0 -1 15017
+D1
+You see the King's Great Hall.
+~
+~
+0 -1 15013
+D2
+You see the Castle Entrance.
+~
+~
+0 -1 15007
+D3
+You see the King's Great Hall.
+~
+~
+0 -1 15011
+E
+roof paintings paint~
+The painted roof once showed the heroes of the crown riding west. Painters
+on scaffolds are slowly covering the western half in black, by order of
+someone at court; nobody will say whose order.
+~
+E
+courtiers~
+Silk, perfume, rouge, and frightened eyes. They talk of feasts and
+marriages, and never of the west.
+~
+S
+#15013
+The Great Hall~
+   The south-east corner of the Great Hall. A painted screen stands here,
+and behind it two lords are arguing in hushed voices over who will pay for
+the next levy and whose sons will be sent. The hall continues north and
+west.
+~
+150 d 0
+D0
+You see the King's Great Hall.
+~
+~
+0 -1 15018
+D3
+You see the King's Great Hall.
+~
+~
+0 -1 15012
+E
+roof paintings paint~
+The painted roof once showed the heroes of the crown riding west. Painters
+on scaffolds are slowly covering the western half in black, by order of
+someone at court; nobody will say whose order.
+~
+E
+screen~
+A screen painted with hunting scenes. It hides a great deal of whispering.
+~
+S
+#15014
+A Passage~
+   A bare passage of white stone, chilly and little used. Southward it leads
+to the foot of the south-east tower; north it joins the small passage by the
+Great Hall. Someone has hung a sprig of grey herbs above the southern arch.
+~
+150 d 0
+D0
+You see the small passage continue.
+~
+~
+0 -1 15019
+D2
+~
+~
+0 -1 15009
+E
+sprig herbs grey~
+Dried ashleaf, tied with grey thread. The servants say it is to keep moths
+away. There are no moths here.
+~
+S
+#15015
+The Passage~
+   A passage running north and south along the western side of the Great
+Hall. Pages hurry along it with trays and messages. An archway east opens
+into the Great Hall.
+~
+150 d 0
+D0
+You see the passage continue.
+~
+~
+0 -1 15020
+D1
+The Great Hall, bright with candles.
+~
+~
+0 -1 15016
+D2
+You see the passage continue.
+~
+~
+0 -1 15010
+S
+#15016
+The Great Hall~
+   The north-west end of the Great Hall. A long table here is reserved for
+the King's council, its chairs carved with the stag; three of them are
+draped in black for councillors who died this year, all quite suddenly. East
+stands the throne; a passage lies west and the hall runs south.
+~
+150 d 0
+D1
+You see the part of the Great Hall where the throne is.
+~
+~
+0 -1 15017
+D2
+You see the King's Great Hall.
+~
+~
+0 -1 15011
+D3
+You see a passage.
+~
+~
+0 -1 15015
+E
+roof paintings paint~
+The painted roof once showed the heroes of the crown riding west. Painters
+on scaffolds are slowly covering the western half in black, by order of
+someone at court; nobody will say whose order.
+~
+E
+chairs black council table~
+Three chairs draped in black. A fever, a fall, a bad oyster, the court says.
+It says so very quickly.
+~
+S
+#15017
+By The Throne In The Great Hall~
+   You stand before King Welmar's throne, carved from a single block of
+ivory so large that the beast it came from does not bear thinking about. Two
+guardsmen never leave its side. The steps below it are worn by petitioners,
+and the floor before it is scrubbed every morning, because every morning
+someone has drawn something on it in chalk. The hall continues east, west
+and south.
+~
+150 d 0
+D1
+You see the King's Great Hall.
+~
+~
+0 -1 15018
+D2
+You see the King's Great Hall.
+~
+~
+0 -1 15012
+D3
+You see the King's Great Hall.
+~
+~
+0 -1 15016
+E
+roof paintings paint~
+The painted roof once showed the heroes of the crown riding west. Painters
+on scaffolds are slowly covering the western half in black, by order of
+someone at court; nobody will say whose order.
+~
+E
+throne ivory~
+Carved with stags, griffins and old beasts. The King has had iron bands
+fixed to the back of it, and a sword-rack within reach of his hand.
+~
+E
+floor chalk~
+Scrubbed clean. Faintly, in the grain of the stone, the ghost of a circle
+can still be seen.
+~
+S
+#15018
+The Great Hall~
+   The north-east end of the Great Hall. Tall windows here look east, away
+from the war, and the court likes to gather beneath them. A small passage
+leads east; the throne is west and the hall runs south.
+~
+150 d 0
+D1
+A small passage.
+~
+~
+0 -1 15019
+D2
+You see the King's Great Hall.
+~
+~
+0 -1 15013
+D3
+You see the part of the Great Hall where the throne is.
+~
+~
+0 -1 15017
+E
+roof paintings paint~
+The painted roof once showed the heroes of the crown riding west. Painters
+on scaffolds are slowly covering the western half in black, by order of
+someone at court; nobody will say whose order.
+~
+E
+windows~
+The eastern windows show green hills and quiet woods. Nobody ever stands at
+the western ones.
+~
+S
+#15019
+The Small Passage~
+   A small passage leading north and south behind the Great Hall. A guard is
+posted here day and night, though nobody can quite say what against. The
+Great Hall lies west.
+~
+150 d 0
+D0
+The passage continues to the north.
+~
+~
+0 -1 15024
+D2
+The passage continues to the south.
+~
+~
+0 -1 15014
+D3
+The Great Hall lies west.
+~
+~
+0 -1 15018
+S
+#15020
+The Passage~
+   A passage that leads north to the foot of the great staircase and south
+toward the Great Hall. A small, plain door opens east into the servants'
+wing.
+~
+150 d 0
+D0 
+The passage leads to a great staircase.
+~
+~
+0 -1 15025
+D1
+A small, plain door. Servants come and go through it without looking up.
+~
+door~
+1 -1 15021
+D2
+The passage continues to the south.
+~
+~
+0 -1 15015
+S
+#15021
+The Servants' Corridor~
+   The servants' corridor is narrow, bare and cold, a world away from the
+silk and gilt of the court. It runs east. Doors lead north to the servants'
+quarters and west to the passage.
+~
+150 d 0
+D0
+A plain wooden door to the servants' quarters.
+~
+door~
+1 -1 15026
+D1
+The corridor ends a little further east.
+~
+~
+0 -1 15022
+D3
+A wooden door to the west.
+~
+door wood~
+1 -1 15020
+S
+#15022
+The End Of The Servants' Corridor~
+   The corridor ends here. A door to the north leads to the butler's rooms;
+the corridor runs back west. The floor outside the butler's door is scrubbed
+whiter than anywhere else in the wing.
+~
+150 d 0
+D0
+The door to the butler's rooms.
+~
+door~
+1 15009 15027
+D3
+You see the corridor continue.
+~
+~
+0 -1 15021
+S
+#15023
+The Training Room~
+   The training room of the Royal Guard, a long hall smelling of sweat and
+oil, with racks of weapons along every wall. Most are blunted for practice,
+but a few are kept sharp, and lately the sharp ones are the ones in use. The
+guard drills here twice a day now. A heavy door leads north to the barracks;
+a passage lies east.
+~
+150 d 0
+D0
+A large, heavy door to the barracks.
+~
+door large heavy~
+1 -1 15028
+D1
+You see a small passage.
+~
+~
+0 -1 15024
+E
+racks weapons rack~
+Blunt practice blades, and beside them a few good swords, freshly honed.
+~
+S
+#15024
+The Small Passage~
+   A small passage running north and south. From the west come grunts,
+shouted counts and the clash of practice steel. To the north the passage
+reaches a staircase going down.
+~
+150 d 0
+D0
+The passage leads north to some stairs.
+~
+~
+0 -1 15029
+D2
+You see the passage continuing.
+~
+~
+0 -1 15019
+D3
+The training room, loud with drill.
+~
+~
+0 -1 15023
+S
+#15025
+The Stair Room~
+   The foot of the great marble staircase that climbs to the second floor.
+Its pillars are carved as trees, with squirrels and birds running up the
+trunks. On one pillar a carver has added, very small, a moth with a grey
+stone set for its eye. A passage leads south.
+~
+150 d 0
+D2
+You see the passage.
+~
+~
+0 -1 15020
+D4
+The marble stairs lead up to the second floor.
+~
+~
+0 -1 15049
+E
+stairs stair~
+Marble stairs, made for beauty, worn soft in the middle by generations of
+court shoes.
+~
+E
+pillar pillars tree trees~
+Squirrels, finches, owls. And low on one trunk a small moth, newer than the
+rest, its eye a chip of grey stone.
+~
+E
+moth~
+A carved moth, wings spread. Its grey eye is cold to the touch.
+~
+S
+#15026
+The Servants' Quarters~
+   A long, low room packed with narrow beds for the castle servants. Their
+few belongings are kept in a large chest. Over several of the beds hangs a
+knot of grey thread, and the servants who sleep there do not talk to the
+others. The only door is south.
+~
+150 d 0
+D2
+A wooden door leads back to the corridor.
+~
+door wood~
+1 -1 15021
+E
+bed beds~
+Narrow, hard beds. Above some of them hangs a little knot of grey thread.
+~
+E
+thread knot~
+Grey thread tied in a knot shaped like a moth. The servants who wear it are
+said to sleep very well.
+~
+S
+#15027
+The Butler's Quarters~
+   The butler's rooms lie in the servants' wing and yet are almost as fine
+as a lord's: a broad bed, a carpet, a writing desk, a locked drawer. The
+butler hears everything that happens in the castle, and some of what he
+hears is worth gold. The only way out is the door to the south.
+~
+150 d 0
+D2
+The door leads back to the corridor.
+~
+door~
+1 15009 15022
+E
+bed~
+A wide, soft bed with a fine coverlet, far too fine for a servant.
+~
+E
+drawer desk~
+A locked drawer in a writing desk. The edges of letters stick out of it,
+sealed in many different colours of wax.
+~
+S
+#15028
+The Guards' Barracks~
+   A long room of bunks where the off-duty guard sleep, drink and gamble.
+The talk here is of the levies, and of the men who were taken from the Royal
+Guard last spring and sent west to Midgaard. None of them have written back.
+The heavy door is south.
+~
+150 d 0
+D2
+A large, heavy door to the training room.
+~
+door large heavy~
+1 -1 15023
+E
+bunk bunks~
+Hard bunks. Several are empty, the names scratched off the frames.
+~
+S
+#15029
+The Stairs~
+   Here the white marble gives way to rough granite, and a staircase drops
+into the dark beneath the castle. The air coming up it is damp and smells of
+old straw. This is where the beauty of the castle stops. The passage lies
+south.
+~
+150 d 0
+D2
+You see the small passage.
+~
+~
+0 -1 15024
+D5
+The stairs lead down into darkness.
+~
+~
+0 -1 15055
+E
+stairs stair staircase~
+Granite stairs, plain and functional, leading down to the dungeons.
+~
+S
+#15030
+At A Bend In The Corridor~
+   The long upper corridor bends here from east to north. A tall mirror
+hangs at the corner, and it has been covered with a black cloth. The
+corridor runs north and east.
+~
+150 d 0
+D0
+You see the corridor continue.
+~
+~
+0 -1 15035
+D1
+You see the corridor continue.
+~
+~
+0 -1 15031
+E
+mirror cloth~
+Under the cloth the mirror is cracked across, as if something struck it from
+the inside.
+~
+S
+#15031
+The Corridor~
+   A long corridor hung with tapestries of the crown's old victories. They
+show armies marching west in bright colours, and they are fading badly. The
+corridor runs east and west.
+~
+150 d 0
+D1
+You see the corridor continue.
+~
+~
+0 -1 15032
+D3
+You see the corridor continue.
+~
+~
+0 -1 15030
+E
+tapestries tapestry~
+Knights of the stag riding west under a gold sun. The colours have faded to
+grey.
+~
+S
+#15032
+The Corridor~
+   The corridor runs east and west past more tapestries. One has been taken
+down, and only its iron hooks and a paler square of wall remain. A guard is
+posted here.
+~
+150 d 0
+D1
+You see the corridor continue.
+~
+~
+0 -1 15033
+D3
+You see the corridor continue.
+~
+~
+0 -1 15031
+E
+tapestries tapestry hooks square~
+A pale square where a tapestry hung. The servants say it showed the first
+King Welmar crowned at Midgaard. Someone sold it.
+~
+S
+#15033
+The Corridor~
+   The corridor comes to a corner here. It runs back west, and to the north
+it opens into the guest wing, where the scent of perfume and the sound of
+soft music drift out.
+~
+150 d 0
+D0
+The guest wing, warm and perfumed.
+~
+~
+0 -1 15038
+D3
+You see the corridor continue.
+~
+~
+0 -1 15032
+S
+#15034
+In The South-East Tower~
+   A cold, bare room inside the south-east tower. Old crates are stacked
+against the walls, but a path has been cleared between them to the next
+stairs. Stairs lead on up into the dark, and down to the ground floor.
+~
+150 d 0
+D4
+The room at the top of the tower is dim, lit only by a candle.
+~
+~
+0 -1 15052
+D5
+The stairs go down to the foot of the tower.
+~
+~
+0 -1 15009
+S
+#15035
+The Corridor~
+   The corridor runs north and south here, lit by candles in silver holders.
+An exit east leads to a small antechamber where guards stand watch over the
+treasury door.
+~
+150 d 0
+D0
+You see the corridor continue.
+~
+~
+0 -1 15040
+D1
+A small antechamber.
+~
+~
+0 -1 15036
+D2
+You see the corridor continue.
+~
+~
+0 -1 15030
+S
+#15036
+By The Treasure Room~
+   A small antechamber before a great door of steel, solid and new, set into
+the old white wall. A sign is posted beside it. The treasury holds the
+tithes of half the realm before they go west; the guards here are the
+biggest men the castle has. The corridor lies west.
+~
+150 d 0
+D1
+A large door of new steel.
+~
+door steel large~
+2 15007 15037
+D3
+You see the corridor.
+~
+~
+0 -1 15035
+E
+sign~
+TREASURY OF THE CROWN. Tithes of the realm, held for the wall. None shall
+enter save by the King's own word. Trespass is death.
+~
+S
+#15037
+The Great Treasury~
+   The treasury of the crown. There is less gold than the stories say; most
+of it has gone west to pay the wall. What remains is art: paintings,
+tapestries, carvings and statues, crowded together under dust sheets. The
+ledgers say the crown owns more pieces than are here. Nobody has dared to
+tell the King. The steel door is west.
+~
+150 d 0
+D3
+You see a large steel door.
+~
+door large steel~
+2 15007 15036
+E
+painting paintings carving carvings sculptures tapestries~
+Treasures of the stag kings, sheeted against the dust. Gaps in the rows show
+where pieces have quietly gone.
+~
+E
+ledgers ledger~
+The ledgers list a silver stag, three tapestries and a dozen paintings that
+are no longer here. Each has been marked "lent" in a neat hand.
+~
+S
+#15038
+The Guest Wing~
+   The guest wing, where lords and envoys stay when they come to beg the
+King for fewer levies. It is warm and perfumed and full of soft footsteps. A
+large ornamented door leads east to the great suite, a smaller door north to
+a guest room, and the corridor lies south.
+~
+150 d 0
+D0
+A smaller door to a guest room.
+~
+door small~
+1 -1 15043
+D1
+A large ornamented door to the guest suite.
+~
+door ornament ornamented~
+1 -1 15039
+D2
+You see the corridor.
+~
+~
+0 -1 15033
+S
+#15039
+The Guest Suite~
+   The living room of the great guest suite, gilt and velvet and far too
+warm. Wine cups stand about half-finished. Whoever stays here now never
+seems to leave it by day, but the servants say that at night the suite is
+full of visitors. The bedroom is north and a door leads west.
+~
+150 d 0
+D0
+You see the bedroom.
+~
+~
+0 -1 15044
+D3
+Behind the door lies the guest wing.
+~
+door~
+1 -1 15038
+E
+cups wine~
+Half-finished cups of dark wine. In the dregs of one, a drowned grey moth.
+~
+S
+#15040
+The Corridor~
+   A stretch of the long corridor running north and south. The candles here
+have burned down and not been replaced, and the tapestries are in deep
+shadow.
+~
+150 d 0
+D0
+You see the corridor continue.
+~
+~
+0 -1 15045
+D2
+You see the corridor continue.
+~
+~
+0 -1 15035
+S
+#15041
+The Ball Room~
+   The south-west end of the great Ball Room, its floor polished like dark
+water. The court still dances here every week, masked, while the levies
+march. The stage for the musicians is east; the ball room runs north.
+~
+150 d 0
+D0
+You see the Ball Room.
+~
+~
+0 -1 15046
+D1
+To the east you see the stage.
+~
+~
+0 -1 15042
+S
+#15042
+By The Stage~
+   The musicians' stage, wide enough for forty players. It is empty now, and
+the boards beneath it creak hollowly. Under the edge of the stage someone
+has drawn a grey circle in chalk and not quite rubbed it out. The Ball Room
+continues west and north.
+~
+150 d 0
+D0
+You see the Ball Room.
+~
+~
+0 -1 15047
+D3
+You see the Ball Room.
+~
+~
+0 -1 15041
+E
+circle chalk~
+A circle of grey chalk with seven marks around it, like seven standing
+stones.
+~
+S
+#15043
+A Guest Room~
+   A comfortable guest room for lesser visitors: a good bed, a wash-stand
+and a window. A minor lord's travelling chest stands open and empty, and his
+boots are still by the bed. Nobody has seen him for a week. The door is
+south.
+~
+150 d 0
+D2
+Behind the door, you see the entrance to the Guest Wing.
+~
+door~
+1 -1 15038
+E
+chest boots~
+A lord's chest, open and empty, and a pair of good riding boots. He would
+not have left without them.
+~
+S
+#15044
+The Bedroom~
+   The bedroom of the great suite, filled by a huge four-poster bed hung
+with grey velvet. The air is heavy with incense that does not quite hide
+another smell beneath it, like cold earth. The living room is south.
+~
+150 d 0
+D2
+You see the living room of the suite.
+~
+~
+0 -1 15039
+E
+bed velvet~
+Grey velvet curtains, a bolstered bed. On the pillow lies a single grey
+thread.
+~
+S
+#15045
+The Corridor~
+   The long corridor runs north and south. To the east a wide archway opens
+into the Ball Room, and the sound of a lone violin drifts out.
+~
+150 d 0
+D0
+You see the corridor continue.
+~
+~
+0 -1 15049
+D1
+The Ball Room.
+~
+~
+0 -1 15046
+D2
+You see the corridor continue.
+~
+~
+0 -1 15040
+S
+#15046
+The Ball Room~
+   The north-west end of the Ball Room. Masks hang along the wall on silver
+pegs, ready for the next revel: stags, foxes, swans, and a new one, grey and
+plain, with no mouth. The Ball Room continues east and south, and the
+corridor lies west.
+~
+150 d 0
+D1
+You see the Ball Room.
+~
+~
+0 -1 15047
+D2
+You see the Ball Room.
+~
+~
+0 -1 15041
+D3
+You see the corridor.
+~
+~
+0 -1 15045
+E
+masks mask~
+Masks for the revels. The grey mouthless one is the most popular this
+season. Nobody admits to wearing it.
+~
+S
+#15047
+The Ball Room~
+   The north-east end of the Ball Room. Great windows look out over the
+gardens, and a guard stands here to stop the dancers slipping away into
+them. East, a door opens into a tower; the stage lies south and the Ball
+Room west.
+~
+150 d 0
+D1
+To the east, the foot of a tower.
+~
+~
+0 -1 15048
+D2
+To the south you see the stage.
+~
+~
+0 -1 15042
+D3
+You see the Ball Room.
+~
+~
+0 -1 15046
+S
+#15048
+In The Tower~
+   The base of the north-east tower, the tallest of the three watch-towers.
+Granite stairs wind up from here a long way toward the lookout. The Ball
+Room is west.
+~
+150 d 0
+D3
+You see the Ball Room.
+~
+~
+0 -1 15047
+D4
+The stairs climb a long way to the top of the tower.
+~
+~
+0 -1 15054
+E
+stairs~
+Solid granite stairs, worn by the boots of watchmen.
+~
+S
+#15049
+The Grand Staircase~
+   The grand staircase climbs on above the second floor toward a tower top,
+and sweeps down to the floor below. East is a large oak door, iron-bound and
+newly fitted with three locks: the King's own rooms. A corridor runs south.
+~
+150 d 0
+D1
+A large oak door with three new locks.
+~
+door oak large~
+1 15014 15050
+D2
+You see the corridor.
+~
+~
+0 -1 15045
+D4
+The stairs continue up to the top of a tower.
+~
+~
+0 -1 15053
+D5
+The stairs lead down to the ground floor.
+~
+~
+0 -1 15025
+E
+stairs~
+Marble stairs and tree-carved pillars, with small animals running up the
+trunks.
+~
+E
+door oak locks~
+A heavy oak door with three new locks. The King keeps every key himself.
+~
+S
+#15050
+The Cosy Room~
+   The King's private sitting room. A fire burns day and night in the
+fireplace, and a few deep chairs stand around a small table. Here Welmar
+sits up through the small hours with every candle lit, reading the lists
+from Midgaard. A door leads west, and the bedroom opens east.
+~
+150 d 0
+D1
+The King's bedroom lies east.
+~
+~
+0 -1 15051
+D3
+The large oak door leads back to the staircase.
+~
+door large oak~
+1 15014 15049
+E
+fire fireplace~
+A big log fire. It is never let go out. The King does not like the dark.
+~
+E
+table~
+A small mahogany table piled with dispatches from the Lord Commander of
+Midgaard: casualties, requests for men, requests for grain.
+~
+E
+chairs~
+Deep chairs drawn close to the fire.
+~
+E
+dispatches lists~
+Names of the dead of the wall, and at the foot of each list the same line:
+"We need more men."
+~
+S
+#15051
+King Welmar's Bedroom~
+   The King's bedchamber, with a wide view east over the quiet hills. The
+western window has been bricked up. A great four-poster bed stands to one
+side, and the walls are lined with shelves of books, many of them on war, on
+the west, and on old wards against the dark. The only way out is west.
+~
+150 d 0
+D3
+There is a large and cosy room to the west.
+~
+~
+0 -1 15050
+E
+books book shelf shelves bookshelf bookshelves~
+Worn books, thoroughly read: "The Holding of the Wall", "Of the March and
+What Walks There", and "Wards and Watches", its pages heavily marked in the
+King's hand.
+~
+E
+bed~
+A royal bed with a sword hung on the post within reach of the pillow.
+~
+E
+history wall holding~
+"The Holding of the Wall," a dry history of every Lord Commander of
+Midgaard. Welmar has underlined each one who died at his post.
+~
+E
+wards watches~
+"Wards and Watches," an old book of protective signs. Someone else has
+written in the margins too, in grey ink, crossing out every ward.
+~
+E
+window bricked~
+The western window is bricked up with new red brick. The mortar is still
+pale.
+~
+S
+#15052
+Up In The Tower~
+   At the top of the south-east tower is a small, dim room lit by one
+flickering candle on a cluttered table. Charts of the night sky cover the
+walls, and a great telescope points out through a slit in the roof. The
+King's star-reader works here, and courtiers climb up at night to ask him
+what the stars say about the west. The only way out is down.
+~
+150 d 0
+D5
+The stairs go back down the tower.
+~
+~
+0 -1 15034
+E
+table~
+Star charts, compasses, a skull, and a list of courtiers' names with the
+hour of their birth beside each.
+~
+E
+candle~
+A tallow candle, burning low. It is the only light he allows.
+~
+E
+charts chart walls~
+Charts of the stars. In the western sky a cluster has been inked over in
+grey and labelled with a single word too faint to read.
+~
+S
+#15053
+The Top Of The Tower~
+   The top of a watch-tower, built for defence and nothing else. The windows
+are slits for bowmen, narrow outside and broad within. Fresh arrows have
+been stacked beneath them, and a brazier stands ready. The only way is down
+the stairs.
+~
+150 d 0
+D5
+The stairs go down to the second floor.
+~
+~
+0 -1 15049
+E
+window slit windows~
+Through the slits you see the green countryside, and the King's Road running
+west toward Midgaard.
+~
+E
+arrows brazier~
+Sheaves of new arrows and a brazier of pitch. The castle expects to be
+attacked one day, and not from the east.
+~
+S
+#15054
+The Top Of The Tower~
+   The top of the highest tower, the castle's lookout. The view is vast.
+North and east rise the white mountains; south roll quiet hills. West, the
+King's Road runs dead straight to Midgaard, and beyond the fort, on the far
+horizon, lies a grey haze that never lifts. The only way is down.
+~
+150 d 0
+D0
+To the north the White Mountains lift their peaks into the clouds. The
+dwarves hold halls under them still, and their forge-smoke rises from the
+high valleys.
+~
+~
+0 -1 -1
+D1
+East lies an arm of the White Mountains, quiet and far from the war.
+~
+~
+0 -1 -1
+D2
+South, rolling hills stretch away, dotted with farms that have too few men
+left to work them.
+~
+~
+0 -1 -1
+D3
+West, past the woods and lanes, Midgaard stands on its river, a grey wall
+with smoke above it. Beyond it the land goes on into a haze, grey, flat and
+unmoving, where nothing can be seen at all.
+~
+~
+0 -1 -1
+D5
+The stairs go back down to the second floor.
+~
+~
+0 -1 15048
+S
+#15055
+The Bottom Of The Stairs~
+   The stairs end in a damp stone room beneath the castle. Water drips
+somewhere in the dark. A single torch in a bracket lights the way east, into
+a small guard room; the stairs climb back up.
+~
+150 d 0
+D1
+A small guard room opens to the east.
+~
+~
+0 -1 15056
+D4
+The stairs lead up out of the damp.
+~
+~
+0 -1 15029
+S
+#15056
+The Guard Room~
+   A cheerless guard room under the castle. A table, a chair and a deck of
+cards are all its furniture. Somebody must sit down here all day, and the
+only reason anyone would is the prisoner behind the south door. A stairwell
+in the west wall leads back up.
+~
+150 d 0
+D2
+Through the peep hole in the small wooden door you see a corridor lined with
+cells.
+~
+door wooden~
+1 15017 15057
+D3
+A small stairwell in the western wall leads upwards.
+~
+~
+0 -1 15055
+E
+table cards deck~
+A deck of cards, stacked on the table. One card lies on the floor.
+~
+E
+card floor~
+The Ace of Spades, face up. Nobody has picked it up. The guards will not
+touch it.
+~
+S
+#15057
+The Prison~
+   A short corridor of cells, about thirty feet long. Torches burn in locked
+iron cages along the walls, with a flame that never flickers and gives no
+smoke; some court mage set them burning years ago. Cells open east and west
+near the north end, and a third, double-padlocked, stands alone at the south
+end with a small plaque in the keystone of its arch. A wooden door leads
+north.
+~
+150 d 0
+D0
+A small wooden door blocks the way out of the prison.
+~
+door wooden~
+1 15017 15056
+D1
+A cell door is set into the eastern wall.
+~
+door cell~
+2 15017 15060
+D2
+The cell door to the south is double padlocked, with a plaque in the
+keystone above it.
+~
+door cell~
+2 15017 15059
+D3
+A cell door is set into the western wall.
+~
+door cell~
+2 15017 15058
+E
+plaque keystone~
+The plaque in the keystone is engraved with four simple words: Ergan,
+Murderer of Townsbridge.
+~
+E
+torches torch cages~
+The flames stand perfectly still, like painted fire.
+~
+S
+#15058
+A Cell~
+   A wrecked cell. Something has broken through the western wall from the
+other side, leaving a small ragged hole, and the stones around it are
+scratched by many small claws. The cell door is in the eastern wall.
+~
+150 d 0
+D1
+The cell door to the east leads back to the prison hallway.
+~
+door cell~
+2 15017 15057
+E
+hole~
+The hole is far too small to climb through. Something in the dark beyond it
+rustles.
+~
+S
+#15059
+Ergan's Cell~
+   This large cell is almost a lodging: a cot with good blankets, a table
+cut from the wall, a rug, a jug of wine. Ergan butchered a whole village,
+and yet someone at court pays to keep him warm. On the wall above the cot he
+has scratched a ring of seven marks. The door is north.
+~
+150 d 0
+D0
+The cell door to the north leads back to the prison hallway.
+~
+door cell~
+2 15017 15057
+E
+marks ring wall~
+Seven scratches in a ring, around a smooth black smear. The same shape as
+the stones in the woods south of the road.
+~
+E
+rug cot blankets wine jug~
+Good wool, good wine. Gifts, sent down by somebody who does not sign their
+name.
+~
+S
+#15060
+A Cell~
+   A small, damp, dark cell that has stood empty a long time. Something is
+written on the wall in a careful hand, over and over. The door is in the
+west wall.
+~
+150 d 0
+D3
+The cell door to the west leads back to the prison hallway.
+~
+door cell~
+2 15017 15057
+E
+wall writing~
+"It will be kind. It will be kind. It will be kind." The rest is scratched
+out.
+~
+S
+#15061
+An Overgrown Trail~
+   A faint trail leaves the King's Road and burrows into the woods, almost
+lost under brambles and fern. Nobody has cut it back in years. Behind you
+the creak of levy carts on the road is already muffled. The trail leads
+north and south.
+~
+150 0 4
+D0
+The creak of carts on the King's Road comes from the north.
+~
+~
+0 -1 15000
+D2
+The trail continues southwards.
+~
+~
+0 -1 15062
+S
+#15062
+An Overgrown Trail~
+   The trail winds deeper into the woods. Birds sing here, but fewer than
+there should be, and none at all in the trees ahead. Fern closes over the
+path. The trail runs north and east.
+~
+150 0 4
+D0
+The trail continues northwards.
+~
+~
+0 -1 15061
+D1
+The trail appears to continue to the east.
+~
+~
+0 -1 15063
+S
+#15063
+An Overgrown Trail~
+   The trail bends here. To the south the woods thin, and an unnatural
+silence hangs over that way, as if every sound were being swallowed. The
+trail leads west and south.
+~
+150 0 4
+D2
+The undergrowth opens up to the south onto a small, silent village.
+~
+~
+0 -1 15064
+D3
+The overgrown trail winds back west.
+~
+~
+0 -1 15062
+S
+#15064
+A Dirt Road~
+   The trail comes out of the woods onto the dirt road of a small village.
+There is no sound but the wind: no dogs, no hammering, no voices. Nothing
+moves. A sign lies fallen by the roadside. A house stands to the west; the
+road runs south into the village, and the trail goes back north.
+~
+150 0 2
+D0
+A trail leads into the heavy undergrowth to the north.
+~
+~
+0 -1 15063
+D2
+The dirt road continues through the village to the south.
+~
+~
+0 -1 15065
+D3
+A house stands just west of the road, its door hanging open.
+~
+~
+0 -1 15068
+E
+sign~
+A painted board: "Welcome to the hamlet of Townsbridge. Population: 276."
+The number has been scratched out and replaced with a 0.
+~
+S
+#15065
+A Small Intersection~
+   A small path splits off the dirt road here and runs west into the dark
+trees. The woods lean close around the village, as if they were keeping
+something in. A wailing sound comes from the house on the east side of the
+road. The road runs north and south.
+~
+150 0 2
+D0
+The dirt road continues to the north.
+~
+~
+0 -1 15064
+D1
+A thin, endless wail comes from the house to the east.
+~
+~
+0 -1 15069
+D2
+The dirt road continues towards the south where a horrible smell
+permeates the air.
+~
+~
+0 -1 15066
+D3
+A small, dark trail leads into the woods to the west.
+~
+~
+0 -1 15072
+S
+#15066
+A Dirt Road~
+   This stretch of road reeks of rot. West, a small thatched cottage stands
+untouched, as if nothing had happened. East is the blackened shell of a
+shop, its sign hanging from a charred chain. The road runs north, and south
+toward the source of the stench.
+~
+150 0 2
+D0
+The small dirt road continues towards the north.
+~
+~
+0 -1 15065        
+D1
+The burned shell of a shop stands east.
+~
+~
+0 -1 15071
+D2
+The stench from the south is almost overpowering now... it seems that
+the source wouldn't be too far from here.
+~
+~
+0 -1 15067
+D3
+A quiet cottage stands west of the road, strangely untouched.
+~
+~
+0 -1 15070
+E
+sign~
+Charred and sooty, the sign still shows a few letters: T TO SB DGE NER L RE.
+~
+S
+#15067
+A Large Pit~
+   The road ends at the lip of a great pit, and here is the stench. The pit
+is a mass grave, full of the bones of Townsbridge. But many of the bodies
+are fresh, far too fresh: someone still brings the dead here, a decade after
+the village died. The road leads back north.
+~
+150 0 2
+D0
+Just near the north edge of the pit a small and narrow trail leads
+away.
+~
+~
+0 -1 15066
+E
+bodies corpses bones pit~
+Old bones below; newer bodies above, in rags of every kind, refugees,
+carters, a man in a courtier's silk. Every one has been laid face down,
+toward the west.
+~
+S
+#15068
+A House~
+   The house has been torn apart: the furniture is smashed and flung about
+as if a storm had burst inside it. And yet there is no dust and no cobweb
+anywhere. It looks as though it happened this morning, and every morning.
+The road is east, through the doorway.
+~
+150 d 0
+D1
+You can see the dirt road through the doorway to the east.
+~
+~
+0 -1 15064
+S
+#15069
+A House~
+   A dark house full of cobwebs and deep dust that rises at every step. The
+furniture is old and of a fashion not seen for a lifetime. A thin howl comes
+and goes from nowhere you can find. Weak light falls through the doorway to
+the west.
+~
+150 ad 0
+D3
+You can see the dirt road through the doorway to the west.
+~
+~
+0 -1 15065
+S
+#15070
+A Small Cottage~
+   The cottage is just as its owners left it: table laid, bread on the
+board, the fire laid but not lit. Nothing is dusty. The bread is fresh.
+There is a body on the floor. It would be wise to leave. The road is east
+through the open door.
+~
+150 d 0
+D1
+You can see the dirt road through the doorway to the east.
+~
+~
+0 -1 15066
+S
+#15071
+The Burned Shop~
+   The village shop, burned out. The fire must have smouldered unwatched for
+days. The roof is gone and two walls are burned down to half their height.
+Scorched goods lie in the ash, and the stump of a counter stands by the
+north wall. The road is west, through the gap in the wall.
+~
+150 0 2
+D3
+You can see the dirt road to the west.
+~
+~
+0 -1 15066
+E
+counter goods ash~
+Melted candles, cracked jars, a scorched ledger with the last page torn out.
+~
+S
+#15072
+A Dark Path~
+   Under the trees the light dies quickly, too quickly, as if the dark here
+were made rather than grown. Not a leaf stirs. Something in you wants very
+much to turn back. The path goes on west, and daylight lies east.
+~
+150 ad 1
+D1
+The path leads back to a small crossroads in the village.
+~
+~
+0 -1 15065
+D3
+The path continues through the darkness.
+~
+~
+0 -1 15073
+S
+#15073
+A Dark Path~
+   The trees crowd in over the narrow path, so close that their branches
+brush your face. The silence is complete. Ahead in the west there is a green
+glow that lights nothing. The path runs east and west.
+~
+150 ad 1
+D1
+The path continues through the darkness.
+~
+~
+0 -1 15072
+D3
+A green glow comes from the west, strong but somehow giving no light.
+~
+~
+0 -1 15074
+S
+#15074
+The Circle Of Stones~
+   Seven standing stones of black glassy rock stand in a ring here, each
+twice the height of a man, each giving off a faint green glow. In the centre
+of the ring lies a round black pool, flat as a mirror, its surface rippling
+though there is no wind. The trees close overhead and blot out the sky.
+   Fresh flowers, grey ribbons and a courtier's silk glove lie at the foot
+of the stones. Someone from the castle comes here. A narrow path leads east.
+~
+150 d 1
+D1
+A narrow path leads away into the darkness.
+~
+~
+0 -1 15073
+D4
+The trees knot together over the ring, shutting out the sky.
+~
+~
+0 -1 -1
+E
+stones glow stone ring circle~
+Each stone is fifteen feet tall or more. The dark rock glows a dull green,
+enough to see by. Seven moths are cut into each one.
+~
+E
+pool mirror disk~
+A black disc of water, perfectly round. Your reflection in it is a moment
+late.
+~
+E
+flowers ribbons glove~
+Offerings. The glove is fine kidskin, embroidered with a little grey moth,
+the kind of thing a lady of the court would wear.
+~
+S
+$

@@ -1,0 +1,265 @@
+#20600
+drifter ash~
+an ash drifter~
+A shape of drifting ash in the form of a man walks toward you against the wind.
+~
+Everyone the Blight burned in the waste walks here still, as grey ash held
+together by hatred.
+~
+dfg 0 -900 E
+61 5 3 15d10+394 7d6+11
+862 44662
+8 8 0
+BareHandAttack: 8
+E
+#20601
+worm blight~
+a blight worm~
+A grey worm as long as a wagon bursts up out of the ash.
+~
+Blind, armoured in grey rings, its mouth a funnel of teeth. It hunts by the
+vibration of footsteps.
+~
+dfg 0 -600 E
+63 5 3 15d10+408 7d6+11
+908 47638
+8 8 0
+BareHandAttack: 4
+E
+#20602
+scavenger stone~
+a stone scavenger~
+A lean grey beast with stone-crusted claws picks through the wreck.
+~
+Half lizard, half hound, its hide crusted with grey stone. It eats the stone
+dead.
+~
+dfg 0 -500 E
+62 5 3 15d10+402 7d6+11
+885 46138
+8 8 0
+BareHandAttack: 8
+E
+#20603
+ash-eater eater ash tribesman~
+an ash-eater~
+An ash-eater with black eyes and grey skin bares worn teeth at you.
+~
+The tribe ate the ash because there was nothing else, and the ash ate them
+back.
+~
+dfg 0 -800 E
+62 5 3 15d10+402 7d6+11
+885 46138
+8 8 0
+BareHandAttack: 0
+E
+#20604
+chief ash~
+the ash-chief~
+The ash-chief rises from the fire, stone fingers clicking at her throat.
+~
+She speaks to the Wyrm, and it answers in her dreams. She feeds it her own
+people, and they thank her for it.
+~
+dbfl 0 -1000 E
+68 3 2 17d10+4325 7d20+36
+2565 554890
+8 8 2
+BareHandAttack: 0
+E
+#20605
+mother worm~
+the worm mother~
+A worm plated with fused glass rears over her eggs, mouth gaping.
+~
+The brood-mother of the waste's worms, armoured in glass from the fires.
+~
+dbfl 0 -700 E
+68 3 2 17d10+4325 7d20+36
+2565 554890
+8 8 0
+BareHandAttack: 4
+E
+#20606
+shade glass~
+a glass shade~
+A figure trapped in the glass tears itself free, its edges sharp as knives.
+~
+Someone who burned in the fire that made the glass, and became part of it.
+~
+dfg 0 -900 E
+63 5 3 15d10+1145 7d12+22
+1210 142894
+8 8 0
+BareHandAttack: 3
+E
+#20607
+stalker stone~
+a stone stalker~
+A stone wolf steps down from its pedestal, grinding as it moves.
+~
+Turned to stone by the Blight, and then woken again by it, hungry and very
+hard to hurt.
+~
+dfg 0 -800 E
+64 4 2 16d10+1157 7d12+22
+1241 147466
+8 8 0
+BareHandAttack: 4
+E
+#20608
+basilisk blight~
+the blight basilisk~
+A huge grey lizard with too many legs rises from the pool, its eyes burning.
+~
+The thing that turns the living to stone. The Blight made it, and it made
+the forest.
+~
+dbfl 0 -900 E
+68 3 2 17d10+4325 7d20+36
+2565 554890
+8 8 0
+BareHandAttack: 4
+E
+#20609
+storm ash pillar~
+a walking ash storm~
+A pillar of whirling ash and lightning bears down on you, screaming.
+~
+A storm with a will, full of the voices of the burned.
+~
+dfg 0 -800 E
+64 4 2 16d10+1157 7d12+22
+1241 147466
+8 8 0
+BareHandAttack: 12
+E
+#20610
+warden obelisk~
+an obelisk warden~
+A tall figure in bone armour stands at the foot of an obelisk, unmoving.
+~
+The wardens guard the army road. They do not sleep and they do not stop.
+~
+dbf 0 -1000 E
+65 4 2 16d10+1174 7d12+22
+1272 152110
+8 8 0
+BareHandAttack: 0
+E
+#20611
+wyrm ashen dragon~
+the Ashen Wyrm~
+The Ashen Wyrm uncoils from the crater, grey fire leaking between its teeth.
+~
+A serpent-dragon as long as a river, grey as the waste it made. It came from
+the West when the Blight was young and burned this country to ash with a
+single breath, and it sleeps here guarding the army road.
+~
+dbfl 0 -1000 E
+70 3 2 17d10+10007 8d26+53
+6269 1764010
+8 8 0
+BareHandAttack: 12
+E
+#20612
+magister glass mage~
+the Glass Magister~
+The Glass Magister turns from his fused books, his skin clear as glass, his bones dark inside it.
+~
+The last mage of Sarn, who tried to bargain with the thing that melted his
+city. It let him live, and made him glass, and he has had a thousand years
+to regret it.
+~
+dbfl 0 -900 E
+68 3 2 17d10+4325 7d20+36
+2565 554890
+8 8 0
+BareHandAttack: 0
+E
+#20613
+thing well rope~
+a thing from the well~
+A long grey thing climbs out of a well, hand over hand up the rope.
+~
+It lived at the bottom of the wells when they ran dry. It is very thin and
+very hungry.
+~
+dfg 0 -900 E
+63 5 3 15d10+408 7d6+11
+908 47638
+8 8 0
+BareHandAttack: 8
+E
+#20614
+strider dune~
+a dune strider~
+A dune strider stalks along the crest on stilt-thin legs, twice the height of a man.
+~
+A tall grey thing of bone and ash with a head like a heron. It spears its
+prey from above.
+~
+dfg 0 -800 E
+64 4 2 16d10+1157 7d12+22
+1241 147466
+8 8 0
+BareHandAttack: 11
+E
+#20615
+prophet ash~
+the ash prophet~
+The ash prophet breaks off his sermon to the skulls and turns his burning eyes on you.
+~
+A preacher of the grey sun who walked west to be taken and was found
+wanting. He has been preaching to the dead ever since.
+~
+dbfl 0 -1000 E
+63 5 3 15d10+408 7d6+11
+908 47638
+8 8 0
+BareHandAttack: 0
+E
+#20616
+pilgrim grey~
+a grey pilgrim~
+A barefoot grey pilgrim walks west, singing, and turns to bless you with a knife.
+~
+Someone from the east who chose the West. Their feet are bloody and their
+eyes are happy.
+~
+dfg 0 -800 E
+64 4 2 16d10+410 7d6+11
+931 49162
+8 8 0
+BareHandAttack: 14
+E
+#20617
+revenant ash soldier~
+an ash revenant~
+A burned soldier rises from his post, ash falling from his armour.
+~
+A soldier of the last army east, burned at his post and still standing his
+watch.
+~
+dfg 0 -900 E
+65 4 2 16d10+1174 7d12+22
+1272 152110
+8 8 0
+BareHandAttack: 0
+E
+#20618
+wight salt~
+a salt wight~
+A salt-crusted figure steps out of a side passage, crystals cracking at its joints.
+~
+One of the drowned of the dry lake, preserved in salt and given motion by
+the West.
+~
+dfg 0 -900 E
+64 4 2 16d10+1157 7d12+22
+1241 147466
+8 8 0
+BareHandAttack: 8
+E
+$

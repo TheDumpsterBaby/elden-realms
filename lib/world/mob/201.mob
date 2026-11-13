@@ -1,0 +1,237 @@
+#20100
+stalker quiet~
+a quiet stalker~
+Something grey and long-limbed freezes between the trunks, watching you.
+~
+Thin as a sapling, grey as bark, with too many joints in its arms. The wood
+went quiet when these came.
+~
+dfg 0 -700 E
+37 11 6 9d10+260 4d6+6
+387 16438
+8 8 0
+BareHandAttack: 8
+E
+#20101
+forester hollow woodcutter~
+a hollowed forester~
+A hollowed forester chops at a tree that is not there.
+~
+Grey sap has crusted over his eyes and mouth. He still swings his axe, at
+trees, at air, at you.
+~
+dfg 0 -700 E
+36 11 6 9d10+253 4d6+6
+370 15562
+8 8 1
+BareHandAttack: 0
+E
+#20102
+crawler sap insect~
+a sap crawler~
+A beetle the size of a dog, crusted with grey sap, scuttles toward you.
+~
+It drank the grey sap and grew. It is still growing.
+~
+dfg 0 -500 E
+35 12 6 8d10+251 4d6+6
+354 14710
+8 8 0
+BareHandAttack: 4
+E
+#20103
+boar thornback~
+a thornback boar~
+A huge boar with black thorns growing from its spine paws the ground.
+~
+The thorns grow out through its hide. It is in constant pain, and it hates
+everything.
+~
+dfg 0 -500 E
+38 11 6 9d10+741 4d12+13
+539 51994
+8 8 0
+BareHandAttack: 11
+E
+#20104
+deer hollow~
+a milky-eyed deer~
+A deer with milky grey eyes stands perfectly still, facing west.
+~
+Its flanks are sunken and its antlers are growing in strange, branching
+spirals.
+~
+dfg 0 -500 E
+35 12 6 8d10+251 4d6+6
+354 14710
+8 8 0
+BareHandAttack: 11
+E
+#20105
+lurker moss~
+a moss lurker~
+A curtain of grey moss shifts and reaches for you.
+~
+It looks like hanging moss until it moves. It wraps its prey and holds it
+until it stops struggling.
+~
+dbf 0 -600 E
+38 11 6 9d10+741 4d12+13
+539 51994
+8 8 0
+BareHandAttack: 2
+E
+#20106
+spider greyweb~
+a greyweb spider~
+A grey spider as big as a wolf picks its way along a web.
+~
+Its body is bloated and grey, its bite carries a venom that numbs and greys
+the flesh.
+~
+dfg 0 -600 E
+37 11 6 9d10+260 4d6+6
+387 16438
+8 8 0
+BareHandAttack: 4
+E
+#20107
+brood mother spider~
+the Brood Mother~
+A spider the size of a cart rises from her web, mandibles clicking.
+~
+Ancient and enormous, her abdomen swollen with eggs. The West has made her
+fertile beyond nature, and her children are spreading east.
+~
+dbfl 0 -800 E
+42 10 5 10d10+2771 5d17+21
+1186 211690
+8 8 0
+BareHandAttack: 4
+E
+#20108
+keeper bone~
+the bone keeper~
+A hunched thing of bark and bone crawls out of the passage behind the roots.
+~
+It collects bones and arranges them in spirals, an offering to the voice in
+the West. It wants yours for the centre of a new one.
+~
+dbfl 0 -900 E
+42 10 5 10d10+2771 5d17+21
+1186 211690
+8 8 0
+BareHandAttack: 8
+E
+#20109
+wight stream~
+a stream wight~
+A pale shape rises from the clear, dead water.
+~
+A drowned traveller, white as the bleached stones. The cold of the stream
+lives in its touch.
+~
+dbf 0 -800 E
+38 11 6 9d10+741 4d12+13
+539 51994
+8 8 0
+BareHandAttack: 8
+E
+#20110
+forester mad~
+the mad forester~
+The mad forester carves a small wooden figure, humming.
+~
+He is not hollowed, not yet; he carved and carved to hold on to himself.
+"Everyone is going west," he says. "I am making them so I remember."
+~
+db 0 -400 E
+39 11 6 9d10+758 4d13+13
+562 54766
+8 8 1
+BareHandAttack: 0
+E
+#20111
+owl grey~
+a grey owl~
+A grey owl as big as an eagle watches from a branch, head turning.
+~
+Silent and huge, its feathers patchy. It hunts in daylight now.
+~
+dfg 0 -400 E
+36 11 6 9d10+253 4d6+6
+370 15562
+8 8 0
+BareHandAttack: 8
+E
+#20112
+owl elder~
+the elder owl~
+An owl the size of a horse spreads moulting grey wings above you.
+~
+The oldest creature in the wood after the Antlered One. It was wise once.
+Now it only hungers.
+~
+dbfl 0 -600 E
+42 10 5 10d10+2771 5d17+21
+1186 211690
+8 8 0
+BareHandAttack: 8
+E
+#20113
+sentinel heartwood treant~
+a heartwood sentinel~
+A tree beside the opening uproots itself and steps forward.
+~
+A guardian of black wood, its bark split by grey cracks, its eyes knots of
+sap.
+~
+dbf 0 -700 E
+40 10 5 10d10+770 5d10+14
+585 57610
+8 8 0
+BareHandAttack: 6
+E
+#20114
+thornling thorn~
+a thornling~
+A small figure woven of black thorns unfolds from the hedge.
+~
+The dryad grows them from the maze. They are all thorns and spite.
+~
+dfg 0 -700 E
+38 11 6 9d10+267 4d6+7
+404 17338
+8 8 0
+BareHandAttack: 11
+E
+#20115
+dryad grey~
+the grey dryad~
+A dryad of black wood and grey moss twists toward you, weeping sap.
+~
+She was the wood's gentlest spirit. Now she grows thorns for the West, and
+every thorn costs her agony.
+~
+dbfl 0 -800 E
+43 10 5 10d10+2832 5d17+22
+1232 221890
+8 8 2
+BareHandAttack: 2
+E
+#20116
+antlered hollow guardian stag~
+the Antlered Hollow~
+The Antlered Hollow lowers its vast rotting crown toward you, grey fire blazing in its ribs.
+~
+For a thousand years the Antlered One kept the wood. Nu'Groth reached into
+its heart and hollowed it, and now the whole forest obeys a guardian of rot.
+Its antlers scrape the roof of living trees.
+~
+dbfl 0 -1000 E
+45 9 5 11d10+6540 5d25+32
+3091 729010
+8 8 0
+BareHandAttack: 11
+E
+$

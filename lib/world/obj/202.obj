@@ -1,0 +1,171 @@
+#20200
+barrel rain~
+a rain barrel~
+A rain barrel of clean water stands by the bar.~
+~
+23 0 0
+100 100 0 0
+2 11 1
+#20201
+ladle hag iron~
+the hag's iron ladle~
+A heavy iron ladle lies here.~
+~
+5 0 8193
+0 2 6 5
+8 608 60
+#20202
+charm hag reed~
+a reed charm on a cord~
+A charm of knotted reeds and hair lies here.~
+~
+11 0 5
+0 0 0 0
+2 632 63
+A
+24 -3
+A
+4 1
+#20203
+spear eel~
+an eel spear~
+A barbed eel spear lies here.~
+~
+5 0 8193
+0 2 6 11
+8 584 58
+#20204
+badge soldier~
+a soldier's badge~
+A tarnished soldier's badge lies here.~
+~
+8 0 1
+0 0 0 0
+1 80 8
+E
+badge~
+A Midgaard tower badge, engraved: CORPORAL VESS, 2ND PATROL.
+~
+#20205
+trident stilthold~
+a Stilthold trident~
+A three-pronged militia trident lies here.~
+~
+5 0 8193
+0 2 6 11
+8 632 63
+#20206
+hammer reeve~
+the Reeve's hammer~
+A heavy shipwright's hammer lies here.~
+~
+5 0 8193
+0 2 6 7
+8 656 65
+A
+18 2
+#20207
+pie eel~
+an eel pie~
+An eel pie sits here.~
+~
+19 0 1
+12 0 0 0
+1 15 1
+#20208
+salve burn jar~
+a jar of burn salve~
+A small jar of salve lies here.~
+~
+10 0 1
+40 15 43 -1
+1 584 58
+#20209
+hide leech~
+a coat of leech hide~
+A slick black coat of leech hide lies here.~
+~
+9 0 9
+12 0 0 0
+10 656 65
+A
+13 30
+#20210
+crown bronze~
+a tarnished bronze crown~
+A crown of tarnished bronze lies here.~
+~
+9 0 17
+7 0 0 0
+10 656 65
+A
+6 2
+A
+20 -2
+#20211
+blade barrow bronze~
+a bronze barrow blade~
+An ancient bronze blade lies here.~
+~
+5 0 8193
+0 2 6 3
+8 656 65
+A
+18 2
+A
+19 1
+#20212
+sword knight fen green~
+a green-bronze knight's sword~
+A knight's sword green with age lies here.~
+~
+5 0 8193
+0 2 6 3
+8 656 65
+#20213
+mail weed~
+weed-hung mail~
+A coat of mail hung with weed lies here.~
+~
+9 0 9
+12 0 0 0
+10 656 65
+#20214
+crown drowned black~
+the Drowned Crown~
+A crown of black iron, always wet, lies here.~
+~
+9 0 17
+7 0 0 0
+10 680 68
+A
+13 35
+A
+4 1
+A
+24 -2
+#20215
+blade tide~
+the Tide Blade~
+A sword that drips water endlessly lies here.~
+~
+5 0 8193
+0 2 7 3
+8 680 68
+A
+18 3
+A
+19 3
+#20216
+pearl ring mere~
+a ring set with a black pearl~
+A ring set with a black pearl lies here.~
+~
+11 0 3
+0 0 0 0
+2 656 65
+A
+12 40
+A
+3 1
+$

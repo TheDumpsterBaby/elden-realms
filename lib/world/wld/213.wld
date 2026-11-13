@@ -1,0 +1,338 @@
+#21300
+The Stair of Glass~
+   Beyond the gate a stair of clear glass climbs into grey nothing. There is
+no ground beneath it, no sky above, only a grey haze in every direction.
+Each step rings like a bell. When you look down through the glass you see
+the realm far below, very small, and darkness spreading east across it.
+~
+213 0 0
+D1
+~
+~
+0 -1 21209
+D4
+~
+~
+0 -1 21301
+D5
+~
+~
+0 -1 21308
+S
+#21301
+The Hall of Reflections~
+   A hall of mirrors with no walls, only mirrors, hanging in the grey. Each
+mirror shows you, but wrong: older, younger, hollowed, kneeling, dead. In
+one you are wearing grey and marching east. The reflections watch you, and
+some of them step out of their frames.
+~
+213 0 0
+D0
+~
+~
+0 -1 21302
+D2
+~
+~
+0 -1 21309
+D3
+~
+~
+0 -1 21303
+D5
+~
+~
+0 -1 21300
+S
+#21302
+The Garden of Lost Things~
+   A garden of grey flowers where everything the West has ever taken lies
+scattered: toys, crowns, letters, wedding rings, a child's drawing of a
+house. They are not real; they are memories, and they fade when you touch
+them. Things that were never made wander among them, collecting.
+~
+213 0 2
+D0
+~
+~
+0 -1 21311
+D2
+~
+~
+0 -1 21301
+D3
+~
+~
+0 -1 21312
+S
+#21303
+Beneath the Broken Sky~
+   You stand on a plain of grey dust beneath a sky that has cracked like a
+plate. Through the cracks you can see something vast and dark moving, very
+far away, like a shape beneath ice. Fragments of the sky fall slowly around
+you, and where they land the ground stops existing.
+~
+213 0 2
+D0
+~
+~
+0 -1 21315
+D1
+~
+~
+0 -1 21301
+D2
+~
+~
+0 -1 21304
+D3
+~
+~
+0 -1 21305
+S
+#21304
+The Field of the Unmade~
+   A field where Nu'Groth tries out shapes before it sends them east. Half-
+formed creatures stand frozen in mid-making: a wolf with a human face, a man
+made of hands, a horse with no head and too many legs. Some of them are
+finished enough to move.
+~
+213 0 2
+D0
+~
+~
+0 -1 21303
+D2
+~
+~
+0 -1 21313
+D3
+~
+~
+0 -1 21314
+S
+#21305
+The Drowning Dark~
+   A darkness so complete it feels like water, pressing on your eyes and
+filling your mouth. You cannot tell up from down. Voices whisper from every
+side, the voices of everyone you have lost, telling you to stop, to rest, to
+let go. It would be so easy.
+~
+213 a 0
+D0
+~
+~
+0 -1 21316
+D1
+~
+~
+0 -1 21303
+D3
+~
+~
+0 -1 21306
+S
+#21306
+Before the Last Door~
+   The darkness ends at a door standing alone in the grey, a plain wooden
+door like the door of any farmhouse in the realm. It is the most frightening
+thing you have ever seen. Before it stands the Keeper of the Threshold, who
+has waited here since before the first kingdom of men.
+~
+213 0 0
+D0
+~
+~
+0 -1 21317
+D1
+~
+~
+0 -1 21305
+D3
+~
+~
+0 -1 21307
+S
+#21307
+Beyond the Door~
+   Through the door is a long corridor of grey stone, perfectly ordinary,
+perfectly silent, leading west. The pressure of Nu'Groth's attention is
+overwhelming now, a weight on your mind like a mountain. At the end of the
+corridor is a light that is not light.
+~
+213 0 0
+D0
+~
+~
+0 -1 21318
+D1
+~
+~
+0 -1 21306
+D2
+~
+~
+0 -1 21319
+D3
+West, the corridor opens onto a radiance that is not light.
+~
+~
+0 -1 21400
+S
+#21308
+Beneath the Stair of Glass~
+   You climb down off the side of the glass stair onto a web of grey threads
+strung across the nothing. Spiders of glass work the web, and in it hang
+things they have caught: birds, souls, a whole regiment still in formation.
+~
+213 0 0
+D4
+~
+~
+0 -1 21300
+S
+#21309
+The Maze of Mirrors~
+   South of the hall of reflections the mirrors close in into a maze where
+every turn shows you another self, each one more wrong than the last. Some
+of them are walking the maze too, and they know the way better than you.
+~
+213 0 0
+D0
+~
+~
+0 -1 21301
+D2
+~
+~
+0 -1 21310
+S
+#21310
+The Shattered Mirror~
+   At the heart of the maze stands a great mirror, shattered, and in every
+shard is the same face: not yours, not anyone's, a face made of all the
+faces the West has taken. It steps out of the frame wearing a crown of
+glass.
+~
+213 0 0
+D0
+~
+~
+0 -1 21309
+S
+#21311
+The House You Grew Up In~
+   North of the garden there is a door, and through it is the house you grew
+up in, exactly as you remember it: the table, the hearth, the smell of
+bread. Someone is standing at the hearth with their back to you, and they
+are wearing your mother's face, and it does not fit.
+~
+213 0 0
+D2
+~
+~
+0 -1 21302
+S
+#21312
+A Battle That Never Happened~
+   West of the garden lies a battlefield of a war that was never fought,
+between kingdoms that were never founded. Nu'Groth dreams it here, over and
+over, and the soldiers in it do not know they are not real. Neither do their
+swords.
+~
+213 0 2
+D1
+~
+~
+0 -1 21302
+S
+#21313
+The Pits of Making~
+   South of the field of the unmade, great pits are dug into the grey dust,
+and in each pit something vast is being made: a titan of stitched flesh and
+grey iron, as tall as a tower, nearly finished. One of them has opened its
+eyes.
+~
+213 0 2
+D0
+~
+~
+0 -1 21304
+S
+#21314
+The Vats of Shape~
+   West of the field of the unmade stand vats of grey matter that has not
+yet decided what it will be. Shapes rise in it and sink again: a hand, a
+wing, a child's face. A tender with too many arms stirs them with long
+poles.
+~
+213 0 0
+D1
+~
+~
+0 -1 21304
+S
+#21315
+Through the Crack in the Sky~
+   You climb a slope of fallen sky-fragments up into a crack in the broken
+sky, and stand on the edge of the world. Beyond the crack there are no
+stars, only the vast dark shape moving, very close now. Something that eats
+stars is feeding at the edge.
+~
+213 0 2
+D2
+~
+~
+0 -1 21303
+S
+#21316
+The Well of Voices~
+   North of the drowning dark a well drops away into the deepest dark of
+all, and out of it rise the voices of every person you have ever known, all
+speaking at once, calling you down. Wraiths circle the well like gulls over
+a wreck.
+~
+213 a 0
+D2
+~
+~
+0 -1 21305
+S
+#21317
+The Keeper's Long Watch~
+   A small bare room north of the door where the Keeper rested, in the ages
+before Nu'Groth came, between those who tried to pass. A chair, a cold lamp,
+a journal on the table. Something of the Keeper is still here, an echo,
+keeping watch.
+~
+213 0 0
+D2
+~
+~
+0 -1 21306
+S
+#21318
+The Grey Cells~
+   A row of cells north of the corridor, where Nu'Groth keeps the heroes it
+means to remake. They hang in the grey light, half themselves and half
+something else, and the finished ones are let out to guard the corridor.
+~
+213 0 0
+D2
+~
+~
+0 -1 21307
+S
+#21319
+The Hall of Listening~
+   South of the corridor is a hall of perfect silence, its walls lined with
+ears, huge and grey and listening. This is how Nu'Groth hears the east.
+Every word spoken in Midgaard comes here.
+~
+213 0 0
+D0
+~
+~
+0 -1 21307
+S
+$

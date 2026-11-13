@@ -1,0 +1,134 @@
+#6000
+trough stone~
+a stone trough~
+A stone trough of brackish water stands by the crossroads.~
+~
+23 0 0
+100 100 0 0
+2 11 1
+#6001
+well~
+the farm well~
+A stone well stands here, its water dark.~
+~
+23 0 0
+100 100 0 0
+2 11 1
+#6002
+pitchfork fork~
+a pitchfork~
+A pitchfork leans against the wall.~
+~
+5 0 8193
+0 1 5 11
+6 20 2
+#6003
+apple~
+a small hard apple~
+A small, hard apple lies in the grass.~
+~
+19 0 1
+3 0 0 0
+1 2 1
+#6004
+soup bowl turnip~
+a bowl of turnip soup~
+A bowl of thin turnip soup sits here.~
+~
+19 0 1
+4 0 0 0
+1 3 1
+#6005
+baton officer~
+an officer's baton~
+A black officer's baton lies here.~
+~
+5 0 8193
+0 1 6 5
+8 60 6
+A
+18 1
+#6006
+spear short~
+a short spear~
+A short spear lies here.~
+~
+5 0 8193
+0 1 6 11
+8 37 3
+#6007
+shortsword sword rusty~
+a rusty shortsword~
+A rusty shortsword lies here.~
+~
+5 0 8193
+0 1 5 3
+8 25 2
+#6008
+hat straw~
+a battered straw hat~
+A battered straw hat lies here.~
+~
+9 0 17
+3 0 0 0
+10 25 2
+#6009
+sickle witch black~
+a black iron sickle~
+A sickle of black iron lies here.~
+~
+5 0 8193
+0 1 6 3
+8 51 5
+A
+19 1
+#6010
+doll straw~
+a straw doll on a cord~
+A small straw doll on a cord lies here.~
+~
+11 0 5
+0 0 0 0
+2 44 4
+E
+doll straw grain~
+A grey grain of wheat is pressed into its head. It is faintly warm.
+~
+A
+4 1
+A
+24 -1
+#6011
+cleaver miller~
+the miller's cleaver~
+A heavy cleaver dusted with grey flour lies here.~
+~
+5 0 8193
+0 1 6 3
+8 51 5
+#6012
+crown rat bone~
+a crown of rat bones~
+A crude crown woven from tiny bones lies here.~
+~
+9 0 17
+4 0 0 0
+10 68 6
+A
+2 1
+A
+13 10
+#6013
+grain grey handful~
+a handful of grey grain~
+A handful of grey grain lies here, stirring faintly.~
+~
+8 0 1
+0 0 0 0
+1 1 1
+E
+grain grey~
+Each grain is soft and warm. Held close to the ear, it seems to whisper. The
+physicians at the Hospice would want to see this.
+~
+$

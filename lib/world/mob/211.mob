@@ -1,0 +1,309 @@
+#21100
+root grasping roots~
+a grasping root~
+A thick root bursts out of the ground and lashes toward you.
+~
+The forest reaching for you. It wants to pull you down into the earth.
+~
+dbf 0 -800 E
+87 0 0 21d10+1532 9d13+30
+2029 272494
+8 8 0
+BareHandAttack: 2
+E
+#21101
+stalker bark~
+a bark stalker~
+A figure of pale bark and sap steps out of a tree trunk.
+~
+Someone the forest absorbed, now sent out to bring more.
+~
+dfg 0 -900 E
+87 0 0 21d10+544 9d6+16
+1521 90838
+8 8 0
+BareHandAttack: 8
+E
+#21102
+fruit swarm screaming~
+a swarm of screaming fruit~
+A cluster of red fruit drops from the branches, splitting open into mouths full of teeth.
+~
+They scream as they bite.
+~
+dfg 0 -800 E
+86 0 0 21d10+536 9d6+16
+1494 88762
+8 8 0
+BareHandAttack: 4
+E
+#21103
+knight weeping silver~
+the Weeping Knight~
+A knight in silver armour, pierced by branches, tears himself free of the tree with a scream.
+~
+A paladin who came west to destroy the forest twenty years ago. It caught
+him and has fed on him ever since. When he fights, the tree fights through
+him.
+~
+dbfl 0 -500 E
+93 0 -1 23d10+5824 10d19+50
+4233 1037890
+8 8 1
+BareHandAttack: 0
+E
+#21104
+ooze sap~
+a sap ooze~
+A mass of red sap rises from the stream and flows toward you.
+~
+It smothers and dissolves.
+~
+dfg 0 -700 E
+87 0 0 21d10+544 9d6+16
+1521 90838
+8 8 0
+BareHandAttack: 6
+E
+#21105
+wolf thorn~
+a thorn wolf~
+A wolf with black thorns growing from its spine rises, snarling.
+~
+The forest's hounds, grown rather than born.
+~
+dfg 0 -800 E
+88 0 -1 22d10+1543 9d13+30
+2066 278794
+8 8 0
+BareHandAttack: 4
+E
+#21106
+thornmother thorn mother~
+the Thornmother~
+A woman of thorns and bark rises from her weaving, thorns bristling.
+~
+Sister to the grey dryad of the Hollow Wood, and far older. She grows the
+forest's soldiers from thorn.
+~
+dbfl 0 -1000 E
+93 0 -1 23d10+5824 10d19+50
+4233 1037890
+8 8 2
+BareHandAttack: 11
+E
+#21107
+maiden weeping banshee~
+a weeping maiden~
+A woman in white lifts her face from her hands, and her weeping becomes a scream.
+~
+She mourns everyone the forest has taken. Her grief can kill.
+~
+dfg 0 -900 E
+89 0 -1 22d10+1561 9d13+31
+2104 285166
+8 8 2
+BareHandAttack: 12
+E
+#21108
+shade whisper~
+a whisper shade~
+A shadow detaches from the bark, whispering your name.
+~
+The forest's voice given shape. It knows what you fear.
+~
+dfg 0 -1000 E
+89 0 -1 22d10+1561 9d13+31
+2104 285166
+8 8 0
+BareHandAttack: 8
+E
+#21109
+horror root~
+a root horror~
+A knot of roots tears itself out of the tunnel wall and lunges.
+~
+Part of the forest's body, defending it.
+~
+dfg 0 -900 E
+89 0 -1 22d10+1561 9d13+31
+2104 285166
+8 8 0
+BareHandAttack: 6
+E
+#21110
+mother weeping tree~
+the Weeping Mother~
+The Weeping Mother stirs, a thousand faces in her bark opening their eyes at once.
+~
+The first grove Nu'Groth reached, ages ago, when the West was still green.
+Everything in this forest grew from her. She weeps without ceasing for what
+she has become, and she will make you part of her.
+~
+dbfl 0 -1000 E
+95 0 -1 23d10+13474 10d28+73
+10220 3249010
+8 8 2
+BareHandAttack: 6
+E
+#21111
+wisp pool light~
+a pool wisp~
+A soft light drifts out of the mist, and behind it, teeth.
+~
+A lure of the forest, leading travellers into the pools.
+~
+dfg 0 -800 E
+87 0 0 21d10+544 9d6+16
+1521 90838
+8 8 0
+BareHandAttack: 12
+E
+#21112
+keeper orchard scarecrow~
+the orchard keeper~
+The orchard keeper turns, a scarecrow of bark and straw with a scythe.
+~
+It tends the orchard and harvests what grows there.
+~
+dbfl 0 -900 E
+88 0 -1 22d10+1543 9d13+30
+2066 278794
+8 8 0
+BareHandAttack: 3
+E
+#21113
+squire bound~
+a tree-bound squire~
+A squire grown into a tree up to his waist levels his spear at you.
+~
+He followed his lord west. He followed him into the forest. He is still
+following.
+~
+dbf 0 -500 E
+88 0 -1 22d10+545 9d6+16
+1550 92938
+8 8 0
+BareHandAttack: 11
+E
+#21114
+banshee lake woman~
+the banshee of the white lake~
+The banshee of the white lake turns, and her lament becomes a scream.
+~
+The first of the weeping maidens, the paladin's bride, who followed him west
+and found him hanging.
+~
+dbfl 0 -1000 E
+93 0 -1 23d10+5824 10d19+50
+4233 1037890
+8 8 2
+BareHandAttack: 12
+E
+#21115
+pup thorn wolf~
+a thorn wolf pup~
+A thorned wolf pup hurls itself at you.
+~
+Small, savage and already spiked.
+~
+dfg 0 -700 E
+86 0 0 21d10+536 9d6+16
+1494 88762
+8 8 0
+BareHandAttack: 4
+E
+#21116
+guardian vein~
+the vein guardian~
+The vein guardian tears itself from the root-heart, a giant of knotted root and sap.
+~
+The forest's heart, defending itself.
+~
+dbfl 0 -900 E
+93 0 -1 23d10+5824 10d19+50
+4233 1037890
+8 8 0
+BareHandAttack: 6
+E
+#21117
+villager absorbed~
+an absorbed villager~
+A villager rises from her table, roots tearing from her back.
+~
+Pulled under with her house, and part of the forest now.
+~
+dfg 0 -700 E
+87 0 0 21d10+544 9d6+16
+1521 90838
+8 8 0
+BareHandAttack: 8
+E
+#21118
+sleeper cocoon~
+a cocoon sleeper~
+A cocoon splits, and a half-wooden thing climbs out.
+~
+Halfway to becoming a tree, and angry to be woken.
+~
+dfg 0 -800 E
+88 0 -1 22d10+545 9d6+16
+1550 92938
+8 8 0
+BareHandAttack: 8
+E
+#21119
+tender cocoon~
+a cocoon tender~
+A many-armed tender stops humming and turns toward you.
+~
+It cares for the sleepers, and it would like to care for you.
+~
+dbfl 0 -900 E
+89 0 -1 22d10+1561 9d13+31
+2104 285166
+8 8 0
+BareHandAttack: 8
+E
+#21120
+horror seed~
+a seed horror~
+Something sprouted from the Mother's seed heaves itself out of a pit.
+~
+A child of the Weeping Mother, grown wrong.
+~
+dfg 0 -1000 E
+89 0 -1 22d10+1561 9d13+31
+2104 285166
+8 8 0
+BareHandAttack: 6
+E
+#21121
+scout bastion~
+a Bastion scout~
+A Bastion scout in black leather draws two curved knives.
+~
+One of the Bastion's eyes, sent to watch the forest for anything coming
+west.
+~
+dfg 0 -1000 E
+89 0 -1 22d10+1561 9d13+31
+2104 285166
+8 8 0
+BareHandAttack: 3
+E
+#21122
+ghost siege soldier~
+a siege ghost~
+A grey soldier looks up from loading an engine that is not there.
+~
+A soldier of the eastern army that came to break the Bastion. He does not
+know he failed.
+~
+dfg 0 -500 E
+89 0 -1 22d10+1561 9d13+31
+2104 285166
+8 8 0
+BareHandAttack: 0
+E
+$

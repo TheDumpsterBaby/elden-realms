@@ -1,0 +1,68 @@
+#203
+Claude~
+The Field of Broken Banners~
+20300 20399 20 2
+M 0 20300 2 20300	carrion_vulture
+M 0 20301 2 20301	risen_soldier
+E 1 20301 60 16	rusted_longsword
+E 1 20302 20 5	rusted_mail
+M 0 20302 1 20301	camp_follower_ghost
+M 0 20303 1 20302	ghost_officer
+G 1 20300 100	battle_plan
+M 0 20304 3 20303	waiting_dead
+M 0 20305 1 20303	surgeon_ghost
+E 1 20303 100 16	ghost_saw
+M 0 20301 3 20304	risen_soldier
+E 1 20301 60 16	rusted_longsword
+E 1 20302 20 5	rusted_mail
+M 0 20306 1 20304	risen_sergeant
+E 1 20304 100 16	sergeant_halberd
+M 0 20307 3 20305	shield_wall_dead
+E 1 20305 30 11	dented_tower_shield
+M 0 20308 2 20306	death_rider
+E 1 20306 70 16	cavalry_lance
+M 0 20300 2 20307	carrion_vulture
+M 0 20309 1 20307	vulture_matriarch
+G 1 20307 100	vulture_cloak
+M 0 20310 2 20308	risen_engineer
+E 1 20308 60 16	engineer_maul
+M 0 20311 1 20309	bone_engineer
+E 1 20308 100 16	engineer_maul
+G 1 20309 100	engineer_lens
+M 0 20310 1 20309	risen_engineer
+E 1 20308 60 16	engineer_maul
+M 0 20312 2 20310	grave_risen
+M 0 20312 3 20311	grave_risen
+M 0 20313 1 20311	roll_caller
+G 1 20310 100	company_roll
+M 0 20314 3 20312	drowned_soldier
+E 1 20301 40 16	rusted_longsword
+M 0 20315 1 20313	ford_guardian
+E 1 20311 100 16	ford_sword
+M 0 20301 2 20314	risen_soldier
+E 1 20301 60 16	rusted_longsword
+E 1 20302 20 5	rusted_mail
+M 0 20316 1 20314	pyre_tender
+E 1 20312 100 16	pyre_hook
+M 0 20317 1 20315	grey_necromancer
+E 1 20313 100 12	skin_robe
+E 1 20314 100 17	raising_wand
+M 0 20301 2 20315	risen_soldier
+E 1 20301 60 16	rusted_longsword
+E 1 20302 20 5	rusted_mail
+M 0 20318 2 20316	dead_knight
+E 1 20315 60 16	honour_blade
+E 1 20302 30 5	rusted_mail
+M 0 20319 1 20317	fallen_marshal
+E 1 20316 100 16	marshals_sword
+E 1 20317 100 5	marshals_plate
+G 1 20318 100	royal_standard
+M 0 20318 2 20317	dead_knight
+E 1 20315 60 16	honour_blade
+E 1 20302 30 5	rusted_mail
+M 0 20300 1 20318	carrion_vulture
+M 0 20301 1 20318	risen_soldier
+E 1 20301 60 16	rusted_longsword
+E 1 20302 20 5	rusted_mail
+S
+$

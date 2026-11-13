@@ -1,0 +1,72 @@
+#208
+Claude~
+The Bone Fields~
+20800 20899 20 2
+M 0 20800 2 20800	bone_soldier
+E 1 20800 60 16	ancient_sword
+E 1 20801 25 11	ancient_shield
+M 0 20800 2 20801	bone_soldier
+E 1 20800 60 16	ancient_sword
+E 1 20801 25 11	ancient_shield
+M 0 20801 1 20801	grave_crawler
+M 0 20802 2 20802	dread_knight
+E 1 20802 80 16	dread_lance
+E 1 20803 20 5	dread_plate
+M 0 20803 1 20803	risen_king
+E 1 20804 100 11	sun_shield
+E 1 20800 100 16	ancient_sword
+M 0 20804 3 20804	charnel_servant
+E 1 20805 70 16	flaying_knife
+M 0 20805 1 20804	bone_hound
+M 0 20806 1 20805	mill_overseer
+E 1 20806 100 16	grey_whip
+M 0 20807 2 20805	hollowed_slave
+M 0 20808 2 20806	bone_horror
+M 0 20800 3 20807	bone_soldier
+E 1 20800 60 16	ancient_sword
+E 1 20801 25 11	ancient_shield
+M 0 20809 1 20807	bone_captain
+E 1 20807 100 16	captain_glaive
+M 0 20810 1 20808	grave_titan
+G 1 20808 100	titan_knuckle
+M 0 20804 1 20808	charnel_servant
+E 1 20805 70 16	flaying_knife
+M 0 20802 2 20809	dread_knight
+E 1 20802 80 16	dread_lance
+E 1 20803 20 5	dread_plate
+M 0 20811 2 20810	bone_weaver
+E 1 20809 100 16	weaver_awl
+M 0 20812 1 20811	weaver_matron
+G 1 20810 100	weaver_shroud
+M 0 20811 1 20811	bone_weaver
+E 1 20809 100 16	weaver_awl
+M 0 20813 2 20812	bone_priest
+E 1 20811 100 16	bone_rod
+M 0 20814 3 20813	ancient_dead
+M 0 20815 2 20814	grave_champion
+E 1 20812 100 16	champion_greatsword
+D 0 20814 3 1
+M 0 20816 1 20815	gravelord
+E 1 20813 100 16	gravelord_scythe
+E 1 20814 100 6	crown_of_kings
+G 1 20815 100	phylactery
+D 0 20815 1 1
+M 0 20800 1 20816	bone_soldier
+E 1 20800 60 16	ancient_sword
+E 1 20801 25 11	ancient_shield
+M 0 20817 3 20817	bone_vulture
+M 0 20818 1 20818	tooth_gatherer
+G 1 20816 30	tooth_necklace
+M 0 20819 2 20819	grave_giant
+M 0 20820 2 20820	catacomb_ghast
+M 0 20821 1 20821	forgotten_king
+G 1 20817 100	forgotten_crown
+M 0 20822 2 20822	skull_sentinel
+M 0 20823 1 20823	bone_necromancer
+G 1 20818 100	necro_staff
+O 0 20819 1 20824	burial_gold
+M 0 20824 1 20824	tomb_guardian
+M 0 20825 3 20825	bone_spider
+G 1 20820 15	bone_silk_cloak
+S
+$

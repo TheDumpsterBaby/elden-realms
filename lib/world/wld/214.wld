@@ -1,0 +1,246 @@
+#21400
+The Antechamber of Light That Is Not Light~
+   The corridor opens into a vast space filled with a grey radiance that has
+no source and casts no shadows. It is cold, and silent, and it goes on
+forever. Figures kneel in rows in the radiance, millions of them, every soul
+the West has ever taken, facing the same way.
+~
+214 0 0
+D0
+~
+~
+0 -1 21405
+D1
+~
+~
+0 -1 21307
+D2
+~
+~
+0 -1 21406
+D3
+~
+~
+0 -1 21401
+S
+#21401
+Among the Kneeling Host~
+   You walk between the kneeling dead. Kings and beggars, soldiers and
+children, the Reaver and the Bandit Lord, faces you passed on the road. They
+do not look at you. They look west, toward the heart of the radiance, where
+something waits that is too large to see.
+~
+214 0 0
+D0
+~
+~
+0 -1 21402
+D1
+~
+~
+0 -1 21400
+D2
+~
+~
+0 -1 21403
+D3
+~
+~
+0 -1 21404
+D4
+~
+~
+0 -1 21411
+D5
+~
+~
+0 -1 21412
+S
+#21402
+The Hall of the Chosen~
+   A hall where Nu'Groth's greatest servants stand on pillars of grey light,
+those who were too valuable to send east: archmages, saints, conquerors,
+every one of them hollowed and remade. They step down from their pillars as
+you enter.
+~
+214 0 0
+D0
+~
+~
+0 -1 21407
+D2
+~
+~
+0 -1 21401
+D3
+~
+~
+0 -1 21408
+S
+#21403
+The Place of Unbecoming~
+   Here the grey radiance thickens into a fog that unmakes whatever it
+touches. Your hand, held out before you, goes faint at the edges. Things
+that were once heroes drift in the fog, half unmade, reaching for you,
+wanting to share what is left of them.
+~
+214 0 0
+D0
+~
+~
+0 -1 21401
+D2
+~
+~
+0 -1 21409
+D3
+~
+~
+0 -1 21410
+S
+#21404
+The Seat of Nu'Groth~
+   At the heart of the radiance there is nothing, and the nothing is aware
+of you. It has a shape only because your mind insists on giving it one: a
+vast dark figure seated on nothing, larger than mountains, closer than your
+own breath. It has no face. It is the source of all evil in the realm, and
+it has noticed you.
+~
+214 0 0
+D0
+~
+~
+0 -1 21413
+D1
+~
+~
+0 -1 21401
+D2
+~
+~
+0 -1 21414
+S
+#21405
+The Hall of Unspoken Names~
+   North of the antechamber a hall of grey stone is carved floor to ceiling
+with names, every name of every soul the West has taken, and Nu'Groth is
+slowly erasing them. Something tall walks the hall with a chisel, and where
+it passes the names are gone.
+~
+214 0 0
+D2
+~
+~
+0 -1 21400
+S
+#21406
+The River of Souls~
+   South of the antechamber runs a river of grey light, and in it drift
+souls, millions of them, carried west. A ferryman poles a boat of bone along
+it, and he will take you across, for a price that is always the same.
+~
+214 0 0
+D0
+~
+~
+0 -1 21400
+S
+#21407
+The Pillar of Saints~
+   North of the hall of the chosen, a pillar of grey light holds the saints
+the West has taken: healers and martyrs, haloes gone grey. The greatest of
+them stands on the pillar's foot, and the light around her head is the grey
+of ash.
+~
+214 0 0
+D2
+~
+~
+0 -1 21402
+S
+#21408
+The Pillar of Conquerors~
+   West of the hall of the chosen, a pillar holds the conquerors: the
+warlords and emperors who thought they could bargain with the West. The last
+and greatest of them steps down with an axe that has broken a hundred
+kingdoms.
+~
+214 0 0
+D1
+~
+~
+0 -1 21402
+S
+#21409
+The Deepest Fog~
+   The fog of unbecoming is thickest here. You can no longer see your own
+hands, and you are not entirely sure you still have them. Shades drift past,
+nearly gone, reaching.
+~
+214 0 0
+D0
+~
+~
+0 -1 21403
+S
+#21410
+Where the First Hero Kneels~
+   West of the fog, alone, kneels the first hero who ever reached the Seat:
+a woman in armour older than any kingdom, her sword across her knees. She
+has knelt here since the world was young. She is not entirely unmade. She is
+not entirely on your side.
+~
+214 0 0
+D1
+~
+~
+0 -1 21403
+S
+#21411
+Above the Kneeling Host~
+   You rise above the host as if the radiance were water, and from here you
+can see them all, row on row to the edge of sight, facing west. Some of them
+look up.
+~
+214 0 0
+D5
+~
+~
+0 -1 21401
+S
+#21412
+Beneath the Host~
+   Beneath the host the radiance goes down into roots of grey light that run
+east, under the Threshold, under the Bastion, under the march, all the way
+to Midgaard. This is how the West spreads. Something guards the roots.
+~
+214 0 0
+D4
+~
+~
+0 -1 21401
+S
+#21413
+The Left Hand of Nu'Groth~
+   North of the Seat the darkness takes the shape of a hand, vast, resting
+on nothing. Its fingers move. It is the hand that takes.
+~
+214 0 0
+D2
+~
+~
+0 -1 21404
+S
+#21414
+The Right Hand of Nu'Groth~
+   South of the Seat the darkness takes the shape of a second hand, open,
+palm up. It is the hand that offers. What it offers is everything you have
+ever wanted, and it is not lying.
+~
+214 0 0
+D0
+~
+~
+0 -1 21404
+S
+$

@@ -1,0 +1,310 @@
+#21000
+crab black~
+a black crab~
+A crab as big as a shield scuttles out of the black sand.
+~
+Its shell is black and its claws could take off a hand.
+~
+dfg 0 -400 E
+81 0 0 20d10+507 9d6+15
+1357 78742
+8 8 0
+BareHandAttack: 8
+E
+#21001
+eel black~
+a black eel~
+A black eel as long as a boat glides past, jaws open.
+~
+Smooth, cold, and very hungry.
+~
+dfg 0 -500 E
+82 0 0 20d10+514 9d6+15
+1384 80698
+8 8 0
+BareHandAttack: 4
+E
+#21002
+sailor drowned~
+a drowned sailor~
+A drowned sailor climbs over the rail toward you.
+~
+Barnacles grow on his face. He still carries his cutlass.
+~
+dfg 0 -900 E
+82 0 0 20d10+514 9d6+15
+1384 80698
+8 8 0
+BareHandAttack: 0
+E
+#21003
+captain galley~
+the galley captain~
+The galley captain rises from his chair in the stern, bloated and white.
+~
+He was carrying the royal family to safety when the kingdom sank. He has
+been sailing nowhere for a hundred years.
+~
+dbfl 0 -1000 E
+88 0 -1 22d10+5522 9d20+47
+3875 929290
+8 8 1
+BareHandAttack: 0
+E
+#21004
+jelly abyssal~
+an abyssal jelly~
+A pale jelly the size of a house drifts up out of the dark, trailing stinging threads.
+~
+Its threads hang down for fathoms, and anything they touch goes numb.
+~
+dfg 0 -500 E
+83 0 0 20d10+1467 9d12+29
+1882 248014
+8 8 0
+BareHandAttack: 1
+E
+#21005
+citizen drowned~
+a drowned citizen~
+A drowned citizen walks the street, hair drifting like weed.
+~
+Going about errands a hundred years old. It does not like to be interrupted.
+~
+dfg 0 -900 E
+82 0 0 20d10+514 9d6+15
+1384 80698
+8 8 0
+BareHandAttack: 8
+E
+#21006
+shark grey~
+a grey shark~
+A grey shark as long as a wagon circles overhead.
+~
+Eyeless and grey. It hunts by the beat of your heart.
+~
+dfg 0 -600 E
+84 0 0 21d10+1480 9d12+29
+1918 254026
+8 8 0
+BareHandAttack: 4
+E
+#21007
+priest tide~
+a tide-priest~
+A tide-priest in robes of kelp chants before the grey spiral.
+~
+They worshipped the sea god. Now they worship what drowned him.
+~
+dfg 0 -1000 E
+84 0 0 21d10+1480 9d12+29
+1918 254026
+8 8 0
+BareHandAttack: 0
+E
+#21008
+kraken grey~
+the grey kraken~
+A vast grey kraken uncoils from the back of the grotto, arms reaching.
+~
+It pulled the kingdom's fleet down one ship at a time. It is still hungry.
+~
+dbfl 0 -900 E
+88 0 -1 22d10+5522 9d20+47
+3875 929290
+8 8 0
+BareHandAttack: 6
+E
+#21009
+knight abyssal~
+an abyssal knight~
+An abyssal knight on a great grey ray levels a coral lance.
+~
+The queen's knights, drowned in their armour, which has grown over with
+black coral.
+~
+dfg 0 -1000 E
+85 0 0 21d10+1497 9d12+29
+1955 260110
+8 8 1
+BareHandAttack: 0
+E
+#21010
+courtier drowned~
+a drowned courtier~
+A drowned courtier in rotted silk turns to stare at you.
+~
+Lords and ladies of a kingdom that ended a hundred years ago, still at
+court.
+~
+dfg 0 -1000 E
+83 0 0 20d10+521 9d6+15
+1411 82678
+8 8 0
+BareHandAttack: 0
+E
+#21011
+chancellor drowned~
+the drowned chancellor~
+The drowned chancellor looks up from a dissolving scroll.
+~
+He reads the petitions of the dead. One of them asks for you.
+~
+dfg 0 -1000 E
+85 0 0 21d10+1497 9d12+29
+1955 260110
+8 8 1
+BareHandAttack: 0
+E
+#21012
+monarch drowned king queen~
+a drowned monarch~
+A drowned monarch rises from an open coffin, crowned and robed.
+~
+A ruler of the kingdom from centuries ago, woken to serve the last queen.
+~
+dfg 0 -1000 E
+85 0 0 21d10+1497 9d12+29
+1955 260110
+8 8 0
+BareHandAttack: 0
+E
+#21013
+guardian pearl~
+the pearl guardian~
+A shape of living water and grey light rises from the great pearl.
+~
+The spirit of the kingdom's heart, poisoned. It will not let anyone near the
+queen.
+~
+dbfl 0 -1000 E
+88 0 -1 22d10+5522 9d20+47
+3875 929290
+8 8 0
+BareHandAttack: 12
+E
+#21014
+queen beneath~
+the Queen Beneath~
+The Queen Beneath rises from her coral throne, her hair a cloud of black weed.
+~
+She drowned her kingdom to save it from the West. The West made her its
+keeper of the black sea, and gave her back her people as drowned things, and
+she has hated it every day for a hundred years while she served it
+perfectly.
+~
+dbfl 0 -1000 E
+90 0 -1 22d10+12779 10d27+69
+9373 2916010
+8 8 2
+BareHandAttack: 0
+E
+#21015
+marine drowned~
+a drowned marine~
+A drowned marine climbs down from the rail of his ship, cutlass in hand.
+~
+A sailor of the drowned fleet, ready for a battle three hundred years late.
+~
+dfg 0 -800 E
+83 0 0 20d10+521 9d6+15
+1411 82678
+8 8 0
+BareHandAttack: 0
+E
+#21016
+admiral drowned~
+the Drowned Admiral~
+The Drowned Admiral lowers his spyglass and draws his sword.
+~
+The admiral who led the kingdom's fleet against the West, and lost it, and
+still commands it.
+~
+dbfl 0 -900 E
+88 0 -1 22d10+5522 9d20+47
+3875 929290
+8 8 0
+BareHandAttack: 0
+E
+#21017
+horror ink~
+an ink horror~
+A cloud of black ink gathers itself into a shape full of written words, and lunges.
+~
+Everything the drowned library ever knew, poured out and made hungry.
+~
+dbfl 0 -900 E
+84 0 0 21d10+1480 9d12+29
+1918 254026
+8 8 0
+BareHandAttack: 12
+E
+#21018
+angler deep~
+a deep angler~
+A light bobs in the darkness, and behind it opens a mouth full of needles.
+~
+A fish of the deep trench, all jaw and lure.
+~
+dfg 0 -500 E
+84 0 0 21d10+1480 9d12+29
+1918 254026
+8 8 0
+BareHandAttack: 4
+E
+#21019
+handmaiden drowned~
+a drowned handmaiden~
+A pale handmaiden steps out of her mirror, comb in hand.
+~
+One of the queen's maids, drowned with her mistress and still serving her.
+~
+dfg 0 -800 E
+84 0 0 21d10+1480 9d12+29
+1918 254026
+8 8 2
+BareHandAttack: 8
+E
+#21020
+strangler kelp~
+a kelp strangler~
+A mass of black kelp wraps around you and pulls.
+~
+The queen's garden, defending itself.
+~
+dfg 0 -500 E
+83 0 0 20d10+521 9d6+15
+1411 82678
+8 8 0
+BareHandAttack: 2
+E
+#21021
+leviathan pearl~
+the pearl leviathan~
+The pearl leviathan uncoils from its hoard, eyes like lamps.
+~
+A sea serpent the length of a ship, grown huge guarding the kingdom's
+treasure.
+~
+dbfl 0 -600 E
+88 0 -1 22d10+5522 9d20+47
+3875 929290
+8 8 0
+BareHandAttack: 4
+E
+#21022
+eels bone swarm~
+a swarm of bone eels~
+A swarm of white eels pours out of the whale's ribs.
+~
+Thousands of eels that live on the whale-fall, and on anything else that
+comes.
+~
+dfg 0 -500 E
+82 0 0 20d10+514 9d6+15
+1384 80698
+8 8 0
+BareHandAttack: 4
+E
+$

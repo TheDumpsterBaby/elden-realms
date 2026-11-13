@@ -1,0 +1,289 @@
+#6100
+refugee~
+a refugee~
+A refugee in mud-caked rags stares at nothing.
+~
+Everything this person owned is gone: home, family, name. All that is left
+is the memory of the darkness coming over the hills.
+~
+dg 0 300 E
+5 19 10 1d10+20 1d2+0
+13 70
+8 8 0
+BareHandAttack: 0
+E
+#6101
+child refugee~
+a refugee child~
+A refugee child plays a silent game with stones.
+~
+Too thin, too quiet. She does not ask you for food; she has learned that
+people do not give it.
+~
+dg 0 600 E
+3 20 10 1d10+16 1d2+0
+6 31
+8 8 0
+BareHandAttack: 0
+E
+#6102
+refugee sick~
+a sick refugee~
+A sick refugee coughs, grey blotches spreading over his skin.
+~
+The greyblight starts as a cough, then a blotch, then fever. The healers
+have no name for what comes after.
+~
+db 0 200 E
+4 19 10 1d10+18 1d2+0
+9 48
+8 8 0
+BareHandAttack: 0
+E
+#6103
+cutpurse thief~
+a cutpurse~
+A cutpurse slips through the crowd, eyeing your belt.
+~
+Quick hands, quick feet, and the conscience of someone who has watched their
+family starve.
+~
+dflg 0 -300 E
+7 19 10 1d10+93 1d5+1
+26 598
+8 8 1
+BareHandAttack: 0
+E
+#6104
+bearer stretcher~
+a stretcher-bearer~
+A stretcher-bearer trudges toward the Hospice.
+~
+Up the hill with the sick, down the hill with the dead, all day, every day.
+~
+dg 0 400 E
+6 19 10 1d10+22 1d2+0
+18 96
+8 8 0
+BareHandAttack: 0
+E
+#6105
+soldier ration~
+a ration soldier~
+A soldier ladles grey broth from a cauldron.
+~
+He hands out the broth without looking at the faces. Looking at the faces is
+how you stop being able to do the job.
+~
+dbm 0 100 E
+9 18 9 2d10+102 1d7+1
+40 982
+8 8 1
+BareHandAttack: 0
+E
+#6106
+thug camp~
+a camp thug~
+A camp thug cracks his knuckles and blocks your way.
+~
+Big, well fed, and paid in other people's food. In a starving camp, that
+makes him a lord.
+~
+dfg 0 -400 E
+9 18 9 2d10+102 1d7+1
+40 982
+8 8 1
+BareHandAttack: 0
+E
+#6107
+trader scrap~
+a scrap trader~
+A scrap trader lays out broken treasures on a blanket.
+~
+She will trade anything for anything. Her prices are robbery, and everyone
+pays them.
+~
+db 0 0 E
+6 19 10 1d10+22 1d2+0
+18 96
+8 8 0
+BareHandAttack: 0
+E
+#6108
+boss gang~
+the gang boss~
+The gang boss counts a pile of rings and does not look up.
+~
+A former quartermaster who stole from the fort until he was thrown out. Now
+he steals from the people the fort threw out, and he is far richer.
+~
+dbl 0 -600 E
+14 17 9 3d10+1095 2d11+6
+204 23530
+8 8 1
+BareHandAttack: 0
+E
+#6109
+warden camp soldier~
+a camp warden~
+A camp warden keeps order at the well with a heavy cudgel.
+~
+She has broken up a dozen fights today. Tomorrow there will be more.
+~
+dbm 0 200 E
+10 18 9 2d10+109 2d4+1
+47 1210
+8 8 2
+BareHandAttack: 0
+E
+#6110
+preacher grey~
+the grey preacher~
+A gaunt preacher in grey howls of surrender from an upturned cart.
+~
+"The wall will fall! The fort will fall! Open your hearts to the West and it
+will spare you!" Spittle flies from his lips. People listen.
+~
+db 0 -700 E
+11 18 9 2d10+306 2d8+3
+74 4366
+8 8 1
+BareHandAttack: 0
+E
+#6111
+acolyte cultist~
+a grey-robed acolyte~
+A grey-robed acolyte hums a falling note under her breath.
+~
+A grey blotch spreads across her cheek. She touches it lovingly, like a
+kiss.
+~
+dg 0 -600 E
+10 18 9 2d10+109 2d4+1
+47 1210
+8 8 0
+BareHandAttack: 0
+E
+#6112
+guard pen~
+a pen guard~
+A pen guard leans on his club, watching the livestock.
+~
+Those goats are all that stands between his village and starvation.
+~
+db 0 100 E
+8 18 9 2d10+95 1d6+1
+33 778
+8 8 1
+BareHandAttack: 0
+E
+#6113
+dog feral~
+a feral dog~
+A feral dog slinks between the pens, ribs showing.
+~
+Somebody's pet once. Now it eats what it can catch, and the burial pits have
+taught it what that can be.
+~
+dfg 0 -100 E
+6 19 10 1d10+87 1d4+1
+21 442
+8 8 0
+BareHandAttack: 4
+E
+#6114
+healer camp~
+the camp healer~
+An exhausted healer moves between the pallets with a bucket and cloth.
+~
+She was a midwife in a village that no longer exists. She has not slept in
+two days.
+~
+db 0 900 E
+10 18 9 2d10+289 2d6+3
+63 3610
+8 8 2
+BareHandAttack: 0
+E
+#6115
+victim greyblight grey~
+a grey-skinned victim~
+A figure grey from head to foot rises from its pallet with open, empty eyes.
+~
+The greyblight's last stage. The person is gone; the body moves, and it is
+hungry, and it faces west whenever it is still.
+~
+dbf 0 -800 E
+11 18 9 2d10+306 2d8+3
+74 4366
+8 8 0
+BareHandAttack: 8
+E
+#6116
+gravedigger digger~
+a gravedigger~
+A gravedigger shovels lime into a trench.
+~
+A rag over his face and dead eyes above it.
+~
+db 0 200 E
+7 19 10 1d10+24 1d2+0
+23 127
+8 8 0
+BareHandAttack: 0
+E
+#6117
+ghoul pit~
+a pit ghoul~
+Something pale crouches in the burial trench, eating.
+~
+It was buried in the first trench. It did not stay buried.
+~
+dfg 0 -900 E
+11 18 9 2d10+306 2d8+3
+74 4366
+8 8 0
+BareHandAttack: 8
+E
+#6118
+singer choir~
+a choir singer~
+A choir singer sways, holding the long falling note.
+~
+His mouth is open in the endless hymn. His eyes have rolled up white.
+~
+db 0 -500 E
+9 18 9 2d10+102 1d7+1
+40 982
+8 8 0
+BareHandAttack: 0
+E
+#6119
+guard cult brute~
+a cult brute~
+A huge cultist in grey sackcloth bars the way, a hooked blade in hand.
+~
+The grey has spread over half his face, and he no longer seems to feel pain.
+~
+dbfl 0 -700 E
+12 17 9 3d10+318 2d8+4
+85 5194
+8 8 1
+BareHandAttack: 0
+E
+#6120
+prophet grey~
+the Grey Prophet~
+The Grey Prophet stands over the whispering pit, arms raised to the West.
+~
+A tall, emaciated man, grey from head to foot except for his eyes, which are
+entirely black. He hears Nu'Groth's voice in the rotting grain, and he has
+promised it the camps, and then the fort.
+~
+dbfl 0 -1000 E
+17 16 8 4d10+2657 2d19+9
+651 104050
+8 8 1
+BareHandAttack: 0
+E
+$

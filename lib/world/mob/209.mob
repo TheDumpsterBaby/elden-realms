@@ -1,0 +1,312 @@
+#20900
+dwarf scout grey~
+a grey dwarf scout~
+A grey dwarf scout crouches behind a rock, crossbow levelled.
+~
+Black-eyed and silent. The clans fell to the West a hundred years ago, and
+their scouts still watch the passes.
+~
+dfg 0 -900 E
+76 1 1 19d10+478 8d6+14
+1225 69322
+8 8 1
+BareHandAttack: 0
+E
+#20901
+horror rock~
+a rock horror~
+A boulder unfolds into a creature of stone and grey iron.
+~
+Born from the living vein, it is stone with a grey iron heart.
+~
+dfg 0 -800 E
+77 1 1 19d10+485 8d6+14
+1251 71158
+8 8 0
+BareHandAttack: 6
+E
+#20902
+wyvern grey~
+a grey wyvern~
+A grey wyvern drops from the cliff, its barbed tail raised.
+~
+Lean and screaming, its sting carries a venom that turns the blood to grey
+sludge.
+~
+dfg 0 -600 E
+78 1 1 19d10+1385 8d13+27
+1704 219034
+8 8 0
+BareHandAttack: 1
+E
+#20903
+wyvern iron~
+the Iron Wyvern~
+A huge wyvern armoured in grey iron rises from its hoard, screaming.
+~
+The West's smiths armoured it with plates bolted to its scales, and it
+guards the pass for them.
+~
+dbfl 0 -800 E
+83 0 0 20d10+5227 9d19+44
+3528 826690
+8 8 0
+BareHandAttack: 1
+E
+#20904
+crawler magma~
+a magma crawler~
+A thing like a centipede made of cooling lava crawls out of a crack.
+~
+It glows red where its plates part.
+~
+dfg 0 -700 E
+78 1 1 19d10+1385 8d13+27
+1704 219034
+8 8 0
+BareHandAttack: 4
+E
+#20905
+dwarf warrior grey~
+a grey dwarf warrior~
+A grey dwarf warrior raises a grey iron axe.
+~
+Clad head to foot in grey iron that whispers. He does not remember his clan
+or his name.
+~
+dfg 0 -1000 E
+78 1 1 19d10+492 8d6+14
+1278 73018
+8 8 1
+BareHandAttack: 0
+E
+#20906
+thane dwarf grey~
+a grey thane~
+A grey thane in a horned helm surveys the hall.
+~
+A lord of one of the fallen clans, still leading his warriors, now for the
+West.
+~
+dfg 0 -1000 E
+80 0 0 20d10+1415 9d11+28
+1774 230410
+8 8 1
+BareHandAttack: 0
+E
+#20907
+smith dwarf grey~
+a grey dwarf smith~
+A grey dwarf smith beats grey iron on an anvil.
+~
+The finest smiths in the world once. Now they make armour for the dead.
+~
+dfg 0 -900 E
+77 1 1 19d10+485 8d6+14
+1251 71158
+8 8 1
+BareHandAttack: 0
+E
+#20908
+golem iron~
+an iron golem~
+An iron golem carries a load of armour, steam hissing from its joints.
+~
+Built by the dwarves to work the forges. The West's iron has given it a
+will, and the will is not kind.
+~
+dfg 0 -500 E
+79 1 1 19d10+1403 8d13+27
+1739 224686
+8 8 0
+BareHandAttack: 7
+E
+#20909
+elemental ore~
+an ore elemental~
+A mass of living grey ore pulls itself out of the vein.
+~
+A piece of the vein itself, whispering.
+~
+dfg 0 -900 E
+79 1 1 19d10+1403 8d13+27
+1739 224686
+8 8 0
+BareHandAttack: 6
+E
+#20910
+golem vault~
+the vault golem~
+An ancient iron golem twice your height stands guard over the treasury.
+~
+It was built to guard the treasury of Durhold before the West came, and it
+still does, against everyone.
+~
+dbfl 0 0 E
+83 0 0 20d10+5227 9d19+44
+3528 826690
+8 8 0
+BareHandAttack: 7
+E
+#20911
+king forge forge-king~
+the Forge-King~
+The Forge-King turns in the heart of his furnace, his beard a river of molten iron.
+~
+Last king of Durhold, who dug too deep and found the living vein, and heard
+the voice in it, and listened. He has become one with his forge, and every
+blade the West carries was born in his hands.
+~
+dbfl 0 -1000 E
+85 0 0 21d10+12085 9d28+65
+8553 2601010
+8 8 1
+BareHandAttack: 7
+E
+#20912
+giant frost grey~
+a grey frost giant~
+A grey frost giant rises from the rocks, lightning crackling in its beard.
+~
+A giant of the peaks, taken by the grey.
+~
+dfg 0 -800 E
+79 1 1 19d10+1403 8d13+27
+1739 224686
+8 8 0
+BareHandAttack: 6
+E
+#20913
+priest sky grey~
+the fallen sky-priest~
+The fallen sky-priest turns from the split altar, eyes white with lightning.
+~
+The last dwarf priest of the old sky. He prays to the West now, and the West
+answers with lightning.
+~
+dbfl 0 -900 E
+79 1 1 19d10+1403 8d13+27
+1739 224686
+8 8 0
+BareHandAttack: 0
+E
+#20914
+horror chasm~
+the chasm horror~
+Something enormous and pale rises from the heap of bodies.
+~
+It has eaten everything that fell for a thousand years, and grown very
+large.
+~
+dbfl 0 -1000 E
+83 0 0 20d10+5227 9d19+44
+3528 826690
+8 8 0
+BareHandAttack: 4
+E
+#20915
+elemental fire~
+a fire elemental~
+A shape of living fire rises from the molten river.
+~
+The mountain's fire, given a shape.
+~
+dfg 0 -500 E
+79 1 1 19d10+1403 8d13+27
+1739 224686
+8 8 0
+BareHandAttack: 12
+E
+#20916
+warden armoury dwarf~
+the armoury warden~
+The grey dwarf armoury warden hefts a shield as tall as he is.
+~
+A grey dwarf veteran set to guard the arms of the legions.
+~
+dbfl 0 -900 E
+80 0 0 20d10+1415 9d11+28
+1774 230410
+8 8 0
+BareHandAttack: 0
+E
+#20917
+golem crystal~
+a crystal golem~
+A dwarf-shaped figure of grey crystal cracks free of the wall and lurches toward you.
+~
+A dwarf grown over by the crystal, and moving still.
+~
+dfg 0 -800 E
+79 1 1 19d10+1403 8d13+27
+1739 224686
+8 8 0
+BareHandAttack: 6
+E
+#20918
+heart mountain spirit~
+the Heart of the Mountain~
+The Heart of the Mountain pulses, and the whole cavern shudders toward you.
+~
+The spirit of the peaks, which the dwarves loved, poisoned by the grey and
+maddened by it. Killing it would be a mercy.
+~
+dbfl 0 -500 E
+83 0 0 20d10+5227 9d19+44
+3528 826690
+8 8 0
+BareHandAttack: 6
+E
+#20919
+driver slave~
+a slave driver~
+A grey dwarf slave driver cracks his whip and comes at you.
+~
+A cruel grey dwarf who works slaves until they hollow.
+~
+dbf 0 -1000 E
+78 1 1 19d10+1385 8d13+27
+1704 219034
+8 8 0
+BareHandAttack: 0
+E
+#20920
+slave chained~
+a chained slave~
+A chained slave stares at you through the bars, too tired to hope.
+~
+A man from the east, taken in a raid. He has forgotten his name.
+~
+db 0 300 E
+70 3 2 17d10+69 1d2+0
+931 11770
+8 8 0
+BareHandAttack: 0
+E
+#20921
+hauler ore hollowed~
+a hollowed ore hauler~
+A hollowed hauler leaves its cart and turns toward you.
+~
+A slave worked hollow, pushing ore for ever.
+~
+dfg 0 -700 E
+77 1 1 19d10+485 8d6+14
+1251 71158
+8 8 0
+BareHandAttack: 13
+E
+#20922
+spirit forge~
+the spirit of the forge~
+The spirit of the forge turns from the anvil, a hammer of fire in its hand.
+~
+The fire that beat the first grey iron, still beating it.
+~
+dbfl 0 -800 E
+83 0 0 20d10+5227 9d19+44
+3528 826690
+8 8 0
+BareHandAttack: 7
+E
+$

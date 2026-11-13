@@ -1,0 +1,357 @@
+#7000
+horror sludge mudmonster monster~
+a sludge horror~
+A sludge horror heaves itself up out of the mud.
+~
+A mound of grey sludge with bones and buttons in it, all that is left of
+what it ate.
+~
+gqr sk -250 S
+12 17 9 4d6+140 2d4+2
+100 13000
+6 8 0
+#7001
+bat cistern~
+a cistern bat~
+A cistern bat flits about your head.
+~
+A grey bat with a nasty bite.
+~
+fgr sk -500 S
+1 20 10 5d2+6 1d2+0
+0 25
+4 8 0
+#7002
+rat sewer grey~
+a grey sewer rat~
+A grey sewer rat scurries along the wall.
+~
+A big rat with grey fur and pale, intelligent eyes.
+~
+f k -1000 S
+5 19 10 1d12+48 1d5+0
+29 581
+8 8 0
+#7003
+spider drain~
+a drain spider~
+A drain spider scuttles across its web.
+~
+A hairy spider as big as your hand.
+~
+f sk -700 S
+1 20 10 1d12+8 1d2+0
+1 27
+8 8 0
+#7004
+beetle tunnel giant~
+a giant tunnel beetle~
+A giant tunnel beetle clicks its mandibles.
+~
+A beetle the size of a dog, armoured in black chitin.
+~
+0 k -300 S
+8 18 9 2d10+98 1d6+1
+67 3750
+4 8 0
+#7005
+maggot corpse~
+a corpse maggot~
+A corpse maggot, fat and white, writhes here.
+~
+A maggot as long as your arm, swollen on the dead.
+~
+qr k 300 S
+3 20 10 2d5+35 1d2+0
+2 125
+8 8 0
+#7006
+adder snake cistern~
+a cistern adder~
+A cistern adder slides through the water.
+~
+A grey snake with a venomous bite.
+~
+af k -500 S
+4 19 10 2d5+40 1d3+0
+1 265
+8 8 0
+#7007
+wanderer lost~
+a lost wanderer~
+A lost wanderer stumbles through the dark, muttering.
+~
+Someone who came down into the drains and could not find the way back up.
+Their mind did not come back either.
+~
+ch f -1000 S
+10 18 9 4d10+100 2d4+1
+95 9500
+8 8 1
+#7008
+homunculus creature~
+a homunculus~
+A homunculus crouches here, watching with tiny eyes.
+~
+A little man-shaped thing of grey flesh, left behind by a mage who came down
+here to experiment.
+~
+nop df -780 S
+11 18 9 6d3+130 2d3+2
+113 11500
+8 8 0
+#7009
+shadow below morkoth~
+a shadow from below~
+A shadow from below drifts over the dark water.
+~
+A thing of darkness that rises from the deep pools. It hungers for warmth.
+~
+afh f -900 S
+10 18 9 1d20+120 2d4+1
+1 9000
+8 8 0
+#7010
+chr-eff'n chreffn~
+the chr-eff'n~
+The chr-eff'n lurks here.
+~
+A twisted thing from the deep tunnels with too many joints.
+~
+ch dks -830 S
+12 17 9 2d26+148 2d4+2
+135 13000
+8 8 0
+#7011
+smuggler~
+a smuggler~
+A smuggler with a sack over his shoulder eyes you warily.
+~
+One of Hesk's crew, who move the fort's stolen stores through the drains and
+sell them back at the east gate.
+~
+dl 0 -200 E
+8 18 9 2d10+95 1d6+1
+33 778
+8 8 0
+BareHandAttack: 0
+E
+#7012
+hesk smuggler captain~
+Hesk the smuggler~
+Hesk the smuggler captain lounges here, a cutlass across his knees.
+~
+A lean, scarred man who has run the drains for ten years. Lately he has been
+taking cargo west, under the wall, and he does not ask who pays him.
+~
+dbl 0 -400 E
+14 17 9 3d10+354 2d10+4
+109 7066
+8 8 0
+BareHandAttack: 0
+E
+#7013
+keeper cistern old~
+the cistern keeper~
+An old cistern keeper sits by the well, staring into it.
+~
+The last of the men who kept the fort's water clean. He cut the well rope
+himself, the day the water turned grey. He says he heard it singing.
+~
+db 0 500 E
+6 19 10 1d10+87 1d4+1
+21 442
+8 8 0
+BareHandAttack: 0
+E
+#7014
+deserter hiding~
+a deserter in hiding~
+A deserter in a filthy tabard cowers in the dark.
+~
+A soldier who ran from the wall and hid down here. If the provost finds him,
+he hangs. He would rather fight you.
+~
+d 0 0 E
+7 19 10 1d10+93 1d5+1
+26 598
+8 8 0
+BareHandAttack: 0
+E
+#7015
+swarm rats grey~
+a grey rat swarm~
+A swarm of grey-furred rats pours along the ledge toward you.
+~
+Hundreds of grey rats moving as one, all with the same pale eyes.
+~
+df 0 -500 E
+10 18 9 2d10+109 2d4+1
+47 1210
+8 8 0
+BareHandAttack: 4
+E
+#7016
+sapper lost~
+a lost sapper~
+A lost sapper sits by a dead lamp, listening to the walls.
+~
+A garrison sapper sent down to find the sound of digging. He found it. He
+has not slept since.
+~
+db 0 400 E
+12 17 9 3d10+118 2d4+2
+63 1738
+8 8 0
+BareHandAttack: 0
+E
+#7017
+cultist grey choir~
+a cultist of the Grey Choir~
+A cultist of the Grey Choir sways here in a grey robe, humming one long note.
+~
+One of the Grey Choir, the cult that came in with the refugees. They meet
+here in the dark under the fort and sing to the West, and the West, they
+say, sings back.
+~
+dfl 0 -800 E
+14 17 9 3d10+132 2d5+2
+81 2362
+8 8 0
+BareHandAttack: 0
+E
+#7018
+cantor grey choir~
+a cantor of the Grey Choir~
+A cantor of the Grey Choir lifts her hands, and the singing in the Abyss rises with her.
+~
+A leader of the Grey Choir under the fort, her eyes gone entirely grey.
+~
+dbfl 0 -900 E
+17 16 8 4d10+400 2d12+5
+148 10414
+8 8 2
+BareHandAttack: 0
+E
+#7019
+sapper hollow~
+a hollow sapper~
+A hollow sapper turns from the rock face, pick in hand, grey eyes empty.
+~
+One of the West's diggers: a dead man in grey, digging toward the wall
+without rest.
+~
+df 0 -1000 E
+18 16 8 4d10+154 2d6+3
+122 3898
+8 8 0
+BareHandAttack: 0
+E
+#7020
+tunnel mother~
+the Tunnel-Mother~
+The Tunnel-Mother rises from the spoil, a bloated grey thing with a hundred digging arms.
+~
+The West sent her to dig, and she births the hollow sappers in the mud of
+the yard. Kill her and the tunnel will stop, for a while.
+~
+dbfl 0 -1000 E
+25 14 7 6d10+1751 3d16+12
+517 75010
+8 8 2
+BareHandAttack: 8
+E
+#7021
+horror tunnel born~
+a tunnel-born horror~
+A pale, eyeless thing crawls out of the dark on too many legs.
+~
+Something that came up the West's tunnel ahead of the diggers.
+~
+df 0 -1000 E
+20 15 8 5d10+448 3d8+7
+193 14410
+8 8 0
+BareHandAttack: 4
+E
+#7040
+wyrm red dragon old~
+the old red wyrm~
+The old red wyrm uncoils across its lair, smoke curling from its jaws.
+~
+A great red dragon that has slept beneath Midgaard for a thousand years. The
+West's tunnelling woke it, and it blames everything that walks.
+~
+befnoq dhkp -1000 S
+19 16 8 5d4+230 2d7+3
+284 32058
+8 8 0
+#7041
+hag cistern sea~
+the cistern hag~
+The cistern hag rises dripping from the pool.
+~
+A drowned crone with weed for hair, who drags swimmers under.
+~
+f k -800 S
+14 17 9 1d8+172 2d5+2
+0 18000
+8 8 2
+#7042
+naga guardian~
+a guardian naga~
+A guardian naga coils in the tunnel, watching.
+~
+A great serpent with a woman's face, set to guard the old kingdom's halls
+long ago, and still guarding them.
+~
+b k 700 S
+12 17 9 1d18+148 2d4+2
+100 13500
+8 8 2
+#7043
+basilisk scaled~
+the scaled basilisk~
+A scaled basilisk turns its terrible gaze on you.
+~
+A heavy lizard whose eyes turn flesh to stone.
+~
+c dfk -250 S
+13 17 9 1d12+160 2d4+2
+150 16000
+8 8 0
+#7044
+lemure blob~
+a lemure~
+A shapeless lemure oozes through the mud.
+~
+A blob of pale flesh that was once something else.
+~
+fnq k -500 S
+5 19 10 3d5+57 1d5+0
+0 704
+8 8 0
+#7045
+gorm ettin jones cruncher~
+Gorm the ettin~
+Gorm the ettin argues with himself, both heads shouting.
+~
+A two-headed giant, old and scarred. His heads have never agreed on anything
+except that intruders are food.
+~
+c k -480 S
+10 18 9 1d5+130 2d4+1
+60 11000
+5 5 1
+#7046
+brag ettin herald~
+Brag the ettin~
+Brag the ettin gnaws on a rat.
+~
+A young ettin, both heads hungry.
+~
+c k +200 S
+6 19 10 3d5+70 1d4+1
+40 1281
+5 5 1
+$

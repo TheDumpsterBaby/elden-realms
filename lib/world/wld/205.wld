@@ -1,0 +1,432 @@
+#20500
+The Path Down the Ridge~
+   A switchback path drops down the western face of the ridge toward the
+river valley. Below you the fortress sits on the near bank, its walls
+scarred and patched, its tower flying a faded banner. Across the river, the
+far bank is one great camp of grey tents and grey shapes.
+~
+205 0 4
+D1
+~
+~
+0 -1 20426
+D5
+~
+~
+0 -1 20501
+S
+#20501
+Before the Fortress~
+   A killing ground of churned earth lies before the fortress gate, studded
+with stakes and ditches. The bones of past assaults are trodden into the
+mud. Archers watch from the walls. The gate opens only when the watch on the
+tower has looked you over through a spyglass.
+~
+205 0 2
+D2
+~
+~
+0 -1 20513
+D3
+~
+~
+0 -1 20502
+D4
+~
+~
+0 -1 20500
+S
+#20502
+The Gate of Fort Lastlight~
+   A gatehouse of black stone, its doors sheathed in iron and dented by
+rams. Burning oil has scorched the walls above it. A sergeant stands in the
+gateway with a ledger, writing down the name of every living soul who comes
+in, because so few of them do.
+~
+205 c 1
+D1
+~
+~
+0 -1 20501
+D3
+~
+~
+0 -1 20503
+S
+#20503
+The Fortress Yard~
+   A crowded yard inside the walls. Soldiers drill, smiths hammer at a field
+forge, and wounded men lie in rows under an awning. Everyone is thin and
+grey-faced and moves like someone who has not slept in a month. A great
+lantern burns on a pole in the centre, never allowed to go out.
+~
+205 c 1
+D0
+~
+~
+0 -1 20505
+D1
+~
+~
+0 -1 20502
+D2
+~
+~
+0 -1 20508
+D3
+~
+~
+0 -1 20509
+D4
+~
+~
+0 -1 20504
+S
+#20504
+The Fortress Wall~
+   The top of the wall, where archers stand shoulder to shoulder behind the
+merlons. Across the river the enemy's campfires burn in their thousands. Now
+and then a stone from a siege engine whistles over and bursts against the
+wall, and the archers duck and come up and shoot again.
+~
+205 c 1
+D5
+~
+~
+0 -1 20503
+S
+#20505
+The Keep~
+   The squat central keep of the fortress, its hall filled with maps and
+messengers. Officers argue in low voices around a table. A board on the wall
+lists the garrison's strength each day, and the number at the bottom has
+been rubbed out and rewritten many times, always smaller.
+~
+205 cd 0
+D2
+~
+~
+0 -1 20503
+D4
+~
+~
+0 -1 20506
+D5
+~
+~
+0 -1 20507
+S
+#20506
+The Commander's Chamber~
+   A cold room at the top of the keep with a single window over the broken
+bridge. The commander of the Last Light sleeps here in his boots, a sword
+across his knees. On the wall hangs a list of every fortress further west
+that has fallen, each name struck through. This one is the last.
+~
+205 cde 0
+D5
+~
+~
+0 -1 20505
+E
+list fortresses names~
+Twelve fortresses, all struck through. At the bottom, not yet struck:
+LASTLIGHT.
+~
+S
+#20507
+The Keep Cellars~
+   Storerooms under the keep, mostly empty. A few sacks of meal, a barrel of
+salt fish, crates of arrows. The quartermaster counts them every morning and
+every evening, and every evening there are fewer, though no one has eaten.
+Rats have come. Grey ones.
+~
+205 cd 0
+D4
+~
+~
+0 -1 20505
+S
+#20508
+The Garrison Chapel~
+   A small chapel built into the fortress wall, its benches always full.
+Soldiers kneel here before every watch on the wall. A priest hears their
+confessions and gives them the last rites in advance, because there may not
+be time afterwards.
+~
+205 cde 0
+D0
+~
+~
+0 -1 20503
+S
+#20509
+The River Wall~
+   The fortress's western wall runs along the river bank, and from it a
+stone ramp leads down to the bridgehead. The bridge was the realm's pride,
+nine great arches across the river. Three of them are gone now, blown up by
+the garrison to stop the West from crossing.
+~
+205 c 1
+D1
+~
+~
+0 -1 20503
+D3
+~
+~
+0 -1 20510
+S
+#20510
+The Bridgehead~
+   A fortified gatehouse guards the eastern end of the bridge. The span runs
+out over the grey river and stops in ragged stone where the arches were
+blown. The enemy has thrown a bridge of bones and timber across the gap, and
+every night they try to cross it.
+~
+205 0 1
+D1
+~
+~
+0 -1 20509
+D3
+~
+~
+0 -1 20511
+S
+#20511
+On the Broken Bridge~
+   You walk out along the old bridge over the churning grey river. Ahead the
+span ends, and a bridge of lashed timber and human bones has been laid
+across the gap to the far arches. It creaks under every step. The water
+below is full of bodies.
+~
+205 0 2
+D1
+~
+~
+0 -1 20510
+D3
+~
+~
+0 -1 20512
+S
+#20512
+The Bone Bridge~
+   Lashed timbers and the long bones of men and horses form a swaying span
+over the gap. Skulls are tied along its edges as handholds. Grey soldiers
+cross it each night to assault the bridgehead, and few of them return. The
+far bank is close now, and loud with drums.
+~
+205 0 2
+D1
+~
+~
+0 -1 20511
+D3
+~
+~
+0 -1 20516
+S
+#20513
+The Eastern Riverbank~
+   A muddy bank south of the fortress, where the garrison once drew water.
+The river here is wide and slow and grey. Bloated bodies drift past in the
+current, soldiers of both sides, and some of them are swimming.
+~
+205 0 2
+D0
+~
+~
+0 -1 20501
+D2
+~
+~
+0 -1 20514
+S
+#20514
+The Old Ferry Landing~
+   A rotting jetty where a ferry once crossed below the bridge. The ferry
+boat lies half sunk at the end of the jetty, its ropes trailing in the
+water. A figure sits in the stern, hooded, holding a pole, waiting for a
+passenger.
+~
+205 0 2
+D0
+~
+~
+0 -1 20513
+D3
+~
+~
+0 -1 20515
+S
+#20515
+Aboard the Sunken Ferry~
+   The ferry lists heavily, grey water sloshing over its deck. The hooded
+ferryman turns to you, and under the hood is a skull with grey fire in its
+eyes. He holds out a bony hand for his fare, and the coin he wants is not
+silver.
+~
+205 0 6
+D1
+~
+~
+0 -1 20514
+S
+#20516
+The Far Bank~
+   You stand on the western bank of the river, in the enemy's country. The
+ground is grey and dead. The West's siege camp spreads out before you: tents
+of grey hide, bone totems, cages, cookfires where things roast that you do
+not look at closely. Drums beat without stopping.
+~
+205 0 2
+D0
+~
+~
+0 -1 20517
+D1
+~
+~
+0 -1 20512
+D2
+~
+~
+0 -1 20520
+D3
+~
+~
+0 -1 20522
+S
+#20517
+The Ruins of Riversmeet~
+   The town of Riversmeet stood on the far bank for five hundred years. Now
+it is rubble and ash, its people hollowed and marched west or roasted on the
+enemy's fires. The enemy uses its houses as barracks. Grey banners hang from
+the old guildhall.
+~
+205 0 1
+D0
+~
+~
+0 -1 20518
+D2
+~
+~
+0 -1 20516
+D3
+~
+~
+0 -1 20519
+S
+#20518
+The Captured Guildhall~
+   The guildhall of Riversmeet has become the headquarters of the siege. Its
+hall is hung with grey banners and the flayed skins of soldiers. Maps of the
+fortress cover the tables, and grey officers bend over them, planning the
+next assault with the patience of the dead.
+~
+205 d 0
+D2
+~
+~
+0 -1 20517
+S
+#20519
+The Prisoner Cages~
+   Rows of cages of bone and iron hold captured soldiers and townsfolk. Some
+are being hollowed by grey-robed priests, one by one; the others watch and
+wait their turn. A few still have the strength to beg you to open the cages.
+Most do not.
+~
+205 0 2
+D1
+~
+~
+0 -1 20517
+S
+#20520
+The Engine Park~
+   Great siege engines stand in a row along the bank: catapults, rams, a
+siege tower of bone and black wood taller than the fortress wall. Hollowed
+slaves haul on their ropes under the whips of grey overseers. The tower is
+nearly finished.
+~
+205 0 2
+D0
+~
+~
+0 -1 20516
+D4
+~
+~
+0 -1 20521
+S
+#20521
+Atop the Siege Tower~
+   You climb the swaying siege tower to its top platform. From here you can
+see over the fortress wall into the yard, and down into the camp where the
+army is massing. When the tower rolls forward, the Last Light will fall
+within a night. It must not roll.
+~
+205 0 0
+D5
+~
+~
+0 -1 20520
+S
+#20522
+The Heart of the Siege Camp~
+   The centre of the enemy camp, where the grey host's champions gather
+around a great fire of bones. Drummers pound skin drums. Dread hounds the
+size of horses lie chained to stakes. At the head of the fire, on a throne
+of shields taken from the dead, sits the commander of the siege.
+~
+205 0 2
+D1
+~
+~
+0 -1 20516
+D3
+~
+~
+0 -1 20523
+S
+#20523
+The Bridgebreaker's Mound~
+   A mound of earth and rubble raised by slaves, from which the siege's
+commander can watch the fortress. A giant figure stands upon it, armoured in
+iron plates bolted to its flesh, a hammer the size of a door across its
+shoulders. It broke the bridge's arches with that hammer, and it will break
+the walls.
+~
+205 0 4
+D1
+~
+~
+0 -1 20522
+D3
+~
+~
+0 -1 20524
+S
+#20524
+The Edge of the Blight~
+   West of the siege camp, the grey ground runs on into a waste where
+nothing grows at all. The sky darkens. The wind carries fine ash that stings
+the eyes. This is where the Blight begins, and beyond this point, no
+fortress of the living has ever stood.
+~
+205 0 2
+D1
+~
+~
+0 -1 20523
+D3
+West, the dead ground gives way to the Ashen Waste.
+~
+~
+0 -1 20600
+S
+$

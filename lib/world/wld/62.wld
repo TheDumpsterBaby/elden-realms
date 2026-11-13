@@ -1,0 +1,346 @@
+#6200
+The Cinder Road~
+   A road paved with cinders and slag runs south from Midgaard's east gate.
+The ground is black and the air tastes of iron. Ahead, chimneys belch smoke
+into a sky that never clears, and the ringing of a hundred hammers never
+stops, day or night.
+~
+62 0 2
+D0
+~
+~
+0 -1 3053
+D2
+~
+~
+0 -1 6201
+S
+#6201
+The Ironworks Gate~
+   A gate of riveted iron plates stands in a wall of blackened brick.
+Soldiers check everyone who enters, and everyone who leaves is searched,
+because every nail and buckle belongs to the war. A board lists the quota:
+FIVE HUNDRED BLADES BY THE NEW MOON.
+~
+62 0 1
+D0
+~
+~
+0 -1 6200
+D2
+~
+~
+0 -1 6202
+S
+#6202
+The Forge Yard~
+   A wide yard of packed cinders between long brick forge-halls. Barrows of
+ore and coal rumble past, pushed by thin men and women in chains. Finished
+blades are stacked in racks to cool, and a wagon is being loaded with them
+for the wall.
+~
+62 0 1
+D0
+~
+~
+0 -1 6201
+D1
+~
+~
+0 -1 6206
+D2
+~
+~
+0 -1 6209
+D3
+~
+~
+0 -1 6203
+S
+#6203
+The Great Forge~
+   A hall of a dozen forges, each with its smith, each with its anvil
+ringing. The heat is a wall that stops your breath. Sparks fly in sheets.
+The smiths work stripped to the waist and burned all over, and none of them
+looks up from the steel.
+~
+62 d 0
+D0
+~
+~
+0 -1 6205
+D1
+~
+~
+0 -1 6202
+D3
+~
+~
+0 -1 6204
+S
+#6204
+The Bellows House~
+   Great leather bellows, each as big as a cart, breathe air into the forges
+through clay pipes. They are worked by conscripts walking in a treadwheel,
+round and round, hour after hour. A man in the wheel stumbles and the
+overseer's whip cracks.
+~
+62 d 0
+D1
+~
+~
+0 -1 6203
+S
+#6205
+The Quenching Pools~
+   Long stone troughs of oily water hiss and steam as glowing steel is
+plunged into them. The water is black and scummed. A tired apprentice fishes
+in it with tongs for a blade someone dropped, and comes up with something
+that is not a blade.
+~
+62 d 0
+D2
+~
+~
+0 -1 6203
+S
+#6206
+The Armoury~
+   Racks of spears, swords, helms and shields fill a long hall, every piece
+stamped with Midgaard's tower. Clerks count and recount them. The armourer
+inspects each item and throws one in five on a pile of rejects; the rejects
+go to the wall anyway.
+~
+62 d 0
+D1
+~
+~
+0 -1 6207
+D2
+~
+~
+0 -1 6208
+D3
+~
+~
+0 -1 6202
+S
+#6207
+The Master Weaponsmith's Workshop~
+   A quieter room with a single forge, where the finest blades are made for
+officers and champions. Tools hang in perfect order. The master weaponsmith
+works slowly, folding steel, and every blade she makes has a name engraved
+on it before it leaves.
+~
+62 d 0
+D3
+~
+~
+0 -1 6206
+S
+#6208
+The Overseer's Office~
+   A brick room with barred windows overlooking the yard. A desk holds the
+quota ledgers and the conscript rolls, with deaths marked in a neat column.
+A whip hangs on the wall beside a portrait of the overseer himself, in a
+uniform he never earned.
+~
+62 d 0
+D0
+~
+~
+0 -1 6206
+E
+rolls ledger deaths~
+Conscript rolls. Name, village, date taken, date died. The second date is
+filled in for nearly half the names.
+~
+S
+#6209
+Slag Lane~
+   A lane between the forge-halls and a mountain of cooling slag that smokes
+and crackles. The heat comes off it in waves. The lane leads south toward
+the conscripts' huts and west toward the coal yard and the mine head.
+~
+62 0 1
+D0
+~
+~
+0 -1 6202
+D1
+~
+~
+0 -1 6210
+D2
+~
+~
+0 -1 6211
+D3
+~
+~
+0 -1 6213
+S
+#6210
+On the Slag Heap~
+   You climb the slope of glassy black slag. It is warm underfoot and in
+places glows dull red beneath the crust. Scavengers pick through it for
+scraps of iron. Near the top something has burrowed into the slag, leaving a
+hole that breathes heat.
+~
+62 0 4
+D3
+~
+~
+0 -1 6209
+S
+#6211
+The Conscripts' Huts~
+   Rows of low turf huts, each holding twenty conscripts in a space for
+five. Refugees from the camps, taken for the work because they were strong
+enough to stand. They sleep in their chains. Some of them never wake, and
+the carts come for those each morning.
+~
+62 0 1
+D0
+~
+~
+0 -1 6209
+D1
+~
+~
+0 -1 6212
+S
+#6212
+Inside a Conscript Hut~
+   Darkness, the smell of unwashed bodies, and quiet voices that stop when
+you enter. Someone has scratched a map of the Ironworks on the turf wall,
+with the guard posts marked and a route out drawn in charcoal. They are
+planning to run, and they are watching to see what you will do.
+~
+62 d 0
+D3
+~
+~
+0 -1 6211
+E
+map wall charcoal~
+A careful map of the Ironworks. The route out runs through the mine, where
+the guards will not go any more.
+~
+S
+#6213
+The Coal Yard~
+   Black hills of coal and charcoal fill a fenced yard, and black dust coats
+everything. Conscripts shovel it into barrows with black faces and black
+hands, coughing black. At the west end of the yard stands the wooden
+headframe of the mine.
+~
+62 0 1
+D1
+~
+~
+0 -1 6209
+D3
+~
+~
+0 -1 6214
+S
+#6214
+The Mine Head~
+   A great wheel of timber turns above the shaft, winding the cage up and
+down on a creaking rope. A ladder runs down beside it. The guards here stand
+well back from the shaft, and a fresh notice is nailed to the headframe: NO
+DESCENT BELOW THE THIRD LEVEL.
+~
+62 0 1
+D1
+~
+~
+0 -1 6213
+D5
+~
+~
+0 -1 6215
+S
+#6215
+The First Level~
+   A gallery cut through dark rock, lit by smoking lamps. Rails run along
+the floor for the ore carts. Picks ring in side tunnels. The rock is warm to
+the touch, much warmer than rock should be this close to the surface.
+~
+62 ad 0
+D1
+~
+~
+0 -1 6216
+D4
+~
+~
+0 -1 6214
+D5
+~
+~
+0 -1 6217
+S
+#6216
+An Abandoned Drift~
+   A side tunnel where the work stopped suddenly: tools dropped, a lamp
+still on its hook, a half-filled cart on the rails. Scorch marks streak the
+walls as though something burning ran along them. There are no bodies, only
+ash in the shape of men.
+~
+62 ad 0
+D3
+~
+~
+0 -1 6215
+S
+#6217
+The Second Level~
+   The heat is oppressive now and sweat runs into your eyes. The rock here
+is veined with red that pulses slowly, like a heartbeat. The miners on this
+level work in silence, quickly, glancing constantly at the shaft that leads
+further down.
+~
+62 ad 0
+D4
+~
+~
+0 -1 6215
+D5
+~
+~
+0 -1 6218
+S
+#6218
+The Third Level~
+   The lowest working level. Beyond a barricade of beams and carts, a
+passage leads on downward, glowing orange. Burned handprints cover the
+barricade. Something on the other side has tried to get through it, and from
+the heat pouring over the top, it is still there.
+~
+62 ad 0
+D4
+~
+~
+0 -1 6217
+D5
+A barricade of charred beams, wedged shut.
+~
+barricade~
+1 -1 6219
+S
+#6219
+The Living Forge~
+   A vast cavern where the rock has melted into lakes of glowing slag. The
+miners broke into it chasing a rich seam of ore, and the seam was the edge
+of something. In the heart of the cavern a shape of molten iron and black
+slag rises from the lake, shedding fire, and turns toward you.
+~
+62 d 0
+D4
+~
+barricade~
+1 -1 6218
+S
+$

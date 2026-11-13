@@ -1,0 +1,161 @@
+#4000
+ring yellow green dwarven~
+a dwarven ring of yellow and green~
+A ring of yellow and green stonework lies here. It looks very old.~
+~
+9 dhq 3
+0 0 0 0
+1 50 20
+E
+ring yellow green dwarven~
+A heavy dwarven ring of gold set with green stone. Inside the band is a name
+in runes, worn too faint to read.
+~
+A
+1 -2
+#4001
+corpse goblin~
+a goblin's corpse~
+The half-rotten corpse of a goblin lies here, giving off a foul odour.~
+~
+15 0 1
+1 0 -1 0
+20 0 500
+#4002
+coins dwarven~
+some old dwarven coins~
+A small pile of old dwarven coins lies on the ground.~
+~
+20 0 1
+500 0 0 0
+0 0 0
+#4050
+potion purple~
+a purple potion~
+A purple potion stands here.~
+~
+10 0 16385
+17 14 36 33
+1 35500 2000
+E
+potion purple~
+A thick purple draught in a stoppered vial, brewed by the invaders from
+something that grows in the deep.
+~
+#4051
+helmet metal dwarven helm~
+a dwarven miner's helmet~
+A dwarven miner's helmet lies here.~
+~
+9 g 17
+-5 0 0 0
+4 3000 100
+E
+helmet metal dwarven helm~
+A close-fitting iron helmet with runes of warding around the brim. It still
+has a faint magic in it.
+~
+A
+24 -2
+A
+23 -2
+#4052
+mushroom pale~
+a pale mushroom~
+A small, pale mushroom grows here.~
+~
+19 0 16385
+2 0 0 1
+1 9 3
+E
+mushroom pale~
+A pale cave mushroom with a grey stem. It would be very unwise to eat it.
+~
+#4053
+dirk~
+a thieves' dirk~
+A beautifully crafted dirk is lying here.~
+~
+5 np 8193
+0 2 4 11
+2 850 500
+E
+dirk~
+A slender dirk of some greyish dwarven alloy, double-edged and very thin. A
+good weapon for a thief.
+~
+A
+18 1
+A
+19 1
+#4100
+blade black demon~
+a black demon blade~
+A black demon blade lies here.~
+~
+5 mjl 8193 
+0 1 9 11
+8 10000 800
+E
+blade black demon~
+A blade of black metal that drinks the light. It was sealed in the dwarves'
+vault for a reason. Whoever wields it will feel the will of the west in
+their hand.
+~
+#4101
+gloves swordsmans swordmans~
+a pair of swordsman's gloves~
+A pair of finely crafted gloves lies on the ground here.~
+~
+9 j 129
+0 0 0 0
+1 3500 800
+E
+gloves swordsmans~
+Stiff leather gloves with steel across the knuckles, dwarf-made and the
+right kind of thing to wear in a fight.
+~
+A
+18 2
+A
+19 1
+#4102
+scroll identify dwarven~
+a dwarven scroll of identification~
+A fragile old scroll covered in dwarven runes lies here.~
+~
+2 0 1
+1 44 -1 -1
+1 1500 10
+E
+scroll identify dwarven~
+A brittle scroll of runes, the kind dwarven assayers used to name the
+properties of strange finds.
+~
+#4103
+slime mould green~
+a green slime mould~
+A green slime mould is here. It stinks beyond belief.~
+~
+19 0 1
+24 0 0 0
+1 20 8
+E
+slime mould~
+It was never meant to be food -- at least, not for anything that walks in
+daylight.
+~
+#4104
+slime mould green~
+a green slime mould~
+A green slime mould is here. It stinks beyond belief.~
+~
+19 0 1
+24 0 0 1
+1 20 8
+E
+slime mould~
+It was never meant to be food -- at least, not for anything that walks in
+daylight.
+~
+$

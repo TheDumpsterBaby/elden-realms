@@ -1,0 +1,798 @@
+#1500
+A Road Leading From The Bank~
+   A small stony road leads up from the bank of the River of Lost Souls,
+whose dark water can be heard just to the south. Sheer cliffs close in on
+either hand. Penitents have tied scraps of cloth to the thorn bushes here,
+one for each sin they mean to lay down, and the bushes are heavy with them.
+To the north a path runs straight as a drawn line into the mountain.
+~
+15 c 4
+D0
+A strange path leads north, perfectly straight, into the mountain.
+~
+~
+0 -1 1501
+D2
+The River of Lost Souls flows just to the south.
+~
+~
+0 -1 5619
+E
+cloth scraps bushes thorn~
+Hundreds of strips of cloth, faded to grey. Some carry names, some a single
+word: theft, cowardice, desertion, murder.
+~
+S
+#1501
+A Long Road~
+   You stand at the start of a long road in a great hollow silence. Your
+first step has been taken freely, which is all the road asks at the start;
+the truth of your heart is not yet told. A small white child stands guard
+here. If you are not ready, turn back south and do not come again until you
+are. The road runs north.
+~
+15 d 0
+D0
+~
+~
+0 -1 1502
+D2
+~
+~
+0 -1 1500
+S
+#1502
+A Long Road~
+   You stop, and find you are shouting in frustration. Of everything you
+regret, surely that one sin could have been avoided. The blows and the hurt
+you gave flash before your eyes, and for a moment the pain is yours. Then it
+passes, and the straight road shows itself again, running north. Behind you
+it runs south to the river.
+~
+15 d 0
+D2
+~
+~
+0 -1 1501
+D0
+~
+~
+0 -1 1503
+S
+#1503
+A Long Road~
+   The road clears, and the fog and ache of the first steps fall behind you.
+Yet your mind is still haunted by one picture: an old woman kneeling at a
+shrine, her eyes closing, smiling and weeping at once, saying a name you
+know. The road runs north, and back south.
+~
+15 d 0
+D0
+~
+~
+0 -1 1504
+D2
+~
+~
+0 -1 1502
+S
+#1504
+A Long Road~
+   Ahead the road comes to an end against the mountainside. Something in the
+cold of the wind tells you the end of the road is only the beginning of the
+journey. Small stones have been piled at the roadside by those who came
+before, one cairn for every pilgrim who turned back south from here. The
+road goes on north.
+~
+15 d 0
+D0
+~
+~
+0 -1 1505
+D2
+~
+~
+0 -1 1503
+E
+stones cairn cairns~
+There are a great many cairns. Some of the stones have been scratched with
+the badge of a Midgaard regiment.
+~
+S
+#1505
+A Test for the Faithful~
+   Here the road parts and the first choice must be made. A stair climbs up
+toward a pale light; another goes down into darkness. Only the depths of
+your own soul can choose between them, but the Watchers of the Road say this
+much: the same truth waits at the end of both, and the Weigher waits behind
+the truth.
+~
+15 d 0
+D4
+~
+~
+0 -1 1507
+D5
+~
+~
+0 -1 1506
+S
+#1506
+Halls of the Forgotten~
+   Even the darkest have a place on the road to the truth. It is in these
+empty halls, long forgotten by the living, that the Weigher has gathered the
+worst of men to look upon them one last time. Passages lead east and west
+into the dark, and the stair climbs back up to the parting of the ways.
+~
+15 d 0
+D1
+~
+~
+0 -1 1513
+D3
+~
+~
+0 -1 1508
+D4
+~
+~
+0 -1 1505
+S
+#1507
+The Pilgrim's Vow~
+   Words are cut into the rock here in a flowing hand, the vow that Oswen
+the First Pilgrim made at this spot: to walk straight though the road is
+hard, to carry the light though it burns the hand, and to answer for all he
+carried when he came to be weighed. Every penitent says it aloud before
+going on, and after it, everything carried this far seems light. Ways lead
+east and west, and a stair goes down.
+~
+15 d 0
+D1
+~
+~
+0 -1 1523
+D3
+~
+~
+0 -1 1518
+D5
+~
+~
+0 -1 1505
+E
+words rock vow~
+"I will walk straight though the road is hard. I will carry the light though
+it burns. I will answer for what I carry." Beneath it, thousands of pilgrims
+have cut their marks.
+~
+S
+#1508
+Earthly Evil~
+   Whatever it holds, rage makes a weapon of it. Wrath arms everyone. When
+an angry man thirsts for blood anything at all will serve him for a spear,
+and fury turns a stick into a cudgel. The floor is littered with such
+things: sticks, stones, a broken bottle, a cook's knife. The way leads
+north, and east back to the halls.
+~
+15 ad 0
+D0
+~
+~
+0 -1 1509
+D1
+~
+~
+0 -1 1506
+E
+sticks stones bottle knife~
+Ordinary things, each with a dark stain at one end.
+~
+S
+#1509
+Misguidance~
+   Some are brought here not for what they did but for what they failed to
+do: those who were shown the plain truth and turned it away with a clear
+mind. Of all who suffer on the road they deserve the most pity. A king in a
+crown of weed is here, dripping water that never stops. The way goes north
+and south.
+~
+15 ad 0
+D2
+~
+~
+0 -1 1508
+D0
+~
+~
+0 -1 1510
+S
+#1510
+Temptation~
+   The old tale says that the Tempter came to Oswen the First Pilgrim in the
+hills and offered him a kingdom, great riches, and a glorious death from
+which the Watchers would catch him up. Even Oswen had to stop and think
+before he answered. Consider how much harder it is for the rest of us. The
+way runs north and south.
+~
+15 ad 0
+D0
+~
+~
+0 -1 1511
+D2
+~
+~
+0 -1 1509
+S
+#1511
+Hypocrisy~
+   Prince Oduran called his people to strict purity. He set the hours of
+prayer and punished every slip in the words of the vow, and he set the best
+example of all, shunning riches and riding through his capital in rags on a
+lame mule. But remember this: behind closed doors, all men are hypocrites.
+The way runs north and south.
+~
+15 ad 0
+D0
+~
+~
+0 -1 1512
+D2
+~
+~
+0 -1 1510
+S
+#1512
+Hate~
+   Nothing in life is easier than hate, and nothing is a quicker road to
+ruin. You give thanks that these trials are nearly done, but your words are
+drowned by a hoarse shouting that fills your ears with anger: a single
+phrase, over and over, "They took it from us. Burn them, and it will come
+back." The way runs north and south.
+~
+15 ad 0
+D2
+~
+~
+0 -1 1511
+D0
+~
+~
+0 -1 1528
+S
+#1513
+Spiritual Danger~
+   Some evils are plain and solid, so open that they spit in your face.
+Others are clever and quiet, and those are the most dangerous. Looking north
+down the hall, a great fear fills you, and with it a great, heavy longing.
+The way back to the halls lies west.
+~
+15 ad 0
+D0
+~
+~
+0 -1 1514
+D3
+~
+~
+0 -1 1506
+S
+#1514
+The Fall~
+   In the beginning Sefhra was the first and fairest of the Watchers of the
+Road. When the Weigher set the scales upon the road, every Watcher bowed and
+laid a hand on them to be weighed first. Sefhra would not; nothing so fair,
+he said, could be found wanting. Look at your own beauty, pilgrim, and do
+what he could not: put it on the scales. The hall runs north and south.
+~
+15 ad 0
+D2
+~
+~
+0 -1 1513
+D0
+~
+~
+0 -1 1515
+S
+#1515
+Temptation~
+   Temptation is the IF: the wondering, the second guess, the "I will be a
+better man... if...". And the if is usually taken alone, in the dark,
+listening to a voice at your shoulder offering such an easy road, and such a
+crooked one. Some pilgrims say the voice sounds like the wind out of the
+west. The hall runs north and south.
+~
+15 ad 0
+D0
+~
+~
+0 -1 1516
+D2
+~
+~
+0 -1 1514
+S
+#1516
+The Last Day~
+   The din of a great battle shakes these halls, and the earth groans at the
+shaking of the last day, when the Weigher's scales come down for the final
+time. Be ready for that day, very ready, for if you are not, the Tempter
+will claim you for his own. A violet shape coils in the smoke. The hall runs
+north and south.
+~
+15 ad 0
+D2
+~
+~
+0 -1 1515
+D0
+~
+~
+0 -1 1517
+S
+#1517
+Flame~
+   Horror past describing, a blackness broken only by burning. The fire here
+does not come from wood or molten rock but from the souls themselves, the
+brightness and pain of the tormented crowding close on every side. Through
+it the way runs north toward the last trials, and back south.
+~
+15 ad 0
+D0
+~
+~
+0 -1 1530
+D2
+~
+~
+0 -1 1516
+S
+#1518
+Earthly Light~
+   Slipping into evil is easy; walking this way is the hardest thing of all.
+Even the four you will meet ahead strayed from the line at least once, and
+there are still some who curse their names. Confront them all the same, and
+let what they did be your example. The way runs north, and east back to the
+vow.
+~
+15 d 0
+D0
+~
+~
+0 -1 1519
+D1
+~
+~
+0 -1 1507
+S
+#1519
+The Light of the Stewards~
+   Many believed Oswen the First Pilgrim could never die, but when they
+stood over his body they saw they must keep the road without him. The four
+who came after are called the Stewards, the rightly-guided, who carried his
+lantern and his word and built the great pilgrim houses of the old east. The
+way runs north and south.
+~
+15 d 0
+D0
+~
+~
+0 -1 1520
+D2
+~
+~
+0 -1 1518
+S
+#1520
+The Light of the Stewards~
+   Each Steward was chosen by a council of elders, every one of whom hoped
+to rule the road alone and so voted for the man he thought weakest. Each
+time, they were wrong. Each Steward was nobler and more upright than the one
+before. A tall, plain man waits here, unwilling to fight. The way runs north
+and south.
+~
+15 d 0
+D0
+~
+~
+0 -1 1521
+D2
+~
+~
+0 -1 1519
+S
+#1521
+The Light of the Stewards~
+   Every bright and happy tale ends too soon, and so it was with the age of
+the Stewards. They were good men and true to the road, but their followers
+began to quarrel over who should hold the lantern, and war between brothers
+gathered on the horizon. The way runs north and south.
+~
+15 d 0
+D2
+~
+~
+0 -1 1520
+D0
+~
+~
+0 -1 1522
+S
+#1522
+The Light of the Stewards~
+   The end of the Stewards was the beginning of the Schism. The memory of
+Oswen and the example of the four were not enough for the faithful. Edrin,
+the last Steward, was killed at the river crossing, and some say the
+stewardship died with him, a martyr whose blood still runs in the nameless
+river. The way runs north and south.
+~
+15 d 0
+D0
+~
+~
+0 -1 1531
+D2
+~
+~
+0 -1 1521
+S
+#1523
+Spiritual Reward~
+   The Weigher is generous and would not leave those who walk the way of
+light without a guide. So the road was given its Pilgrim-Saints, and in the
+story of their growing, from cradle to grave and beyond, each pilgrim may
+find the truth of their own. The way runs north, and west back to the vow.
+~
+15 d 0
+D0
+~
+~
+0 -1 1524
+D3
+~
+~
+0 -1 1507
+S
+#1524
+Creation~
+   Every dawn on the road is a small making. The pilgrims say the Weigher
+made the world in a single breath and left the road running through it like
+a thread through cloth, so that anything made could find its way home. An
+infant sleeps here in a nest of blankets, newly made and not yet lost. The
+way runs north and south.
+~
+15 d 0
+D0
+~
+~
+0 -1 1525
+D2
+~
+~
+0 -1 1523
+S
+#1525
+Revelation~
+   The boy who would be the first of the Pilgrim-Saints was lame, and the
+other children laughed at him. Corrith the Herald found him by the river and
+set a lantern in his hands, and told him the road would carry him as far as
+he would carry the light. He walked from that day on. The way runs north and
+south.
+~
+15 d 0
+D2
+~
+~
+0 -1 1524
+D0
+~
+~
+0 -1 1526
+S
+#1526
+Conversion~
+   Here the man turned from the road he had walked all his life. He gave his
+house to his brother and his sword to the river, and went on with nothing
+but the lantern. It is not hard to turn, the saints say; it is hard to stay
+turned. A man kneels here in a worn robe, at peace. The way runs north and
+south.
+~
+15 d 0
+D0
+~
+~
+0 -1 1527
+D2
+~
+~
+0 -1 1525
+S
+#1527
+Deliverance~
+   The balance has been struck, the soul made ready, and the final weighing
+taken. For those who have come this far, surely this is the first day of
+forever. The air is full of warmth and the smell of gardens, though no
+garden grows here. The way runs north and south.
+~
+15 d 0
+D0
+~
+~
+0 -1 1533
+D2
+~
+~
+0 -1 1526
+S
+#1528
+Repentance~
+   Sorrow freely given is weighed lightly. But the Watchers of the Road say
+there is one sorrow that counts for nothing: the sorrow of a man who does
+evil all his life, knowing it, and weeps only when the grave opens at his
+feet. For him the road is long and very cold. A Watcher in black stands at
+the stair going up; the way also leads east, and south.
+~
+15 ad 0
+D4
+~
+~
+0 -1 1534
+D1
+~
+~
+0 -1 1529
+D2
+~
+~
+0 -1 1512
+S
+#1529
+Pilgrimage~
+   It is asked of every soul to walk this road once in its life, if it is
+able. For those who have lived the lesser evils, walking it with an open and
+sorrowful heart lays down all they carry. The scraps of cloth by the river
+are all that is left of a thousand such burdens. A stair climbs up, and ways
+lead east and west.
+~
+15 ad 0
+D4
+~
+~
+0 -1 1535
+D1
+~
+~
+0 -1 1530
+D3
+~
+~
+0 -1 1528
+S
+#1530
+Intercession~
+   It is written on the road that no one may plead before the Weigher for
+another. No prayer said for him can save a doomed man; his only hope is the
+prayer of his own mouth. A Watcher with a great shield waits here, and will
+not move aside for any prayer but yours. Ways lead up, south and west.
+~
+15 ad 0
+D4
+~
+~
+0 -1 1536
+D2
+~
+~
+0 -1 1517
+D3
+~
+~
+0 -1 1529
+S
+#1531
+The Upper Reaches~
+   You have walked the way of light, and faced the examples of the Stewards
+who kept Oswen's road. Only the last journey is left; live as they lived,
+and you will live forever. The air is thin and very clear. The way runs
+east, back south, and down.
+~
+15 d 0
+D2
+~
+~
+0 -1 1522
+D1
+~
+~
+0 -1 1532
+D5
+~
+~
+0 -1 1534
+S
+#1532
+The Upper Reaches~
+   Up here a great book lies open on a stone, and the wind turns its pages:
+the Weigher's record, with every deed of every pilgrim written in it. No
+hand holds the pen, but the writing goes on. You catch sight of your own
+name and look away. The way runs east and west, and a stair leads down.
+~
+15 d 0
+D1
+~
+~
+0 -1 1533
+D3
+~
+~
+0 -1 1531
+D5
+~
+~
+0 -1 1535
+S
+#1533
+The Upper Reaches~
+   You have walked the way of light, and your journey has followed the
+growing of the most perfect soul. Only one road is left; die as the one in
+the room before you died, and your death will mean nothing. A Watcher
+holding scales waits here. The way runs west, back south, and down.
+~
+15 d 0
+D2
+~
+~
+0 -1 1527
+D3
+~
+~
+0 -1 1532
+D5
+~
+~
+0 -1 1536
+S
+#1534
+The Final Facing~
+   The western end of a long bare gallery where the two halves of the road
+meet again. The last of the darkness lies below you, and the last of the
+light above; only the straight road remains. Go on with a clean heart. The
+gallery runs east; stairs lead both up and down.
+~
+15 cd 0
+D1
+~
+~
+0 -1 1535
+D4
+~
+~
+0 -1 1531
+D5
+~
+~
+0 -1 1528
+S
+#1535
+The Final Facing~
+   The middle of the gallery of the Final Facing. Here every pilgrim must
+turn and look at all they have been, the dark below and the bright above,
+and own both. Only the penitent find what they seek. The straight road goes
+on north; the gallery runs east and west, and stairs go up and down.
+~
+15 cd 0
+D0
+~
+~
+0 -1 1537
+D3
+~
+~
+0 -1 1534
+D1
+~
+~
+0 -1 1536
+D4
+~
+~
+0 -1 1532
+D5
+~
+~
+0 -1 1529
+S
+#1536
+The Final Facing~
+   The eastern end of the gallery. Pilgrims have scratched their names into
+the walls here, and some have scratched them out again. The last of the
+darkness lies behind you, and the gallery runs back west toward the straight
+road. Stairs climb up and go down.
+~
+15 cd 0
+D3
+~
+~
+0 -1 1535
+D4
+~
+~
+0 -1 1533
+D5
+~
+~
+0 -1 1530
+E
+names walls~
+Thousands of names, some struck through by the same hand that wrote them.
+One reads only: "Not yet."
+~
+S
+#1537
+A Straight Path~
+   "Keeper of the Scales, be patient with us. We are crooked, and the road
+is straight. Hold up the lantern a little longer, and we will come." So the
+pilgrims sing as they reach this place, and their voices still hang in the
+air. The road runs straight ahead to the north, and the gallery lies south.
+~
+15 d 0
+D2
+~
+~
+0 -1 1535
+D0
+~
+~
+0 -1 1538
+S
+#1538
+Progression~
+   Each step now asks a little more of you, and gives a little more back.
+The pilgrims say the Weigher never tires of making, and will make a man
+again as often as he falls, so long as he gets up facing the right way. The
+road runs north and south.
+~
+15 d 0
+D0
+~
+~
+0 -1 1539
+D2
+~
+~
+0 -1 1537
+S
+#1539
+Judgment~
+   Without doubt the shortest road is the straightest one. Only one step is
+left before the final choice is made and a home given you for all time. A
+mocking wisp flits here to make you doubt it. The road goes north, and back
+south.
+~
+15 d 0
+D0
+~
+~
+0 -1 1540
+D2
+~
+~
+0 -1 1538
+S
+#1540
+The Utmost Throne~
+   You have come at last to the seat of the Weigher. A clarity like crystal
+has been given to your sight; seven guardians stand about the edge of the
+throne, and everything is bathed in a warm, clean light. Here the last
+choice is made, and nothing you do in defiance can change what is weighed.
+The road lies back south.
+~
+15 d 0
+D2
+~
+~
+0 -1 1539
+S
+$
